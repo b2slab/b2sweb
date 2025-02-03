@@ -6,12 +6,12 @@ website:
   title: "b2slab"
   image: "b2slab.png"
   favicon: "favicon.png"
-  google-analytics: "TBD"
+  google-analytics: "G-0MLZX4BR2N"
   open-graph: true
   twitter-card: true
   site-url: https://b2slab.upc.edu
-  repo-url: https://github.com/albcn/b2sweb
-  issue-url: https://github.com/albcn/b2sweb/issues/new/choose 
+  repo-url: https://github.com/b2slab/b2sweb
+  issue-url: https://github.com/b2slab/b2sweb/issues/new/choose 
   description: "Bioinformatics and Biomedical Signals Labotaory"
   repo-actions: [edit, issue]
   page-navigation: true
