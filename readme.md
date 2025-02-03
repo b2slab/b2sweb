@@ -10,7 +10,7 @@ Guys and girls, an important note:
 - This is required as the new website will pull everyone of us from the linked google spreadsheet. You can see the tests if this on the deployed new site at [http://b2slab.upc.edu](http://b2slab.upc.edu).
 Some random notes about the website:
 - Now the website pulls the team info from the linked  google spreadsheet
-- It also pulls the publications list from [futur.uypce.d](https://futur.upc.edu/B2SLab))](https://futur.upc.edu/B2SLab). Remember you need to add all your production to [drac](https://drac.upc.edu/) so it is uploaded there.
+- It also pulls the publications list from [futur.upc.edu](https://futur.upc.edu/B2SLab). Remember you need to add all your production to [drac](https://drac.upc.edu/) so it is uploaded there.
 - We will all  need to create personal websites. 
 - The website is coded with [quarto](https://quarto.org). This means that is essentially build with markdown. You can create a quarto document within Rstudio with your personal website and add it to the ~web-and-comms  channel.  Please join all that channel as we will coordinate the content on there and release this one. I will upload at some point a nice template for a personal site.  
 
