@@ -1,0 +1,21 @@
+---
+title: "A Talk At FarmaIndustria By Dr. Caminal (Spanish)"
+description: "VI Conferencia Anual de las Plataformas Tecnológicas de Investigación Biomédica:"
+author: "Pere caminal"
+date: "29/04/2014"
+date-modified: "29/04/2014"
+---
+
+::: {style="padding:56.25% 0 0 0;position:relative;"}
+<iframe src="https://player.vimeo.com/video/64126929?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Pere Caminal (CREB-UPC);">
+
+</iframe>
+:::
+
+```{=html}
+<script src="https://player.vimeo.com/api/player.js"></script>
+```
+
+[This video shows a talk by Pere Caminal (CREB-UPC);](http://vimeo.com/64126929) at [FARMAINDUSTRIA](http://vimeo.com/user3535259)  (provided by [Vimeo)](https://vimeo.com/), at VI Conferencia Anual de las Plataformas Tecnológicas de Investigación Biomédica: Medicamentos Innovadores, Nanomedicina Tecnología Sanitaria y Mercados Biotecnológicos Fomentando la Innovación en Salud. Madrid, 20 y 21 de Marzo de 2013
+
+[Caminal](http://b2slab.upc.edu/tag/caminal/), [FarmaIndustria](http://b2slab.upc.edu/tag/farmaindustria/), [talk](http://b2slab.upc.edu/tag/talk/)

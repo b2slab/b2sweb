@@ -1,0 +1,36 @@
+---
+title: "Current Team"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+```{r, include=FALSE}
+cache_file <- "../doi_cache.json"
+
+source("functions.R")
+```
+
+## Staff
+
+```{r}
+#| output: asis
+CreateTeamSet("Staff")
+```
+
+## PhD Students
+
+```{r}
+#| output: asis
+CreateTeamSet("PhD Student")
+```
+
+## Students working in a Master thesis or degree thesis at b2slab
+
+```{r}
+#| output: asis
+
+CreateTeamSet("Master thesis / degree thesis")
+```

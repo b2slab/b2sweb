@@ -1,0 +1,28 @@
+---
+title: "Visiting Fellows"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+```{r, include=FALSE}
+cache_file <- "../doi_cache.json"
+
+source("functions.R")
+```
+
+## Current
+
+```{r}
+#| output: asis
+CreateTeamSet("Visiting Fellow")
+```
+
+## Former Visiting Fellows
+
+```{r}
+#| output: asis
+CreateTeamSet("Former Visiting Fellow")
+```

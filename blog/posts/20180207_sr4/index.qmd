@@ -1,0 +1,25 @@
+---
+title: "B2SLab Takes Part In Share4Rare, A European Project Focused On Rare Pediatric Diseases"
+description: "Education, Sharing and Research"
+author: "Alexandre Perera"
+date: "07/02/2018"
+date-modified: "09/02/2018"
+---
+
+# MAIT
+
+::: img-float
+![](img.jpeg){style="float: left; margin: 5px; width: 300px;"}
+:::
+
+**Share4Rare (S4R)** is a project funded by the European Commission that aims for a collective awareness platform of patients, caregivers, researchers and other stakeholders involved in **Rare Diseases** towards improving quality of life, disease management and collection of scientific knowledge and data on Rare Diseases.
+
+The platform will be built around three important pillars: Education, Sharing and Research. It is based on the expertise of the coordinator managing a previous project: Rare Commons (RC). This is a platform that currently includes 9 different diseases. RC has demonstrated that the collective intelligence coming from parents of children with rare diseases is needed to increase the current knowledge available. A broad sample from the patient community has been identified, in several cases with a higher number of patients compared with previous initiatives.
+
+S4R is proposing dealing with two important challenges that will improve the previous experience with the RC project: to increase the power of the users of the platform, developing a platform based on a bottom-up model with a patient-centered design, and to promote synergy by grouping diseases that share common features, instead of individual diseases.
+
+Seven European institutions or associations participate in this project under the coordination of Sant Joan de Déu Foundation. The Universitat Politècnica de Catalunya is one of these partners through B2SLab’s participation.
+
+The voice of the patients is at the heart of the project. Two relevant patient organizations are part of the consortium: The World Duchenne Organization (UPPMD) and the Melanoma Patient Network Europe (MPNE). Other members of the consortium are focused on other important areas of expertise: technology developers (Omada Interactiva), biostatistics (Universitat Politècnica de Catalunya), social innovation (The Synergist), clinical background in neuromuscular disorders (Newcastle University) and socioeconomic impact (Asserta).
+
+The launch meeting of the project was held in Barcelona on the 11th and 12th of January. During the next year, centered on the development of the platform, several activities are scheduled to ensure that the voice of the patient is included from the outset. The platform will be accessible for the users at the beginning of 2019 and is going to be piloted with two specific groups of diseases: neuromuscular disorders and paediatric rare tumors.
