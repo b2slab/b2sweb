@@ -23,7 +23,7 @@ At B2SLab, we integrate Data Science, Bioinformatics, and Bioengineering. My mai
 ## Social Networks
 
 - Find me on my profile on
-  - <a href="https://social.iris.upc.edu/@alexperera" rel="me">Mastodon</a>
+  - <a rel="me" href="https://social.iris.upc.edu/@alexperera">Mastodon</a>
   - <a href="https://bsky.app/profile/alexperera.social.iris.upc.edu.ap.brid.gy">Blue Sky</a> 
 - No, we do not use X nor twitter, and we will not use it for the time being
 
