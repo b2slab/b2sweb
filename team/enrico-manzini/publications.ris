@@ -1,0 +1,49 @@
+TY - MGZN
+DO - 10.1016/j.eswa.2022.117446
+TI - Mapping layperson medical terminology into the Human Phenotype Ontology using neural machine translation models
+AB - In the medical domain there exists a terminological gap between patients and caregivers and the healthcare professionals. This gap may hinder the success of the communication between healthcare consumers and professionals in the field, with negative emotional and clinical consequences. In this work, we build a machine learning-based tool for the automatic translation between the terminology used by laypeople and that of the Human Phenotype Ontology (HPO). HPO is a structured vocabulary of phenotypic abnormalities found in human disease. Our method uses a vector space to represent an HPO-specific embedding as the output space for a neural network model trained on vector representations of layperson versions and other textual descriptors of medical terms. We explored different output embeddings coupled to different neural network architectures for the machine translation stage. We compute a similarity measure to evaluate the ability of the model to assign an HPO term to a layperson input. The best-performing models resulted with a similarity higher than 0.7 for more than 80% of the terms, with a median between 0.98 and 1. The translator model is made available in a web application at this link: https://hpotranslator.b2slab.upc.edu.
+AB - Supplementary material related to this article can be found online at https://doi.org/10.1016/j.eswa.2022.117446.
+AB - This work was supported by the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) TEC2014-60337-R, DPI2017-89827-R, Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigaci'on Carlos III (ISCIII), and Share4Rare project (Grant Agreement 780262). This work was partially funded by ACCI'O (Innotec ACE014/20/000018). B2SLab is certified as 2017 SGR 952. The authors thank the NVIDIA Corporation for the donation of a Titan Xp GPU used to run the models presented in this article. J. Fonollosa acknowledges the support from the Serra H'unter program.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2022
+UR - https://www.sciencedirect.com/science/article/pii/S0957417422007813
+UR - http://hdl.handle.net/2117/372351
+UR - https://dl.acm.org/doi/abs/10.1016/j.eswa.2022.117446
+VL - 204
+IS - C
+EP - 117446:1
+SP - 117446:9
+T2 - Expert systems with applications
+AU - Manzini, E.
+AU - Garrido, J.
+AU - Fonollosa, J.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.jbi.2022.104218
+TI - Longitudinal deep learning clustering of Type 2 Diabetes Mellitus trajectories using routinely collected health records
+AB - Type 2 diabetes mellitus (T2DM) is a highly heterogeneous chronic disease with different pathophysiological and genetic characteristics affecting its progression, associated complications and response to therapies. The advances in deep learning (DL) techniques and the availability of a large amount of healthcare data allow us to investigate T2DM characteristics and evolution with a completely new approach, studying common disease trajectories rather than cross sectional values. We used an Kernelized-AutoEncoder algorithm to map 5 years of data of 11,028 subjects diagnosed with T2DM in a latent space that embedded similarities and differences between patients in terms of the evolution of the disease. Once we obtained the latent space, we used classical clustering algorithms to create longitudinal clusters representing different evolutions of the diabetic disease. Our unsupervised DL clustering algorithm suggested seven different longitudinal clusters. Different mean ages were observed among the clusters (ranging from 65.3+/-11.6 to 72.8+/-9.4). Subjects in clusters B (Hypercholesteraemic) and E (Hypertensive) had shorter diabetes duration (9.2+/-3.9 and 9.5+/-3.9 years respectively). Subjects in Cluster G (Metabolic) had the poorest glycaemic control (mean glycated hemoglobin 7.99+/-1.42%), while cluster E had the best one (mean glycated hemoglobin 7.04+/-1.11%). Obesity was observed mainly in clusters A (Neuropathic), C (Multiple Complications), F (Retinopathy) and G. A dashboard is available at dm2.b2slab.upc.edu to visualize the different trajectories corresponding to the 7 clusters.
+AB - This work was supported by the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) TEC2014-60337-R, DPI2017-89827-R, Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Spain , initiatives of Instituto de Investigaci'on Carlos III (ISCIII), and Share4Rare project (Grant Agreement 780262). This study was possible thanks to the commitment of physicians and nurses working in the Catalan Health Institute to provide optimal care to patients with diabetes. CIBER of Diabetes and Associated Metabolic Diseases (CIBERDEM) is an initiative from Instituto de Salud Carlos III, Madrid, Spain. This analysis is part of the DiaCare Project of Novo Nordisk and the Fundaci'o TicSalut (Departament de Salut, Generalitat de Catalunya), in collaboration with Grupo Pulso, for the benefit of people with type 2 diabetes.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2022
+UR - https://www.sciencedirect.com/science/article/pii/S1532046422002234
+UR - http://hdl.handle.net/2117/374733
+VL - 135
+IS - Article 104218
+EP - 1
+SP - 9
+T2 - Journal of biomedical informatics
+AU - Manzini, E.
+AU - Vlacho, B.
+AU - Franch, J.
+AU - Escudero, J.
+AU - G'enova, A.
+AU - Reixach-Espaulella, E.
+AU - Andr'es, E.
+AU - Pizarro, I.
+AU - Portero, J.
+AU - Mauricio Puente, D'idac
+AU - Perera, A.
+
