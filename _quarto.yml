@@ -41,12 +41,14 @@ website:
     right:
       - icon: mastodon
         href: https://social.iris.upc.edu/@b2slab
+        rel: "me"
         aria-label: b2lsab Mastodon
       - icon: github
         href: https://github.com/b2slab
         aria-label: b2slab GitHub
       - icon: twitter
         href: https://bsky.app/profile/b2slab.social.iris.upc.edu.ap.brid.gy
+        rel: "me"
         aria-label: b2slab bluesky account (Bridged to Mastodon)
       - icon: rss
         href: http://b2slab.upc.edu/blog/index.xml
