@@ -7,7 +7,6 @@ execute:
   echo: false
 ---
 
-
 ## Bio
 
 ::: img-float
@@ -20,6 +19,13 @@ At B2SLab, we integrate Data Science, Bioinformatics, and Bioengineering. My mai
 
 -   In 2019, I was appointed as the head of the Research Center for Biomedical Engineering at UPC (CREB-UPC, Centre de Recerca en Enginyeria Biomèdica).
 -   I also coordinate a [fascinating project named Xartec Salut](https://xartecsalut.com).
+
+## Social Networks
+
+- Find me on my profile on
+  - <a href="https://social.iris.upc.edu/@alexperera" rel="me">Mastodon</a>
+  - <a href="https://bsky.app/profile/alexperera.social.iris.upc.edu.ap.brid.gy">Blue Sky</a> 
+- No, we do not use X nor twitter, and we will not use it for the time being
 
 ## Teaching
 
