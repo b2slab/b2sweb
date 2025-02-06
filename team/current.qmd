@@ -27,6 +27,13 @@ CreateTeamSet("Staff")
 CreateTeamSet("PhD Student")
 ```
 
+## Technical Staff
+
+```{r}
+#| output: asis
+CreateTeamSet("Tech Staff")
+```
+
 ## Students working in a Master thesis or degree thesis at b2slab
 
 ```{r}

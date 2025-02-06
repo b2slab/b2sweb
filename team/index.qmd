@@ -8,6 +8,8 @@ pagetitle: "b2slab Team Members"
 
 ![](images/b2sgrupcurrent.jpeg){width="605" fig-alt="at 2025"}
 
+[Wee who is who](https://b2slab.upc.edu/team/current.html).
+
 ### 2021
 
 ![](images/2021_b2sgrup.jpeg){width="605" fig-alt="at 2025"}

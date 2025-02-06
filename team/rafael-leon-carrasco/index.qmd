@@ -1,0 +1,61 @@
+---
+title: "Rafael León Carrasco"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+## Bio
+
+::: img-float
+![](images/IMG_rafa.jpg){style="float: left; margin: 5px; width: 200px;"}
+
+Hello! My name is Rafael León Carrasco. I have a Bachelor’s Degree in Chemical Engineering and a Master’s in Interdisciplinary & Innovative Engineering by the UPC (Polytechnic University of Catalonia). I am an engineer passionate about technology and data science. My work focuses on developing Machine Learning models for diagnosing rare diseases, and collaborating closely with medical institutions such as Hospital Sant Joan de Déu and Hospital Sant Pau for data analysis. I specialize in using graph models and neural networks to extract insights from clinical data. Moreover I have programming and server management experience.
+
+With a strong background in engineering and research experience, I enjoy facing complex challenges and finding efficient solutions. Additionally, I quickly adapt to new technological landscapes required.
+
+## Professional Experience
+
+### Research Assistant Technician at CREB (UPC)
+
+**May 2024 – Present**\
+- Development of ML algorithms for diagnosing rare kidney diseases.\
+- Performance analysis of diagnostic models.\
+- Maintenance of the HDSI Share4Rare server (Django) and diagnostic platform (Springboot).
+
+### Research Assistant Technician at CREB (UPC)
+
+**November 2022 – May 2024**\
+- Development of diagnostic platforms for rare kidney diseases in collaboration with Hospital Sant Pau.\
+- Clinical data analysis and server maintenance.
+
+### Research Assistant at Hospital Sant Joan de Déu
+
+**July 2023 – July 2024**\
+- Analysis of rare disease data to improve early diagnosis.\
+- Application of advanced statistical techniques and ML models.
+
+## Skills
+
+-   Programming in **Java** and **Python**.\
+-   Experience with **Machine Learning**, graph models, and statistical analysis.\
+-   Familiarity with servers **Nginx, Apache, Django, and Springboot**.\
+-   Problem-solving skills and teamwork experience.\
+-   Organization and adaptability to new technological challenges.
+
+## Publications
+ From google Scholar?
+ scholar link https://scholar.google.com/citations?user=m7kPxM8AAAAJ&hl=ca
+```{r}
+cache_file <- "../../doi_cache.json"
+source("../../R/getpapers.R")
+# Define the RIS file URL
+ris_url <- "https://futur.upc.edu/RIS/AlexandrePereraLluna/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=en"
+```
+
+```{r}
+#| output: asis
+paperstohtmlnodiv(ris_url)
+```
