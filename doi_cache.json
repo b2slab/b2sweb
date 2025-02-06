@@ -1,5 +1,21 @@
 [
   {
+    "Title": "# 2068 Factors affecting disease progression in individuals with heterozygous COL4A3/COL4A4 pathogenic variants",
+    "DOI": "10.1200/jco.2007.25.18_suppl.3507"
+  },
+  {
+    "Title": "# 4037 DEVELOPMENT OF AN EXPERT MODEL FOR THE DIAGNOSIS OF INHERITED KIDNEY DISEASES",
+    "DOI": "10.1200/jco.2007.25.18_suppl.3507"
+  },
+  {
+    "Title": "Analysis of clinical diagnostics in human genetics with semantic similarity searches in ontologies",
+    "DOI": "10.1093/ndt/gfad063c_4037"
+  },
+  {
+    "Title": "Modelando el paisaje de energía libre de una molécula",
+    "DOI": "10.11144/javeriana.10554.48396"
+  },
+  {
     "Title": "Mediterranean diet is a predictor of progression of subclinical atherosclerosis in a mediterranean population: the ILERVAS prospective cohort study",
     "DOI": "10.1016/j.atherosclerosis.2023.117191"
   },
@@ -77,7 +93,7 @@
   },
   {
     "Title": "#CoronavirusCruise: Impact and implications of the COVID-19 outbreaks on the perception of cruise tourism",
-    "DOI": "10.1200/jco.2007.25.18_suppl.3507"
+    "DOI": "10.1016/j.chroma.2008.01.017"
   },
   {
     "Title": "Reinforcement learning with probabilistic boolean network models of smart grid devices",
@@ -1086,21 +1102,5 @@
   {
     "Title": "Low-pass differentiators for biological signals with known spectra: applicati",
     "DOI": "10.1109/10.52350"
-  },
-  {
-    "Title": "# 2068 Factors affecting disease progression in individuals with heterozygous COL4A3/COL4A4 pathogenic variants",
-    "DOI": "10.1016/j.chroma.2008.01.017"
-  },
-  {
-    "Title": "# 4037 DEVELOPMENT OF AN EXPERT MODEL FOR THE DIAGNOSIS OF INHERITED KIDNEY DISEASES",
-    "DOI": "10.1200/jco.2007.25.18_suppl.3507"
-  },
-  {
-    "Title": "Analysis of clinical diagnostics in human genetics with semantic similarity searches in ontologies",
-    "DOI": "10.1093/ndt/gfad063c_4037"
-  },
-  {
-    "Title": "Modelando el paisaje de energía libre de una molécula",
-    "DOI": "10.11144/javeriana.10554.48396"
   }
 ]

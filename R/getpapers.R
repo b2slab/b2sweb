@@ -4,6 +4,8 @@ library(tidyr)
 library(rvest)
 library(httr)
 library(jsonlite)
+library(scholar)
+library(stringr)
 
 # Function to process RIS file
 process_ris_file <- function(ris_url) {
@@ -165,58 +167,44 @@ get_publications <- function(profile_url) {
 # }
 
 # Function to scrape Google Scholar profile publications
-get_scholar_publications <- function(profile_url) {
-  page <- read_html(profile_url)
-  entries <- page %>% html_nodes(".gsc_a_tr")
-  
-  titles <- entries %>% html_nodes(".gsc_a_t a") %>% html_text()
-  authors <- entries %>% html_nodes(".gsc_a_t .gs_gray") %>% html_text()
-  years <- entries %>% html_nodes(".gsc_a_y span") %>% html_text()
-  links <- entries %>% html_nodes(".gsc_a_t a") %>% html_attr("href")
-  links <- paste0("https://scholar.google.com", links)
-  
-  min_length <- min(length(titles), length(authors), length(years), length(links))
-  
-  # Create initial dataframe
-  pubs_df <- data.frame(
-    Title = titles[1:min_length],
-    Authors = authors[1:min_length],
-    Year = years[1:min_length],
-    URL = links[1:min_length],
-    Journal = "",  # Placeholder for journal
-    Volume = "",   # Placeholder for volume
-    Issue = "",    # Placeholder for issue
-    stringsAsFactors = FALSE
-  )
-  
-  # Function to scrape journal details from individual citation pages
-  get_journal_info <- function(url) {
-    tryCatch({
-      citation_page <- read_html(url)
-      info <- citation_page %>% html_nodes(".gsc_vcd_value") %>% html_text()
-      
-      # Extract journal, volume, and issue if available
-      journal <- ifelse(length(info) > 1, info[2], "")  # Usually the 2nd field is the journal name
-      volume_issue <- ifelse(length(info) > 2, info[3], "")  # Volume and issue are often together
-      
-      # Extract Volume and Issue separately if possible
-      volume <- ifelse(grepl("vol", volume_issue, ignore.case = TRUE), str_extract(volume_issue, "vol\\.?\\s*\\d+"), "")
-      issue <- ifelse(grepl("issue", volume_issue, ignore.case = TRUE), str_extract(volume_issue, "issue\\s*\\d+"), "")
-      
-      return(c(journal, volume, issue))
-    }, error = function(e) {
-      return(c("", "", ""))  # Return empty values on error
-    })
+# Function to extract Google Scholar ID from profile URL
+extract_scholar_id <- function(profile_url) {
+  scholar_id <- str_extract(profile_url, "(?<=user=)[a-zA-Z0-9_-]+")
+  if (is.na(scholar_id) || scholar_id == "") {
+    stop("Invalid Google Scholar URL. Please provide a valid profile URL.")
   }
+  return(scholar_id)
+}
+
+# Function to fetch publications using the scholar package
+get_scholar_publications <- function(profile_url) {
+  # Extract the Scholar ID from the given URL
+  scholar_id <- extract_scholar_id(profile_url)
   
-  # Scrape journal details for each publication
-  journal_info <- t(sapply(pubs_df$URL, get_journal_info))
-  pubs_df$Journal <- journal_info[, 1]
-  pubs_df$Volume <- journal_info[, 2]
-  pubs_df$Issue <- journal_info[, 3]
+  # Fetch all publications
+  pubs_df <- scholar::get_publications(scholar_id)
+  
+  # Ensure the correct structure
+  pubs_df <- pubs_df %>%
+    select(title, author, journal,year, number,pubid) %>%
+    rename(
+      Title = title,
+      Authors = author,
+      Year = year,
+      URL = pubid  # Placeholder before constructing the full URL
+    ) %>%
+    mutate(
+      URL = paste0("https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=", scholar_id, ":", URL),
+      Journal = journal,
+      Volume = number,
+      Issue = ""
+    )
+  
+ 
   
   return(pubs_df)
 }
+
 
 get_futur_publications <- function(ris_url) {
   # Download the RIS file
