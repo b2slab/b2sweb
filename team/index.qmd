@@ -1,19 +1,43 @@
 ---
-pagetitle: "b2slab Team Members"
+title: "Current Team"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
 ---
 
-## Group pics
+```{r, include=FALSE}
+cache_file <- "../doi_cache.json"
 
-### Current
+source("functions.R")
+```
 
-![](images/b2sgrupcurrent.jpeg){width="605" fig-alt="at 2025"}
+## Staff
 
-[Wee who is who](https://b2slab.upc.edu/team/current.html).
+```{r}
+#| output: asis
+CreateTeamSet("Staff")
+```
 
-### 2021
+## PhD Students
 
-![](images/2021_b2sgrup.jpeg){width="605" fig-alt="at 2025"}
+```{r}
+#| output: asis
+CreateTeamSet("PhD Student")
+```
 
-### 2020
+## Technical Staff
 
-![](images/2020_b2sgrup.jpeg){width="605" fig-alt="at 2025"}
+```{r}
+#| output: asis
+CreateTeamSet("Tech Staff")
+```
+
+## Students working in a Master thesis or degree thesis at b2slab
+
+```{r}
+#| output: asis
+
+CreateTeamSet("Master thesis / degree thesis")
+```

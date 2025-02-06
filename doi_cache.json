@@ -61,15 +61,11 @@
   },
   {
     "Title": "",
-    "DOI": "10.1200/jco.2007.25.18_suppl.3507"
+    "DOI": "10.1093/eurheartj/ehy566.p5695"
   },
   {
     "Title": "Weighted time warping improves T-wave morphology markers clinical significance",
     "DOI": "10.5821/dissertation-2117-368619"
-  },
-  {
-    "Title": "#CoronavirusCruise: Impact and implications of the COVID-19 outbreaks on the perception of cruise tourism",
-    "DOI": "10.1200/jco.2007.25.18_suppl.3507"
   },
   {
     "Title": "Early fire detection based on gas sensor arrays: Multivariate calibration and validation",
@@ -78,6 +74,10 @@
   {
     "Title": "COVID-19 impact on maritime traffic and corresponding pollutant emissions. The case of the Port of Barcelona",
     "DOI": "10.1016/j.jenvman.2022.114787"
+  },
+  {
+    "Title": "#CoronavirusCruise: Impact and implications of the COVID-19 outbreaks on the perception of cruise tourism",
+    "DOI": "10.1200/jco.2007.25.18_suppl.3507"
   },
   {
     "Title": "Reinforcement learning with probabilistic boolean network models of smart grid devices",
@@ -116,24 +116,24 @@
     "DOI": "10.2196/22695"
   },
   {
-    "Title": "Time-delay selection in poincar'e plot: assessing sedation-analgesia levels with eeg signals Selecci'on del tiempo de retardo en el gr'afico de poincar'e: Medici'on de los niveles de sedaci'on y analgesia con se~nales eeg",
-    "DOI": "10.4067/s0718-33052021000100027"
-  },
-  {
     "Title": "MMP1 drives tumor progression in large cell carcinoma of the lung through fibroblast senescence",
     "DOI": "10.1158/1538-7445.am2021-2515"
+  },
+  {
+    "Title": "Time-delay selection in poincar'e plot: assessing sedation-analgesia levels with eeg signals Selecci'on del tiempo de retardo en el gr'afico de poincar'e: Medici'on de los niveles de sedaci'on y analgesia con se~nales eeg",
+    "DOI": "10.4067/s0718-33052021000100027"
   },
   {
     "Title": "Monitoring blood potassium concentration in hemodialysis patients by quantifying T-wave morphology dynamics",
     "DOI": "10.22489/cinc.2019.109"
   },
   {
-    "Title": "Game learning analytics of instant messaging and online discussion forums in higher education",
-    "DOI": "10.1108/et-11-2020-0334"
-  },
-  {
     "Title": "Balancing data on deep learning-based proteochemometric activity classification",
     "DOI": "10.26434/chemrxiv.13634849"
+  },
+  {
+    "Title": "Game learning analytics of instant messaging and online discussion forums in higher education",
+    "DOI": "10.1108/et-11-2020-0334"
   },
   {
     "Title": "MultiPaths: a Python framework for analyzing multi-layer biological networks using diffusion algorithms",
@@ -208,12 +208,12 @@
     "DOI": "10.1109/jbhi.2019.2895589"
   },
   {
-    "Title": "Recursive model identification for the analysis of the autonomic response to exercise testing in Brugada syndrome",
-    "DOI": "10.1016/j.artmed.2018.11.006"
-  },
-  {
     "Title": "Evaluation of cross-validation strategies in sequence-based binding prediction using deep learning",
     "DOI": "10.26434/chemrxiv.7133885"
+  },
+  {
+    "Title": "Recursive model identification for the analysis of the autonomic response to exercise testing in Brugada syndrome",
+    "DOI": "10.1016/j.artmed.2018.11.006"
   },
   {
     "Title": "Multiview: a software package for multiview pattern recognition methods",
@@ -296,16 +296,16 @@
     "DOI": "10.1016/j.patrec.2017.12.011"
   },
   {
-    "Title": "Sex differences in autonomic response to exercise testing in patients with Brugada syndrome",
-    "DOI": "10.1007/978-3-319-77932-4_12"
-  },
-  {
     "Title": "Multi-unit calibration rejects inherent device variability of chemical sensor arrays",
     "DOI": "10.1016/j.snb.2018.02.188"
   },
   {
     "Title": "Chemical sensor systems and associated algorithms for fire detection: A review",
     "DOI": "10.3390/s18020553"
+  },
+  {
+    "Title": "Sex differences in autonomic response to exercise testing in patients with Brugada syndrome",
+    "DOI": "10.1007/978-3-319-77932-4_12"
   },
   {
     "Title": "Null diffusion-based enrichment for metabolomics data",
@@ -464,12 +464,12 @@
     "DOI": "10.1016/j.snb.2015.03.028"
   },
   {
-    "Title": "Mutual information measures applied to EEG signals for sleepiness characterization",
-    "DOI": "10.1016/j.medengphy.2015.01.002"
-  },
-  {
     "Title": "Time-varying signal analysis to detect high-altitude periodic breathing in climbers ascending to extreme altitude",
     "DOI": "10.1007/s11517-015-1275-x"
+  },
+  {
+    "Title": "Mutual information measures applied to EEG signals for sleepiness characterization",
+    "DOI": "10.1016/j.medengphy.2015.01.002"
   },
   {
     "Title": "Ageing is associated with deterioration of calcium homeostasis in isolated human right atrial myocytes",
@@ -516,12 +516,12 @@
     "DOI": "10.1016/j.epsr.2014.02.003"
   },
   {
-    "Title": "Measuring instantaneous and spectral information entropies by shannon entropy of choi-williams distribution in the context of electroencephalography",
-    "DOI": "10.3390/e16052530"
-  },
-  {
     "Title": "LTI ODE-valued neural networks",
     "DOI": "10.1007/s10489-014-0548-7"
+  },
+  {
+    "Title": "Measuring instantaneous and spectral information entropies by shannon entropy of choi-williams distribution in the context of electroencephalography",
+    "DOI": "10.3390/e16052530"
   },
   {
     "Title": "Multiscale complexity analysis of the cardiac control identifies asymptomatic and symptomatic patients in long QT syndrome type 1",
@@ -548,16 +548,16 @@
     "DOI": "10.1371/journal.pone.0088839"
   },
   {
-    "Title": "Auditory and nociceptive stimuli responses in the electro-encephalogram : a non-linear measures and time-frequency representation based analysis",
-    "DOI": "10.3414/me13-02-0044"
-  },
-  {
     "Title": "Estimation of the limit of detection using information theory measures",
     "DOI": "10.1016/j.aca.2013.10.030"
   },
   {
     "Title": "On the calibration of sensor arrays for pattern recognition using the minimal number of experiments",
     "DOI": "10.1016/j.chemolab.2013.10.012"
+  },
+  {
+    "Title": "Auditory and nociceptive stimuli responses in the electro-encephalogram : a non-linear measures and time-frequency representation based analysis",
+    "DOI": "10.3414/me13-02-0044"
   },
   {
     "Title": "A biomimetic approach to machine olfaction, featuring a very large-scale chemical sensor array and embedded neuro-bio-inspired computation",
@@ -812,12 +812,12 @@
     "DOI": "10.1109/iembs.2008.4650032"
   },
   {
-    "Title": "Changes of autonomic information flow due to idiopathic dilated cardiomyopathy",
-    "DOI": "10.1088/0967-3334/28/6/006"
-  },
-  {
     "Title": "Detrended fluctuation analysis of EEG as a measure of depth of anesthesia",
     "DOI": "10.1109/tbme.2007.893453"
+  },
+  {
+    "Title": "Changes of autonomic information flow due to idiopathic dilated cardiomyopathy",
+    "DOI": "10.1088/0967-3334/28/6/006"
   },
   {
     "Title": "ECG Beat Detection Using a Geometrical Matching Approach",
@@ -1086,5 +1086,21 @@
   {
     "Title": "Low-pass differentiators for biological signals with known spectra: applicati",
     "DOI": "10.1109/10.52350"
+  },
+  {
+    "Title": "# 2068 Factors affecting disease progression in individuals with heterozygous COL4A3/COL4A4 pathogenic variants",
+    "DOI": "10.1016/j.chroma.2008.01.017"
+  },
+  {
+    "Title": "# 4037 DEVELOPMENT OF AN EXPERT MODEL FOR THE DIAGNOSIS OF INHERITED KIDNEY DISEASES",
+    "DOI": "10.1200/jco.2007.25.18_suppl.3507"
+  },
+  {
+    "Title": "Analysis of clinical diagnostics in human genetics with semantic similarity searches in ontologies",
+    "DOI": "10.1093/ndt/gfad063c_4037"
+  },
+  {
+    "Title": "Modelando el paisaje de energía libre de una molécula",
+    "DOI": "10.11144/javeriana.10554.48396"
   }
 ]

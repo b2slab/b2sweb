@@ -104,12 +104,12 @@ website:
       align: left
       contents:
         - team/index.qmd
-        - text: "Current Members"
-          href: team/current.qmd
         - text: "Former Members"
           href: team/former.qmd
         - text: "Visiting fellows"
           href: team/visiting.qmd
+        - text: "Group Pictures!"
+          href: team/current.qmd
     - id: software
       title: "Software and Tutorials"
       style: "floating"

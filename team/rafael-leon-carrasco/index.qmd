@@ -46,16 +46,16 @@ With a strong background in engineering and research experience, I enjoy facing 
 -   Organization and adaptability to new technological challenges.
 
 ## Publications
- From google Scholar?
- scholar link https://scholar.google.com/citations?user=m7kPxM8AAAAJ&hl=ca
+
 ```{r}
 cache_file <- "../../doi_cache.json"
 source("../../R/getpapers.R")
 # Define the RIS file URL
-ris_url <- "https://futur.upc.edu/RIS/AlexandrePereraLluna/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=en"
+ris_url <- "https://scholar.google.com/citations?user=m7kPxM8AAAAJ&hl=ca"
 ```
 
 ```{r}
 #| output: asis
 paperstohtmlnodiv(ris_url)
 ```
+:::
