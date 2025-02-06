@@ -1,0 +1,31 @@
+---
+title: "Joana Gelabert Xirinachs"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+  eval: false
+---
+
+## Bio
+
+::: img-float
+![](images/staff_Joana_Gelabert_Xirinachs.jpg){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Welcome to my site! My name is Joana Gelabert Xirinachs. I hold a degree in Biomedical Engineering (Universitat Pompeu Fabra) and another in Philosophy (Universitat de Barcelona). I’m currently starting my PhD in Bioinformatics at the [B2SLab](http://b2slab.upc.edu)—hopefully, I’ll remember to update this site so I’m not forever stuck at the “just starting” phase!
+
+My PhD is supervised by [Alex Perera](http://b2slab.upc.edu/team/alexandre-perera-lluna/) and [Jordi Fonollosa](http://b2slab.upc.edu/team/jordi-fonollosa/), and my research focuses on analyzing and predicting the progression of type 2 diabetes. I work with large Electronic Health Record (EHR) datasets, combining linear models and deep learning algorithms to make sense of complex data. My thesis builds on research developed at the lab, including the work of [Enrico Manzini](http://b2slab.upc.edu/team/enrico-manzini/).
+
+```{r}
+cache_file <- "../../doi_cache.json"
+source("../../R/getpapers.R")
+# Define the RIS file URL
+ris_url <- "https://futur.upc.edu/RIS/JoanaGelabertXirinachs/?locale=ca"
+```
+
+```{r}
+#| output: asis
+paperstohtmlnodiv(ris_url)
+```

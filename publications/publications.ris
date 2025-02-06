@@ -401,24 +401,6 @@ AU - Laguna, P.
 AU - Ram'irez, J.
 
 TY - MGZN
-DO - 10.1016/j.tmp.2022.100948
-TI - #CoronavirusCruise: Impact and implications of the COVID-19 outbreaks on the perception of cruise tourism
-AB - Early in the COVID-19 pandemic, the Diamond Princess became the center of the largest outbreak outside the original epicenter in China. This outbreak which left 712 passengers infected and 14 dead, followed by subsequent outbreaks affecting over one-third of the active ships in the cruise industry's global fleet, quickly became a crisis that captured public attention and dominated mainstream news and social media. This study investigates the perception of cruising during these outbreaks by analyzing the tweets on cruising using Natural Language Processing (NLP). The findings show a prevalent negative sentiment in most of the analyzed tweets, while the criticisms directed at the cruise industry were based on perceptions and stereotypes of the industry before the pandemic. The study provides insight into the concerns raised in these conversations and highlights the need for new business models outside the pre-pandemic mass-market model and to genuinely make cruising more environmentally friendly.
-AB - Peer Reviewed
-AB - Postprint (published version)
-Y1 - 2022
-UR - https://pubmed.ncbi.nlm.nih.gov/35165650/
-UR - http://hdl.handle.net/2117/363286
-VL - 41
-EP - 100948:1
-SP - 100948:15
-T2 - Tourism Management Perspectives
-AU - Hern'andez-Lara, A.
-AU - Abubakr, B.
-AU - Sanchez-Rebull, M.
-AU - Perera, A.
-
-TY - MGZN
 DO - 10.1016/j.snb.2021.130961
 TI - Early fire detection based on gas sensor arrays: Multivariate calibration and validation
 AB - Smoldering fires are characterized by the production of early gas emissions that can include high levels of CO and Volatile Organic Compounds (VOCs) due to pyrolysis or thermal degradation. Nowadays, standalone CO sensors, smoke detectors, or a combination of these, are standard components for fire alarm systems. While gas sensor arrays together with pattern recognition techniques are a valuable alternative for early fire detection, in practice they have certain drawbacks-they can detect early gas emissions, but can show low immunity to nuisances, and sensor time drift can render calibration models obsolete. In this work, we explore the performance of a gas sensor array for detecting smoldering and plastic fires while ensuring the rejection of a set of nuisances. We conducted variety of fire and nuisance experiments in a validated standard fire room (240 m3). Using PLS-DA and SVM, we evaluate the performance of different multivariate calibration models for this dataset. We show that calibration models remain predictive after several months, but perfect performance is not achieved. For example, 4 months after calibration, a PLS-DA model provides 100% specificity and 85% sensitivity since the system has difficulties in detecting plastic fires, whose signatures are close to nuisance scenarios. Nevertheless, our results show that systems based on gas sensor arrays are able to provide faster fire alarm response than conventional smoke-based fire alarms. We also propose the use of small-scale fire experiments to increase the number of calibration con- ditions at a reduced cost. Our results show that this is an effective way to increase the performance of the model, even when evaluated on a standard fire room. Finally, the acquired datasets are made publicly available to the community (doi: 10.5281/zenodo.5643074).
@@ -451,6 +433,24 @@ AU - Nieto, J.
 AU - Fonollosa, J.
 AU - Llull, T.
 AU - Castells-Sanabra, Marcella
+
+TY - MGZN
+DO - 10.1016/j.tmp.2022.100948
+TI - #CoronavirusCruise: Impact and implications of the COVID-19 outbreaks on the perception of cruise tourism
+AB - Early in the COVID-19 pandemic, the Diamond Princess became the center of the largest outbreak outside the original epicenter in China. This outbreak which left 712 passengers infected and 14 dead, followed by subsequent outbreaks affecting over one-third of the active ships in the cruise industry's global fleet, quickly became a crisis that captured public attention and dominated mainstream news and social media. This study investigates the perception of cruising during these outbreaks by analyzing the tweets on cruising using Natural Language Processing (NLP). The findings show a prevalent negative sentiment in most of the analyzed tweets, while the criticisms directed at the cruise industry were based on perceptions and stereotypes of the industry before the pandemic. The study provides insight into the concerns raised in these conversations and highlights the need for new business models outside the pre-pandemic mass-market model and to genuinely make cruising more environmentally friendly.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2022
+UR - https://pubmed.ncbi.nlm.nih.gov/35165650/
+UR - http://hdl.handle.net/2117/363286
+VL - 41
+EP - 100948:1
+SP - 100948:15
+T2 - Tourism Management Perspectives
+AU - Hern'andez-Lara, A.
+AU - Abubakr, B.
+AU - Sanchez-Rebull, M.
+AU - Perera, A.
 
 TY - MGZN
 DO - 10.1155/2022/3652441
@@ -653,27 +653,6 @@ AU - Ryll, B.
 AU - Nafria, B.
 
 TY - MGZN
-DO - 10.4067/S0718-33052021000100027
-TI - Time-delay selection in poincar'e plot: assessing sedation-analgesia levels with eeg signals Selecci'on del tiempo de retardo en el gr'afico de poincar'e: Medici'on de los niveles de sedaci'on y analgesia con se~nales eeg
-AB - El gr'afico de Poincar'e es un m'etodo no lineal que permite analizar la variabilidad de una se~nal, dibujando dicha se~nal contra ella misma retardada en el tiempo. Aunque este m'etodo ha sido aplicado al an'alisis del electroencefalograma (EEG) para la medici'on de niveles de anestesia general, su aplicaci'on en la medici'on de niveles de anestesia ligera a'un no se ha abordado con profundidad. En este trabajo, se consideran varios tiempos de retardo en el gr'afico de Poincar'e para caracterizar el nivel de anestesia ligera en 110 pacientes sometidos a endoscopia digestiva. Los 'indices de Poincar'e son combinados con par'ametros espectrales de se~nales que contienen informaci'on del EEG y del EMG (electromiograf'ia) para modelar los niveles de anestesia ligera, teniendo como referencia la escala de sedaci'on Ramsay. La mejor predicci'on, utilizando 'indices del gr'afico de Poincar'e, del nivel de sedaci'on y analgesia (Pk = 0,711) se obtiene usando un retardo de 8 ms en el rango de frecuencia de 30-110 Hz y de 6 ms en el rango de frecuencia de 0,5 - 30 Hz, respectivamente. La combinaci'on de diferentes par'ametros permiti'o obtener valores de Pk = 0,799.
-AB - Peer Reviewed
-AB - Postprint (published version)
-Y1 - 2021
-UR - https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-33052021000100027&lng=en&nrm=iso&tlng=en
-UR - http://hdl.handle.net/2117/352887
-VL - 29
-IS - 1
-EP - 27
-SP - 40
-T2 - Ingeniare
-AU - Bola~nos , J.
-AU - Valencia, J.
-AU - Vallverdu, M.
-AU - Valencia , D.
-AU - Borrat, X.
-AU - Garnb'us, P.
-
-TY - MGZN
 DO - 10.1016/j.canlet.2021.01.028
 TI - MMP1 drives tumor progression in large cell carcinoma of the lung through fibroblast senescence
 AB - Large cell carcinoma (LCC) is a rare and aggressive lung cancer subtype with poor prognosis and no targeted therapies. Tumor-associated fibroblasts (TAFs) derived from LCC tumors exhibit premature senescence, and coculture of pulmonary fibroblasts with LCC cell lines selectively induces fibroblast senescence, which in turn drives LCC cell growth and invasion. Here we identify MMP1 as overexpressed specifically in LCC cell lines, and we show that expression of MMP1 by LCC cells is necessary for induction of fibroblast senescence and consequent tumor promotion in both cell culture and mouse models. We also show that MMP1, in combination with TGF-ss1, is sufficient to induce fibroblast senescence and consequent LCC promotion. Furthermore, we implicate PAR-1 and oxidative stress in MMP1/TGF-ss1-induced TAF senescence. Our results establish an entirely new role for MMP1 in cancer, and support a novel therapeutic strategy in LCC based on targeting senescent TAFs.
@@ -694,6 +673,27 @@ AU - Perera, A.
 AU - Reguart, N.
 AU - Quiroz, L.
 AU - Alcaraz Casademunt, Jordi
+
+TY - MGZN
+DO - 10.4067/S0718-33052021000100027
+TI - Time-delay selection in poincar'e plot: assessing sedation-analgesia levels with eeg signals Selecci'on del tiempo de retardo en el gr'afico de poincar'e: Medici'on de los niveles de sedaci'on y analgesia con se~nales eeg
+AB - El gr'afico de Poincar'e es un m'etodo no lineal que permite analizar la variabilidad de una se~nal, dibujando dicha se~nal contra ella misma retardada en el tiempo. Aunque este m'etodo ha sido aplicado al an'alisis del electroencefalograma (EEG) para la medici'on de niveles de anestesia general, su aplicaci'on en la medici'on de niveles de anestesia ligera a'un no se ha abordado con profundidad. En este trabajo, se consideran varios tiempos de retardo en el gr'afico de Poincar'e para caracterizar el nivel de anestesia ligera en 110 pacientes sometidos a endoscopia digestiva. Los 'indices de Poincar'e son combinados con par'ametros espectrales de se~nales que contienen informaci'on del EEG y del EMG (electromiograf'ia) para modelar los niveles de anestesia ligera, teniendo como referencia la escala de sedaci'on Ramsay. La mejor predicci'on, utilizando 'indices del gr'afico de Poincar'e, del nivel de sedaci'on y analgesia (Pk = 0,711) se obtiene usando un retardo de 8 ms en el rango de frecuencia de 30-110 Hz y de 6 ms en el rango de frecuencia de 0,5 - 30 Hz, respectivamente. La combinaci'on de diferentes par'ametros permiti'o obtener valores de Pk = 0,799.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-33052021000100027&lng=en&nrm=iso&tlng=en
+UR - http://hdl.handle.net/2117/352887
+VL - 29
+IS - 1
+EP - 27
+SP - 40
+T2 - Ingeniare
+AU - Bola~nos , J.
+AU - Valencia, J.
+AU - Vallverdu, M.
+AU - Valencia , D.
+AU - Borrat, X.
+AU - Garnb'us, P.
 
 TY - MGZN
 DO - 10.1038/s41598-021-82935-5
@@ -721,24 +721,6 @@ AU - Ram'irez, J.
 AU - Laguna, P.
 
 TY - MGZN
-DO - 10.1108/ET-11-2020-0334
-TI - Game learning analytics of instant messaging and online discussion forums in higher education
-AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2021
-UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
-UR - http://hdl.handle.net/2117/356893
-VL - 63
-IS - 9
-EP - 1288
-SP - 1308
-T2 - Education and Training
-AU - Hern'andez-Lara, A.
-AU - Perera, A.
-AU - Serradell-L'opez, E.
-
-TY - MGZN
 DO - 10.1021/acs.jcim.1c00086
 TI - Balancing data on deep learning-based proteochemometric activity classification
 AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
@@ -755,6 +737,24 @@ T2 - Journal of chemical information and modeling
 AU - Lopez, A.
 AU - Picart, S.
 AU - Perera, A.
+
+TY - MGZN
+DO - 10.1108/ET-11-2020-0334
+TI - Game learning analytics of instant messaging and online discussion forums in higher education
+AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2021
+UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
+UR - http://hdl.handle.net/2117/356893
+VL - 63
+IS - 9
+EP - 1288
+SP - 1308
+T2 - Education and Training
+AU - Hern'andez-Lara, A.
+AU - Perera, A.
+AU - Serradell-L'opez, E.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/btaa1069
@@ -1129,26 +1129,6 @@ AU - Vallverdu, M.
 AU - Bail'on, R.
 
 TY - MGZN
-DO - 10.1016/j.artmed.2018.11.006
-TI - Recursive model identification for the analysis of the autonomic response to exercise testing in Brugada syndrome
-AB - This paper proposes the integration and analysis of a closed-loop model of the baroreflex and cardiovascular systems, focused on a time-varying estimation of the autonomic modulation of heart rate in Brugada syndrome (BS), during exercise and subsequent recovery. Patient-specific models of 44 BS patients at different levels of risk (symptomatic and asymptomatic) were identified through a recursive evolutionary algorithm. After parameter identification, a close match between experimental and simulated signals (mean error = 0.81%) was observed. The model-based estimation of vagal and sympathetic contributions were consistent with physiological knowledge, enabling to observe the expected autonomic changes induced by exercise testing. In particular, symptomatic patients presented a significantly higher parasympathetic activity during exercise, and an autonomic imbalance was observed in these patients at peak effort and during post-exercise recovery. A higher vagal modulation during exercise, as well as an increasing parasympathetic activity at peak effort and a decreasing vagal contribution during post-exercise recovery could be related with symptoms and, thus, with a worse prognosis in BS. This work proposes the first evaluation of the sympathetic and parasympathetic responses to exercise testing in patients suffering from BS, through the recursive identification of computational models; highlighting important trends of clinical relevance that provide new insights into the underlying autonomic mechanisms regulating the cardiovascular system in BS. The joint analysis of the extracted autonomic parameters and classic electrophysiological markers could improve BS risk stratification. (c) 2018 Elsevier B.V.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2019
-UR - http://hdl.handle.net/2117/175298
-VL - 97
-EP - 98
-SP - 104
-T2 - Artificial intelligence in medicine
-AU - Calvo, M.
-AU - Le Rolle, V.
-AU - Romero, D.
-AU - B'ehar, N.
-AU - Gomis, P.
-AU - Mabo, P.
-AU - Hernandez, A.I.
-
-TY - MGZN
 DO - 10.1021/acs.jcim.8b00663
 TI - Evaluation of cross-validation strategies in sequence-based binding prediction using deep learning
 AB - Binding prediction between targets and drug-like compounds through deep neural networks has generated promising results in recent years, outperforming traditional machine learning-based methods. However, the generalization capability of these classification models is still an issue to be addressed. In this work, we explored how different cross-validation strategies applied to data from different molecular databases affect to the performance of binding prediction proteochemometrics models. These strategies are (1) random splitting, (2) splitting based on K-means clustering (both of actives and inactives), (3) splitting based on source database, and (4) splitting based both in the clustering and in the source database. These schemas are applied to a deep learning proteochemometrics model and to a simple logistic regression model to be used as baseline. Additionally, two different ways of describing molecules in the model are tested: (1) by their SMILES and (2) by three fingerprints. The classification performance of our deep learning-based proteochemometrics model is comparable to the state of the art. Our results show that the lack of generalization of these models is due to a bias in public molecular databases and that a restrictive cross-validation schema based on compound clustering leads to worse but more robust and credible results. Our results also show better performance when representing molecules by their fingerprints.
@@ -1167,6 +1147,26 @@ AU - Lopez, A.
 AU - Nonell, A.
 AU - Vidal, D.
 AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.artmed.2018.11.006
+TI - Recursive model identification for the analysis of the autonomic response to exercise testing in Brugada syndrome
+AB - This paper proposes the integration and analysis of a closed-loop model of the baroreflex and cardiovascular systems, focused on a time-varying estimation of the autonomic modulation of heart rate in Brugada syndrome (BS), during exercise and subsequent recovery. Patient-specific models of 44 BS patients at different levels of risk (symptomatic and asymptomatic) were identified through a recursive evolutionary algorithm. After parameter identification, a close match between experimental and simulated signals (mean error = 0.81%) was observed. The model-based estimation of vagal and sympathetic contributions were consistent with physiological knowledge, enabling to observe the expected autonomic changes induced by exercise testing. In particular, symptomatic patients presented a significantly higher parasympathetic activity during exercise, and an autonomic imbalance was observed in these patients at peak effort and during post-exercise recovery. A higher vagal modulation during exercise, as well as an increasing parasympathetic activity at peak effort and a decreasing vagal contribution during post-exercise recovery could be related with symptoms and, thus, with a worse prognosis in BS. This work proposes the first evaluation of the sympathetic and parasympathetic responses to exercise testing in patients suffering from BS, through the recursive identification of computational models; highlighting important trends of clinical relevance that provide new insights into the underlying autonomic mechanisms regulating the cardiovascular system in BS. The joint analysis of the extracted autonomic parameters and classic electrophysiological markers could improve BS risk stratification. (c) 2018 Elsevier B.V.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2019
+UR - http://hdl.handle.net/2117/175298
+VL - 97
+EP - 98
+SP - 104
+T2 - Artificial intelligence in medicine
+AU - Calvo, M.
+AU - Le Rolle, V.
+AU - Romero, D.
+AU - B'ehar, N.
+AU - Gomis, P.
+AU - Mabo, P.
+AU - Hernandez, A.I.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/bty1039
@@ -1630,28 +1630,6 @@ AU - Ziyatdinov, A.
 AU - Perera, A.
 
 TY - MGZN
-DO - 10.1007/978-3-319-77932-4_12
-TI - Sex differences in autonomic response to exercise testing in patients with Brugada syndrome
-AB - Ventricular arrhythmias in Brugada syndrome (BS) typically occur at rest and especially during sleep, suggesting that changes in the autonomic modulation may play an important role in arrhythmogenesis. The autonomic response to exercise and subsequent recovery was evaluated on 105 patients diagnosed with BS (twenty-four were symptomatic), by means of a time-frequency heart rate variability (HRV) analysis, so as to propose a novel predictive model capable of distinguishing symptomatic and asymptomatic BS populations. During incremental exercise, symptomatic patients showed higher HFnu values, probably related to an increased parasympathetic modulation, with respect to asymptomatic subjects. In addition, those extracted HRV features best distinguishing between populations were selected using a two-step feature selection approach, so as to build a linear discriminant analysis (LDA) classifier. The final features subset included one third of the total amount of extracted autonomic markers, mostly acquired during incremental exercise and active recovery, thus evidencing the relevance of these test segments in BS patients classification. The derived predictive model showed an improved performance with respect to previous works in the field (AUC = 0.92 +/- 0.01; Se = 0.91 +/- 0.06; Sp = 0.90 +/- 0.05). Therefore, based on these findings, some of the analyzed HRV markers and the proposed model could be useful for risk stratification in Brugada syndrome.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2018
-UR - https://link.springer.com/chapter/10.1007%2F978-3-319-77932-4_12
-UR - http://hdl.handle.net/2117/123426
-VL - 1065
-EP - 181
-SP - 190
-T2 - Advances in experimental medicine and biology
-PB - Springer
-AU - Calvo, M.
-AU - Le Rolle, V.
-AU - Romero, D.
-AU - B'ehar, N.
-AU - Gomis, P.
-AU - Mabo, P.
-AU - Hernandez, A.I.
-
-TY - MGZN
 DO - 10.1016/j.snb.2018.02.188
 TI - Multi-unit calibration rejects inherent device variability of chemical sensor arrays
 AB - Postprint (author's final draft)
@@ -1686,6 +1664,28 @@ PB - Multidisciplinary Digital Publishing Institute (MDPI)
 AU - Fonollosa, J.
 AU - Sol'orzano, A.
 AU - Marco, S.
+
+TY - MGZN
+DO - 10.1007/978-3-319-77932-4_12
+TI - Sex differences in autonomic response to exercise testing in patients with Brugada syndrome
+AB - Ventricular arrhythmias in Brugada syndrome (BS) typically occur at rest and especially during sleep, suggesting that changes in the autonomic modulation may play an important role in arrhythmogenesis. The autonomic response to exercise and subsequent recovery was evaluated on 105 patients diagnosed with BS (twenty-four were symptomatic), by means of a time-frequency heart rate variability (HRV) analysis, so as to propose a novel predictive model capable of distinguishing symptomatic and asymptomatic BS populations. During incremental exercise, symptomatic patients showed higher HFnu values, probably related to an increased parasympathetic modulation, with respect to asymptomatic subjects. In addition, those extracted HRV features best distinguishing between populations were selected using a two-step feature selection approach, so as to build a linear discriminant analysis (LDA) classifier. The final features subset included one third of the total amount of extracted autonomic markers, mostly acquired during incremental exercise and active recovery, thus evidencing the relevance of these test segments in BS patients classification. The derived predictive model showed an improved performance with respect to previous works in the field (AUC = 0.92 +/- 0.01; Se = 0.91 +/- 0.06; Sp = 0.90 +/- 0.05). Therefore, based on these findings, some of the analyzed HRV markers and the proposed model could be useful for risk stratification in Brugada syndrome.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://link.springer.com/chapter/10.1007%2F978-3-319-77932-4_12
+UR - http://hdl.handle.net/2117/123426
+VL - 1065
+EP - 181
+SP - 190
+T2 - Advances in experimental medicine and biology
+PB - Springer
+AU - Calvo, M.
+AU - Le Rolle, V.
+AU - Romero, D.
+AU - B'ehar, N.
+AU - Gomis, P.
+AU - Mabo, P.
+AU - Hernandez, A.I.
 
 TY - MGZN
 DO - 10.1371/journal.pone.0189012
@@ -2520,27 +2520,6 @@ AU - Huerta, R.
 AU - Marco, S.
 
 TY - MGZN
-DO - 10.1016/j.medengphy.2015.01.002
-TI - Mutual information measures applied to EEG signals for sleepiness characterization
-AB - Excessive daytime sleepiness (EDS) is one of the main symptoms of several sleep related disorders with a great impact on the patient lives. While many studies have been carried out in order to assess daytime sleepiness, the automatic EDS detection still remains an open problem. In this work, a novel approach to this issue based on non-linear dynamical analysis of EEG signal was proposed. Multichannel EEG signals were recorded during five maintenance of wakefulness (MWT) and multiple sleep latency (MSLT) tests alternated throughout the day from patients suffering from sleep disordered breathing. A group of 20 patients with excessive daytime sleepiness (EDS) was compared with a group of 20 patients without daytime sleepiness (WDS), by analyzing 60-s EEG windows in waking state. Measures obtained from cross-mutual information function (CMIF) and auto-mutual-information function (AMIF) were calculated in the EEG. These functions permitted a quantification of the complexity properties of the EEG signal and the non-linear couplings between different zones of the scalp. Statistical differences between EDS and WDS groups were found in ss band during MSLT events (. p-value<0.0001). WDS group presented more complexity than EDS in the occipital zone, while a stronger nonlinear coupling between occipital and frontal zones was detected in EDS patients than in WDS. The AMIF and CMIF measures yielded sensitivity and specificity above 80% and AUC of ROC above 0.85 in classifying EDS and WDS patients.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2015
-UR - http://hdl.handle.net/2117/79397
-VL - 37
-IS - 3
-EP - 297
-SP - 308
-T2 - Medical engineering and physics
-AU - Melia, U.
-AU - Guaita, M.
-AU - Vallverdu, M.
-AU - Embid, C.
-AU - Vilaseca, I.
-AU - Salamero, M.
-AU - Santamaria, J.
-
-TY - MGZN
 DO - 10.1007/s11517-015-1275-x
 TI - Time-varying signal analysis to detect high-altitude periodic breathing in climbers ascending to extreme altitude
 AB - This work investigates the performance of cardiorespiratory analysis detecting periodic breathing (PB) in chest wall recordings in mountaineers climbing to extreme altitude. The breathing patterns of 34 mountaineers were monitored unobtrusively by inductance plethysmography, ECG and pulse oximetry using a portable recorder during
@@ -2573,6 +2552,27 @@ AU - Merz, T.
 AU - Pichler Hefti, J.
 AU - Schoch, O.
 AU - Bloch, K.
+
+TY - MGZN
+DO - 10.1016/j.medengphy.2015.01.002
+TI - Mutual information measures applied to EEG signals for sleepiness characterization
+AB - Excessive daytime sleepiness (EDS) is one of the main symptoms of several sleep related disorders with a great impact on the patient lives. While many studies have been carried out in order to assess daytime sleepiness, the automatic EDS detection still remains an open problem. In this work, a novel approach to this issue based on non-linear dynamical analysis of EEG signal was proposed. Multichannel EEG signals were recorded during five maintenance of wakefulness (MWT) and multiple sleep latency (MSLT) tests alternated throughout the day from patients suffering from sleep disordered breathing. A group of 20 patients with excessive daytime sleepiness (EDS) was compared with a group of 20 patients without daytime sleepiness (WDS), by analyzing 60-s EEG windows in waking state. Measures obtained from cross-mutual information function (CMIF) and auto-mutual-information function (AMIF) were calculated in the EEG. These functions permitted a quantification of the complexity properties of the EEG signal and the non-linear couplings between different zones of the scalp. Statistical differences between EDS and WDS groups were found in ss band during MSLT events (. p-value<0.0001). WDS group presented more complexity than EDS in the occipital zone, while a stronger nonlinear coupling between occipital and frontal zones was detected in EDS patients than in WDS. The AMIF and CMIF measures yielded sensitivity and specificity above 80% and AUC of ROC above 0.85 in classifying EDS and WDS patients.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2015
+UR - http://hdl.handle.net/2117/79397
+VL - 37
+IS - 3
+EP - 297
+SP - 308
+T2 - Medical engineering and physics
+AU - Melia, U.
+AU - Guaita, M.
+AU - Vallverdu, M.
+AU - Embid, C.
+AU - Vilaseca, I.
+AU - Salamero, M.
+AU - Santamaria, J.
 
 TY - MGZN
 DO - 10.1093/cvr/cvv046
@@ -2793,6 +2793,24 @@ AU - Benner, C.
 AU - Russell, B.
 
 TY - MGZN
+DO - 10.1007/s10489-014-0548-7
+TI - LTI ODE-valued neural networks
+AB - A dynamical version of the classical McCulloch & Pitts' neural model is introduced in this paper. In this new approach, artificial neurons are characterized by: i) inputs in the form of differentiable continuous-time signals, ii) linear time-invariant ordinary differential equations (LTI ODE) for connection weights, and iii) activation functions evaluated in the frequency domain. It will be shown that this new characterization of the constitutive nodes in an artificial neural network, namely LTI ODE-valued neural network (LTI ODEVNN), allows solving multiple problems at the same time using a single neural structure. Moreover, it is demonstrated that LTI ODEVNNs can be interpreted as complex-valued neural networks (CVNNs). Hence, research on this topic can be applied in a straightforward form. Standard boolean functions are implemented to illustrate the operation of LTI ODEVNNs. Concluding the paper, several future research lines are highlighted, including the need for developing learning algorithms for the newly introduced LTI ODEVNNs.
+AB - Postprint (published version)
+Y1 - 2014
+UR - http://link.springer.com/article/10.1007/s10489-014-0548-7
+UR - http://hdl.handle.net/2117/24573
+VL - 41
+IS - 2
+EP - 594
+SP - 605
+T2 - Applied intelligence
+AU - Velasco, M.
+AU - Martin, E.X.
+AU - Angulo, C.
+AU - Marti, P.
+
+TY - MGZN
 DO - 10.3390/e16052530
 TI - Measuring instantaneous and spectral information entropies by shannon entropy of choi-williams distribution in the context of electroencephalography
 AB - The theory of Shannon entropy was applied to the Choi-Williams time-frequency distribution (CWD) of time series in order to extract entropy information in both time and frequency domains. In this way, four novel indexes were defined: (1) partial instantaneous entropy, calculated as the entropy of the CWD with respect to time by using the probability mass function at each time instant taken independently; (2) partial spectral information entropy, calculated as the entropy of the CWD with respect to frequency by using the probability mass function of each frequency value taken independently; (3) complete instantaneous entropy, calculated as the entropy of the CWD with respect to time by using the probability mass function of the entire CWD; (4) complete spectral information entropy, calculated as the entropy of the CWD with respect to frequency by using the probability mass function of the entire CWD. These indexes were tested on synthetic time series with different behavior (periodic, chaotic and random) and on a dataset of electroencephalographic (EEG) signals recorded in different states (eyes-open, eyes-closed, ictal and non-ictal activity). The results have shown that the values of these indexes tend to decrease, with different proportion, when the behavior of the synthetic signals evolved from chaos or randomness to periodicity. Statistical differences (p-value < 0.0005) were found between values of these measures comparing eyes-open and eyes-closed states and between ictal and non-ictal states in the traditional EEG frequency bands. Finally, this paper has demonstrated that the proposed measures can be useful tools to quantify the different periodic, chaotic and random components in EEG signals. (c) 2014 by the authors; licensee MDPI, Basel, Switzerland.
@@ -2810,24 +2828,6 @@ AU - Melia, U.
 AU - Clari`a, F
 AU - Vallverdu, M.
 AU - Caminal, P.
-
-TY - MGZN
-DO - 10.1007/s10489-014-0548-7
-TI - LTI ODE-valued neural networks
-AB - A dynamical version of the classical McCulloch & Pitts' neural model is introduced in this paper. In this new approach, artificial neurons are characterized by: i) inputs in the form of differentiable continuous-time signals, ii) linear time-invariant ordinary differential equations (LTI ODE) for connection weights, and iii) activation functions evaluated in the frequency domain. It will be shown that this new characterization of the constitutive nodes in an artificial neural network, namely LTI ODE-valued neural network (LTI ODEVNN), allows solving multiple problems at the same time using a single neural structure. Moreover, it is demonstrated that LTI ODEVNNs can be interpreted as complex-valued neural networks (CVNNs). Hence, research on this topic can be applied in a straightforward form. Standard boolean functions are implemented to illustrate the operation of LTI ODEVNNs. Concluding the paper, several future research lines are highlighted, including the need for developing learning algorithms for the newly introduced LTI ODEVNNs.
-AB - Postprint (published version)
-Y1 - 2014
-UR - http://link.springer.com/article/10.1007/s10489-014-0548-7
-UR - http://hdl.handle.net/2117/24573
-VL - 41
-IS - 2
-EP - 594
-SP - 605
-T2 - Applied intelligence
-AU - Velasco, M.
-AU - Martin, E.X.
-AU - Angulo, C.
-AU - Marti, P.
 
 TY - MGZN
 DO - 10.1371/journal.pone.0093808
@@ -2938,24 +2938,6 @@ AU - Ziyatdinov, A.
 AU - Perera, A.
 
 TY - MGZN
-DO - 10.3414/ME13-02-0044
-TI - Auditory and nociceptive stimuli responses in the electro-encephalogram : a non-linear measures and time-frequency representation based analysis
-AB - Introduction: This article is part of the Focus Theme of Methods of Information in Medicine on "Biosignal Interpretation: Advanced Methods for Neural Signals and Images". Objectives: An efficient way to investigate the neural basis of nociceptive responses is the analysis of the event-related brain potentials (ERPs). The main objective of this work was to study how adaptation and fatigue affect the ERPs to stimuli of different modalities, by characterizing the responses to infrequent and frequent stimulation in different recording periods. Methods: In this work, series of averaged EEG epochs recorded after thermal, electrical and auditory stimulation were analyzed with time-frequency representation and non-linear measures as spectral entropy and auto-mutual information function. The study was performed by considering the traditional EEG frequency bands. Results: The defined measures presented a statistical significance p-value < 0.01 and accuracy higher than 60% by differentiating windows of response to infrequent (I) and frequent (F) stimuli between the start and end of the EEG recording. Conclusions: These measures permitted to observe some aspects of the subject's adaptation and the nociceptive response
-AB - Peer Reviewed
-AB - Postprint (published version)
-Y1 - 2014
-UR - http://www.schattauer.de/en/magazine/subject-areas/journals-a-z/methods/contents/archivestandard/issue/special/manuscript/21133.html
-UR - http://hdl.handle.net/2117/26443
-VL - 53
-IS - 4
-T2 - Methods of information in medicine
-AU - Melia, U.
-AU - Vallverdu, M.
-AU - Clari`a, F
-AU - Valls-Sol'e, J.
-AU - Caminal, P.
-
-TY - MGZN
 DO - 10.1016/j.aca.2013.10.030
 TI - Estimation of the limit of detection using information theory measures
 AB - Definitions of the limit of detection (LOD) based on the probability of false positive and/or false negative errors have been proposed over the past years. Although such definitions are straightforward and valid for any kind of analytical system, proposed methodologies to estimate the LOD are usually simplified to signals with Gaussian noise. Additionally, there is a general misconception that two systems with the same LOD provide the same amount of information on the source regardless of the prior probability of presenting a blank/analyte sample. Based upon an analogy between an analytical system and a binary communication channel, in this paper we show that the amount of information that can be extracted from an analytical system depends on the probability of presenting the two different possible states. We propose a new definition of LOD utilizing information theory tools that deals with noise of any kind and allows the introduction of prior knowledge easily. Unlike most traditional LOD estimation approaches, the proposed definition is based on the amount of information that the chemical instrumentation system provides on the chemical information source. Our findings indicate that the benchmark of analytical systems based on the ability to provide information about the presence/absence of the analyte (our proposed approach) is a more general and proper framework, while converging to the usual values when dealing with Gaussian noise.
@@ -2985,6 +2967,24 @@ AU - Fonollosa, J.
 AU - Vergara, A.
 AU - Homer, M.
 AU - Huerta, R.
+
+TY - MGZN
+DO - 10.3414/ME13-02-0044
+TI - Auditory and nociceptive stimuli responses in the electro-encephalogram : a non-linear measures and time-frequency representation based analysis
+AB - Introduction: This article is part of the Focus Theme of Methods of Information in Medicine on "Biosignal Interpretation: Advanced Methods for Neural Signals and Images". Objectives: An efficient way to investigate the neural basis of nociceptive responses is the analysis of the event-related brain potentials (ERPs). The main objective of this work was to study how adaptation and fatigue affect the ERPs to stimuli of different modalities, by characterizing the responses to infrequent and frequent stimulation in different recording periods. Methods: In this work, series of averaged EEG epochs recorded after thermal, electrical and auditory stimulation were analyzed with time-frequency representation and non-linear measures as spectral entropy and auto-mutual information function. The study was performed by considering the traditional EEG frequency bands. Results: The defined measures presented a statistical significance p-value < 0.01 and accuracy higher than 60% by differentiating windows of response to infrequent (I) and frequent (F) stimuli between the start and end of the EEG recording. Conclusions: These measures permitted to observe some aspects of the subject's adaptation and the nociceptive response
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2014
+UR - http://www.schattauer.de/en/magazine/subject-areas/journals-a-z/methods/contents/archivestandard/issue/special/manuscript/21133.html
+UR - http://hdl.handle.net/2117/26443
+VL - 53
+IS - 4
+T2 - Methods of information in medicine
+AU - Melia, U.
+AU - Vallverdu, M.
+AU - Clari`a, F
+AU - Valls-Sol'e, J.
+AU - Caminal, P.
 
 TY - MGZN
 DO - 10.1007/s00542-013-2020-8
@@ -4144,21 +4144,6 @@ AU - Soria, J.
 AU - Caminal, P.
 
 TY - MGZN
-TI - Changes of autonomic information flow due to idiopathic dilated cardiomyopathy
-Y1 - 2007
-VL - 28
-EP - 677
-SP - 688
-T2 - Physiological measurement
-AU - Palacios, M.
-AU - Friedrich, H.
-AU - Christine, G.
-AU - Vallverdu, M.
-AU - de Luna, A. B.
-AU - Caminal, P.
-AU - Hoyer, D.
-
-TY - MGZN
 TI - Detrended fluctuation analysis of EEG as a measure of depth of anesthesia
 Y1 - 2007
 VL - 54
@@ -4174,6 +4159,21 @@ AU - Vallverdu, M.
 AU - Struys, M.
 AU - Vereecke, H.
 AU - Kaplan, D.
+
+TY - MGZN
+TI - Changes of autonomic information flow due to idiopathic dilated cardiomyopathy
+Y1 - 2007
+VL - 28
+EP - 677
+SP - 688
+T2 - Physiological measurement
+AU - Palacios, M.
+AU - Friedrich, H.
+AU - Christine, G.
+AU - Vallverdu, M.
+AU - de Luna, A. B.
+AU - Caminal, P.
+AU - Hoyer, D.
 
 TY - MGZN
 DO - 10.1109/TBME.2006.889944

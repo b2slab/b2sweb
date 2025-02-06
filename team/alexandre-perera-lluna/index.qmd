@@ -22,10 +22,10 @@ At B2SLab, we integrate Data Science, Bioinformatics, and Bioengineering. My mai
 
 ## Social Networks
 
-- Find me on my profile on
-  - <a rel="me" href="https://social.iris.upc.edu/@alexperera">Mastodon</a>
-  - <a href="https://bsky.app/profile/alexperera.social.iris.upc.edu.ap.brid.gy">Blue Sky</a> 
-- No, we do not use X nor twitter, and we will not use it for the time being
+-   Find me on my profile on
+    -   <a rel="me" href="https://social.iris.upc.edu/@alexperera">Mastodon</a>
+    -   <a href="https://bsky.app/profile/alexperera.social.iris.upc.edu.ap.brid.gy">Blue Sky</a>
+-   No, we do not use X nor twitter, and we will not use it for the time being
 
 ## Teaching
 
@@ -39,11 +39,14 @@ I teach several subjects, including:
 
 ## Ongoing PhD Thesis
 
--   Enrico Manzini
--   Joshua Llano
--   Joana Gelabert
--   Blanca Aleajos
--   Aitor Moruno
+-   [**Maria Barranco**](https://b2slab.upc.edu/team/maria-barranco-altarriba/ "Maria Barranco")[^1]
+-   [Enrico Manzini](https://b2slab.upc.edu/team/enrico-manzini/)
+-   [Joshua Llano](https://b2slab.upc.edu/team/joshua-llano)
+-   [Joana Gelabert](https://b2slab.upc.edu/team/joana-gelabert-xirinachs)
+-   [Blanca Aleajos](https://b2slab.upc.edu/team/blanca-aleajos)
+-   [Aitor Moruno](https://b2slab.upc.edu/team/aitor-moruno-cuenca)
+
+[^1]: soon to defent her thesis
 
 ## Former PhD Thesis
 

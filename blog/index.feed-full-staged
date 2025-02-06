@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>b2slab</title>
+<link>https://b2slab.upc.edu/blog/</link>
+<atom:link href="https://b2slab.upc.edu/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Bioinformatics and Biomedical Signals Labotaory</description>
+<image>
+<url>https://b2slab.upc.edu/quarto-blog-v2.png</url>
+<title>b2slab</title>
+<link>https://b2slab.upc.edu/blog/</link>
+</image>
+<generator>quarto-1.7.13</generator>
+<lastBuildDate>Mon, 03 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>{B4F502887207:/blog/posts/20250204_NewWeb/index.html}</title>
+  <dc:creator>b2slab Team</dc:creator>
+  <link>https://b2slab.upc.edu/blog/posts/20250204_NewWeb/</link>
+  <description>{B4F502887207:/blog/posts/20250204_NewWeb/index.html}</description>
+  <guid>https://b2slab.upc.edu/blog/posts/20250204_NewWeb/</guid>
+  <pubDate>Mon, 03 Feb 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/20180207_sr4/index.html}</title>
+  <dc:creator>Alexandre Perera</dc:creator>
+  <link>https://b2slab.upc.edu/blog/posts/20180207_sr4/</link>
+  <description>{B4F502887207:/blog/posts/20180207_sr4/index.html}</description>
+  <guid>https://b2slab.upc.edu/blog/posts/20180207_sr4/</guid>
+  <pubDate>Sun, 01 Jul 2018 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/20140429_talkPere/index.html}</title>
+  <dc:creator>Pere caminal</dc:creator>
+  <link>https://b2slab.upc.edu/blog/posts/20140429_talkPere/</link>
+  <description>{B4F502887207:/blog/posts/20140429_talkPere/index.html}</description>
+  <guid>https://b2slab.upc.edu/blog/posts/20140429_talkPere/</guid>
+  <pubDate>Tue, 03 May 2016 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/20240502_Berta/index.html}</title>
+  <dc:creator>Pere caminal</dc:creator>
+  <link>https://b2slab.upc.edu/blog/posts/20240502_Berta/</link>
+  <description>{B4F502887207:/blog/posts/20240502_Berta/index.html}</description>
+  <guid>https://b2slab.upc.edu/blog/posts/20240502_Berta/</guid>
+  <pubDate>Tue, 03 May 2016 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>{B4F502887207:/blog/posts/20141009_mait/index.html}</title>
+  <dc:creator>Francesc Fernandez</dc:creator>
+  <link>https://b2slab.upc.edu/blog/posts/20141009_mait/</link>
+  <description>{B4F502887207:/blog/posts/20141009_mait/index.html}</description>
+  <guid>https://b2slab.upc.edu/blog/posts/20141009_mait/</guid>
+  <pubDate>Tue, 09 Sep 2014 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

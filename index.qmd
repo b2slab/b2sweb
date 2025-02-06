@@ -33,7 +33,7 @@ Our main three research lines are :
 - Methods in Bioinformatics, specially in metabolomics
 - Biomedical Engineeringb
 
-The Bioinformatics and Biomedical Signals Laboratory (B2SLab) at the Universitat Politècnica de Catalunya (UPC) focuses on the intersection of bioinformatics and biomedical signal processing. Their research encompasses areas such as computational modeling, machine learning, and data analysis applied to biological and medical data. 
+The Bioinformatics and Biomedical Signals Laboratory (B2SLab) at the Universitat Politècnica de Catalunya (UPC) focuses on the intersection of bioinformatics and biomedical signal processing. Our research encompasses areas such as computational modeling, machine learning, and data analysis applied to biological and medical data. 
 
 
 ### To get more information on who we are, please check:
