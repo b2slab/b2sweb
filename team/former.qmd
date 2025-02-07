@@ -1,5 +1,5 @@
 ---
-title: "Fornmer Members Team"
+title: "Former Members Team"
 format: html
 execute: 
   warning: false
