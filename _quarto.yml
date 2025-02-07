@@ -1,0 +1,151 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "b2slab"
+  image: "b2slab.png"
+  favicon: "favicon.png"
+  google-analytics: "G-0MLZX4BR2N"
+  open-graph: true
+  twitter-card: true
+  site-url: https://b2slab.upc.edu
+  repo-url: https://github.com/b2slab/b2sweb
+  issue-url: https://github.com/b2slab/b2sweb/issues/new/choose 
+  description: "Bioinformatics and Biomedical Signals Labotaory"
+  repo-actions: [edit, issue]
+  page-navigation: true
+  bread-crumbs: true
+  search:
+    show-item-context: true
+    type: overlay
+    algolia:
+      index-name: --
+      application-id: --
+      search-only-api-key: -- 
+      analytics-events: false
+      show-logo: false
+  page-footer:
+    left: |
+      A proud member of 
+      [![IRIS](https://www.duchenne-spain.org/wp-content/uploads/2020/02/CREB-UPC2-1024x181.png){fig-alt="IRIS" width=65px}](https://iris.upc.edu)
+    center:
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.md
+      - text: "Trademark"
+        href: trademark.qmd
+      - text: "Made with Quarto"
+        href: https://quarto.org
+    right:
+      - icon: mastodon
+        href: https://social.iris.upc.edu/@b2slab
+        rel: "me"
+        aria-label: b2lsab Mastodon
+      - icon: github
+        href: https://github.com/b2slab
+        aria-label: b2slab GitHub
+      - icon: twitter
+        href: https://bsky.app/profile/b2slab.social.iris.upc.edu.ap.brid.gy
+        rel: "me"
+        aria-label: b2slab bluesky account (Bridged to Mastodon)
+      - icon: rss
+        href: http://b2slab.upc.edu/blog/index.xml
+        aria-label: b2slab Blog RSS
+  navbar:
+#    background: light
+    logo: b2slab.png
+    logo-alt: "b2slab logo."
+    title: false
+    collapse-below: lg
+    left:
+      - text: "Overview"
+        href: index.qmd
+      - text: "Our Team"
+        href: team/index.qmd
+#      - text: "Projects"
+#        href: projects/index.qmd
+      - text: "Publications"
+        href: publications/index.qmd
+      - text: "Software"
+        href: software/index.qmd
+#      - text: "Open Positions"
+#        href: open-positions/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+      - text: "About"
+        href: about.qmd      # - text: "Help"
+      #   menu:
+      #     - text: "Report a Bug"
+      #       icon: "bug"
+      #       href: "https://github.com/albcn/b2sweb/issues"
+      #     - text: "Ask a Question"
+      #       icon: "chat-right-text"
+      #       href: "https://social.iris.upc.edu/@b2slab"
+      #     - text: "FAQ"
+      #       icon: "question-circle"
+      #       href: docs/faq/index.qmd
+    tools:
+      - icon: mastodon
+        href: https://social.iris.upc.edu/@b2slab
+        text: b2slab msatodon
+      - icon: github
+        href: https://github.com/b2slab
+        text: b2slab GitHub
+      - icon: rss
+        href: http://b2slab.upc.edu/blog/index.xml
+        text: b2slab Blog RSS
+
+  sidebar:
+    - id: team
+      title: "Team"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - team/index.qmd
+        - text: "Former Members"
+          href: team/former.qmd
+        - text: "Visiting fellows"
+          href: team/visiting.qmd
+        - text: "Group Pictures!"
+          href: team/current.qmd
+    - id: software
+      title: "Software and Tutorials"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - software/index.qmd
+        - text: "FELLA"
+          href: software/fella.qmd
+        - text: "diffuStats"
+          href: software/diffustats.qmd
+        - text: "MAIT"
+          href: software/mait.qmd
+        - text: "Intensity Drift Correction in LC/MS"
+          href: software/intcorr.qmd
+        - text: "Retention Time Correction in LC/MS"
+          href: software/rtcorr.qmd
+        - text: "multiview "
+          href: software/multiview.qmd
+        - text: "MISS"
+          href: software/miss.qmd
+        - text: "Chemosensors"
+          href: software/chemosensors.qmd
+
+
+format:
+  html:
+    theme:
+#      - cosmo
+       light: Sketchy
+       dark: darkly
+   
+#      - brand
+#    css: styles.css
+    toc: true
+
+editor: visual
+

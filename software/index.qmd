@@ -1,0 +1,15 @@
+---
+title: "Reproducible Research"
+format: html
+---
+
+At **b2slab**, we are committed to advancing **open science, reproducible research, and collaborative development** in computational biology, bioinformatics, and data science. We believe that scientific progress should be **transparent, verifiable, and accessible** to all.
+
+Our lab focuses on **developing open-source tools, sharing data, and creating reproducible workflows** to drive discoveries in health, biomedical engineering, and computational modeling. By leveraging open science principles, we ensure that our work can be used, extended, and improved by researchers worldwide.
+
+## Philosophy: Open Science & Reproducibility
+
+Our guiding principles include:
+
+-   Open-Source Development : All our software, code, and methodologies are publicly available under open licenses to encourage collaboration. Reproducible Science: We emphasize best practices in version control, containerized environments, and well-documented pipelines to ensure that results can be independently verified.
+-   FAIR Data Principles : Our datasets follow the Findable, Accessible, Interoperable, and Reusable (FAIR) framework, promoting transparency and usability. Community-Driven Research: We actively contribute to and collaborate with global open-source communities, scientific repositories, and interdisciplinary research teams.

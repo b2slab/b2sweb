@@ -1,0 +1,36 @@
+---
+title: "Fornmer Members Team"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+```{r, include=FALSE}
+cache_file <- "../doi_cache.json"
+
+source("functions.R")
+```
+
+## Former Staff
+
+```{r}
+#| output: asis
+CreateTeamSet("Former Staff")
+```
+
+## Former PhD Students
+
+```{r}
+#| output: asis
+CreateTeamSet("Former PhD Student")
+```
+
+## former students working in a Master thesis or degree thesis at b2slab
+
+```{r}
+#| output: asis
+
+CreateTeamSet("Former Master thesis / degree thesis")
+```

@@ -1,0 +1,41 @@
+---
+title: "Enrico Manzini"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+## Bio
+
+::: img-float
+![](images/photo_site.png){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Welcome to my page! My name is Enrico Manzini. I earned my Bachelor’s degree in Information Engineering from the University of Padua (UNIPD). I then participated in the T.I.M.E. Double Degree program, through which I obtained a Master’s degree in Biomedical Engineering (UNIPD, Padova, Italy) and a Master’s degree in Automatic Control & Robotics (UPC, Barcelona, Spain).
+
+Currently, I’m in the final stages of my PhD at B2SLab (legends say it actually does end someday!) under the supervision of Alex Perera. My research focuses on deep learning (DL) for Electronic Health Records (EHRs), modeling chronic diseases like Type 2 Diabetes and COPD, and predicting clinically relevant outcomes using various DL architectures (e.g., transformers, RNNs, ...).
+
+## Teaching
+
+Meanwhile, I contribute to teaching in the following courses:
+
+-   *Deep Learning Methods for Biomedicine*, a deep learning course at the Master’s degree in Biomedical Engineering at Universitat de Barcelona (UB).
+-   *Scientific Python for Data Analysis*, Python course for Data Analysis for the Aurora consortium of research intensive universities.
+
+## Publications
+
+A possibly incomplete and malformed list of publications is included below:
+
+```{r}
+cache_file <- "../../doi_cache.json"
+source("../../R/getpapers.R")
+# Define the RIS file URL
+ris_url <- "https://futur.upc.edu/RIS/EnricoManzini/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=ca"
+```
+
+```{r}
+#| output: asis
+paperstohtmlnodiv(ris_url)
+```

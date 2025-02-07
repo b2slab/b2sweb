@@ -1,0 +1,78 @@
+---
+title: "rtcorr"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: true
+  eval: false
+cache:
+  false
+---
+
+# Description of the `HCor` R Package
+
+The HCor package provides a set of functions for processing **Liquid Chromatography-Mass Spectrometry (LC/MS)** data, focusing on chromatogram drift correction, peak detection, and data normalization. It is designed to handle mass spectrometry chromatograms by adjusting retention times, correcting peak drift, and generating corrected chromatographic data.
+
+---
+
+## Key Functionalities
+The package consists of various functions aimed at correcting chromatographic drifts, handling chromatographic files, and processing raw LC/MS data. Below are the core functionalities:
+
+###  Chromatographic Data Handling
+- `files2Matrix()`: Reads chromatographic data from external files (e.g., mzXML, CDF) and converts them into a matrix format.
+- `printCDFfile()`: Writes corrected chromatographic data to new CDF files.
+- `cdfFileCreator()`: Generates CDF files from processed chromatographic data.
+
+### Chromatogram Drift Correction
+- `corrDrift()`: Applies drift correction to raw chromatographic data by fitting a hyperbolic model to compensate for retention time shifts.
+- `peakDrift()`: Computes peak drift for a given chromatographic peak and corrects retention time variability.
+- `peakDrifts()`: Applies peakDrift() to multiple peaks for batch correction.
+
+###  Peak Detection and Normalization
+- `setAnchorPeaks()`: Selects anchor peaks for drift correction by allowing users to visually choose retention time intervals.
+- `squares()`: Computes the sum of squares of deviations to optimize drift correction parameters.
+
+### Processing of Corrected Data
+- `peakDrifts()`: Computes drift corrections across multiple peaks and generates corrected chromatographic datasets.
+- `cdfFileCreator()`: Outputs corrected chromatographic data to CDF files.
+
+---
+
+## How `HCor` Works
+1. Load the package and input data (e.g., mzXML files).
+2. Convert chromatographic data into a matrix format (`files2Matrix`).
+3. Correct chromatographic drift by detecting and correcting peak shifts (`corrDrift`, `peakDrift`).
+4. Optimize retention time alignment (`squares` function minimizes drift errors).
+5. Generate corrected chromatographic files for further analysis (`printCDFfile`, `cdfFileCreator`).
+
+---
+
+## Use Case: Correcting Drift in LC/MS Data
+```{r}
+# Load necessary libraries
+library(HCor)
+
+
+
+# Convert mzXML chromatograms to matrix format
+dataMatrix <- files2Matrix(dataDir = "path/to/mzXML/files")
+
+# Set anchor peaks for drift correction
+anchorPeaks <- setAnchorPeaks(dataMatrix, nAnchorPeaks = 3)
+
+# Compute drift correction
+correctedData <- corrDrift(chromatogramsMatrix = dataMatrix, peakDriftsList = anchorPeaks)
+
+# Save corrected data as CDF files
+cdfFileCreator(dataMatrix = correctedData, dir2print = "corrected_chromatograms", dataDir = "path/to/output")
+```
+
+---
+
+## Download
+- Download compressed files for Retention Time Drift Correction in LC/MS:  [HCor_1.01.tar.gz](downloads/HCor_1.01.tar.gz)
+
+
+## Conclusion
+The HCor package is a powerful tool for handling chromatographic drift correction in LC/MS data, allowing researchers to correct retention time shifts, improve peak detection, and generate normalized chromatographic files. 🚀

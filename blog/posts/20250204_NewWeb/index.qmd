@@ -1,0 +1,23 @@
+---
+title: "We have a new website!"
+description: "Oh, suprise!, we have coded the web in Markdown/Quarto"
+author: "b2slab Team"
+date: "02/04/2025"
+date-modified: "02/04/2025"
+---
+
+## Welcome to our new website!!
+
+::: img-float
+![](web.png){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+After a long time without updating ([although busy doing stuff](https://b2slab.upc.edu/publications/)) we have updated our site. The approach of the update of course is try to reduce the maintenance time and add interoperativity with the University bibliographic system at [futur](https://futur.upc.edu) so that our publication list is always updated (or more often updated).
+
+So now the website pulls the team info from the linked google spreadsheet and it also pulls the publications list from [futur.upc.edu](https://futur.upc.edu/B2SLab) at build.
+
+The website is coded with [quarto](https:/quarto.org). This means that it is essentially build with [Markdown](https://daringfireball.net/projects/markdown/). We thank the team of [posit.co](https://posit.co) and [quarto](https://quarto.org) for building this nice tools.
+
+This is kind of following the philosophy of [org-mode](https://orgmode.org) which [Àlex](http://b2slab.upc.edu/team/alexandre-perera-lluna/) has been using for building slides and teaching material during the last years. This allows us to mix python/R and other code for building reports, papers and slides in a [reproducible approach](https://en.wikipedia.org/wiki/Reproducibility) and [open science](https://en.wikipedia.org/wiki/Open_science).
+
+Thanks for reading!

@@ -1,0 +1,17 @@
+TY - CONF
+TI - An'alisis no supervisado de registros de salud de COVID-19 mediante grafos y aprendizaje profundo
+PY - 2024
+AB - El uso de grafos para analizar datos m'edicos permite representar la informaci'on como una red de nodos y conexiones. Esta t'ecnica se aplica en varios campos por su capacidad de capturar relacio- nes complejas entre elementos. En este estudio, proponemos utili- zar grafos ac'iclicos dirigidos para representar la jerarqu'ia de los c'odigos de diagn'osticos ICD-10. Analizamos una base de datos que contiene informaci'on de casi 1,5 millones de usuarios del sistema de salud p'ublico catal'an. El criterio de inclusi'on es un diagn'ostico de Covid-19 entre el 01/01/2019 y el 01/09/2021. Disponemos del historial m'edico completo de cada paciente, as'i como otros datos demogr'aficos. Utilizamos un algoritmo de aprendizaje autom'atico no supervisado para aprender representaciones de los grafos de una subpoblaci'on de aproximadamente 50.000 pacientes, poniendo el foco sobre la poblaci'on con diabetes. El an'alisis del grueso de la poblaci'on total ilustra la distribuci'on de diagn'osticos, con una me- dia de 4,6 diagn'osticos 'unicos por paciente y una profundidad me- dia de los c'odigos ICD-10 de 4,4, siendo 7 la m'axima profundidad posible. Los resultados de la aplicaci'on del algoritmo al subcon- junto de individuos muestran una manera innovadora de resumir los datos de los pacientes y plantea potenciales investigaciones fu- turas en la predicci'on de trayectorias cl'inicas.
+AB - Este trabajo ha sido apoyado por la Beca PID2021-122952OB-I00 financiada por la AEI 10.13039/501100011033 y por el ERDF A way of ma- king Europe; Centro de Investigaci'on Biom'edica en Red in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), iniciativas del Instituto de Investigaci'on Carlos III (ISCIII); ISCIII (beca AC22/00035); y el Programa CERCA / Generalitat de Catalunya. B2SLab est'a certificado como 2021 SGR 01052. JF agradece el Plan Serra H'unter.
+AB - Peer Reviewed
+AB - Postprint (published version)
+UR - http://hdl.handle.net/2117/420599
+SP - 685
+Y1 - 2024
+T3 - XLII Congreso Anual de la Sociedad Espa~nola de Ingenier'ia Biom'edica
+T2 - Congreso Anual de la Sociedad Espa~nola de Ingenier'ia Biom'edica
+PB - Sociedad Espa~nola de Ingenier'ia Biom'edica (SEIB)
+AU - Gelabert, J.
+AU - Fonollosa, J.
+AU - Perera, A.
+

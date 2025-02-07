@@ -1,0 +1,1727 @@
+TY - MGZN
+DO - 10.3390/nu16213607
+TI - Mediterranean diet is a predictor of progression of subclinical atherosclerosis in a mediterranean population: the ILERVAS prospective cohort study
+AB - Atherosclerotic cardiovascular disease remains a major health issue, often developing silently as subclinical atherosclerotic disease (SAD). The Mediterranean diet (MDiet) is known for its cardiovascular benefits, but the combined influence of both MDiet adherence and physical activity (PA) on SAD progression has not been previously documented. Objective: We aimed to investigate how adherence to a healthy lifestyle, defined as MDiet adherence and PA level, influences SAD progression in subjects from the ILERVAS cohort follow-up. Methods: A study on 3097 participants from the ILERVAS prospective cohort was conducted. MDiet adherence was assessed using the MEDAS score, and PA categories were established using the IPAQ, both categorized into low, moderate, and high levels. Two different lifestyle scores integrating the MDiet and PA categories were built. The presence of atherosclerotic plaques was assessed by carotid and femoral ultrasound examination. Demographic, clinical, and biochemical data were also obtained. Multivariable linear, logistic, and Poisson regression models adjusted for potential confounders were used to analyze the association between the lifestyle scores and SAD progression, as well as the MDiet and PA as separate variables and number of territories with plaque. Results: A healthier lifestyle score did not show an effect on SAD progression. However, a higher MEDAS score was associated with a 3% decrease in the number of territories with plaque (IRR 0.97, 95% CI 0.96-0.99, p < 0.001), suggesting a protective effect of the adherence to the MDiet. PA did not show a significant association (IRR 1.00, 95% CI 1.00-1.00, p = 0.269). Older age, hypertension, dyslipidemia, smoking, and lower eGFR were associated with SAD progression, while the female sex was protective (IRR 0.67, 95% CI 0.63-0.72, p < 0.001). Conclusions: The findings of this study show that higher adherence to the MDiet is associated with reduced incidence of SAD, indicating its potential role in cardiovascular prevention strategies. Although a higher lifestyle score or physical activity levels did not show any significant effect, promoting the MDiet, alongside managing traditional cardiovascular risk factors, could be an effective public health intervention to prevent atherosclerosis and reduce the burden of cardiovascular disease.
+AB - This research was supported by the CIBER-Consorcio Centro de Investigaci'on Biom'edica en Red-(CB15/00071), Instituto de Salud Carlos III, Ministerio de Ciencia e Innovaci'on, Spain. M.I.R.-L. holds a predoctoral grant SLT017/20/000107 from Pla Estrat`egic de Recerca i Innovaci'o en Salut (PERIS) 2021-2024 of Generalitat de Catalunya. JJ has received financial support from the Agencia Estatal de Investigaci'on MCIN/AEI/10.13039/501100011033 and the European Union "NextGeneration EU"/PRTR) within the action "Consolidaci'on Investigadora 2022" (CNS2022-135559) and Ministerio de Sanidad y Consumo, Instituto de Salud Carlos III (Madrid, Spain), grant PI21/00770 (to J.J.), FEDER "Una manera de hacer Europa". M Berm'udez-L'opez holds a postdoctoral grant funded by the Ministerio de Ciencia, Innovaci'on y Universidades (IJC2018-037792-I). This research was also funded by the Ministerio de Ciencia, Innovaci'on y Universidades (grant PID2023-152233OB-I00, co-funded by the European Regional Development Fund, "A way to build Europe"), and the Generalitat of Catalonia: Agency for Management of University and Research Grants (2021SGR00990) and Department of Health (SLT002/16/00250) to R.P. This work was supported by grants from the Diputaci'o de Lleida, Instituto de Salud Carlos III (RETIC RD16/0009/0011). This work was also supported by the Grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by ERDF A way of making Europe; the Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigaci'on Carlos III (ISCIII); ISCIII (grant AC22/00035); and the CERCA Programme/Generalitat de Catalunya. B2SLab is certified as 2021 SGR 01052. Institut d'Investigaci'o Biom`edica Sant Pau and Biomedical Research Institute's Dr. Pifarr'e Foundation from Lleida (IRBLleida) are accredited by the Generalitat de Catalunya as Centre de Recerca de Catalunya (CERCA).
+AB - Peer Reviewed
+AB - Postprint (published version)
+AB - Membres del ILERVAS project: 
+Eva Miquel, Marta Ortega, Ferran Barb'e, Jessica Gonz'alez, Silvia Barril, Manuel S'anchez-de-la-Torre, Manuel Portero-Ot'in, Mariona Jov'e, Marta Hern'andez, Ferran Rius, Pere Godoy and Montse Martinez-Alonso.
+Y1 - 2024
+UR - https://www.mdpi.com/2072-6643/16/21/3607
+UR - http://hdl.handle.net/2117/418444
+UR - https://pubmed.ncbi.nlm.nih.gov/39519440/
+VL - 16
+IS - 21, article 3607
+T2 - Nutrients
+AU - Rojo-L'opez, M.
+AU - Bermudez, M.
+AU - Castro, E.
+AU - Farr`as, C.
+AU - Torres, G.
+AU - Pamplona, R.
+AU - Lecube, A.
+AU - Valdivieso, J.
+AU - Fern'andez, E.
+AU - Julve, J.
+AU - Castelblanco, E.
+AU - Alonso, N.
+AU - Antentas, M.
+AU - Barranco, M.
+AU - Perera, A.
+AU - Franch, J.
+AU - Granado-Casas, M.
+AU - Mauricio Puente, D'idac
+
+TY - MGZN
+DO - 10.1093/clinchem/hvae139
+TI - Cerebrospinal fluid homovanillic and 5-hydroxyindoleacetic acids in a large pediatric population; establishment of reference intervals and impact of disease and medication
+AB - Background Cerebrospinal fluid (CSF) homovanillic (HVA), and 5-hydroxyindoleacetic acids (5-HIAA) are biomarkers of neurological diseases affecting the dopaminergic and serotoninergic pathways. Establishing reference intervals for these metabolites faces the challenges of a lack of healthy controls and a negative correlation with age, making stratified intervals unrealistic. We propose a pipeline to determine continuous reference intervals for HVA and 5-HIAA using an indirect method. We also studied the confounding effects of different variables and explored the impact of antiepileptic and neuroleptic treatments on HVA and 5-HIAA values. Methods The study used least squares regression to fit age-concentration curves from a cohort of pediatric patients (n = 1533), where the residuals represent metabolite values excluding age effect. Presuming that HVA and 5-HIAA primary deficiencies characterize a distinct subpopulation, we fitted a two-component finite mixture model in age-normalized data and set reference intervals at the central 95% of the nondeficient population. Results Patients with primary genetic deficiencies of HVA and/or 5-HIAA consistently fall outside the proposed continuous reference intervals. Using the new continuous reference intervals reduces the number of secondary deficiencies detected compared with using stratified values. No correlations were observed between CSF HVA and 5-HIAA values across the studied drug categories (antiseizure and neuroleptic medications). In addition, biopterin values positively influenced both metabolite concentrations. Conclusion The proposed continuous reference intervals caused a substantial reduction in the number of secondary deficiencies detected, most of which demonstrated no conclusive correlations between the diseases and altered HVA and 5-HIAA values.
+AB - Peer Reviewed
+AB - Postprint (updated version)
+Y1 - 2024
+UR - https://academic.oup.com/clinchem/article-abstract/70/12/1443/7781974?redirectedFrom=fulltext
+UR - http://hdl.handle.net/2117/419967
+VL - 70
+IS - 12
+EP - 1443
+SP - 1451
+T2 - Clinical chemistry
+AU - Rodr'iguez, H.
+AU - Ormaz'abal, A.
+AU - Casado, M.
+AU - Arias, A.
+AU - Oliva, C.
+AU - Barranco, M.
+AU - Casadevall, R.
+AU - Garc'ia, F.
+AU - Nascimento, A.
+AU - Ortez, C.
+AU - Natera, D.
+AU - Armangu'e, T.
+AU - O'Callaghan, M.
+AU - Juli'a, N.
+AU - Darling, A.
+AU - Ortigoza, J.
+AU - Fons, C.
+AU - Garc'ia-Cazorla, 'A.
+AU - Perera, A.
+AU - Artuch, R.
+
+TY - MGZN
+DO - 10.1186/s12933-024-02202-5
+TI - Lipidome characterisation and sex-specific differences in type 1 and type 2 diabetes mellitus
+AB - Background: In this study, we evaluated the lipidome alterations caused by type 1 diabetes (T1D) and type 2 diabetes (T2D), by determining lipids significantly associated with diabetes overall and in both sexes, and lipids associated with the glycaemic state. Methods: An untargeted lipidomic analysis was performed to measure the lipid profiles of 360 subjects (91 T1D, 91 T2D, 74 with prediabetes and 104 controls (CT)) without cardiovascular and/or chronic kidney disease. Ultra-high performance liquid chromatography-electrospray ionization mass spectrometry (UHPLC-ESI-MS) was conducted in two ion modes (positive and negative). We used multiple linear regression models to (1) assess the association between each lipid feature and each condition, (2) determine sex-specific differences related to diabetes, and (3) identify lipids associated with the glycaemic state by considering the prediabetes stage. The models were adjusted by sex, age, hypertension, dyslipidaemia, body mass index, glucose, smoking, systolic blood pressure, triglycerides, HDL cholesterol, LDL cholesterol, alternate Mediterranean diet score (aMED) and estimated glomerular filtration rate (eGFR); diabetes duration and glycated haemoglobin (HbA1c) were also included in the comparison between T1D and T2D. Results: A total of 54 unique lipid subspecies from 15 unique lipid classes were annotated. Lysophosphatidylcholines (LPC) and ceramides (Cer) showed opposite effects in subjects with T1D and subjects with T2D, LPCs being mainly up-regulated in T1D and down-regulated in T2D, and Cer being up-regulated in T2D and down-regulated in T1D. Also, Phosphatidylcholines were clearly down-regulated in subjects with T1D. Regarding sex-specific differences, ceramides and phosphatidylcholines exhibited important diabetes-associated differences due to sex. Concerning the glycaemic state, we found a gradual increase of a panel of 1-deoxyceramides from normoglycemia to prediabetes to T2D. Conclusions: Our findings revealed an extensive disruption of lipid metabolism in both T1D and T2D. Additionally, we found sex-specific lipidome changes associated with diabetes, and lipids associated with the glycaemic state that can be linked to previously described molecular mechanisms in diabetes.
+AB - This work was funded by Spanish Ministry of Health, Instituto de Salud Carlos III (Madrid, Spain) grants PI15/0625 (to DM and EC), PI17/01362 (to NA), PI18/0328 (to DM), FEDER "Una manera de hacer Europa", and by Fundaci'o La Marat'o de TV3 2016 (303/C/2016) (201602.30.31) (to NA). Spanish Ministry of Economy and Competitiveness, grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by ERDF A way of making Europe, Instituto de Salud Carlos III (grant AC22/00035); and the CERCA Programme / Generalitat de Catalunya (to AP). This research was supported by CIBER-Consorcio Centro de Investigaci'on Biom`edica en Red-CIBERDEM (leading group CB15/00071) and Biomedical Research Networking Center in Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Instituto de Salud Carlos III, Ministry of Science and Innovation. Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau is accredited by the Generalitat de Catalunya as Centre de Recerca de Catalunya (CERCA). B2SLab is certified as 2021 SGR 01052.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2024
+UR - https://cardiab.biomedcentral.com/articles/10.1186/s12933-024-02202-5
+UR - http://hdl.handle.net/2117/406178
+VL - 23
+IS - article 109
+T2 - Cardiovascular diabetology
+AU - Barranco, M.
+AU - Alonso, N.
+AU - Weber, R.
+AU - Lloyd, G.
+AU - Hern'andez, M.
+AU - Yanes, 'O.
+AU - Capellades, J.
+AU - Jankevics, A.
+AU - Winder, C.
+AU - Falguera, M.
+AU - Franch, J.
+AU - Dunn, W.
+AU - Perera, A.
+AU - Castelblanco, E.
+AU - Mauricio Puente, D'idac
+
+TY - MGZN
+DO - 10.3390/ijms25063502
+TI - Use of enzymatically converted cell-free DNA (cfDNA) data for copy number variation-linked fragmentation analysis allows for early colorectal cancer detection
+AB - The use of non-invasive liquid biopsy-based cell-free DNA (cfDNA) analysis is an emerging method of cancer detection and intervention. Different analytical methodologies are used to investigate cfDNA characteristics, resulting in costly and long analysis processes needed for combining different data. This study investigates the possibility of using cfDNA data converted for methylation analysis for combining the cfDNA fragment size with copy number variation (CNV) in the context of early colorectal cancer detection. Specifically, we focused on comparing enzymatically and bisulfite-converted data for evaluating cfDNA fragments belonging to chromosome 18. Chromosome 18 is often reported to be deleted in colorectal cancer. We used counts of short and medium cfDNA fragments of chromosome 18 and trained a linear model (LDA) on a set of 2959 regions to predict early-stage (I-IIA) colorectal cancer on an independent test set. In total, 87.5% sensitivity and 92% specificity were obtained on the enzymatically converted libraries. Repeating the same workflow on bisulfite-converted data yielded lower accuracy results with 58.3% sensitivity, implying that enzymatic conversion preserves the cancer fragmentation footprint in whole genome data better than bisulfite conversion. These results could serve as a promising new avenue for the early detection of colorectal cancer using fragmentation and methylation approaches on the same datasets.
+Y1 - 2024
+UR - https://www.mdpi.com/1422-0067/25/6/3502
+UR - http://hdl.handle.net/2117/423334
+VL - 25
+IS - 6, article 3502
+T2 - International journal of molecular sciences
+AU - Canal, P.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1007/s11357-023-00946-8
+TI - Intrinsic functional brain connectivity changes following aerobic exercise, computerized cognitive training, and their combination in physically inactive healthy late-middle-aged adults: the Projecte Moviment
+AB - Lifestyle interventions have positive neuroprotective effects in aging. However, there are still open questions about how changes in resting-state functional connectivity (rsFC) contribute to cognitive improvements. The Projecte Moviment is a 12-week randomized controlled trial of a multimodal data acquisition protocol that investigated the effects of aerobic exercise (AE), computerized cognitive training (CCT), and their combination (COMB). An initial list of 109 participants was recruited from which a total of 82 participants (62% female; age?=?58.38?+/-?5.47) finished the intervention with a level of adherence?>?80%. Only in the COMB group, we revealed an extended network of 33 connections that involved an increased and decreased rsFC within and between the aDMN/pDMN and a reduced rsFC between the bilateral supplementary motor areas and the right thalamus. No global and especially local rsFC changes due to any intervention mediated the cognitive benefits detected in the AE and COMB groups. Projecte Moviment provides evidence of the clinical relevance of lifestyle interventions and the potential benefits when combining them.
+AB - Open Access funding provided thanks to the CRUE-CSIC agreement with Springer Nature. Projecte Moviment is a project funded by the Spanish Ministry of Economy and Competitiveness under two grants: Neuroplasticity in the adulthood: physical exercise and cognitive training (PSI2013-47724-P) and Integrative omics study on the neurobiological effects of physical activity and cognitive stimulation (PSI2016-77475-R). It has also been rewarded with three pre-doctoral fellowships (FPU014/01460, FI-2016, and FI-2018). It was supported by the ICREA Academia Program to MM.
+AB - SID is supported by a Beatriu de Pin'os
+fellowship (2020 BP 00116). This work was supported by the
+Spanish Ministry of Economy and Competitiveness (www.
+mineco.gob.es) PID2021-122952OB-I00, Networking Biomedical Research Centre in the subject area of Bioengineering,
+Biomaterials and Nanomedicine (CIBER-BBN), initiatives of
+Instituto de Investigaci'on Carlos III (ISCIII), and Share4Rare
+project (Grant Agreement 780262).
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2023
+UR - https://link.springer.com/article/10.1007/s11357-023-00946-8
+UR - http://hdl.handle.net/2117/396425
+VL - 46
+EP - 573
+SP - 596
+T2 - GeroScience
+PB - Springer Nature
+AU - Dimitriadis, S.
+AU - Castells, A.
+AU - Roig, F.
+AU - Dacosta, R.
+AU - Lamonja, N.
+AU - Toran, P.
+AU - Garc'ia, A.
+AU - Monte, G.
+AU - Stillman, C.
+AU - Perera, A.
+AU - Mataro-Serrat, M.
+
+TY - MGZN
+DO - 10.1016/j.snb.2023.134036
+TI - Home monitoring for older singles: A gas sensor array system
+AB - Many residential environments have been equipped with sensing technologies both to provide assistance to older people who have opted for aging-in-place and to provide information to caregivers and family. However, such technologies are often accompanied by physical discomfort, privacy concerns, and complexity of use. We explored the feasibility of monitoring home activity using chemical sensors that pose fewer privacy concerns than, for example, video-cameras and which do not suffer from blind spots. We built a monitoring device that integrates a sensor array and IoT capabilities to gather the necessary data about a resident in his/her living space. Over a period of 3 months, we uninterruptedly measured the living space of a typical elder person living on his/her own. To record the level of activity during the same period and obtain a ground truth for the activity, a set of motion sensors were also deployed in the house. Home activity was extracted from a PCA space moving-window which translated sensor data into the event space; this also compensated for environmental and sensor drift. Our results show that it is possible to monitor the person's home activity and detect sudden deviations from it using a low-cost, non-invasive, system based on gas sensors that gather data on the air composition in the living space. We made the dataset publicly available at https://archive.ics.uci.edu/ml/index.php2.
+AB - This work was supported by the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) PID2021-122952OB-I00, DPI2017-89827-R, Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigaci'on Carlos III (ISCIII), Share4Rare project (Grant Agreement 780262), ISCIII (grant AC22/00035), ACCI'O (grant Innotec ACE014/20/000018) and Pla de Doctorats Industrials de la Secretaria d'Universitats i Recerca del Departament d'Empresa i Coneixement de la Generalitat de Catalunya (2022 DI 014), and the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie (grant No. 101029808). JF also acknowledges the CERCA Program/Generalitat de Catalunya and the Serra H'unter Program. B2SLab is certified as 2017 SGR 952.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2023
+UR - https://www.sciencedirect.com/science/article/pii/S0925400523007517
+UR - http://hdl.handle.net/2117/388879
+VL - 393
+IS - article 134036
+T2 - Sensors and actuators B. Chemical
+PB - Elsevier
+AU - Mar'in, D.
+AU - Llano, J.
+AU - Haddi, Z.
+AU - Perera, A.
+AU - Fonollosa, J.
+
+TY - MGZN
+DO - 10.1016/j.isci.2023.107598
+TI - EpiGe: A machine-learning strategy for rapid classification of medulloblastoma using PCR-based methyl-genotyping
+AB - Molecular classification of medulloblastoma is critical for the treatment of this brain tumor. Array-based DNA methylation profiling has emerged as a powerful approach for brain tumor classification. However, this technology is currently not widely available. We present a machine-learning decision support system (DSS) that enables the classification of the principal molecular groups-WNT, SHH, and non-WNT/non-SHH-directly from quantitative PCR (qPCR) data. We propose a framework where the developed DSS appears as a user-friendly web-application-EpiGe-App-that enables automated interpretation of qPCR methylation data and subsequent molecular group prediction. The basis of our classification strategy is a previously validated six-cytosine signature with subgroup-specific methylation profiles. This reduced set of markers enabled us to develop a methyl-genotyping assay capable of determining the methylation status of cytosines using qPCR instruments. This study provides a comprehensive approach for rapid classification of clinically relevant medulloblastoma groups, using readily accessible equipment and an easy-to-use web-application.
+AB - The study was supported by Associations of Parents and Families of Children with Cancer and by funding of the Spanish Ministry of for Science, Innovation and University (grant PI20/00519; PI CL) and the Foundation La Marat'o TV3 (grant 201921-30; PI CL). We acknowledge the multidisciplinary team who helped in the molecular analyses and care of patients, and the BioBank Hospital Sant Joan de D'eu of the Spanish BioBank Network for sample procurement. We also acknowledge Marta Fortuny for communication strategy advice and Eduard Puig for legal assistance and data protection regulations. Authors acknowledge the SJD Fundraising Team.
+AB - Peer Reviewed
+AB - Postprint (published version)
+AB - Article signat per 23 autors/es: Soledad G'omez-Gonz'alez, Joshua Llano, Marta Garcia, Alicia Garrido-Garcia, Mariona Su~nol, Isadora Lemos, Sara Perez-Jaume, Noelia Salvador, Nagore Gene-Olaciregui, Raquel Arnau Gal'an, Vicente Santa-Mar'ia, Marta Perez-Somarriba, Alicia Casta~neda, Jos'e Hinojosa, Ursula Winter, Francisco Barbosa Moreira, Fabiana Lubieniecki, Valeria Vazquez, Jaume Mora, Ofelia Cruz, Andr'es Morales La Madrid, Alexandre Perera, Cinzia Lavarino.
+Y1 - 2023
+UR - https://www.sciencedirect.com/science/article/pii/S2589004223016759
+UR - http://hdl.handle.net/2117/393599
+VL - 26
+IS - 9, article 107598
+T2 - iScience
+PB - Elsevier
+AU - G'omez S.
+AU - Llano, J.
+AU - Garc'ia, M.
+AU - Garrido, A.
+AU - Su~nol, M.
+AU - Lemos, I.
+AU - P'erez, S.
+AU - Salvador, N.
+AU - Gene, N.
+AU - Arnau, R.
+AU - Santa Mar'ia, V.
+AU - Perez, M.
+AU - Perera, A.
+AU - Mora, J.
+AU - Morales, A.
+AU - Lavarino, C.
+
+TY - MGZN
+DO - 10.1016/j.eswa.2022.117446
+TI - Mapping layperson medical terminology into the Human Phenotype Ontology using neural machine translation models
+AB - In the medical domain there exists a terminological gap between patients and caregivers and the healthcare professionals. This gap may hinder the success of the communication between healthcare consumers and professionals in the field, with negative emotional and clinical consequences. In this work, we build a machine learning-based tool for the automatic translation between the terminology used by laypeople and that of the Human Phenotype Ontology (HPO). HPO is a structured vocabulary of phenotypic abnormalities found in human disease. Our method uses a vector space to represent an HPO-specific embedding as the output space for a neural network model trained on vector representations of layperson versions and other textual descriptors of medical terms. We explored different output embeddings coupled to different neural network architectures for the machine translation stage. We compute a similarity measure to evaluate the ability of the model to assign an HPO term to a layperson input. The best-performing models resulted with a similarity higher than 0.7 for more than 80% of the terms, with a median between 0.98 and 1. The translator model is made available in a web application at this link: https://hpotranslator.b2slab.upc.edu.
+AB - Supplementary material related to this article can be found online at https://doi.org/10.1016/j.eswa.2022.117446.
+AB - This work was supported by the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) TEC2014-60337-R, DPI2017-89827-R, Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigaci'on Carlos III (ISCIII), and Share4Rare project (Grant Agreement 780262). This work was partially funded by ACCI'O (Innotec ACE014/20/000018). B2SLab is certified as 2017 SGR 952. The authors thank the NVIDIA Corporation for the donation of a Titan Xp GPU used to run the models presented in this article. J. Fonollosa acknowledges the support from the Serra H'unter program.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2022
+UR - https://www.sciencedirect.com/science/article/pii/S0957417422007813
+UR - http://hdl.handle.net/2117/372351
+UR - https://dl.acm.org/doi/abs/10.1016/j.eswa.2022.117446
+VL - 204
+IS - C
+EP - 117446:1
+SP - 117446:9
+T2 - Expert systems with applications
+AU - Manzini, E.
+AU - Garrido, J.
+AU - Fonollosa, J.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.jbi.2022.104218
+TI - Longitudinal deep learning clustering of Type 2 Diabetes Mellitus trajectories using routinely collected health records
+AB - Type 2 diabetes mellitus (T2DM) is a highly heterogeneous chronic disease with different pathophysiological and genetic characteristics affecting its progression, associated complications and response to therapies. The advances in deep learning (DL) techniques and the availability of a large amount of healthcare data allow us to investigate T2DM characteristics and evolution with a completely new approach, studying common disease trajectories rather than cross sectional values. We used an Kernelized-AutoEncoder algorithm to map 5 years of data of 11,028 subjects diagnosed with T2DM in a latent space that embedded similarities and differences between patients in terms of the evolution of the disease. Once we obtained the latent space, we used classical clustering algorithms to create longitudinal clusters representing different evolutions of the diabetic disease. Our unsupervised DL clustering algorithm suggested seven different longitudinal clusters. Different mean ages were observed among the clusters (ranging from 65.3+/-11.6 to 72.8+/-9.4). Subjects in clusters B (Hypercholesteraemic) and E (Hypertensive) had shorter diabetes duration (9.2+/-3.9 and 9.5+/-3.9 years respectively). Subjects in Cluster G (Metabolic) had the poorest glycaemic control (mean glycated hemoglobin 7.99+/-1.42%), while cluster E had the best one (mean glycated hemoglobin 7.04+/-1.11%). Obesity was observed mainly in clusters A (Neuropathic), C (Multiple Complications), F (Retinopathy) and G. A dashboard is available at dm2.b2slab.upc.edu to visualize the different trajectories corresponding to the 7 clusters.
+AB - This work was supported by the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) TEC2014-60337-R, DPI2017-89827-R, Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Spain , initiatives of Instituto de Investigaci'on Carlos III (ISCIII), and Share4Rare project (Grant Agreement 780262). This study was possible thanks to the commitment of physicians and nurses working in the Catalan Health Institute to provide optimal care to patients with diabetes. CIBER of Diabetes and Associated Metabolic Diseases (CIBERDEM) is an initiative from Instituto de Salud Carlos III, Madrid, Spain. This analysis is part of the DiaCare Project of Novo Nordisk and the Fundaci'o TicSalut (Departament de Salut, Generalitat de Catalunya), in collaboration with Grupo Pulso, for the benefit of people with type 2 diabetes.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2022
+UR - https://www.sciencedirect.com/science/article/pii/S1532046422002234
+UR - http://hdl.handle.net/2117/374733
+VL - 135
+IS - Article 104218
+EP - 1
+SP - 9
+T2 - Journal of biomedical informatics
+AU - Manzini, E.
+AU - Vlacho, B.
+AU - Franch, J.
+AU - Escudero, J.
+AU - G'enova, A.
+AU - Reixach-Espaulella, E.
+AU - Andr'es, E.
+AU - Pizarro, I.
+AU - Portero, J.
+AU - Mauricio Puente, D'idac
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1007/978-1-0716-2699-3_20
+TI - Data processing and analysis in mass spectrometry-based metabolomics
+AB - Metabolomics is the latest of the omics sciences. It attempts to measure and characterize metabolites-small chemical compounds <1500 Da-on cells, tissue, or biofluids, which are usually products of biological reactions. As metabolic reactions are closer to the phenotype, metabolomics has emerged as an attractive science for various areas of research, including personalized medicine. However, due to the complexity of data obtained and the absence of curated databases for metabolite identification, data processing is the major bottleneck in this area since most technicians lack the required bioinformatics expertise to process datasets in a reliable and fast manner. The aim of this chapter is to describe the available tools for data processing that makes an inexperienced researcher capable of obtaining reliable results without having to undergo through huge parametrization steps.
+Y1 - 2022
+UR - https://link.springer.com/protocol/10.1007/978-1-0716-2699-3_20
+VL - 2571
+EP - 207
+SP - 239
+T2 - Methods in Molecular Biology
+AU - Peralbo, 'A.
+AU - Sol`a, P.
+AU - Perera, A.
+AU - Chicano, E.
+
+TY - MGZN
+DO - 10.1016/j.tmp.2022.100948
+TI - #CoronavirusCruise: Impact and implications of the COVID-19 outbreaks on the perception of cruise tourism
+AB - Early in the COVID-19 pandemic, the Diamond Princess became the center of the largest outbreak outside the original epicenter in China. This outbreak which left 712 passengers infected and 14 dead, followed by subsequent outbreaks affecting over one-third of the active ships in the cruise industry's global fleet, quickly became a crisis that captured public attention and dominated mainstream news and social media. This study investigates the perception of cruising during these outbreaks by analyzing the tweets on cruising using Natural Language Processing (NLP). The findings show a prevalent negative sentiment in most of the analyzed tweets, while the criticisms directed at the cruise industry were based on perceptions and stereotypes of the industry before the pandemic. The study provides insight into the concerns raised in these conversations and highlights the need for new business models outside the pre-pandemic mass-market model and to genuinely make cruising more environmentally friendly.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2022
+UR - https://pubmed.ncbi.nlm.nih.gov/35165650/
+UR - http://hdl.handle.net/2117/363286
+VL - 41
+EP - 100948:1
+SP - 100948:15
+T2 - Tourism Management Perspectives
+AU - Hern'andez-Lara, A.
+AU - Abubakr, B.
+AU - Sanchez-Rebull, M.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.3389/fpubh.2021.746052
+TI - How did the COVID-19 lockdown affect children and adolescent's well-being: Spanish parents, children, and adolescents respond
+AB - Background: During the COVID-19 pandemic, lockdown strategies have been widely used to contain SARS-CoV-2 virus spread. Children and adolescents are especially vulnerable to suffering psychological effects as result of such measures. In Spain, children were enforced to a strict home lockdown for 42 days during the first wave. Here, we studied the effects of lockdown in children and adolescents through an online questionnaire. Methods: A cross-sectional study was conducted in Spain using an open online survey from July (after the lockdown resulting from the first pandemic wave) to November 2020 (second wave). We included families with children under 16 years-old living in Spain. Parents answered a survey regarding the lockdown effects on their children and were instructed to invite their children from 7 to 16 years-old (mandatory scholar age in Spain) to respond a specific set of questions. Answers were collected through an application programming interface system, and data analysis was performed using R. Results: We included 1,957 families who completed the questionnaires, covering a total of 3,347 children. The specific children's questionnaire was completed by 167 kids (7-11 years-old), and 100 adolescents (12-16 years-old). Children, in general, showed high resilience and capability to adapt to new situations. Sleeping problems were reported in more than half of the children (54%) and adolescents (59%), and these were strongly associated with less time doing sports and spending more than 5 h per day using electronic devices. Parents perceived their children to gain weight (41%), be more irritable and anxious (63%) and sadder (46%). Parents and children differed significantly when evaluating children's sleeping disturbances. Conclusions: Enforced lockdown measures and isolation can have a negative impact on children and adolescent's mental health and well-being. In future waves of the current pandemic, or in the light of potential epidemics of new emerging infections, lockdown measures targeting children, and adolescents should be reconsidered taking into account their infectiousness potential and their age-specific needs, especially to facilitate physical activity and to limit time spent on electronic devices.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://www.frontiersin.org/articles/10.3389/fpubh.2021.746052/full
+UR - http://hdl.handle.net/2117/363434
+VL - 9
+IS - 745062
+EP - 745062:1
+SP - 745062:12
+T2 - Frontiers in public health
+PB - Frontiers Media SA
+AU - Ajanovic, S.
+AU - Garrido, J.
+AU - Baro, B.
+AU - Balanza, N.
+AU - Varo, R.
+AU - Millat-Mart'inez, P.
+AU - Arias, S.
+AU - Fonollosa, J.
+AU - Perera, A.
+AU - Jordan, I.
+AU - Mu~noz-Almagro, C.
+AU - Bonet-Carn'e, E.
+AU - Crosas-Soler, A.
+AU - Via, E.
+AU - Nafria, B.
+AU - Garc'ia-Garc'ia, J.
+AU - Bassat, Q.
+
+TY - MGZN
+DO - 10.1021/acs.analchem.1c00238
+TI - mWISE: an algorithm for context-based annotation of liquid chromatography-mass spectrometry features through diffusion in graphs
+AB - Untargeted metabolomics using liquid chromatography coupled to mass spectrometry (LC-MS) allows the detection of thousands of metabolites in biological samples. However, LC-MS data annotation is still considered a major bottleneck in the metabolomics pipeline since only a small fraction of the metabolites present in the sample can be annotated with the required confidence level. Here, we introduce mWISE (metabolomics wise inference of speck entities), an R package for context-based annotation of LC-MS data. The algorithm consists of three main steps aimed at (i) matching mass-to-charge ratio values to the Kyoto Encyclopedia of Genes and Genomes (KEGG) database, (ii) clustering and filtering the potential KEGG candidates, and (iii) building a final prioritized list using diffusion in graphs. The algorithm performance is evaluated with three publicly available studies using both positive and negative ionization modes. We have also compared mWISE to other available annotation algorithms in terms of their performance and computation time. In particular, we explored four different configurations for mWISE, and all four of them outperform xMSannotator (a state-of-the-art annotator) in terms of both performance and computation time. Using a diffusion configuration that combines the biological network obtained from the FELLA R package and raw scores, mWISE shows a sensitivity mean (standard deviation) across data sets of 0.63 (0.07), while xMSannotator achieves a sensitivity of 0.55 (0.19). We have also shown that the chemical structures of the compounds proposed by mWISE are closer to the original compounds than those proposed by xMSannotator. Finally, we explore the diffusion prioritization separately, showing its key role in the annotation process. mWISE is freely available on GitHub (https://github.com/b2slab/mWISE) under a GPL license.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2021
+UR - https://pubs.acs.org/doi/10.1021/acs.analchem.1c00238
+UR - http://hdl.handle.net/2117/351137
+VL - 93
+IS - 31
+EP - 10772
+SP - 10778
+T2 - Analytical chemistry
+AU - Barranco, M.
+AU - Sol`a, P.
+AU - Picart, S.
+AU - Kanaan-Izquierdo, S.
+AU - Fonollosa, J.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1200/jco.2021.39.15_suppl.3606
+TI - Accurate early-stage colorectal cancer detection through analysis of cell-free circulating tumor DNA (ctDNA) methylation patterns.
+AB - Background: Colorectal cancer (CRC) screening programs suffer from poor uptake and biomarkers have limited diagnostic accuracy. The measurement of the methylation status of tumor-derived cell-free DNA in plasma may address these challenges. We used a targeted methylation panel, tumor-derived signal deduction and machine learning algorithm to refine a blood test for the detection of early-stage CRC. Methods: This was a prospective, international multicenter observational cohort study. Plasma samples were collected either prior to a scheduled colonoscopy as part of standard colorectal cancer screening or prior to colonic surgery for primary CRC. Differentially methylated regions (DMRs) were initially selected by analyzing CRC and control tissue samples with whole genome bisulfite sequencing. A targeted sequencing assay was designed to capture these DMRs in plasma ctDNA. Individual sequencing reads were evaluated for cancer-specific methylation signal and scores calculated for each DMR in a sample. A panel of methylation scores originating from 203 DMRs was used in a prediction model building and validated in a test cohort of patients. Results: Calculated scores were used to train a machine learning model on 68 ctDNA samples from 18 early stage (I-II) and 16 late-stage (III-IV) CRC patients and 34 age, BMI, gender and country of origin matched neoplasia-free controls (median age 63 [50-74], mean BMI 27 [19.5-37], female 50%, Spanish and Ukrainian population, distal cancers 50%). This model was then applied to an independent set of subjects from Spanish, Ukraine and Germany, including 36 stage I-IV cancer patients (median age 61.5 [55-82], BMI 28 [16-39], female 47%, 42% of the tumors were distal) and 159 age and sex matched controls. 87 of the control patients had a negative colonoscopy finding (cNEG), 19 had hyperplastic polyps (HP), 37 had small non-advanced adenomas (NAA) and 16 were diagnosed with other benign gastrointestinal diseases (GID). The model correctly classified 92% (33/36) of CRC patients. Sensitivity per cancer stage ranged from 83% (5/6) for stage I, 92% (11/12) for stage II, 92% (12/13) for stage III to 100% (5/5) for stage IV. Specificity of the model was 97% (154/159), with 100% (37/37) NAA, 94% (15/16) GID, 95% (18/19) HP and 97% cNEG patients correctly identified. Lesion location, gender, BMI, age and country of origin were not significantly correlated to prediction outcome. Conclusions: Methylation sequencing data analyzed using read-wise scoring approach combined with a machine-learning algorithm is highly diagnostic for early-stage (I-II) CRCs (89% sensitivity at 97% specificity). This method could serve as the basis for a highly accurate and minimally invasive blood-based CRC screening test with significant implications for the clinical utility of ctDNA in early-stage cancer detection.
+Y1 - 2021
+UR - https://ascopubs.org/doi/abs/10.1200/JCO.2021.39.15_suppl.3606
+VL - 39
+IS - 15_suppl
+EP - 3606
+SP - 3606
+T2 - Journal of clinical oncology
+AU - Canal, P.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.2196/22695
+TI - Global collaborative social network (Share4Rare) to promote citizen science in rare disease research: Platform development study
+AB - Background: Rare disease communities are spread around the globe and segmented by their condition. Little research has been performed on the majority of rare diseases. Most patients who are affected by a rare disease have no research on their condition because of a lack of knowledge due to absence of common groups in the research community. // Objective: We aimed to develop a safe and secure community of rare disease patients, without geographic or language barriers, to promote research. Methods: Cocreation design methodology was applied to build Share4Rare, with consultation and input through workshops from a variety of stakeholders (patients, caregivers, clinicians, and researchers). // Results: The workshops allowed us to develop a layered version of the platform based on educating patients and caregivers with publicly accessible information, a secure community for the patients and caregivers, and a research section with the purpose of collecting patient information for analysis, which was the core and final value of the platform. // Conclusions: Rare disease research requires global collaboration in which patients and caregivers have key roles. Collective intelligence methods implemented in digital platforms reduce geographic and language boundaries and involve patients in a unique and universal project. Their contributions are essential to increase the amount of scientific knowledge that experts have on rare diseases. Share4Rare has been designed as a global platform to facilitate the donation of clinical information to foster research that matters to patients with rare conditions. The codesign methods with patients have been essential to create a patient-centric design.
+AB - This work has been funded by the European Research Council under the European Union Horizon 2020 research and innovation program (grant agreement number H2020-780262-SHARE4RARE). BN acknowledges the support from Sant Joan de D'eu Barcelona Children's Hospital.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://formative.jmir.org/2021/3/e22695
+UR - http://hdl.handle.net/2117/351961
+UR - https://preprints.jmir.org/preprint/22695
+VL - 5
+IS - 3
+EP - e22695:1
+SP - e22695:12
+T2 - JMIR formative research
+AU - Radu, R.
+AU - Hern'andez, S.
+AU - Borrega, O.
+AU - Palmeri, A.
+AU - Athanasiou, D.
+AU - Brooke, N.
+AU - Chap'i, I.
+AU - Le Corvec, A.
+AU - Guglieri, M.
+AU - Perera, A.
+AU - Garrido, J.
+AU - Ryll, B.
+AU - Nafria, B.
+
+TY - MGZN
+DO - 10.1016/j.canlet.2021.01.028
+TI - MMP1 drives tumor progression in large cell carcinoma of the lung through fibroblast senescence
+AB - Large cell carcinoma (LCC) is a rare and aggressive lung cancer subtype with poor prognosis and no targeted therapies. Tumor-associated fibroblasts (TAFs) derived from LCC tumors exhibit premature senescence, and coculture of pulmonary fibroblasts with LCC cell lines selectively induces fibroblast senescence, which in turn drives LCC cell growth and invasion. Here we identify MMP1 as overexpressed specifically in LCC cell lines, and we show that expression of MMP1 by LCC cells is necessary for induction of fibroblast senescence and consequent tumor promotion in both cell culture and mouse models. We also show that MMP1, in combination with TGF-ss1, is sufficient to induce fibroblast senescence and consequent LCC promotion. Furthermore, we implicate PAR-1 and oxidative stress in MMP1/TGF-ss1-induced TAF senescence. Our results establish an entirely new role for MMP1 in cancer, and support a novel therapeutic strategy in LCC based on targeting senescent TAFs.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://www.sciencedirect.com/science/article/pii/S0304383521000525
+UR - http://hdl.handle.net/2117/345329
+VL - 507
+EP - 1
+SP - 12
+T2 - Cancer letters
+AU - Ikemori, R.
+AU - Llorente, A.
+AU - Maqueda, M.
+AU - D'avalos, A.
+AU - Perera, A.
+AU - Reguart, N.
+AU - Quiroz, L.
+AU - Alcaraz Casademunt, Jordi
+
+TY - MGZN
+DO - 10.1021/acs.jcim.1c00086
+TI - Balancing data on deep learning-based proteochemometric activity classification
+AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://pubs.acs.org/doi/10.1021/acs.jcim.1c00086
+UR - http://hdl.handle.net/2117/353767
+VL - 61
+IS - 4
+EP - 1657
+SP - 1669
+T2 - Journal of chemical information and modeling
+AU - Lopez, A.
+AU - Picart, S.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1108/ET-11-2020-0334
+TI - Game learning analytics of instant messaging and online discussion forums in higher education
+AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2021
+UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
+UR - http://hdl.handle.net/2117/356893
+VL - 63
+IS - 9
+EP - 1288
+SP - 1308
+T2 - Education and Training
+AU - Hern'andez-Lara, A.
+AU - Perera, A.
+AU - Serradell-L'opez, E.
+
+TY - MGZN
+DO - 10.1093/bioinformatics/btaa1069
+TI - MultiPaths: a Python framework for analyzing multi-layer biological networks using diffusion algorithms
+AB - High-throughput screening yields vast amounts of biological data which can be highly challenging to interpret. In response, knowledge-driven approaches emerged as possible solutions to analyze large datasets by leveraging prior knowledge of biomolecular interactions represented in the form of biological networks. Nonetheless, given their size and complexity, their manual investigation quickly becomes impractical. Thus, computational approaches, such as diffusion algorithms, are often employed to interpret and contextualize the results of highthroughput experiments. Here, we present MultiPaths, a framework consisting of two independent Python packages for network analysis. While the first package, DiffuPy, comprises numerous commonly used diffusion algorithms applicable to any generic network, the second, DiffuPath, enables the application of these algorithms on multi-layer biological networks. To facilitate its usability, the framework includes a command line interface, reproducible examples and documentation. To demonstrate the framework, we conducted several diffusion experiments on three independent multi-omics datasets over disparate networks generated from pathway databases, thus, highlighting the ability of multi-layer networks to integrate multiple modalities. Finally, the results of these experiments demonstrate how the generation of harmonized networks from disparate databases can improve predictive performance with respect to individual resources.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2020
+UR - https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa1069/6050712
+UR - http://hdl.handle.net/2117/340260
+IS - btaa1069
+EP - 1
+SP - 3
+T2 - Bioinformatics
+AU - Mar'in-Lla'o, Josep, J.
+AU - Mubeen, S.
+AU - Perera, A.
+AU - Hofmann-Apitius, M.
+AU - Picart, S.
+AU - Domingo-Fern'andez, D.
+
+TY - MGZN
+DO - 10.1093/bioinformatics/btaa896
+TI - The effect of statistical normalisation on network propagation scores
+AB - Network diffusion and label propagation are fundamental tools in computational biology, with applications like gene-disease association, protein function prediction and module discovery. More recently, several publications have introduced a permutation analysis after the propagation process, due to concerns that network topology can bias diffusion scores. This opens the question of the statistical properties and the presence of bias of such diffusion processes in each of its applications. In this work, we characterised some common null models behind the permutation analysis and the statistical properties of the diffusion scores. We benchmarked seven diffusion scores on three case studies: synthetic signals on a yeast interactome, simulated differential gene expression on a protein-protein interaction network and prospective gene set prediction on another interaction network. For clarity, all the datasets were based on binary labels, but we also present theoretical results for quantitative labels
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2020
+UR - https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa896/5929688
+UR - http://hdl.handle.net/2117/335683
+IS - btaa896
+EP - 896/1
+SP - 896/10
+T2 - Bioinformatics
+AU - Picart, S.
+AU - Thompson, W.
+AU - Buil, A.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1038/s41598-020-71450-8
+TI - Effect of sequence padding on the performance of deep learning models in archaeal protein functional prediction
+AB - The use of raw amino acid sequences as input for deep learning models for protein functional prediction has gained popularity in recent years. This scheme obliges to manage proteins with different lengths, while deep learning models require same-shape input. To accomplish this, zeros are usually added to each sequence up to a established common length in a process called zero-padding. However, the effect of different padding strategies on model performance and data structure is yet unknown. We propose and implement four novel types of padding the amino acid sequences. Then, we analysed the impact of different ways of padding the amino acid sequences in a hierarchical Enzyme Commission number prediction problem. Results show that padding has an effect on model performance even when there are convolutional layers implied. Contrastingly to most of deep learning works which focus mainly on architectures, this study highlights the relevance of the deemed-of-low-importance process of padding and raises awareness of the need to refine it for better performance.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2020
+UR - https://www.nature.com/articles/s41598-020-71450-8
+UR - http://hdl.handle.net/2117/334751
+VL - 10
+EP - 14634-1
+SP - 14634-14
+T2 - Scientific reports
+PB - Nature
+AU - Lopez, A.
+AU - Martin, M.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.annonc.2020.08.590
+TI - Open chromatin region (OCR) based model predicts advanced adenoma in plasma cell-free DNA whole-genome bisulfite sequencing data
+Y1 - 2020
+VL - 31
+IS - S4
+EP - 479P: 1
+SP - 479P: 1
+T2 - Annals of oncology
+AU - Canal, P.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1177/1087054719897806
+TI - Eye vergence responses during an attention task in adults with ADHD and clinical controls
+AB - Objective: ADHD patients show poor oculomotor control and recent studies show that attention-related eye vergence is weak in ADHD children. We aimed to assess vergence as a potential diagnostic biomarker for ADHD in adults. Method: We assessed the modulation in the angle of vergence while performing an attention task (N = 144), comparing the results for adults previously diagnosed with ADHD (N = 108) with age-matched clinical controls (N = 36). Results: Significant differences in eye vergence response modulation between clinical controls and ADHD patients were documented. Diagnostic test accuracy was 79%. Conclusion: In combination with an attention task, eye vergence responses could be used as an objective marker to support the clinical diagnosis of adult ADHD
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2020
+UR - https://journals.sagepub.com/doi/10.1177/1087054719897806
+UR - http://hdl.handle.net/2117/183302
+EP - 1
+SP - 9
+T2 - Journal of attention disorders
+AU - Jim'enez, E.
+AU - Avella, C.
+AU - Kustow, S.
+AU - Cubbin, S.
+AU - Corrales, M.
+AU - Richarte, V.
+AU - Esposito, F.
+AU - Morata, I.
+AU - Perera, A.
+AU - Varela, P.
+
+TY - MGZN
+DO - 10.1371/journal.pcbi.1007276
+TI - Benchmarking network propagation methods for disease gene identification
+AB - In-silico identification of potential target genes for disease is an essential aspect of drug target discovery. Recent studies suggest that successful targets can be found through by leveraging genetic, genomic and protein interaction information. Here, we systematically tested the ability of 12 varied algorithms, based on network propagation, to identify genes that have been targeted by any drug, on gene-disease data from 22 common non-cancerous diseases in OpenTargets. We considered two biological networks, six performance metrics and compared two types of input gene-disease association scores. The impact of the design factors in performance was quantified through additive explanatory models. Standard cross-validation led to over-optimistic performance estimates due to the presence of protein complexes. In order to obtain realistic estimates, we introduced two novel protein complex-aware cross-validation schemes. When seeding biological networks with known drug targets, machine learning and diffusion-based methods found around 2-4 true targets within the top 20 suggestions. Seeding the networks with genes associated to disease by genetics decreased performance below 1 true hit on average. The use of a larger network, although noisier, improved overall performance. We conclude that diffusion-based prioritisers and machine learning applied to diffusion-based features are suited for drug discovery in practice and improve over simpler neighbour-voting methods. We also demonstrate the large impact of choosing an adequate validation strategy and the definition of seed disease genes
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2019
+UR - https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007276
+UR - http://hdl.handle.net/2117/176501
+UR - https://www.biorxiv.org/content/10.1101/439620v1.full.pdf
+VL - 15
+IS - 9
+EP - e1007276:1
+SP - e1007276: 24
+T2 - PLoS computational biology
+AU - Picart, S.
+AU - Barrett, S.
+AU - Will'e, D.
+AU - Perera, A.
+AU - Gutteridge, A.
+AU - Dessailly, B.
+
+TY - MGZN
+DO - 10.3389/fnagi.2019.00216
+TI - Effects and mechanisms of cognitive, aerobic exercise, and combined training on cognition, health, and brain outcomes in physically inactive older adults: the projecte moviment protocol
+AB - Age-related health, brain, and cognitive impairment is a great challenge in current society. Cognitive training, aerobic exercise and their combination have been shown to benefit health, brain, cognition and psychological status in healthy older adults. Inconsistent results across studies may be related to several variables. We need to better identify cognitive changes, individual variables that may predict the effect of these interventions, and changes in structural and functional brain outcomes as well as physiological molecular correlates that may be mediating these effects. Projecte Moviment is a multi-domain randomized trial examining the effect of these interventions applied 5 days per week for 3 months compared to a passive control group. The aim of this paper is to describe the sample, procedures and planned analyses.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2019
+UR - https://www.frontiersin.org/articles/10.3389/fnagi.2019.00216/full
+UR - http://hdl.handle.net/2117/171823
+VL - 11
+EP - 216:1
+SP - 216:14
+T2 - Frontiers in aging neuroscience
+AU - Castells, A.
+AU - Roig, F.
+AU - Lamonja, N.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1161/CIRCHEARTFAILURE.118.005652
+TI - Heart failure with preserved ejection fraction infrequently evolves toward a reduced phenotype in long-term survivors: a long-term prospective longitudinal study
+AB - Long-term trajectories of left ventricular ejection fraction (LVEF) in heart failure (HF) patients with preserved EF (HFpEF) remain unclear. Our objective was to assess long-term longitudinal trajectories in consecutive HFpEF patients and the prognostic impact of LVEF dynamic changes over time.Consecutive ambulatory HFpEF patients admitted to a multidisciplinary HF Unit were prospectively evaluated by 2-dimensional echocardiography at baseline and at 1, 3, 5, 7, 9, and 11 years of follow-up. Exclusion criteria were patients having a previous known LVEF <50%, patients undergoing only 1 echocardiogram study, and those with a diagnosis of dilated, noncompaction, alcoholic, or toxic cardiomyopathy. One hundred twenty-six patients (age, 71+/-13 years; 63% women) were included. The main pathogeneses were valvular disease (36%) and hypertension (28%). Atrial fibrillation was present in 67 patients (53%). The mean number of echocardiographies performed was 3+/-1.2 per patient. Locally weighted error sum of squares curves showed a smooth decrease of LVEF during the 11-year follow-up that was statistically significant in linear mixed-effects modeling (P=0.01). Ischemic patients showed a higher decrease than nonischemics. The great majority (88.9%) of patients remained in the HFpEF category during follow-up; 9.5% evolved toward HF with midrange LVEF, and only 1.6% dropped to HF with reduced LVEF. No significant relationship was found between LVEF dynamics in the immediate preceding period and mortality.LVEF remained =50% in the majority of patients with HFpEF for =11 years. Only 1.6% of patients evolved to HF with reduced LVEF. Dynamic LVEF changes were not associated with mortality.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2019
+UR - https://www.ahajournals.org/doi/10.1161/CIRCHEARTFAILURE.118.005652
+UR - http://hdl.handle.net/2117/131158
+VL - 12
+IS - e005652
+EP - 1
+SP - 9
+T2 - Circulation-Heart Failure
+AU - Lupon, J.
+AU - Gavidia, G.
+AU - de Antonio-Ferrer, M.
+AU - Perera, A.
+AU - L'opez-Ayerbe, J.
+AU - Domingo-Teixidor, M.
+AU - Nu~nez, J.
+AU - Zamora, E.
+AU - Moliner, P.
+AU - santiago-vacas, E.
+AU - Santemases, J.
+AU - Bay'es-Genis, A.
+
+TY - MGZN
+DO - 10.1002/etc.4381
+TI - Amitriptyline at an environmentally relevant concentration alters the profile of metabolites beyond monoamines in gilt-head bream
+AB - The antidepressant amitriptyline is a widely used selective serotonin reuptake inhibitor that is found in the aquatic environment. The present work investigates alterations in the brain and liver metabolome of gilt-head bream (Sparus aurata) following exposure at an environmentally relevant concentration (0.2 ug/L) of amitriptyline for 7 days. Analysis of variance-simultaneous component analysis (ASCA) was used to identify metabolites that distinguished exposed from control animals. Overall, alterations in lipid metabolism suggest the occurrence of oxidative stress in both brain and liver, a common adverse effect of xenobiotics. However, alterations in the amino acid arginine were also observed, likely related to the nitric oxide system, which is known to be associated with the mechanism of action of antidepressants. Additionally, changes on asparagine and methionine levels in brain and pantothenate, uric acid, formylisoglutamine/N-formimino-L-glutamate levels in liver could indicate alteration of amino acid metabolism in both tissues, and the perturbation of glutamate in liver suggests that the energy metabolism was also affected. These results revealed that environmentally relevant concentrations of amitriptyline perturbed a fraction of the metabolome which is not typically associated with antidepressant exposure in fish.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2019
+UR - https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/etc.4381
+UR - http://hdl.handle.net/2117/128882
+EP - 1
+SP - 29
+T2 - Environmental toxicology and chemistry
+AU - Ziarrusta, H.
+AU - Ribbenstedt, A.
+AU - Mijangos, L.
+AU - Picart, S.
+AU - Perera, A.
+AU - Prieto, A.
+AU - Izagirre, U.
+
+TY - MGZN
+DO - 10.1021/acs.jcim.8b00663
+TI - Evaluation of cross-validation strategies in sequence-based binding prediction using deep learning
+AB - Binding prediction between targets and drug-like compounds through deep neural networks has generated promising results in recent years, outperforming traditional machine learning-based methods. However, the generalization capability of these classification models is still an issue to be addressed. In this work, we explored how different cross-validation strategies applied to data from different molecular databases affect to the performance of binding prediction proteochemometrics models. These strategies are (1) random splitting, (2) splitting based on K-means clustering (both of actives and inactives), (3) splitting based on source database, and (4) splitting based both in the clustering and in the source database. These schemas are applied to a deep learning proteochemometrics model and to a simple logistic regression model to be used as baseline. Additionally, two different ways of describing molecules in the model are tested: (1) by their SMILES and (2) by three fingerprints. The classification performance of our deep learning-based proteochemometrics model is comparable to the state of the art. Our results show that the lack of generalization of these models is due to a bias in public molecular databases and that a restrictive cross-validation schema based on compound clustering leads to worse but more robust and credible results. Our results also show better performance when representing molecules by their fingerprints.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2019
+UR - https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00663
+UR - http://hdl.handle.net/2117/168430
+UR - https://chemrxiv.org/articles/Evaluation_of_Cross-Validation_Strategies_in_Sequence-Based_Binding_Prediction_Using_Deep_Learning/7133885/1
+VL - 58
+IS - 4
+EP - 1645
+SP - 1657
+T2 - Journal of chemical information and modeling
+AU - Lopez, A.
+AU - Nonell, A.
+AU - Vidal, D.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1093/bioinformatics/bty1039
+TI - Multiview: a software package for multiview pattern recognition methods
+AB - Multiview datasets are the norm in bioinformatics, often under the label multi-omics. Multiview
+data is gathered from several experiments, measurements or feature sets available for the same subjects.
+Recent studies in pattern recognition have shown the advantage of using multiview methods of clustering
+and dimensionality reduction; however, none of these methods are readily available to the extent of our
+knowledge. Multiview extensions of four well-known pattern recognition methods are proposed here. Three
+multiview dimensionality reduction methods: multiview t-distributed stochastic neighbour embedding,
+multiview multidimensional scaling, and multiview minimum curvilinearity embedding, as well as a multiview
+spectral clustering method. Often they produce better results than their single-view counterparts, tested
+here on four multiview datasets.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty1039/5267824
+UR - http://hdl.handle.net/2117/130483
+IS - bty1039
+EP - 1
+SP - 3
+T2 - Bioinformatics
+AU - Kanaan-Izquierdo, S.
+AU - Ziyatdinov, A.
+AU - Burgue~no, M.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1186/s12859-018-2487-5
+TI - FELLA: an R package to enrich metabolomics data
+AB - Background: Pathway enrichment techniques are useful for understanding experimental metabolomics data. Their purpose is to give context to the affected metabolites in terms of the prior knowledge contained in metabolic pathways. However, the interpretation of a prioritized pathway list is still challenging, as pathways show overlap and cross talk effects.
+Results: We introduce FELLA, an R package to perform a network-based enrichment of a list of affected metabolites. FELLA builds a hierarchical representation of an organism biochemistry from the Kyoto Encyclopedia of Genes and Genomes (KEGG), containing pathways, modules, enzymes, reactions and metabolites. In addition to providing a list of pathways, FELLA reports intermediate entities (modules, enzymes, reactions) that link the input metabolites to them. This sheds light on pathway cross talk and potential enzymes or metabolites as targets for the condition under study. FELLA has been applied to six public datasets -three from Homo sapiens, two from Danio rerio and one from Mus musculus- and has reproduced findings from the original studies and from independent literature.
+Conclusions: The R package FELLA offers an innovative enrichment concept starting from a list of metabolites, based on a knowledge graph representation of the KEGG database that focuses on interpretability. Besides reporting a list of pathways, FELLA suggests intermediate entities that are of interest per se. Its usefulness has been shown at several molecular levels on six public datasets, including human and animal models. The user can run the enrichment analysis through a simple interactive graphical interface or programmatically. FELLA is publicly available in Bioconductor under the GPL-3 license.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2018
+UR - https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2487-5
+UR - http://hdl.handle.net/2117/126809
+VL - 19
+IS - 1
+EP - 538 1
+SP - 538 9
+T2 - BMC bioinformatics
+AU - Picart, S.
+AU - Fernandez-Albert, F.
+AU - Vinaixa, M.
+AU - Yanes, 'O.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.jacc.2018.05.042
+TI - Dynamic trajectories of left ventricular ejection fraction in heart failure
+AB - Background Long-term trajectories of left ventricular ejection fraction (LVEF) in heart failure (HF) are incompletely characterized. Objectives This study sought to examine LVEF trajectories in HF with reduced LVEF (<40%) and mid-range LVEF (40% to 49%) and the prognostic impact of LVEF dynamic changes over 15-year follow-up. Methods In this prospective, consecutive, observational registry of real-life HF outpatients, the authors performed 2-dimensional echocardiography at baseline and on a structured schedule after 1 year and then every 2 years up to 15 years. Results The mean number of LVEF measurements in the 1,160 included patients was 3.6 +/- 1.7. As a whole, Loess curves of long-term LVEF trajectories showed an inverted U shape with a marked rise in LVEF during the first year, maintained up to a decade, and a slow LVEF decline thereafter (p for trajectory <0.001). This pattern was more pronounced in HF of nonischemic origin and in women. Patients with new-onset HF (=12 months) had a higher early increase in LVEF, whereas patients with ischemic HF showed a lower LVEF increase at 1 year; both groups had a relative plateau thereafter. Patients with HF with mid-range LVEF had less of an increase (3 +/- 9%) than those with HF with reduced LVEF (9 +/- 12%) during the first year (p < 0.001), but the groups overlapped after 15 years. Patients who died had lower final LVEF and worse LVEF dynamics in the immediately preceding period than survivors. Conclusions LVEF trajectories vary in HF depending on a number of disease modifiers, but an inverted U-shaped pattern with lower LVEF at both ends of the distribution emerged. A declining LVEF in the preceding period was associated with higher mortality.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://www.sciencedirect.com/science/article/pii/S0735109718350599
+UR - http://hdl.handle.net/2117/127890
+VL - 72
+EP - 591
+SP - 601
+T2 - Journal of the American College of Cardiology
+AU - Lupon, J.
+AU - Gavidia, G.
+AU - Ferrer, E.
+AU - de Antonio-Ferrer, M.
+AU - Perera, A.
+AU - D'iaz, P.
+
+TY - MGZN
+DO - 10.1016/j.chemosphere.2018.08.013
+TI - Non-targeted metabolomics reveals alterations in liver and plasma of gilt-head bream exposed to oxybenzone
+AB - The extensive use of the organic UV filter oxybenzone has led to its ubiquitous occurrence in the aquatic environment, causing an ecotoxicological risk to biota. Although some studies reported adverse effects, such as reproductive toxicity, further research needs to be done in order to assess its molecular effects and mechanism of action. Therefore, in the present work, we investigated metabolic perturbations in juvenile gilt-head bream (Sparus aurata) exposed over 14 days via the water to oxybenzone (50?mg/L). The non-targeted analysis of brain, liver and plasma extracts was performed by means of UHPLC-qOrbitrap MS in positive and negative modes with both C18 and HILIC separation. Although there was no mortality or alterations in general physiological parameters during the experiment, and the metabolic profile of brain was not affected, the results of this study showed that oxybenzone could perturb both liver and plasma metabolome. The pathway enrichment suggested that different pathways in lipid metabolism (fatty acid elongation, a-linolenic acid metabolism, biosynthesis of unsaturated fatty acids and fatty acid metabolism) were significantly altered, as well as metabolites involved in phenylalanine and tyrosine metabolism. Overall, these changes are signs of possible oxidative stress and energy metabolism modification. Therefore, this research indicates that oxybenzone has adverse effects beyond the commonly studied hormonal activity, and demonstrates the sensitivity of metabolomics to assess molecular-level effects of emerging contaminants.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://www.sciencedirect.com/science/article/pii/S0045653518314875
+UR - http://hdl.handle.net/2117/122029
+VL - 211
+EP - 624
+SP - 631
+T2 - Chemosphere
+AU - Ziarrusta, H.
+AU - Mijangos, L.
+AU - Picart, S.
+AU - Irazola, M.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.chb.2018.03.001
+TI - Applying learning analytics to students' interaction in business simulation games. The usefulness of learning analytics to know what students really learn
+AB - Nowadays, different ways of communication and interaction among multiple actors are dominating learning processes. However, there are critical opinions that question the contribution of student interaction to real learning. This study applies learning analytics and data mining techniques to explore the online discussion forums of 362 business students at the bachelor and master levels, who participated in business simulation games between 2011 and 2016. The findings revealed that the most frequent contents in the students' online discussion forums were related, firstly, to the parameters and features of the business simulation game, and, secondly, to elements that fostered the students' learning process, while small talk or regular conversation did not appear to be relevant. In addition, the contents with predictive power over learning results were related to uncertainty, time, interaction, communication and collaboration, although none of these elements influenced teacher assessment of student learning. This study reveals the usefulness of learning analytics tools to gain a more wide and holistic view of the learning process of students, discovering new aspects that affect students' learning results
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://www.sciencedirect.com/science/article/pii/S07475632
+UR - http://hdl.handle.net/2117/119903
+VL - 92
+EP - 600
+SP - 612
+T2 - Computers in human behavior
+PB - Elsevier
+AU - Hern'andez-Lara, A.
+AU - Perera, A.
+AU - Serradell-L'opez, E.
+
+TY - MGZN
+DO - 10.1007/s00421-018-3808-0
+TI - Validity of the Polar V800 monitor for measuring heart rate variability in mountain running route conditions
+AB - Purpose
+This study was conducted to test, in mountain running route conditions, the accuracy of the Polar V800TM monitor as a suitable device for monitoring the heart rate variability (HRV) of runners.
+
+Method
+Eighteen healthy subjects ran a route that included a range of running slopes such as those encountered in trail and ultra-trail races. The comparative study of a V800 and a Holter SEER 12 ECG RecorderTM included the analysis of RR time series and short-term HRV analysis. A correction algorithm was designed to obtain the corrected Polar RR intervals. Six 5-min segments related to different running slopes were considered for each subject.
+
+Results
+The correlation between corrected V800 RR intervals and Holter RR intervals was very high (r?=?0.99, p?<?0.001), and the bias was less than 1 ms. The limits of agreement (LoA) obtained for SDNN and RMSSD were (-?0.25 to 0.32 ms) and (-?0.90 to 1.08 ms), respectively. The effect size (ES) obtained in the time domain HRV parameters was considered small (ES?<?0.2). Frequency domain HRV parameters did not differ (p?>?0.05) and were well correlated (r?=?0.96, p?<?0.001).
+
+Conclusion
+Narrow limits of agreement, high correlations and small effect size suggest that the Polar V800 is a valid tool for the analysis of heart rate variability in athletes while running high endurance events such as marathon, trail, and ultra-trail races.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://link.springer.com/article/10.1007%2Fs00421-018-3808-0
+UR - http://hdl.handle.net/2117/116137
+VL - 118
+IS - 3
+EP - 669
+SP - 677
+T2 - European journal of applied physiology
+AU - Caminal, P.
+AU - Sola, F.
+AU - Gomis, P.
+AU - Guasch, E.
+AU - Perera, A.
+AU - Mont, L.
+
+TY - MGZN
+DO - 10.1093/bioinformatics/btx632
+TI - diffuStats: an R package to compute diffusion-based scores on biological networks
+AB - Label propagation and diffusion over biological networks are a common mathematical formalism in computational biology for giving context to molecular entities and prioritising novel candidates in the area of study. 
+There are several choices in conceiving the diffusion process -involving the graph kernel, the score definitions and the presence of a posterior statistical normalisation- which have an impact on the results. 
+This manuscript describes diffuStats, an R package that provides a collection of graph kernels and diffusion scores, as well as a parallel permutation analysis for the normalised scores, that eases the computation of the scores and their benchmarking for an optimal choice.
+AB - This is a pre-copyedited, author-produced version of an article accepted for publication in Bioinformatics following peer review. The version of record Sergio Picart-Armada, Wesley K Thompson, Alfonso Buil, Alexandre Perera-Lluna; diffuStats: an R package to compute diffusion-based scores on biological networks, Bioinformatics, Volume 34, Issue 3, 1 February 2018, Pages 533-534 is available online at: https://doi.org/10.1093/bioinformatics/btx632.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://academic.oup.com/bioinformatics/article-abstract/34/3/533/4347202?redirectedFrom=fulltext
+UR - http://hdl.handle.net/2117/114063
+VL - 34
+IS - 3
+EP - 533
+SP - 534
+T2 - Bioinformatics
+AU - Picart, S.
+AU - Thompson, W.
+AU - Buil Demur, A.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1177/1087054717749931
+TI - Clinical validation of eye vergence as an objective marker for diagnosis of ADHD in children
+AB - Objective: ADHD youth show poor oculomotor control. Recent research shows that attention-related eye vergence is weak in ADHD children. Method: To validate vergence as a marker to classify ADHD, we assessed the modulation in the angle of vergence of children (n = 43) previously diagnosed with ADHD while performing an attention task and compared the results with age-matched clinical controls (n = 19) and healthy peers (n = 30). Results: We observed strong vergence responses in healthy participants and weak vergence in the clinical controls. ADHD children showed no significant vergence responses. Machine-learning models classified ADHD patients (n = 21) from healthy controls (n = 21) with an accuracy of 96.3% (false positive [FP]: 5.12%; false negative [FN]: 0%; area under the curve [AUC]: 0.99) and ADHD children (n = 11) from clinical controls (n = 14) with an accuracy of 85.7% (FP: 4.5%; FN: 19.2%, AUC: 0.90). Conclusion: In combination with an attention task, vergence responses can be used as an objective marker to detect ADHD in children.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - http://journals.sagepub.com/doi/abs/10.1177/1087054717749931
+UR - http://hdl.handle.net/2117/130581
+EP - 1
+SP - 15
+T2 - Journal of attention disorders
+AU - Varela, P.
+AU - Esposito, F.
+AU - Morata, I.
+AU - Capdevila, A.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.patrec.2017.12.011
+TI - Multiview and multifeature spectral clustering using common eigenvectors
+AB - An ever-increasing number of data analysis problems include more than one view of the data, i.e. differ-
+ent measurement approaches to the population under study. In consequence, pattern analysis methods
+that deal appropriately with multiview data are becoming increasingly useful. In this paper, a novel mul-
+tiview spectral clustering algorithm is presented (multiview spectral clustering by common eigenvectors,
+or MVSC-CEV), based on computing the common eigenvectors of the Laplacian matrices derived from
+the similarity matrices of the input data. This algorithm maintains the features of spectral clustering,
+while allowing the use of an arbitrary number of input views, possibly of a different nature (feature or
+graph space) and with different dimensions. The method has been tested on four standard multiview
+data sets (UCI's Handwritten, BBC segmented news, Max Planck Institute's Animal With Attributes and
+Reuters multilingual), and compared with seven methods in the state of the art. Seven standard clus-
+tering evaluation metrics have been used in the experiments. The quality of the clustering produced by
+MVSC-CEV is above those obtained by other state-of-the-art methods in the majority of evaluation met-
+rics and dataset combinations. The computation times of this method are approximately twice those of
+the baseline spectral clustering of the concatenated data views.
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - http://hdl.handle.net/2117/113182
+UR - https://www.sciencedirect.com/science/article/pii/S016786551730449X
+VL - 102
+EP - 30
+SP - 36
+T2 - Pattern recognition letters
+PB - Elsevier
+AU - Kanaan-Izquierdo, S.
+AU - Ziyatdinov, A.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1371/journal.pone.0189012
+TI - Null diffusion-based enrichment for metabolomics data
+AB - Metabolomics experiments identify metabolites whose abundance varies as the conditions under study change. Pathway enrichment tools help in the identification of key metabolic processes and in building a plausible biological explanation for these variations. Although several methods are available for pathway enrichment using experimental evidence, metabolomics does not yet have a comprehensive overview in a network layout at multiple molecular levels. We propose a novel pathway enrichment procedure for analysing summary metabolomics data based on sub-network analysis in a graph representation of a reference database. Relevant entries are extracted from the database according to statistical measures over a null diffusive process that accounts for network topology and pathway crosstalk. Entries are reported as a sub-pathway network, including not only pathways, but also modules, enzymes, reactions and possibly other compound candidates for further analyses. This provides a richer biological context, suitable for generating new study hypotheses and potential enzymatic targets. Using this method, we report results from cells depleted for an uncharacterised mitochondrial gene using GC and LC-MS data and employing KEGG as a knowledge base. Partial validation is provided with NMR-based tracking of 13C glucose labelling of these cells.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2017
+UR - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189012
+UR - http://hdl.handle.net/2117/113111
+VL - 12
+EP - 1
+SP - 21
+T2 - PloS one
+AU - Picart, S.
+AU - Fernandez, F.
+AU - Vinaixa, M.
+AU - Rodr'iguez, M.A.
+AU - Aivio, S.
+AU - Stracker, T.
+AU - Yanes Torrado, 'Oscar
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.3390/e19120658
+TI - Assessment of heart rate variability during an endurance mountain trail race by multi-scale entropy analysis
+AB - (c) 2017 by the authors. The aim of the study was to analyze heart rate variability (HRV) response to high-intensity exercise during a 35-km mountain trail race and to ascertain whether fitness level could influence autonomic nervous system (ANS) modulation. Time-domain, frequency-domain, and multi-scale entropy (MSE) indexes were calculated for eleven mountain-trail runners who completed the race. Many changes were observed, mostly related to exercise load and fatigue. These changes were characterized by increased mean values and standard deviations of the normal-to-normal intervals associated with sympathetic activity, and by decreased differences between successive intervals related to parasympathetic activity. Normalized low frequency (LF) power suggested that ANS modulation varied greatly during the race and between individuals. Normalized high frequency (HF) power, associated with parasympathetic activity, varied considerably over the race, and tended to decrease at the final stages, whereas changes in the LF/HF ratio corresponded to intervals with varying exercise load. MSE indexes, related to system complexity, indicated the existence of many interactions between the heart and its neurological control mechanism. The time-domain, frequency-domain, and MSE indexes were also able to discriminate faster from slower runners, mainly in the more difficult and in the final stages of the race. These findings suggest the use of HRV analysis to study cardiac function mechanisms in endurance sports.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2017
+UR - http://www.mdpi.com/1099-4300/19/12/658
+UR - http://hdl.handle.net/2117/113838
+VL - 19
+IS - 12
+EP - 1
+SP - 17
+T2 - Entropy (Basel)
+AU - Vallverdu, M.
+AU - Ruiz, A.
+AU - Roca, E.
+AU - Caminal, P.
+AU - Rodr'iguez, F.
+AU - Irurtia-Amigo, A.
+AU - Perera, A.
+
+TY - MGZN
+TI - Affected pathways and transcriptional regulators in gene expression response to an ultra-marathon trail: Global and independent activity approaches
+AB - Gene expression (GE) analyses on blood samples from marathon and half-marathon runners have reported significant impacts on the immune and inflammatory systems. An ultra-marathon trail (UMT) represents a greater effort due to its more testing conditions. For the first time, we report the genome-wide GE profiling in a group of 16 runners participating in an 82 km UMT competition. We quantified their differential GE profile before and after the race using HuGene2.0st microarrays (Affymetrix Inc., California, US). The results obtained were decomposed by means of an independent component analysis (ICA) targeting independent expression modes. We observed significant differences in the expression levels of 5,084 protein coding genes resulting in an overrepresentation of 14% of the human biological pathways from the Kyoto Encyclopedia of Genes and Genomes database. These were mainly clustered on terms related with protein synthesis repression, altered immune system and infectious diseases related mechanisms. In a second analysis, 27 out of the 196 transcriptional regulators (TRs) included in the Open Regulatory Annotation database were overrepresented. Among these TRs, we identified transcription factors from the hypoxia-inducible factors (HIF) family EPAS1 (p< 0.01) and HIF1A (p<0.001), and others jointly described in the gluconeogenesis program such as HNF4 (p< 0.001), EGR1 (p<0.001), CEBPA (p< 0.001) and a highly specific TR, YY1 (p<0.01). The five independent components, obtained from ICA, further revealed a down-regulation of 10 genes distributed in the complex I, III and V from the electron transport chain. This mitochondrial activity reduction is compatible with HIF-1 system activation. The vascular endothelial growth factor (VEGF) pathway, known to be regulated by HIF, also emerged (p<0.05). Additionally, and related to the brain rewarding circuit, the endocannabinoid signalling pathway was overrepresented (p<0.05).
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2017
+UR - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180322
+UR - http://hdl.handle.net/2117/112994
+VL - 12
+IS - 10
+EP - 1
+SP - 26
+T2 - PloS one
+AU - Maqueda, M.
+AU - Roca, E.
+AU - Brotons, D.
+AU - Soria, J.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1007/s11306-017-1223-x
+TI - Baitmet, a computational approach for GC-MS library-driven metabolite profiling
+AB - Current computational tools for gas chromatography - mass spectrometry (GC - MS) metabolomics profiling do not focus on metabolite identification, that still remains as the entire workflow bottleneck and it relies on manual d ata reviewing. Metabolomics ad vent has fostered the development of public metabolite repositories containing mass spectra and retentio n indices, two orthogonal prop erties needed for metabol ite identification. Such libraries can be used for library - driven compound profiling of large datasets produced in metabolomics, a complementary approach to current GC - MS non - targeted data analysis solutions that can eventually help to assess metabolite i dentities more efficiently.  Results: This paper introduces Baitmet, an integrated open - source computational tool written in R enclosing a complete workflow to perform high - throughput library - driven GC - MS profiling in complex samples. Baitmet capabilities w ere assa yed in a metabolomics study in volving 182 human serum samples where a set of 61 metabolites were profiled given a reference library.  Conclusions: Baitmet allows high - thr oughput and wide scope interro gation on the metabolic composition of complex sa mples analyzed using GC - MS via freely available spectral data
+AB - Current computational tools for gas chromatography - mass spectrometry (GC - MS) metabolomics profiling do not focus on metabolite identification, that still remains as the entire workflow bottleneck and it relies on manual d ata reviewing. Metabolomics ad vent has fostered the development of public metabolite repositories containing mass spectra and retentio n indices, two orthogonal prop erties needed for metabol ite identification. Such libraries can be used for library - driven compound profiling of large datasets produced in metabolomics, a complementary approach to current GC - MS non - targeted data analysis solutions that can eventually help to assess metabolite i dentities more efficiently.   Results: This paper introduces Baitmet, an integrated open - source computational tool written in R enclosing a complete workflow to perform high - throughput library - driven GC - MS profiling in complex samples. Baitmet capabilities w ere assa yed in a metabolomics study in volving 182 human serum samples where a set of 61 metabolites were profiled given a reference library.   Conclusions: Baitmet allows high - thr oughput and wide scope interro gation on the metabolic composition of complex sa mples analyzed using GC - MS via freely available spectral data
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2017
+UR - https://link.springer.com/article/10.1007/s11306-017-1223-x
+UR - http://hdl.handle.net/2117/105910
+VL - 13
+IS - 93
+EP - 1
+SP - 5
+T2 - Metabolomics
+AU - Domingo, X.
+AU - Brezmes, J.
+AU - Venturini, G.
+AU - Viv'o-Truyols, G.
+AU - Perera, A.
+AU - Vinaixa, M.
+
+TY - MGZN
+DO - 10.1371/journal.pone.0168011
+TI - Early prediction of Alzheimer's disease using null longitudinal model-based classifiers
+AB - Incipient Alzheimer's Disease (AD) is characterized by a slow onset of clinical symptoms, with pathological brain changes starting several years earlier. Consequently, it is necessary to first understand and differentiate age-related changes in brain regions in the absence of disease, and then to support early and accurate AD diagnosis. However, there is poor understanding of the initial stage of AD; seemingly healthy elderly brains lose matter in regions related to AD, but similar changes can also be found in non-demented subjects having mild cognitive impairment (MCI). By using a Linear Mixed Effects approach, we modelled the change of 166 Magnetic Resonance Imaging (MRI)-based biomarkers available at a 5-year follow up on healthy elderly control (HC, n = 46) subjects. We hypothesized that, by identifying their significant variant (vr) and quasi-variant (qvr) brain regions over time, it would be possible to obtain an age-based null model, which would characterize their normal atrophy and growth patterns as well as the correlation between these two regions. By using the null model on those subjects who had been clinically diagnosed as HC (n = 161), MCI (n = 209) and AD (n = 331), normal age-related changes were estimated and deviation scores (residuals) from the observed MRI-based biomarkers were computed. Subject classification, as well as the early prediction of conversion to MCI and AD, were addressed through residual-based Support Vector Machines (SVM) modelling. We found reductions in most cortical volumes and thicknesses (with evident gender differences) as well as in sub-cortical regions, including greater atrophy in the hippocampus. The average accuracies (ACC) recorded for men and women were: AD-HC: 94.11%, MCI-HC: 83.77% and MCI converted to AD (cAD)-MCI non-converter (sMCI): 76.72%. Likewise, as compared to standard clinical diagnosis methods, SVM classifiers predicted the conversion of cAD to be 1.9 years earlier for females (ACC:72.5%) and 1.4 years earlier for males (ACC:69.0%).
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2017
+UR - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168011
+UR - http://hdl.handle.net/2117/102451
+VL - 12
+IS - 1
+T2 - PloS one
+AU - Gavidia, G.
+AU - Kanaan-Izquierdo, S.
+AU - Mataro-Serrat, M.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1371/journal.pone.0167187
+TI - The Central role of KNG1 gene as a genetic determinant of coagulation pathway-related traits: Exploring metaphenotypes
+AB - Traditional  genetic studies of single traits may be unable to detect the  pleiotropic  effects  involved  in complex  diseases.  To detect the correlation  that  exists between  several  phenotypes  involved in the same biological process, we introduce an original methodology to analyze sets of correlated phenotypes involved in the coagulation cascade in genome-wide association studies. The  methodology  consists  of  a  two-stage  process. First, we define  new  phenotypic  meta-variables (linear  combinations  of  the  original  phenotypes),  named metaphenotypes, by applying Independent Component  Analysis for the multivariate analysis of correlated phenotypes   (i.e.   the levels of coagulation pathway-related proteins). The resulting 
+metaphenotypes integrate   the   information regarding the underlying   biological process (i.e. thrombus/clot formation). Secondly, we take advantage of a family based Genome Wide Association Study to identify genetic elements influencing these metaphenotypes and consequently thrombosis risk. Our study utilized data from the GAIT Project (Genetic Analysis of Idiopathic Thrombophilia). We obtained 15 metaphenotypes,  which  showed  significant  heritabilities,  ranging  from  0.2  to  0.7. These  results  indicate  the  importance  of  genetic  factors  in  the  variability  of  these  traits.  We  found 4 metaphenotypes that showed significant associations with SNPs. The most relevant were those mapped in a region near the HRG, FETUB and KNG1 genes. Our results are provocative since they show that the KNG1 locus  plays a central role as a genetic determinant  of  the  entire  coagulation pathway and thrombus/clot formation. Integrating data from multiple    correlated    measurements through metaphenotypes is  a  promising  approach  to  elucidate the hidden genetic mechanisms underlying complex diseases.
+AB - Postprint (published version)
+Y1 - 2016
+UR - http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0167187&type=printable
+UR - http://hdl.handle.net/2117/102293
+VL - 11
+IS - 12
+EP - 1
+SP - 14
+T2 - PloS one
+AU - Brunel, H.
+AU - Massanet, R.
+AU - Martinez, A.
+AU - Ziyatdinov, A.
+AU - Martin-Fernandez, L.
+AU - Souto, J.
+AU - Perera, A.
+AU - Soria, J.
+
+TY - MGZN
+DO - 10.1016/j.chroma.2016.10.066
+TI - Avoiding hard chromatographic segmentation: A moving window approach for the automated resolution of gas chromatography-mass spectrometry-based metabolomics signals by multivariate methods
+AB - Gas chromatography-mass spectrometry (GC-MS) produces large and complex datasets characterized by co-eluted compounds and at trace levels, and with a distinct compound ion-redundancy as a result of the high fragmentation by the electron impact ionization. Compounds in GC-MS can be resolved by taking advantage of the multivariate nature of GC-MS data by applying multivariate resolution methods. However, multivariate methods have to be applied in small regions of the chromatogram, and therefore chromatograms are segmented prior to the application of the algorithms. The automation of this segmentation process is a challenging task as it implies separating between informative data and noise from the chromatogram. This study demonstrates the capabilities of independent component analysis-orthogonal signal deconvolution (ICA-OSD) and multivariate curve resolution-alternating least squares (MCR-ALS) with an overlapping moving window implementation to avoid the typical hard chromatographic segmentation. Also, after being resolved, compounds are aligned across samples by an automated alignment algorithm. We evaluated the proposed methods through a quantitative analysis of GC-qTOF MS data from 25 serum samples. The quantitative performance of both moving window ICA-OSD and MCR-ALS-based implementations was compared with the quantification of 33 compounds by the XCMS package. Results shown that most of the R2 coefficients of determination exhibited a high correlation (R2 > 0.90) in both ICA-OSD and MCR-ALS moving window-based approaches.
+AB - Postprint (author's final draft)
+Y1 - 2016
+UR - http://www.sciencedirect.com/science/article/pii/S0021967316314315
+UR - http://hdl.handle.net/2117/99562
+VL - 1474
+EP - 145
+SP - 151
+T2 - Journal of chromatography A
+AU - Domingo, X.
+AU - Perera, A.
+AU - Brezmes, J.
+
+TY - MGZN
+DO - 10.1021/acs.analchem.6b02927
+TI - eRah: A Computational Tool Integrating Spectral Deconvolution and Alignment with Quantification and Identification of Metabolites in GC/MS-Based Metabolomics
+AB - Gas chromatography coupled to mass spectrometry (GC/MS) has been a long-standing approach used for identifying small molecules due to the highly reproducible ionization process of electron impact ionization (EI). However, the use of GC-EI MS in untargeted metabolomics produces large and complex data sets characterized by coeluting compounds and extensive fragmentation of molecular ions caused by the hard electron ionization. In order to identify and extract quantitative information on metabolites across multiple biological samples, integrated computational workflows for data processing are needed. Here we introduce eRah, a free computational tool written in the open language R composed of five core functions: (i) noise filtering and baseline removal of GC/MS chromatograms, (ii) an innovative compound deconvolution process using multivariate analysis techniques based on compound match by local covariance (CMLC) and orthogonal signal deconvolution (OSD), (iii) alignment of mass spectra across samples, (iv) missing compound recovery, and (v) identification of metabolites by spectral library matching using publicly available mass spectra. eRah outputs a table with compound names, matching scores and the integrated area of compounds for each sample. The automated capabilities of eRah are demonstrated by the analysis of GC-time-of-flight (TOF) MS data from plasma samples of adolescents with hyperinsulinaemic androgen excess and healthy controls. The quantitative results of eRah are compared to centWave, the peak-picking algorithm implemented in the widely used XCMS package, MetAlign, and ChromaTOF software. Significantly dysregulated metabolites are further validated using pure standards and targeted analysis by GC-triple quadrupole (QqQ) MS, LC-QqQ, and NMR. eRah is freely available at http://CRAN.R-project.org/package=erah.
+AB - Postprint (author's final draft)
+Y1 - 2016
+UR - http://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b02927
+UR - http://hdl.handle.net/2117/99667
+VL - 88
+IS - 19
+EP - 9821
+SP - 9829
+T2 - Analytical chemistry
+AU - Domingo, X.
+AU - Brezmes, J.
+AU - Vinaixa, M.
+AU - Samino, S.
+AU - Ramirez, N.
+AU - Ramon, M.
+AU - Lerin, C.
+AU - D'iaz, M.
+AU - Iba~nez, L.
+AU - Correig, X.
+AU - Perera, A.
+AU - Yanes, 'O.
+
+TY - MGZN
+DO - 10.1158/1538-7445.AM2016-2763
+TI - DNA methylation profiling unveils TGF-ss hyperresponse in tumor associated fibroblasts from lung cancer patients
+AB - There is growing interest in defining the aberrant molecular differences between normal and tumor-associated fibroblasts (TAFs) that support tumor progression. For this purpose, we recently conducted a genome-wide DNA methylation profiling of TAFs and paired control fibroblasts (CFs) from non-small cell lung cancer (NSCLC) patients, and reported a widespread hypomethylation concomitantly with focal gain of DNA methylation; in addition, we found evidence that a fraction of lung TAFs are fibrocytes in origin. Of note, the aberrant epigenome of lung TAFs had a global impact in gene expression and a selective impact on the TGF-ss pathway. To get insights on the functional implications of the latter impact, we analyzed the response of lung TAFs to exogenous TGF-ss1 in terms of activation and contractility. We found a larger expression of a panel of activation markers including a-SMA and collagen-I in TAFs compared to control fibroblasts. Likewise, TGF-ss1 elicited a larger contractility in TAFs than in CFs as assessed by traction force microscopy. These findings reveal that lung TAFs are hyperresponsive to TGF-ss1, which may underlie the expansion and/or maintenance of the tumor-promoting desmoplastic stroma in lung cancer.
+AB - Postprint (author's final draft)
+Y1 - 2016
+UR - http://hdl.handle.net/2117/102534
+VL - 76
+IS - 14 Supplement
+EP - 2764
+SP - 2764
+T2 - Cancer research
+AU - Vizioso, M.
+AU - Puig, M.
+AU - Carmona, F.
+AU - Maqueda, M.
+AU - Gomez, A.
+AU - Labernardie, N.
+AU - Gabasa, M.
+AU - Mendizuri, S.
+AU - Ikemori, R.
+AU - Trepat, X.
+AU - Moran, S.
+AU - Vidal, E.
+AU - Reguart, N.
+AU - Perera, A.
+AU - Esteller, M.
+AU - Alcaraz Casademunt, Jordi
+
+TY - MGZN
+DO - 10.1016/j.cmpb.2016.03.007
+TI - Automated resolution of chromatographic signals by independent component analysis-orthogonal signal deconvolution in comprehensive gas chromatography/mass spectrometry-based metabolomics
+AB - Comprehensive gas chromatography-mass spectrometry (GC x GC-MS) provides a different perspective in metabolomics profiling of samples. However, algorithms for GCx GC-MS data processing are needed in order to automatically process the data and extract the purest information about the compounds appearing in complex biological samples. This study shows the capability of independent component analysis-orthogonal signal deconvolution (ICA-OSD), an algorithm based on blind source separation and distributed in an R package called osd, to extract the spectra of the compounds appearing in GCx GC-MS chromatograms in an automated manner. We studied the performance of ICA-OSD by the quantification of 38 metabolites through a set of 20 Jurkat cell samples analyzed by GCx GC-MS. The quantification by ICA-OSD was compared with a supervised quantification by selective ions, and most of the R2 coefficients of determination were in good agreement (R-2>0.90) while up to 24 cases exhibited an excellent linear relation (R-2>0.95). We concluded that ICA-OSD can be used to resolve co-eluted compounds in GC x GC-MS. (C) 2016 Elsevier Ireland Ltd. All rights reserved.
+AB - Postprint (author's final draft)
+Y1 - 2016
+UR - http://hdl.handle.net/2117/89076
+VL - 130
+EP - 135
+SP - 141
+T2 - Computer methods and programs in biomedicine
+AU - Domingo, X.
+AU - Perera, A.
+AU - Ramirez, N.
+AU - Brezmes, J.
+
+TY - MGZN
+DO - 10.17533/udea.redin.n79a03
+TI - Applicability of semi-supervised learning assumptions for gene ontology terms prediction
+AB - Gene Ontology (GO) is one of the most important resources in bioinformatics, aiming to provide a unified framework for the biological annotation of genes and proteins across all species. Predicting GO terms is an essential task for bioinformatics, but the number of available labelled proteins is in several cases insufficient for training reliable machine learning classifiers. Semi-supervised learning methods arise as a powerful solution that explodes the information contained in unlabelled data in order to improve the estimations of traditional supervised approaches. However, semi-supervised learning methods have to make strong assumptions about the nature of the training data and thus, the performance of the predictor is highly dependent on these assumptions. This paper presents an analysis of the applicability of semi-supervised learning assumptions over the specific task of GO terms prediction, focused on providing judgment elements that allow choosing the most suitable tools for specific GO terms. The results show that semi-supervised approaches significantly outperform the traditional supervised methods and that the highest performances are reached when applying the cluster assumption. Besides, it is experimentally demonstrated that cluster and manifold assumptions are complimentary to each other and an analysis of which GO terms can be more prone to be correctly predicted with each assumption, is provided.
+AB - Postprint (published version)
+Y1 - 2016
+UR - http://hdl.handle.net/2117/102271
+IS - 79
+EP - 19
+SP - 32
+T2 - Revista Facultad de Ingenier'ia. Universidad de Antioqu'ia
+AU - Jaramillo-Garz'on, J.
+AU - Castellanos, C.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1093/bioinformatics/btw080
+TI - Solarius: an R interface to SOLAR for variance component analysis in pedigrees
+AB - The open source environment R is one of the most widely used software for statistical computing. It provides a variety of applications including statistical genetics. Most of the powerful tools for quantitative genetic analyses are stand-alone free programs developed by researchers in academia. SOLAR is one of the standard software programs to perform linkage and association mappings of the quantitative trait loci (QTLs) in pedigrees of arbitrary size and complexity. solarius allows the user to exploit the variance component methods implemented in SOLAR. It automates such routine operations as formatting pedigree and phenotype data. It parses also the model output and contains summary and plotting functions for exploration of the results. In addition, solarius enables parallel computing of the linkage and association analyses that makes the calculation of genome-wide scans more efficient.
+AB - Postprint (author's final draft)
+Y1 - 2016
+UR - http://hdl.handle.net/2117/102312
+VL - 32
+IS - 12
+EP - 1901
+SP - 1902
+T2 - Bioinformatics
+AU - Ziyatdinov, A.
+AU - Brunel, H.
+AU - Martinez, A.
+AU - Buil, A.
+AU - Perera, A.
+AU - Soria, J.
+
+TY - MGZN
+DO - 10.1016/j.jnutbio.2015.10.002
+TI - Clinical phenotype clustering in cardiovascular risk patients for the identification of responsive metabotypes after red wine polyphenol intake
+AB - (c) 2015 Elsevier Inc. This study aims to evaluate the robustness of clinical and metabolic phenotyping through, for the first time, the identification of differential responsiveness to dietary strategies in the improvement of cardiometabolic risk conditions. Clinical phenotyping of 57 volunteers with cardiovascular risk factors was achieved using k-means cluster analysis based on 69 biochemical and anthropometric parameters. Cluster validation based on Dunn and Figure of Merit analysis for internal coherence and external homogeneity were employed. k-Means produced four clusters with particular clinical profiles. Differences on urine metabolomic profiles among clinical phenotypes were explored and validated by multivariate orthogonal signal correction partial least-squares discriminant analysis (OSC-PLS-DA) models. OSC-PLS-DA of 1H-NMR data revealed that model comparing "obese and diabetic cluster" (OD-c) against "healthier cluster" (H-c) showed the best predictability and robustness in terms of explaining the pairwise differences between clusters. Considering these two clusters, distinct groups of metabolites were observed following an intervention with wine polyphenol intake (WPI; 733 equivalents of gallic acid/day) per 28 days. Glucose was significantly linked to OD-metabotype (P&lt;.01), and lactate, betaine and dimethylamine showed a significant trend. Tartrate (P&lt;.001) was associated with wine polyphenol intervention (OD-c_WPI and H-c_WPI), whereas mannitol, threonine methanol, fucose and 3-hydroxyphenylacetate showed a significant trend. Interestingly, 4-hydroxyphenylacetate significantly increased in H-c_WPI compared to OD-c_WPI and to basal groups (P&lt;.05)-gut microbial-derived metabolite after polyphenol intake-thereby exhibiting a clear metabotypic intervention effect. Results revealed gut microbiota responsive phenotypes to wine polyphenols intervention. Overall, this study illustrates a novel metabolomic strategy for characterizing interindividual responsiveness to dietary intervention and identification of health benefits.
+AB - (c) 2015 Elsevier Inc. This study aims to evaluate the robustness of clinical and metabolic phenotyping through, for the first time, the identification of differential responsiveness to dietary strategies in the improvement of cardiometabolic risk conditions. Clinical phenotyping of 57 volunteers with cardiovascular risk factors was achieved using k-means cluster analysis based on 69 biochemical and anthropometric parameters. Cluster validation based on Dunn and Figure of Merit analysis for internal coherence and external homogeneity were employed. k-Means produced four clusters with particular clinical profiles. Differences on urine metabolomic profiles among clinical phenotypes were explored and validated by multivariate orthogonal signal correction partial least-squares discriminant analysis (OSC-PLS-DA) models. OSC-PLS-DA of 1H-NMR data revealed that model comparing
+AB - Postprint (published version)
+Y1 - 2016
+UR - http://hdl.handle.net/2117/85014
+VL - 28
+EP - 114
+SP - 120
+T2 - Journal of nutritional biochemistry
+AU - Vazquez, R.
+AU - Llorach, R.
+AU - Perera, A.
+AU - Mandal, R.
+AU - Feliz, M.
+AU - Tinahones, F.
+AU - Wishart, D.
+AU - Andres, C.
+
+TY - MGZN
+DO - 10.1093/carcin/bgv146
+TI - Aberrant DNA methylation in non-small cell lung cancer-associated fibroblasts
+AB - DNA methylation profiling of TAFs reveals global demethylation and a selective impact on the TGF-beta pathway. Moreover, it suggests the fibrocyte origin of a fraction of TAFs, and identifies a novel prognostic biomarker in non-small cell lung cancer.Epigenetic changes through altered DNA methylation have been implicated in critical aspects of tumor progression, and have been extensively studied in a variety of cancer types. In contrast, our current knowledge of the aberrant genomic DNA methylation in tumor-associated fibroblasts (TAFs) or other stromal cells that act as critical coconspirators of tumor progression is very scarce. To address this gap of knowledge, we conducted genome-wide DNA methylation profiling on lung TAFs and paired control fibroblasts (CFs) from non-small cell lung cancer patients using the HumanMethylation450 microarray. We found widespread DNA hypomethylation concomitant with focal gain of DNA methylation in TAFs compared to CFs. The aberrant DNA methylation landscape of TAFs had a global impact on gene expression and a selective impact on the TGF-beta pathway. The latter included promoter hypermethylation-associated SMAD3 silencing, which was associated with hyperresponsiveness to exogenous TGF-beta 1 in terms of contractility and extracellular matrix deposition. In turn, activation of CFs with exogenous TGF-beta 1 partially mimicked the epigenetic alterations observed in TAFs, suggesting that TGF-beta 1 may be necessary but not sufficient to elicit such alterations. Moreover, integrated pathway-enrichment analyses of the DNA methylation alterations revealed that a fraction of TAFs may be bone marrow-derived fibrocytes. Finally, survival analyses using DNA methylation and gene expression datasets identified aberrant DNA methylation on the EDARADD promoter sequence as a prognostic factor in non-small cell lung cancer patients. Our findings shed light on the unique origin and molecular alterations underlying the aberrant phenotype of lung TAFs, and identify a stromal biomarker with potential clinical relevance.
+AB - Postprint (published version)
+Y1 - 2015
+UR - http://hdl.handle.net/2117/84879
+VL - 36
+IS - 12
+EP - 1453
+SP - 1463
+T2 - Carcinogenesis
+AU - Vizoso, M.
+AU - Puig, M.
+AU - Carmona, F.J.
+AU - Maqueda, M.
+AU - Vel'asquez, A.
+AU - G'omez, A.
+AU - Labernadie, A.
+AU - Lugo, R.
+AU - Gabasa, M.
+AU - Rigat-Brugarolas, L.
+AU - Trepat, X.
+AU - Ramirez, J.
+AU - Moran, S.
+AU - Vidal, E.
+AU - Reguart, N.
+AU - Perera, A.
+AU - Esteller, M.
+AU - Alcaraz Casademunt, Jordi
+
+TY - MGZN
+DO - 10.1186/s12859-015-0811-x
+TI - Sequence information gain based motif analysis
+AB - Background: The detection of regulatory regions in candidate sequences is essential for the understanding of the regulation of a particular gene and the mechanisms involved. This paper proposes a novel methodology based on information theoretic metrics for finding regulatory sequences in promoter regions. Results: This methodology (SIGMA) has been tested on genomic sequence data for Homo sapiens and Mus musculus. SIGMA has been compared with different publicly available alternatives for motif detection, such as MEME/MAST, Biostrings (Bioconductor package), MotifRegressor, and previous work such Qresiduals projections or information theoretic based detectors. Comparative results, in the form of Receiver Operating Characteristic curves, show how, in 70 % of the studied Transcription Factor Binding Sites, the SIGMA detector has a better performance and behaves more robustly than the methods compared, while having a similar computational time. The performance of SIGMA can be explained by its parametric simplicity in the modelling of the non-linear co-variability in the binding motif positions. Conclusions: Sequence Information Gain based Motif Analysis is a generalisation of a non-linear model of the cis-regulatory sequences detection based on Information Theory. This generalisation allows us to detect transcription factor binding sites with maximum performance disregarding the covariability observed in the positions of the training set of sequences. SIGMA is freely available to the public at http://b2slab.upc.edu.
+AB - Postprint (published version)
+Y1 - 2015
+UR - http://www.biomedcentral.com
+UR - http://hdl.handle.net/2117/99688
+VL - 16
+IS - 377
+EP - 1
+SP - 13
+T2 - BMC bioinformatics
+AU - Maynou, J.
+AU - Pair'o, E.
+AU - Marco, S.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.chroma.2015.07.044
+TI - Compound identification in gas chromatography/mass spectrometry-based metabolomics by blind source separation
+AB - Metabolomics GC-MS samples involve high complexity data that must be effectively resolved to produce chemically meaningful results. Multivariate curve resolution-alternating least squares (MCR-ALS) is the most frequently reported technique for that purpose. More recently, independent component analysis (ICA) has been reported as an alternative to MCR. Those algorithms attempt to infer a model describing the observed data and, therefore, the least squares regression used in MCR assumes that the data is a linear combination of that model. However, due to the high complexity of real data, the construction of a model to describe optimally the observed data is a critical step and these algorithms should prevent the influence from outlier data. This study proves independent component regression (ICR) as an alternative for GC-MS compound identification. Both ICR and MCR though require least squares regression to correctly resolve the mixtures. In this paper, a novel orthogonal signal deconvolution (OSD) approach is introduced, which uses principal component analysis to determine the compound spectra. The study includes a compound identification comparison between the results by ICA-OSD, MCR-OSD, ICR and MCR-ALS using pure standards and human serum samples. Results shows that ICR may be used as an alternative to multivariate curve methods, as ICR efficiency is comparable to MCR-ALS. Also, the study demonstrates that the proposed OSD approach achieves greater spectral resolution accuracy than the traditional least squares approach when compounds elute under undue interference of biological matrices. (C) 2015 Elsevier B.V. All rights reserved.
+AB - Postprint (published version)
+Y1 - 2015
+UR - http://hdl.handle.net/2117/84888
+VL - 1409
+EP - 226
+SP - 233
+T2 - Journal of chromatography A
+AU - Domingo, X.
+AU - Perera, A.
+AU - Ramirez, N.
+AU - Canellas, N.
+AU - Correig, X.
+AU - Brezmes, J.
+
+TY - MGZN
+DO - 10.1016/j.dib.2015.02.016
+TI - Data set from gas sensor array under flow modulation
+AB - Recent studies in neuroscience suggest that sniffing, namely sampling odors actively, plays an important role in olfactory system, especially in certain scenarios such as novel odorant detection. While the computational advantages of high frequency sampling have not been yet elucidated, here, in order to motivate further investigation in active sampling strategies, we share the data from an artificial olfactory system made of 16 MOX gas sensors under gas flow modulation. The data were acquired on a custom set up featured by an external mechanical ventilator that emulates the biological respiration cycle. 58 samples were recorded in response to a relatively broad set of 12 gas classes, defined from different binary mixtures of acetone and ethanol in air. The acquired time series show two dominant frequency bands: the low-frequency signal corresponds to a conventional response curve of a sensor in response to a gas pulse, and the high-frequency signal has a clear principal harmonic at the respiration frequency. The data are related to the study in [1], and the data analysis results reported there should be considered as a reference point.
+AB - Postprint (published version)
+Y1 - 2015
+UR - http://www.sciencedirect.com/science/article/pii/S235234091500027X
+UR - http://hdl.handle.net/2117/85242
+VL - 3
+EP - 131
+SP - 136
+T2 - Data in brief
+PB - Elsevier
+AU - Ziyatdinov, A.
+AU - Fonollosa, J.
+AU - Fern'andez, L.
+AU - Guti'errez G'alvez, Agust'in
+AU - Marco, S.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.dib.2015.02.011
+TI - Synthetic benchmarks for machine olfaction: Classification, segmentation and sensor damage
+AB - The design of the signal and data processing algorithms requires a validation stage and some data relevant for a validation procedure. While the practice to share public data sets and make use of them is a recent and still on-going activity in the community, the synthetic benchmarks presented here are an option for the researches, who need data for testing and comparing the algorithms under development. The collection of synthetic benchmark data sets were generated for classification, segmentation and sensor damage scenarios, each defined at 5 difficulty levels. The published data are related to the data simulation tool, which was used to create a virtual array of 1020 sensors with a default set of parameters
+AB - Postprint (published version)
+Y1 - 2015
+UR - http://www.sciencedirect.com/science/article/pii/S2352340915000220
+UR - http://hdl.handle.net/2117/85241
+VL - 3
+EP - 126
+SP - 130
+T2 - Data in brief
+PB - Elsevier
+AU - Ziyatdinov, A.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.snb.2014.09.001
+TI - Bioinspired early detection through gas flow modulation in chemo-sensory systems
+AB - The design of bioinspired systems for chemical sensing is an engaging line of research in machine olfaction. Developments in this line could increase the lifetime and sensitivity of artificial chemo-sensory systems. Such approach is based on the sensory systems known in live organisms, and the resulting developed artificial systems are targeted to reproduce the biological mechanisms to some extent. Sniffing behaviour, sampling odours actively, has been studied recently in neuroscience, and it has been suggested that the respiration frequency is an important parameter of the olfactory system, since the odour perception, especially in complex scenarios such as novel odourants exploration, depends on both the stimulus identity and the sampling method. In this work we propose a chemical sensing system based on an array of 16 metal-oxide gas sensors that we combined with an external mechanical ventilator to simulate the biological respiration cycle. The tested gas classes formed a relatively broad combination of two analytes, acetone and ethanol, in binary mixtures. Two sets of low-frequency and high-frequency features were extracted from the acquired signals to show that the high-frequency features contain information related to the gas class. In addition, such information is available at early stages of the measurement, which could make the technique suitable in early detection scenarios. The full data set is made publicly available to the community. (C) 2014 Elsevier B.V. All rights reserved.
+AB - Postprint (author's final draft)
+Y1 - 2015
+UR - http://hdl.handle.net/2117/88116
+VL - 206
+EP - 538
+SP - 547
+T2 - Sensors and actuators B. Chemical
+AU - Ziyatdinov, A.
+AU - Fonollosa, J.
+AU - Valentin-Fernandez, L.
+AU - Guti'errez G'alvez, Agust'in
+AU - Marco, S.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1093/bioinformatics/btu423
+TI - Intensity drift removal in LC/MS metabolomics by common variance compensation
+AB - Liquid chromatography coupled to mass spectrometry (LC/MS) has become widely used in Metabolomics. Several artefacts have been identified during the acquisition step in large LC/MS metabolomics experiments, including ion suppression, carryover or changes in the sensitivity and intensity. Several sources have been pointed out as responsible for these effects. In this context, the drift effects of the peak intensity is one of the most frequent and may even constitute the main source of variance in the data, resulting in misleading statistical results when the samples are analysed. In this article, we propose the introduction of a methodology based on a common variance analysis before the data normalization to address this issue. This methodology was tested and compared with four other methods by calculating the Dunn and Silhouette indices of the quality control classes. The results showed that our proposed methodology performed better than any of the other four methods. As far as we know, this is the first time that this kind of approach has been applied in the metabolomics context.
+Y1 - 2014
+VL - 30
+IS - 20
+EP - 2899
+SP - 2905
+T2 - Bioinformatics
+AU - Fernandez, F.
+AU - Llorach, R.
+AU - Garcia, M.
+AU - Ziyatdinov, A.
+AU - Andres, C.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.epsr.2014.02.003
+TI - Automatic capacitor bank identification in power distribution systems
+AB - Tracking the performance and health of capacitor banks in distribution systems is a challenging task due to their high number and the widespread geographical distribution of feeder circuits. In this work we propose a signal processing technique capable of identifying and characterizing the number of capacitor banks connected to a standard North-American feeder circuit. The way the technique is applied allows a real-time remote monitoring of their operation, automatically identifying the switching activity for each capacitor bank connected. The technique is based on an unsupervised clustering of the three phase reactance step magnitudes. We demonstrate that using only passive monitoring of conventional substation bus PTs and feeder CTs, without any communication, nor visual inspection, to individual banks, it is possible to predict the number of capacitor banks on the distribution feeder and track their performance and activity over time. (C) 2014 Elsevier B.V. All rights reserved.
+Y1 - 2014
+UR - http://www.sciencedirect.com/science/article/pii/S0378779614000406
+VL - 111
+EP - 96
+SP - 102
+T2 - Electric power systems research
+AU - Perera, A.
+AU - Manivannan, K.
+AU - Xu, P.
+AU - Gutierrez-Osuna, R.
+AU - Benner, C.
+AU - Russell, B.
+
+TY - MGZN
+DO - 10.1093/bioinformatics/btu136
+TI - An R package to analyse LC/MS metabolomic data: MAIT (Metabolite Automatic Identification Toolkit).
+AB - Postprint (published version)
+Y1 - 2014
+UR - http://bioinformatics.oxfordjournals.org/content/30/13/1937.full.pdf+html
+UR - http://hdl.handle.net/2117/24848
+VL - 30
+IS - 13
+EP - 1937
+SP - 1939
+T2 - Bioinformatics
+AU - Fernandez, F.
+AU - Llorach, R.
+AU - Andres, C.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1021/ac403702p
+TI - Peak aggregation as an innovative strategy for improving the predictive power of LC-MS metabolomic profiles
+Y1 - 2014
+UR - http://pubs.acs.org/doi/abs/10.1021/ac403702p
+VL - 86
+IS - 5
+EP - 2320
+SP - 2325
+T2 - Analytical chemistry
+AU - Fernandez, F.
+AU - Llorach, R.
+AU - Andres, C.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1371/journal.pone.0088839
+TI - Data simulation in machine olfaction with the R package chemosensors
+AB - In machine olfaction, the design of applications based on gas sensor arrays is highly dependent on the robustness of the signal and data processing algorithms. While the practice of testing the algorithms on public benchmarks is not common in the field, we propose software for performing data simulations in the machine olfaction field by generating parameterized sensor array data. The software is implemented as an R language package chemosensors which is open-access, platform-independent and self-contained. We introduce the concept of a virtual sensor array which can be used as a data generation tool. In this work, we describe the data simulation workflow which basically consists of scenario definition, virtual array parameterization and the generation of sensor array data. We also give examples of the processing of the simulated data as proof of concept for the parameterized sensor array data: the benchmarking of classification algorithms, the evaluation of linear- and non-linear regression algorithms, and the biologically inspired processing of sensor array data. All the results presented were obtained under version 0.7.6 of the chemosensors package whose home page is chemosensors.r-forge.r-project.org.
+AB - Postprint (published version)
+Y1 - 2014
+UR - http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0088839
+UR - http://hdl.handle.net/2117/22237
+VL - 9
+IS - 2
+EP - e88839
+SP - e88839
+T2 - PloS one
+AU - Ziyatdinov, A.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1007/s00542-013-2020-8
+TI - A biomimetic approach to machine olfaction, featuring a very large-scale chemical sensor array and embedded neuro-bio-inspired computation
+Y1 - 2013
+UR - http://link.springer.com/article/10.1007%2Fs00542-013-2020-8#
+EP - 1
+SP - 14
+T2 - Microsystem technologies
+AU - Marco, S.
+AU - Guti'errez G'alvez, Agust'in
+AU - Lansner, A.
+AU - Martinez, D.
+AU - Rospars, J.P.
+AU - Beccherelli, R.
+AU - Perera, A.
+AU - Pearce, T.C.
+AU - Verschure, P.
+AU - Persaud, K.C.
+
+TY - MGZN
+DO - 10.1016/j.compbiomed.2013.01.017
+TI - Effect of genetic regions on the correlation between single point mutation variability and morbidity
+AB - Cross-species sequence comparisons have suggested that cross-species sequence variability is correlated with functionality. The goal of this study was to extend this observation at different genetic regions, focusing on the morbidity of Single Nucleotide Polymorphisms (SNPs). A set of deleterious SNPs was compared to a set of neutral SNPs. Both samples were stratified according to the location of the SNPs at different genetic regions. Deleterious SNPs were observed to be less variable across species than neutral SNPs, these differences being significant for missense mutations (p=1.1x10-9p=1.1x10-9), SNPs in introns (p=6.4x10-3p=6.4x10-3), and SNPs in unknown regions (p=8x10-4p=8x10-4).
+Y1 - 2013
+VL - 43
+IS - 5
+EP - 594
+SP - 599
+T2 - Computers in biology and medicine
+AU - Brunel, H.
+AU - Gallardo, J.
+AU - Vallverdu, M.
+AU - Caminal, P.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1186/1471-2105-14-68
+TI - Predictability of gene ontology slim-terms from primary structure information in Embryophyta plant proteins
+AB - Proteins are the key elements on the path from genetic information to the development of life. The roles played by the different proteins are difficult to uncover experimentally as this process involves complex procedures such as genetic modifications, injection of fluorescent proteins, gene knock-out methods and others. The knowledge learned from each protein is usually annotated in databases through different methods such as the proposed by The Gene Ontology (GO) consortium. Different methods have been proposed in order to predict GO terms from primary structure information, but very few are available for large-scale functional annotation of plants, and reported success rates are much less than the reported by other non-plant predictors. This paper explores the predictability of GO annotations on proteins belonging to the Embryophyta group from a set of features extracted solely from their primary amino acid sequence.
+AB - Postprint (published version)
+Y1 - 2013
+UR - http://www.biomedcentral.com/1471-2105/14/68/abstract
+UR - http://hdl.handle.net/2117/18023
+VL - 14
+IS - 68
+T2 - BMC bioinformatics
+AU - Jaramillo-Garz'on, J.
+AU - Gallardo, J.
+AU - Castellanos, G.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.snb.2012.09.093
+TI - A software tool for large-scale synthetic experiments based on polymeric sensor arrays
+AB - Postprint (published version)
+Y1 - 2013
+UR - http://www.sciencedirect.com/science/article/pii/S0925400512010076
+UR - http://hdl.handle.net/2117/18081
+VL - 177
+EP - 596
+SP - 604
+T2 - Sensors and actuators B. Chemical
+AU - Ziyatdinov, A.
+AU - Fernandez, E.
+AU - Chaudry, A.
+AU - Marco, S.
+AU - Persaud, K.C.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.5405/jmbe.1060
+TI - Choi-Williams distribution to describe coding and non-coding regions in primary transcript pre-mRNA
+Y1 - 2012
+UR - http://jmbe.bme.ncku.edu.tw/index.php/bme/about/aboutThisPublishingSystem
+EP - 1
+SP - 33
+T2 - Journal of Medical and Biological Engineering
+AU - Melia U.
+AU - Vallverdu, M.
+AU - Clari`a, F
+AU - Gallardo, J.
+AU - Perera, A.
+AU - Caminal, P.
+
+TY - MGZN
+DO - 10.1093/bioinformatics/bts147
+TI - A subspace method for the detection of transcription factor binding sites
+Y1 - 2012
+VL - 28
+IS - 10
+EP - 1328
+SP - 1335
+T2 - Bioinformatics
+AU - Pair'o, E.
+AU - Maynou, J.
+AU - Marco, S.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.procs.2011.09.066
+TI - Biologically inspired computation for chemical sensing
+AB - Postprint (published version)
+Y1 - 2011
+UR - http://www.sciencedirect.com/science/article/pii/S1877050911006260
+UR - http://hdl.handle.net/2117/18021
+VL - 7
+EP - 226
+SP - 227
+T2 - Procedia computer science
+PB - Elsevier
+AU - Fonollosa, J.
+AU - Gutierrez-Galvez, A.
+AU - Lansner, A.
+AU - Martinez, D.
+AU - Rospars, J.P.
+AU - Beccherelli, R.
+AU - Perera, A.
+AU - Pearce, T.C.
+AU - Vershure, P.
+AU - Persaud, K.C.
+AU - Marco, S.
+
+TY - MGZN
+DO - 10.1093/bioinformatics/btq273
+TI - MISS: a non-linear methodology based on mutual information for genetic association studies in both population and sib-pairs analysis
+Y1 - 2010
+VL - 26
+IS - 15
+EP - 1811
+SP - 1818
+T2 - Bioinformatics
+AU - Brunel, H.
+AU - Gallardo, J.
+AU - Buil, J.
+AU - Vallverdu, M.
+AU - Soria, J.
+AU - Caminal, P.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.snb.2009.11.037
+TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
+Y1 - 2010
+UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
+VL - 146
+IS - 2
+EP - 477
+SP - 482
+T2 - Sensors and actuators B. Chemical
+AU - Perera, A.
+AU - Pardo, A.
+AU - Barrettino, D.
+AU - Hierlemann, A.
+AU - Marco, S.
+
+TY - MGZN
+DO - 10.1016/j.snb.2009.11.034
+TI - Drift compensation of gas sensor array data by common principal component analysis
+Y1 - 2010
+UR - http://adsabs.harvard.edu/abs/2009AIPC.1137..566Z
+VL - 146
+IS - 2
+EP - 460
+SP - 465
+T2 - Sensors and actuators B. Chemical
+AU - Ziyatdinov, A.
+AU - Marco, S.
+AU - Chaudry, A.
+AU - Persaud, K.C.
+AU - Caminal, P.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1109/TIT.2009.2037038
+TI - Computational detection of transcription factor binding sites through differential R'enyi entropy
+AB - Regulatory sequence detection is a critical facet for understanding the cell mechanisms in order to coordinate the response to stimuli. Protein synthesis involves the binding of a
+transcription factor to specific sequences in a process related to the gene expression initiation. A characteristic of this binding process is that the same factor binds with different sequences placed along all genome. Thus, any computational approach shows many difficulties related with this variability observed from the binding sequences. This paper proposes the detection of transcription factor binding sites based on a parametric uncertainty measurement (R'enyi entropy). This detection algorithm evaluates the variation on the total R'enyi entropy of a set of sequences when a candidate sequence is assumed to be a true binding site belonging to the set. The efficiency of the method is measured in form of Receiver Operating Characteristic curves on different transcription factors from
+Saccharomyces cerevisiae organism. The results are compared with other known motif
+detection algorithms such as Motif Discovery scan (MDscan) and Multiple EM for Motif Elicitation (MEME)
+Y1 - 2010
+UR - http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5420289&tag=1
+VL - 52
+IS - 2
+EP - 734
+SP - 741
+T2 - IEEE transactions on information theory
+AU - Maynou, J.
+AU - Gallardo, J.
+AU - Vallverdu, M.
+AU - Caminal, P.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.chemolab.2009.10.002
+TI - Drift compensation of gas sensor array data by Orthogonal Signal Correction
+Y1 - 2010
+UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TFP-4XG3S5R-1&_user=1517299&_coverDate=01/15/2010&_alid=1488708436&_rdoc=1&_fmt=high&_orig=search&_origin=search&_zone=rslt_list_item&_cdi=5232&_sort=r&_st=13&_docanchor=&view=c&_ct=151&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=b3062c68e2e9de40967732b6b3f1c0e6&searchtype=a
+VL - 100
+IS - 1
+EP - 28
+SP - 35
+T2 - Chemometrics and intelligent laboratory systems
+AU - Padilla, M.
+AU - Perera, A.
+AU - Montoliu, I.
+AU - Chaudry, A.
+AU - Persaud, K.C.
+AU - Marco, S.
+
+TY - MGZN
+DO - 10.1186/1753-6561-3-S7-S130
+TI - A new gene-based association test for genome-wide association studies
+AB - Genome-wide association studies are widely used today to discover genetic factors that modify the risk of complex diseases. Usually, these methods work in a SNP-by-SNP fashion. We present a gene-based test that can be applied in the context of genome-wide association studies. We compare both strategies, SNP-based and gene-based, in a sample of cases and controls for rheumatoid arthritis. We obtained different results using each strategy. The SNP-based test found the PTPN22 gene while the gene-based test found the PHF19-TRAF1-C5 region. That suggests that no single strategy performs better than another in all cases and that a certain underlying genetic architecture can be delineated more easily with one strategy rather than with another.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2009
+UR - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2795904/?tool=pubmed
+UR - http://hdl.handle.net/2117/9715
+VL - 15
+IS - 3
+EP - 1
+SP - 5
+T2 - BMC proceedings (Online)
+AU - Buil Demur, A.
+AU - Mart'inez-P'erez, A.
+AU - Perera, A.
+AU - Rib, L.
+AU - Soria, J.
+AU - Caminal, P.
+
+TY - MGZN
+DO - 10.1109/TITB.2009.2016654
+TI - Dimensionality reduction oriented toward the feature visualization for ischemia detection
+AB - An effective data representation methodology on high-dimension feature spaces is presented, which allows a better interpretation of subjacent physiological phenomena (namely, cardiac behavior related to cardiovascular diseases), and is based
+on search criteria over a feature set resulting in an increase in the detection capability of ischemic pathologies, but also connecting these features with the physiologic representation of the ECG.
+The proposed dimension reduction scheme consists of three levels: projection, interpretation, and visualization. First, a hybrid algorithm is described that projects the multidimensional data to a lower dimension space, gathering the features that contribute similarly in the meaning of the covariance reconstruction in order to find information of clinical relevance over the initial training space. Next, an algorithm of variable selection is provided that
+further reduces the dimension, taking into account only the variables that offer greater class separability, and finally, the selected feature set is projected to a 2-D space in order to verify the performance
+of the suggested dimension reduction algorithm in terms of the discrimination capability for ischemia detection. The ECG
+recordings used in this study are fromthe European ST-T database and from the Universidad Nacional de Colombia database. In both cases, over 99% feature reduction was obtained, and classification precision was over 99% using a five-nearest-neighbor classifier (5-NN).
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2009
+UR - http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4801963&tag=1
+UR - http://hdl.handle.net/2117/9713
+VL - 13
+IS - 4
+EP - 590
+SP - 598
+T2 - IEEE transactions on information technology in biomedicine
+AU - Delgado-Tejos, E.
+AU - Perera, A.
+AU - Vallverdu, M.
+AU - Caminal, P.
+AU - Castellanos Dominguez, G.
+
+TY - MGZN
+DO - 10.1109/TNB.2008.2000744
+TI - DNA Binding Site Characterization by Means of R'enyi Entropy Measures on Nucleotide
+Y1 - 2008
+VL - 7
+IS - 2
+EP - 133
+SP - 141
+T2 - IEEE transactions on nanobioscience
+AU - Perera, A.
+AU - Vallverdu, M.
+AU - Clari`a, F
+AU - Caminal, P.
+
+TY - MGZN
+TI - Searching for master regulators of transcription in a human gene expression data set
+Y1 - 2007
+UR - http://www.biomedcentral.com/content/pdf/1753-6561-1-S1-S81.pdf
+VL - 1
+IS - (Suppl 1)
+EP - 1
+SP - 4
+T2 - BMC proceedings (Online)
+AU - Buil Demur, A.
+AU - Perera, A.
+AU - Souto, R.
+AU - Peralta, J.
+AU - Almasy, L.
+AU - Vallverdu, M.
+AU - Caminal, P.
+AU - Soria, J.
+
+TY - MGZN
+TI - Gene-phenotype association using mutual information-based cluster analysis
+Y1 - 2007
+UR - http://www3.interscience.wiley.com/cgi-bin/fulltext/115806228/PDFSTART?CRETRY=1&SRETRY=0
+VL - 31
+IS - 6
+EP - 618
+SP - 618
+T2 - Genetic epidemiology
+AU - Buil Demur, A.
+AU - Perera, A.
+AU - Brunel, H.
+AU - Souto, J.
+AU - Fontcuberta, J.
+AU - Vallverdu, M.
+AU - Soria, J.
+AU - Caminal, P.
+
+TY - MGZN
+DO - 10.1016/j.snb.2006.03.012
+TI - Gas measurement systems based on IEEE1451.2 standard
+Y1 - 2006
+UR - http://www.sciencedirect.com/science/article/pii/S0925400506001559?via%3Dihub
+VL - 116
+IS - 1-2
+EP - 11
+SP - 16
+T2 - Sensors and actuators B. Chemical
+AU - Pardo, A.
+AU - C'amara, L.
+AU - Cabr'e, J.
+AU - Perera, A.
+AU - Cano, X.
+AU - Marco, S.
+AU - Bosch, J.
+
+TY - MGZN
+DO - 10.1016/j.snb.2005.11.082
+TI - A dimensionality-reduction technique inspired by receptor convergence in the olfactory system
+Y1 - 2006
+UR - http://dx.doi.org/10.1016/j.snb.2005.11.082
+VL - 116
+IS - 1-2
+EP - 17
+SP - 22
+T2 - Sensors and actuators B. Chemical
+AU - Perera, A.
+AU - Yamanaka, T.
+AU - Guti'errez-G'alvez, A.
+AU - Gutierrez-Osuna, R.
+AU - Raman, B.
+
+TY - MGZN
+DO - 10.1016/j.snb.2006.03.011
+TI - Feature extraction on three way enose signals
+Y1 - 2006
+UR - http://www.sciencedirect.com/science/article/pii/S0925400506001766?via%3Dihub
+VL - 116
+IS - 1-2
+EP - 145
+SP - 150
+T2 - Sensors and actuators B. Chemical
+AU - Padilla, M.
+AU - Montoliu, I.
+AU - Pardo, A.
+AU - Perera, A.
+
+TY - MGZN
+TI - On-line novelty detection by recursive dynamic principal component analysis and gas sensor arrays under drift conditions
+Y1 - 2006
+UR - http://ieeexplore.ieee.org/iel5/7361/34270/01634430.pdf?tp=&isnumber=34270&arnumber=1634430&punumber=7361
+VL - 6
+IS - 3
+EP - 770
+SP - 783
+T2 - IEEE sensors journal
+AU - Perera, A.
+AU - Papamichail, N.
+AU - Barsan, N.
+AU - Weimar, U.
+AU - Marco, S.
+
+TY - MGZN
+DO - 10.1016/S0169-7439(02)00069-2
+TI - Fuzzy inference system for sensor array calibration : prediction of CO and CH4 levels in variable humidity conditions
+Y1 - 2002
+UR - http://www.sciencedirect.com/science/article/pii/S0169743902000692?via%3Dihub
+VL - 64
+IS - 2
+EP - 103
+SP - 122
+T2 - Chemometrics and intelligent laboratory systems
+AU - Teodor, S.
+AU - Perera, A.
+AU - Pardo, A.
+AU - Hahn, S.
+AU - Marco, S.
+AU - Barsan, N.
+AU - Weimar, U.
+
+TY - MGZN
+DO - 10.1016/S0925-4005(01)00788-2
+TI - An intelligent detector based on temperature modulation of a gas sensor with a digital signal processor
+AB - An intelligent detector based on a hot-plate gas sensor and a digital signal processor (DSP) is presented. The work comprises sensor measurements and gas identification with a pattern recognition (PARC) system along with a systematic verification of both stages, thanks to clustering validity methods and performance tests. Commercial silicon micromachined tin-oxide sensors have been used to capture dynamic measurements modulating the sensor heater at different temperatures, waveforms and frequencies. Feature extraction is based on the spectral and transient analysis of the sensor output signals. The PARC systems are based on self-organizing maps (SOM) and recent variations of these well-known neural networks. The proposed hardware is in charge of the whole system: the sensor temperature modulation and signal processing.
+Y1 - 2001
+UR - http://www.sciencedirect.com/science/article/pii/S0925400501007882?via%3Dihub
+VL - 78
+IS - 1-3
+EP - 32
+SP - 39
+T2 - Sensors and actuators B. Chemical
+AU - Arturo, O.
+AU - Marco, S.
+AU - Perera, A.
+AU - Teodor, S.
+AU - Pardo, A.
+AU - Samitier, J.
+
+TY - MGZN
+TI - A bio-inspired nonlinear algorithm to integrate carbon monoxide concentration aiming to fulfil international standards
+Y1 - 2000
+VL - 69
+IS - 3
+EP - 308
+SP - 313
+T2 - Sensors and actuators B. Chemical
+AU - Perera, A.
+AU - Teodor, S.
+AU - Marco, S.
+

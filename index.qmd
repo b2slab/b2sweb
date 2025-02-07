@@ -1,0 +1,117 @@
+---
+pagetitle: "b2slab"
+#page-layout: custom
+#section-divs: false
+#toc: false
+#editor: source
+description: | 
+  Site of the Bioinformatics and Biomedical Signals Laboratory – Institut de Recerca i Innovació en Salut
+hide-description: true
+image: b2slab.png
+resources: 
+  - images/b2s_animation.mp4
+---
+
+# Welcome to the b2slab
+
+## Bioinformatics and Biomedical Signals Laboratory
+
+<video autoplay muted playsinline width="300" height="168" style="float: right; margin-right: 10px;">
+
+<source src="images/b2s_animation.mp4" type="video/mp4">
+
+</video>
+
+<meta name="fediverse:creator" content="@b2slab@social.iris.upc.edu">
+
+<meta name="algolia-site-verification"  content="6DC8B5AD41907B76" />
+
+This is a research group member of the [Institut de Recerca i Innovació en Salut (IRIS)](https://iris.upc.edu) of the Universitat Politècnica de Catalunya (UPC) in Barcelona, Spain. Former member of the Research Center for Biomedical Engineering (CREB)
+
+Our main three research lines are : - Analysis of large datasets from primary and non-primary care related datasets. - Methods in Bioinformatics, specially in metabolomics - Biomedical Engineering
+
+The Bioinformatics and Biomedical Signals Laboratory (B2SLab) at the Universitat Politècnica de Catalunya (UPC) focuses on the intersection of bioinformatics and biomedical signal processing. Our research encompasses areas such as computational modeling, machine learning, and data analysis applied to biological and medical data.
+
+Check:
+
+[Our publications](/publications/index.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"} [Our Team](/team/index.qmd){#btn-guide .btn-action .btn .btn-info .btn-lg role="button"}
+
+## Use cases
+
+<ul class="nav nav-pills" id="hello-b2s-tab" role="tablist">
+
+<li class="nav-item" role="presentation">
+
+<button class="nav-link active" id="clinical-tab" data-bs-toggle="tab" data-bs-target="#clinical" type="button" role="tab" aria-controls="clinical" aria-selected="true">
+
+Data Science
+
+</button>
+
+</li>
+
+<li class="nav-item" role="presentation">
+
+<button class="nav-link" id="bioinfo-tab" data-bs-toggle="tab" data-bs-target="#bioinfo" type="button" role="tab" aria-controls="bioinfo" aria-selected="false">
+
+Bioinformatics
+
+</button>
+
+</li>
+
+<li class="nav-item" role="presentation">
+
+<button class="nav-link" id="bioeng-tab" data-bs-toggle="tab" data-bs-target="#bioeng" type="button" role="tab" aria-controls="bioeng" aria-selected="false">
+
+Bioengineering
+
+</button>
+
+</li>
+
+</ul>
+
+::::::::::::::: {#hello-b2s-tabcontent .tab-content}
+:::::: {#clinical .tab-pane .fade .show .active role="tabpanel" aria-labelledby="clinical-tab"}
+The study titled "A Deep Attention-Based Encoder for the Prediction of Type 2 Diabetes Longitudinal Outcomes from Routinely Collected Health Care Data" introduces DARE (Diabetic Attention with Relative position Representation Encoder), a transformer-based model designed to analyze longitudinal and heterogeneous data of Type 2 Diabetes Mellitus (T2DM) patients. Leveraging data from over 200,000 diabetic individuals in the SIDIAP primary healthcare database, which includes diagnostic codes, medication records, and various clinical measurements, DARE underwent an unsupervised pre-training phase followed by fine-tuning for three specific clinical prediction tasks:
+
+Predicting the occurrence of comorbidities. Assessing the achievement of target glycemic control (defined as glycated hemoglobin \< 7%). Forecasting changes in glucose-lowering treatments. In cross-validation, DARE demonstrated superior performance compared to baseline models, achieving area under the curve (AUC) scores of 0.88 for comorbidity prediction, 0.91 for treatment prediction, and 0.82 for HbA1c target prediction. These findings suggest that attention-based encoders like DARE can effectively model complex relationships in longitudinal T2DM data, potentially aiding clinicians in personalized disease management strategies.
+
+::::: grid
+::: {.g-col-lg-6 .g-col-12 style="max-height: 605px;"}
+![](images/embedding.png){.hello-output fig-alt="Visual inspection of the output space of DARE: each point represents embeddings for 5000 random patients, with colors indicating their drug groups."}
+:::
+
+::: {.g-col-lg-6 .g-col-12 style="background-color: white; border: 1px solid #dee2e6; height: max-605px;"}
+![](images/embeddingdrugs.png){fig-alt="Visual inspection of the output space of DARE: each point represents embeddings for 5000 random patients, with colors indicating their comorbidities."}
+:::
+:::::
+::::::
+
+:::::: {#bioinfo .tab-pane .fade role="tabpanel" aria-labelledby="bioinfo-tab"}
+::::: grid
+::: {.g-col-lg-6 .g-col-12 style="max-height: 605px;"}
+The study titled "mWISE: An Algorithm for Context-Based Annotation of Liquid Chromatography–Mass Spectrometry Features through Diffusion in Graphs" introduces mWISE, an R package designed to enhance the annotation of LC–MS data in untargeted metabolomics. Traditional annotation methods often face challenges due to the complexity and volume of data generated in metabolomics studies. mWISE addresses these challenges by employing a context-based approach that utilizes diffusion in graphs to improve the accuracy and efficiency of feature annotation. This method allows for a more comprehensive understanding of the metabolome by effectively integrating various data sources and contextual information.
+:::
+
+::: {.g-col-lg-6 .g-col-12 style="background-color: white; border: 1px solid #dee2e6; height: max-605px;"}
+![](images/mwise.png){fig-alt="Scheme of the three main stages of mWISE algorithm. From left to right, the peak to compound matching stage is described with an example. Then, the filtering stage is shown, composed of a spectral clustering and a filter based on the built clusters. Finally, the diffusion prioritization is depicted."}
+:::
+:::::
+::::::
+
+:::::: {#bioeng .tab-pane .fade role="tabpanel" aria-labelledby="bioeng-tab"}
+This study explores the feasibility of using gas sensor arrays for unobtrusive home monitoring of elderly individuals living alone. Unlike traditional monitoring systems, such as cameras or motion sensors, gas sensors provide a **non-invasive** and **privacy-preserving** alternative by detecting changes in air composition associated with human activities. The researchers developed a **wireless sensor unit** incorporating **metal oxide gas sensors, carbon dioxide sensors, carbon monoxide sensors, and temperature-humidity sensors**, which was deployed in an elderly person's home for **three months**. The system continuously monitored the indoor air environment and used **Principal Component Analysis (PCA) and statistical anomaly detection** to extract activity patterns while compensating for environmental drift. The findings confirmed that gas sensors effectively captured daily routines and **detected deviations**—such as a Christmas Eve family gathering—demonstrating their ability to monitor **Activities of Daily Living (ADLs)** and recognize anomalies that could indicate emergencies or changes in well-being.
+
+::::: grid
+::: {.g-col-lg-6 .g-col-12 style="max-height: 605px;"}
+Compared to motion sensors, the gas sensor system offered **broader coverage without blind spots**, as changes in air composition spread throughout the living space. The correlation between gas sensor data and motion sensor recordings validated its effectiveness. However, some **limitations** were noted, including **delayed event detection due to air dispersion** and the need for **multiple sensor nodes for room-specific monitoring**. The study suggests that integrating **gas sensors into IoT-based smart home systems** could enhance elderly care by providing **real-time activity tracking, anomaly detection, and early warning signals** to caregivers and family members. Future research should focus on improving **spatial resolution**, refining **machine learning models for predictive analysis**, and **combining gas sensors with other smart home technologies** to create a more robust, adaptive, and personalized home monitoring solution.
+:::
+
+::: {.g-col-lg-6 .g-col-12 style="max-height: 605px;"}
+![](images/bioeng.png){fig-alt="Heat map representing the number of significant samples detected per hour. The 𝑥-axis represents 24 h per day and the 𝑦-axis represents different days. Within each cell there are number of samples that are statistically significant events. The coloring goes from cool to warm colors as more events are detected.."}
+:::
+:::::
+::::::
+:::::::::::::::

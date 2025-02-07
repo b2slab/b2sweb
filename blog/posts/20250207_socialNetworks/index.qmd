@@ -1,0 +1,21 @@
+---
+title: "Follow us!"
+description: "b2slab on social networks"
+author: "b2slab Team"
+date: "02/07/2025"
+date-modified: "02/07/2025"
+---
+
+## Connect with Us
+
+::: img-float
+![](web.png){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Stay updated on our latest research and developments by following us on our social networks. We are present in the Fediverse. The Fediverse is a collection of interconnected social platforms communicating through a shared protocol called ActivityPub. This protocol allows users to interact seamlessly across different platforms.
+
+
+- [Mastodon](https://social.iris.upc.edu/@b2slab) (sorry, we are not in –and will not register in– x/twitter): 
+- [Bluesky](https://bsky.app/profile/b2slab.social.iris.upc.edu.ap.brid.gy). This is our same profile in Mastodon, present on BLusky through the [Sky Follower Bridge](https://www.sky-follower-bridge.dev). 
+
+For more information about our projects, publications, and team members, please visit our official website: ([b2slab.upc.edu](https://b2slab.upc.edu/))

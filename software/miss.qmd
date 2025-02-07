@@ -1,0 +1,25 @@
+---
+title: "MISS: Nonlinear Genetic Association."
+format: html
+cache:
+  true
+---
+
+# MISS
+
+MISS is a a nonlinear methodology based on mutual information for genetic association.
+
+::: img-float
+![](images/MISS.png){style="float: left; margin: 5px;"}
+:::
+
+The an information theoretic approach to genetic association, which has been integrated jointly with a feature selection algorithm. The algorithm was been tested on a synthetic data with a controlled phenotype and in the particular case of the F7 gene. This algorithm proposes a multi-target approach and unveils combinations of SNPs that explain more significant information of the phenotype than their individual polymorphisms.
+
+## Download:
+
+-   The software package with documentation can be found [here](downloads/MISS_0.2.tar.gz).
+-   The paper describing MISS can be found [here](https://academic.oup.com/bioinformatics/article/26/15/1811/188323?login=false)
+
+## Citation
+
+-   Brunel, H.; Gallardo, J.; Buil, A.; Vallverdu, M.; Soria, J.; Caminal, P.; Perera, A. (2010). **MISS: a non-linear methodology based on mutual information for genetic association studies in both population and sib-pairs analysis**. *Bioinformatics*, 26, 1811-1818.

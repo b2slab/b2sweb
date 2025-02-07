@@ -1,0 +1,117 @@
+---
+title: "Computational Methods for Correcting the Drift in LC/MS Metabolomic Data in R: intCor Package"
+author: "Francesc Fernández-Albert, Rafael Llorach, Cristina Andrés-Lacueva, Alexandre Perera"
+date: "`r Sys.Date()`"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: true
+  eval: false
+cache:
+  false
+---
+
+# Abstract
+
+Liquid Chromatography coupled to Mass Spectrometry (LC/MS) has become widely used in metabolomics. Several artifacts have been identified during the acquisition step in large LC/MS metabolomics experiments, including ion suppression, carryover, or changes in sensitivity and intensity. The drift effects of peak intensity are among the most frequent issues and may constitute the main source of variance in the data, leading to misleading statistical results. This document introduces the **intCor** package, which applies a methodology based on a common variance analysis prior to data normalization to address drift effects. This approach was tested and compared with four other methods using the Dunn and Silhouette indices of Quality Control classes, demonstrating superior performance.
+
+**Keywords:** Metabolomics, Drift Correction, LC/MS.
+
+# Introduction
+
+The **intCor** package is an R tool focused on drift removal and data normalization for LC/MS metabolomic data. The package includes five different methods to correct drift effects and is structured around two main functions: one for data importation and another for drift correction. Additional functions for graphical analyses (PCA, heat maps) and output generation (CDF files) are also included.
+
+# Using intCor
+
+## Importing Data
+
+The **importData()** function is used to read the samples or data sets that will be analyzed. It supports three input formats:
+
+-   A set of external files (e.g., **CDF** or **mzXML**)
+-   A matrix format
+-   An **xcmsSet** object
+
+### Using an External Data Matrix
+
+A data table and a class vector can be used for importing the data. The data matrix should have samples as columns and variables (time or masses) as rows. The class vector should contain class names, with its components corresponding to the order of the matrix columns.
+
+```{r}
+# Load example data
+library(intCor)
+data(intCorData)
+
+# Import data matrix
+intCor_table <- importData(data = dataMatrix, classes = classes)
+```
+
+### Using an xcmsSet Object
+
+The **importData()** function also supports an **xcmsSet** object from the **XCMS** package. If class information is not provided, it will be retrieved from the **xcmsSet** object.
+
+```{r}
+# Load xcmsSet data
+library(xcms)
+data(intCorXCMS)
+normInt_xcms <- importData(data = xcg)
+```
+
+### Using Sample Files
+
+If **CDF** or **mzXML** files are provided, **intCor** performs drift correction directly on the chromatograms. The following example demonstrates how to import data using CDF files and a metadata CSV file.
+
+```{r}
+# Importing CDF files
+tab <- read.csv("sampTable.csv")
+normInt <- importData(dataDir = "data", fileType = "cdf", tabName = "sampTable.csv")
+```
+
+# Correcting Drift in the Data
+
+Once data is imported, drift correction can be applied using the **corrModel()** function. The package supports five drift correction methods:
+
+1.  **Component Correction (CC)**
+2.  **Common Principal Components Analysis (CPCA)**
+3.  **CPCA + Median Normalization (CPCA-Med)**
+4.  **Median Normalization (Med)**
+5.  **Batch Compensation (ComBat)**
+
+Example of drift correction using **CPCA-Med**:
+
+```{r}
+normInt_cpcaMed <- corrModel(normInt = normInt, method = "cpcaMed", modClasses = c("Water", "QC", "Reference"), nComps = 1)
+```
+
+The **corrModel()** function computes the principal components model, applies drift correction, and calculates clustering indices (Dunn and Silhouette scores) to assess data quality improvements.
+
+# intCor Output
+
+If the data was imported through external files, it is possible to generate corrected **CDF** files as output:
+
+```{r}
+cdfFileCreator(dataMatrix = getCorrData(normInt_cpcaMed), dir2print = "correctedCDFs", dataDir = "data", fileType = "cdf")
+```
+
+Alternatively, the corrected data can be retrieved as a **CSV** file:
+
+```{r}
+write.csv(file = "corrData_cpcaMed.csv", getCorrData(normInt_cpcaMed))
+```
+
+# Acknowledgements
+
+This research was supported by Spanish national grants AGL2009-13906-C02-01/ALI, AGL2010-10084-E, the CONSOLIDER INGENIO 2010 Programme, and the FUN-C-FOOD (CSD2007-063) initiative under the MICINN. Additional funding was provided by Merck Serono 2010 Research Grants and the Ramon y Cajal Programme (MICINN-RYC).
+
+## Download
+
+-   R package:[intCor_1.03.tar.gz](downloads/intCor_1.03.tar.gz)
+
+-   netCDF files for the vignette: [intCorData](downloads//intCorrData.zip)
+
+-   Vignette: [intCor_vignette](downloads/intCor_vignette.pdf)
+
+# References
+
+Leek JT, Johnson WE, Parker HS, Jaffe AE, Storey JD (2012). "The sva package for removing batch effects and other unwanted variation in high-throughput experiments." Bioinformatics, 28(6), 882–883. [DOI:10.1021/ac051437y](http://dx.doi.org/10.1021/ac051437y)
+
+Smith CA, Want EJ, O’Maille G, Abagyan R, Siuzdak G (2006). "XCMS: processing mass spectrometry data for metabolite profiling using nonlinear peak alignment, matching, and identification." Analytical Chemistry, 78(3), 779–787. [DOI:10.1021/ac051437y](http://pubs3.acs.org/acs/journals/doilookup?in_doi=10.1021/ac051437y)

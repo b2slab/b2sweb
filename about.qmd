@@ -1,0 +1,58 @@
+---
+title: "About b2lsab"
+subtitle: "Open source tools for scientific and technical publishing"
+---
+
+## Goals
+
+Welcome to the Bioinformatics and Biomedical Signals Laboratory (B2SLab) at the Universitat Politècnica de Catalunya (UPC) in Barcelona, Spain. As a multidisciplinary research group within the Research Centre for Biomedical Engineering (CREB), we specialize in biomedical engineering, bioinformatics, machine learning, and statistics, leveraging over two decades of expertise in these fields. ([xartecsalut.com](https://xartecsalut.com/members-upc/?utm_source=chatgpt.com))
+
+**Our Mission**
+
+At B2SLab, our mission is to advance healthcare through innovative research and the development of cutting-edge technologies. We aim to bridge the gap between data science and biomedical applications, contributing to improved patient outcomes and a deeper understanding of complex biological systems.
+
+**Our Team**
+
+![](team/images/b2sgrupcurrent.jpeg){width="605" fig-alt="at 2025"}
+
+[Who is who](https://b2slab.upc.edu/team/current.html)?.
+
+**Research Focus**
+
+Our research encompasses a broad spectrum of areas, including:
+
+-   **Biomedical Engineering:** Developing novel solutions to complex medical challenges.
+
+-   **Bioinformatics:** Analyzing and interpreting biological data to uncover new insights.
+
+-   **Machine Learning and Statistics:** Applying advanced computational techniques to model and predict biological phenomena.
+
+**Key Projects and Tools**
+
+We are proud to have developed several impactful tools and projects:
+
+-   **FELLA:** An R package designed for the enrichment and interpretation of metabolomics data, facilitating the identification of affected pathways and biological functions. ([FELLA](https://www.bioconductor.org/packages/release/bioc/html/FELLA.html))
+
+-   **diffuStats:** An R package that computes and benchmarks diffusion scores on biological networks, aiding in the analysis of molecular interactions. ([diffustats](https://www.bioconductor.org/packages/release/bioc/html/diffuStats.html)
+
+-   **Share4Rare:** A data science initiative aimed at supporting patients with rare diseases through collaborative research and information sharing. ([share4rare](https://share4rare.org))
+
+**Collaborations and Community Engagement**
+
+We actively collaborate with various research networks and institutions to foster innovation and share knowledge. Our leadership in the coordination of projects like Xartec Salut underscores our commitment to advancing health technologies and contributing to the scientific community. ([xartecsalut.com](https://xartecsalut.com))
+
+**Connect with Us**
+
+Stay updated on our latest research and developments by following us on Mastodon (sorry, we are not in --and will not register in-- x/twitter): ([Mastodon](https://social.iris.upc.edu/@b2slab))
+
+For more information about our projects, publications, and team members, please visit our official website: ([b2slab.upc.edu](https://b2slab.upc.edu/))
+
+At B2SLab, we are dedicated to pushing the boundaries of biomedical research and technology, striving to make meaningful contributions to science and society.
+
+## Help us
+
+You can contribute to our research in many ways:
+
+-   By using our resarch and software
+-   By opening issues to provide feedback and share ideas.
+-   By proposing collaborations and joining our lab

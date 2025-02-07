@@ -1,0 +1,29 @@
+---
+title: "Research Group Publications"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+css: index.css
+---
+
+You can get the full list of activity of the group at [Futur](https://futur.upc.edu/B2SLab). The main list of publications is as follows[^1]:
+
+[^1]: Please excuse us the issues in formatting, the list is computationally generated from RIS files listed at [http](https://futur.upc.edu/B2SLab)
+
+```{r}
+
+cache_file <- "../doi_cache.json"
+
+source("../R/getpapers.R")
+
+# Define the RIS file URL
+ris_url <- "https://futur.upc.edu/RIS/B2SLab/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=en"
+```
+
+```{r}
+#| output: asis
+
+paperstohtmlnodivlong(ris_url)
+```
