@@ -7,9 +7,11 @@ website:
   image: "b2slab.png"
   favicon: "favicon.png"
   google-analytics: "G-0MLZX4BR2N"
-  open-graph: true
+  open-graph: 
+    locale: en_UK
+    site-name: b2slab
   twitter-card: true
-  site-url: https://b2slab.upc.edu
+  site-url: "https://b2slab.upc.edu"
   repo-url: https://github.com/b2slab/b2sweb
   issue-url: https://github.com/b2slab/b2sweb/issues/new/choose 
   description: "Bioinformatics and Biomedical Signals Labotaory"
