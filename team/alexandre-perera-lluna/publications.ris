@@ -98,6 +98,7 @@ AU - Castelblanco, E.
 AU - Mauricio Puente, D'idac
 
 TY - MGZN
+<<<<<<< HEAD
 DO - 10.3390/ijms25063502
 TI - Use of enzymatically converted cell-free DNA (cfDNA) data for copy number variation-linked fragmentation analysis allows for early colorectal cancer detection
 AB - The use of non-invasive liquid biopsy-based cell-free DNA (cfDNA) analysis is an emerging method of cancer detection and intervention. Different analytical methodologies are used to investigate cfDNA characteristics, resulting in costly and long analysis processes needed for combining different data. This study investigates the possibility of using cfDNA data converted for methylation analysis for combining the cfDNA fragment size with copy number variation (CNV) in the context of early colorectal cancer detection. Specifically, we focused on comparing enzymatically and bisulfite-converted data for evaluating cfDNA fragments belonging to chromosome 18. Chromosome 18 is often reported to be deleted in colorectal cancer. We used counts of short and medium cfDNA fragments of chromosome 18 and trained a linear model (LDA) on a set of 2959 regions to predict early-stage (I-IIA) colorectal cancer on an independent test set. In total, 87.5% sensitivity and 92% specificity were obtained on the enzymatically converted libraries. Repeating the same workflow on bisulfite-converted data yielded lower accuracy results with 58.3% sensitivity, implying that enzymatic conversion preserves the cancer fragmentation footprint in whole genome data better than bisulfite conversion. These results could serve as a promising new avenue for the early detection of colorectal cancer using fragmentation and methylation approaches on the same datasets.
@@ -111,6 +112,8 @@ AU - Canal, P.
 AU - Perera, A.
 
 TY - MGZN
+=======
+>>>>>>> origin/main
 DO - 10.1007/s11357-023-00946-8
 TI - Intrinsic functional brain connectivity changes following aerobic exercise, computerized cognitive training, and their combination in physically inactive healthy late-middle-aged adults: the Projecte Moviment
 AB - Lifestyle interventions have positive neuroprotective effects in aging. However, there are still open questions about how changes in resting-state functional connectivity (rsFC) contribute to cognitive improvements. The Projecte Moviment is a 12-week randomized controlled trial of a multimodal data acquisition protocol that investigated the effects of aerobic exercise (AE), computerized cognitive training (CCT), and their combination (COMB). An initial list of 109 participants was recruited from which a total of 82 participants (62% female; age?=?58.38?+/-?5.47) finished the intervention with a level of adherence?>?80%. Only in the COMB group, we revealed an extended network of 33 connections that involved an increased and decreased rsFC within and between the aDMN/pDMN and a reduced rsFC between the bilateral supplementary motor areas and the right thalamus. No global and especially local rsFC changes due to any intervention mediated the cognitive benefits detected in the AE and COMB groups. Projecte Moviment provides evidence of the clinical relevance of lifestyle interventions and the potential benefits when combining them.
@@ -1448,6 +1451,7 @@ AU - Caminal, P.
 AU - Perera, A.
 
 TY - MGZN
+<<<<<<< HEAD
 DO - 10.1016/j.snb.2009.11.037
 TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
 Y1 - 2010
@@ -1464,6 +1468,8 @@ AU - Hierlemann, A.
 AU - Marco, S.
 
 TY - MGZN
+=======
+>>>>>>> origin/main
 DO - 10.1016/j.snb.2009.11.034
 TI - Drift compensation of gas sensor array data by common principal component analysis
 Y1 - 2010
@@ -1481,6 +1487,25 @@ AU - Caminal, P.
 AU - Perera, A.
 
 TY - MGZN
+<<<<<<< HEAD
+=======
+DO - 10.1016/j.snb.2009.11.037
+TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
+Y1 - 2010
+UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
+VL - 146
+IS - 2
+EP - 477
+SP - 482
+T2 - Sensors and actuators B. Chemical
+AU - Perera, A.
+AU - Pardo, A.
+AU - Barrettino, D.
+AU - Hierlemann, A.
+AU - Marco, S.
+
+TY - MGZN
+>>>>>>> origin/main
 DO - 10.1109/TIT.2009.2037038
 TI - Computational detection of transcription factor binding sites through differential R'enyi entropy
 AB - Regulatory sequence detection is a critical facet for understanding the cell mechanisms in order to coordinate the response to stimuli. Protein synthesis involves the binding of a

@@ -9,7 +9,7 @@ description: |
 hide-description: true
 image: b2slab.png
 resources: 
-  - images/b2s_animation.mp4
+  - images/b2s_cycle_animation.webm
 ---
 
 # Welcome to the b2slab

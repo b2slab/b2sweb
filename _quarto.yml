@@ -22,6 +22,7 @@ website:
     keyboard-shortcut: ["?", "H"]
     show-item-context: true
     type: textbox
+
   page-footer:
     left: |
       A proud member of 
@@ -51,7 +52,6 @@ website:
         href: http://b2slab.upc.edu/blog/index.xml
         aria-label: b2slab Blog RSS
   navbar:
-#    background: light
     logo: b2slab.png
     logo-alt: "b2slab logo."
     title: false
@@ -132,16 +132,13 @@ website:
         - text: "Chemosensors"
           href: software/chemosensors.qmd
 
-
 format:
   html:
     theme:
-#      - cosmo
        light: pulse
        dark: slate
-   
-#      - brand
-#    css: styles.css
+
+    css: styles.css
     toc: true
 
 editor: visual

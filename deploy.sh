@@ -1,5 +1,3 @@
-
-
 #!/bin/bash
 
 # Local Quarto project directory
@@ -22,6 +20,7 @@ for arg in "$@"; do
             ;;
     esac
 done
+
 
 # Build the Quarto website locally
 echo "Building Quarto site..."
@@ -59,6 +58,5 @@ else
     fi
     exit 1
 fi
-
 
 
