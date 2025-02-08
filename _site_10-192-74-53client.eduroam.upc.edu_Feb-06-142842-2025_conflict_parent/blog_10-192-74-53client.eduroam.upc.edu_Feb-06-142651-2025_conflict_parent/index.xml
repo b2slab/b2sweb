@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>b2slab</title>
+<link>https://b2slab.upc.edu/blog/</link>
+<atom:link href="https://b2slab.upc.edu/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Bioinformatics and Biomedical Signals Labotaory</description>
+<image>
+<url>https://b2slab.upc.edu/quarto-blog-v2.png</url>
+<title>b2slab</title>
+<link>https://b2slab.upc.edu/blog/</link>
+</image>
+<generator>quarto-1.7.13</generator>
+<lastBuildDate>Mon, 03 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>We have a new website!</title>
+  <dc:creator>b2slab Team</dc:creator>
+  <link>https://b2slab.upc.edu/blog/posts/20250204_NewWeb/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="welcome-to-our-new-website" class="level2">
+<h2 class="anchored" data-anchor-id="welcome-to-our-new-website">Welcome to our new website!!</h2>
+<div class="img-float">
+<p><img src="https://b2slab.upc.edu/blog/posts/20250204_NewWeb/web.png" class="img-fluid" style="float: left; margin: 5px; width: 200px;"></p>
+</div>
+<p>After a long time without updating (<a href="https://b2slab.upc.edu/publications/">although busy doing stuff</a>) we have updated our site. The approach of the update of course is try to reduce the maintenance time and add interoperativity with the University bibliographic system at <a href="https://futur.upc.edu">futur</a> so that our publication list is always updated (or more often updated).</p>
+<p>So now the website pulls the team info from the linked google spreadsheet and it also pulls the publications list from <a href="https://futur.upc.edu/B2SLab">futur.upc.edu</a> at build.</p>
+<p>The website is coded with <a href="https:/quarto.org">quarto</a>. This means that it is essentially build with <a href="https://daringfireball.net/projects/markdown/">Markdown</a>. We thank the team of <a href="https://posit.co">posit.co</a> and <a href="https://quarto.org">quarto</a> for building this nice tools.</p>
+<p>This is kind of following the philosophy of <a href="https://orgmode.org">org-mode</a> which <a href="http://b2slab.upc.edu/team/alexandre-perera-lluna/">Àlex</a> has been using for building slides and teaching material during the last years. This allows us to mix python/R and other code for building reports, papers and slides in a <a href="https://en.wikipedia.org/wiki/Reproducibility">reproducible approach</a> and <a href="https://en.wikipedia.org/wiki/Open_science">open science</a>.</p>
+<p>Thanks for reading!</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://b2slab.upc.edu/blog/posts/20250204_NewWeb/</guid>
+  <pubDate>Mon, 03 Feb 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>B2SLab Takes Part In Share4Rare, A European Project Focused On Rare Pediatric Diseases</title>
+  <dc:creator>Alexandre Perera</dc:creator>
+  <link>https://b2slab.upc.edu/blog/posts/20180207_sr4/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="mait" class="level1">
+<h1>MAIT</h1>
+<div class="img-float">
+<p><img src="https://b2slab.upc.edu/blog/posts/20180207_sr4/img.jpeg" class="img-fluid" style="float: left; margin: 5px; width: 300px;"></p>
+</div>
+<p><strong>Share4Rare (S4R)</strong>&nbsp;is a project funded by the European Commission that aims for a collective awareness platform of patients, caregivers, researchers and other stakeholders involved in&nbsp;<strong>Rare Diseases</strong>&nbsp;towards improving quality of life, disease management and collection of scientific knowledge and data on Rare Diseases.</p>
+<p>The platform will be built around three important pillars: Education, Sharing and Research. It&nbsp;is based on the expertise of the coordinator managing a previous project: Rare Commons (RC). This is a platform that currently includes 9 different diseases. RC has demonstrated that the collective intelligence coming from parents of children with rare diseases is needed to increase the current knowledge available. A broad sample from the patient community has been identified, in several cases with a higher number of patients compared with previous initiatives.</p>
+<p>S4R is proposing dealing with two important challenges that will improve the previous experience with the RC project: to increase the power of the users of the platform, developing a platform based on a bottom-up model with a patient-centered design, and to promote synergy by grouping diseases that share common features, instead of individual diseases.</p>
+<p>Seven European institutions or associations participate in this project under the coordination of Sant Joan de Déu Foundation. The Universitat Politècnica de Catalunya is one of these partners through B2SLab’s participation.</p>
+<p>The voice of the patients is at the heart of the project. Two relevant patient organizations are part of the consortium: The World Duchenne Organization (UPPMD) and the Melanoma Patient Network Europe (MPNE). Other members of the consortium are focused on other important areas of expertise: technology developers (Omada Interactiva), biostatistics (Universitat Politècnica de Catalunya), social innovation (The Synergist), clinical background in neuromuscular disorders (Newcastle University) and socioeconomic impact (Asserta).</p>
+<p>The launch meeting of the project was held in Barcelona on the 11th and 12th of January. During the next year, centered on the development of the platform, several activities are scheduled to ensure that the voice of the patient is included from the outset.&nbsp;The platform will be accessible for the users at the beginning of 2019 and is going to be piloted with two specific groups of diseases: neuromuscular disorders and paediatric rare tumors.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://b2slab.upc.edu/blog/posts/20180207_sr4/</guid>
+  <pubDate>Sun, 01 Jul 2018 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>A Talk At FarmaIndustria By Dr. Caminal (Spanish)</title>
+  <dc:creator>Pere caminal</dc:creator>
+  <link>https://b2slab.upc.edu/blog/posts/20140429_talkPere/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div style="padding:56.25% 0 0 0;position:relative;">
+<iframe src="https://player.vimeo.com/video/64126929?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Pere Caminal (CREB-UPC);">
+</iframe>
+</div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="http://vimeo.com/64126929">This video shows a talk by Pere Caminal (CREB-UPC);</a>&nbsp;at&nbsp;<a href="http://vimeo.com/user3535259">FARMAINDUSTRIA</a>&nbsp; (provided by&nbsp;<a href="https://vimeo.com/">Vimeo)</a>, at VI Conferencia Anual de las Plataformas Tecnológicas de Investigación Biomédica: Medicamentos Innovadores, Nanomedicina Tecnología Sanitaria y Mercados Biotecnológicos Fomentando la Innovación en Salud. Madrid, 20 y 21 de Marzo de 2013</p>
+<p><a href="http://b2slab.upc.edu/tag/caminal/">Caminal</a>,&nbsp;<a href="http://b2slab.upc.edu/tag/farmaindustria/">FarmaIndustria</a>,&nbsp;<a href="http://b2slab.upc.edu/tag/talk/">talk</a></p>
+
+
+
+ ]]></description>
+  <guid>https://b2slab.upc.edu/blog/posts/20140429_talkPere/</guid>
+  <pubDate>Tue, 03 May 2016 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Does Physical Activity Impact On The Intellectual Performance Of Students?</title>
+  <dc:creator>Pere caminal</dc:creator>
+  <link>https://b2slab.upc.edu/blog/posts/20240502_Berta/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="does-physical-activity-impact-on-the-intellectual-performance-of-students" class="level1">
+<h1>Does Physical Activity Impact On The Intellectual Performance Of Students?</h1>
+<div class="img-float">
+<p><img src="https://b2slab.upc.edu/blog/posts/20240502_Berta/img.png" class="img-fluid" style="float: left; margin: 5px; width: 200px;"></p>
+</div>
+<p>The performance experienced by medicine in recent years could not be explained without the role of new technologies. Specifically, medical technologies have played an important role in understanding the mechanisms involved in the biological behaviour of the human body. Research, development and technological innovation become vital tools not only to improve the diagnosis and therapy of diseases, but also for improving the quality of life. Keep reading to learn B2SLab latest activities in physical activity research. In recent years, the hypothesis is debated whether physical activity stimulates intellectual performance of students. This hypothesis considers that exercise changes the neuronal communication by acting on the space of exchanging information, which affects the brain connectivity by modifying the structure and function of the nervous system. Researchers of the Biomedical Engineering Research Center CREB (Technical University of Catalonia UPC) want to bring our knowledge to the discussion of the previous hypothesis together with members of the Alliance for Biomedical Research and Technology (BERTA). This Alliance is formed by the Sant Joan de Déu Hospital, the CREB, the IBUB (Institute of Biomedicine, University of Barcelona) and the IR3C (Institute for Brain, Cognition and Behavior, University of Barcelona). The BERTA Alliance aims to develop projects where the child is the star. Within the field of health, the most important market is the adult, which focuses almost all innovations in the health sector. The pediatric sector requires customized solutions because they often cannot incorporate proposals conceived and designed for adults. We have initiated a project to assess the influence of physical exercise on intellectual performance of children. Specifically, the objectives of this project are: – To determine biomarkers of synaptic function, and to assess cognitive functions before, during and after physical activity, using electrophysiological testing. – To assess the kinetics of neuronal growth factors produced by exercise. – To analyse individual genetic variations that predispose to a greater cognitive benefit of exercise. – To study brain changes by neuroimaging analysis. The CREB provides to the project its knowledge on applied research, proposing new medical technology tools for the monitoring of physiological variables and the analysis of results. The Division of Bioengineering and Instrumentation will develop systems to monitor the body mass index, and the body composition, before and after the physical activity. The physical activity will be monitored using smartphones, to assess objectively the total daily activity levels in the children participating in the study. The Computer Graphics Division of the CREB will design a computer game that will automatically measure the attention of the children before and after the exercise. Researchers of this division have experience working with children as end-users, and have developed software to work on mobile devices. The Division of Biomedical Signals and Systems will participate in the integration and analysis of data using statistical methods, including: longitudinal analysis in consecutive measurements of biomarkers, training of nonlinear multivariate predictive models and integration of data from omics platforms. The results of this study could be used for recommending specific programs of physical training in schools, aimed at improving cognitive skills and academic performance of students.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://b2slab.upc.edu/blog/posts/20240502_Berta/</guid>
+  <pubDate>Tue, 03 May 2016 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>MAIT Package Now Available In Bioconductor!</title>
+  <dc:creator>Francesc Fernandez</dc:creator>
+  <link>https://b2slab.upc.edu/blog/posts/20141009_mait/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="mait" class="level1">
+<h1>MAIT</h1>
+<div class="img-float">
+<p><img src="https://b2slab.upc.edu/blog/posts/20141009_mait/img.png" class="img-fluid" style="float: left; margin: 5px; width: 200px;"></p>
+</div>
+<p>The MAIT package for analysing&nbsp;LC/MS Metabolomic data, as discussed in a&nbsp;<a href="http://b2slab.upc.edu/software-and-downloads/metabolite-automatic-identification-toolkit/">previous post</a>, was published in a collaboration between the B2SLab and the&nbsp;<a href="http://www.nutrimetabolomics.com/">Nutrimetabolomics lab</a>&nbsp;in the Oxford Bioinformatics journal:</p>
+<blockquote class="blockquote">
+<p><a href="http://bioinformatics.oxfordjournals.org/content/early/2014/03/17/bioinformatics.btu136.html">Fernández-Albert F, Llorach R, Andrés-Lacueva C, Perera-Lluna A.&nbsp;<em>An R package to analyse LC/MS metabolomic data: MAIT (Metabolite Automatic Identification Toolkit)</em>. Bioinformatics&nbsp;(2014). doi: 10.1093/bioinformatics/btu136.</a></p>
+</blockquote>
+<p>MAIT package <a href="http://bioconductor.org/packages/release/bioc/html/MAIT.html">is now available</a> through the <a href="http://www.bioconductor.org/">Bioconductor</a>&nbsp;repository. All the upcoming new versions of the MAIT packages&nbsp;will be published in Bioconductor as well.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://b2slab.upc.edu/blog/posts/20141009_mait/</guid>
+  <pubDate>Tue, 09 Sep 2014 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

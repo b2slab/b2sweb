@@ -1,0 +1,104 @@
+{
+  "license.md": {
+    "license.html": "0ed26e55"
+  },
+  "open-positions/index.qmd": {
+    "index.html": "dcafcad0"
+  },
+  "publications/index.qmd": {
+    "index.html": "935521e9"
+  },
+  "projects/index.qmd": {
+    "index.html": "eb23e99d"
+  },
+  "trademark.qmd": {
+    "trademark.html": "6f5e5ff2"
+  },
+  "index.qmd": {
+    "index.html": "3b5a6556"
+  },
+  "software/diffustats.qmd": {
+    "diffustats.html": "0a67fe4e"
+  },
+  "software/multiview.qmd": {
+    "multiview.html": "eca5000d"
+  },
+  "software/intcorr.qmd": {
+    "intcorr.html": "e8b05721"
+  },
+  "software/index.qmd": {
+    "index.html": "b6f57411"
+  },
+  "software/miss.qmd": {
+    "miss.html": "06fd8369"
+  },
+  "software/rtcorr.qmd": {
+    "rtcorr.html": "5198925d"
+  },
+  "software/fella.qmd": {
+    "fella.html": "d10d972c"
+  },
+  "software/mait.qmd": {
+    "mait.html": "905d99f9"
+  },
+  "software/chemosensors.qmd": {
+    "chemosensors.html": "44099317"
+  },
+  "blog/posts/20140429_talkPere/index.qmd": {
+    "index.html": "60ed17c6"
+  },
+  "blog/posts/20180207_sr4/index.qmd": {
+    "index.html": "3c8c9d5d"
+  },
+  "blog/posts/20240502_Berta/index.qmd": {
+    "index.html": "d106d444"
+  },
+  "blog/posts/20141009_mait/index.qmd": {
+    "index.html": "45bfdb2c"
+  },
+  "blog/index.qmd": {
+    "index.html": "6d9e578a"
+  },
+  "readme.md": {
+    "readme.html": "91e81917"
+  },
+  "about.qmd": {
+    "about.html": "6a88bddc"
+  },
+  "team/former.qmd": {
+    "former.html": "69831d84"
+  },
+  "team/index.qmd": {
+    "index.html": "b07ae148"
+  },
+  "team/visiting.qmd": {
+    "visiting.html": "3028fcfa"
+  },
+  "team/current.qmd": {
+    "current.html": "58350dee"
+  },
+  "team/enrico-manzini/index.qmd": {
+    "index.html": "ea09cc4e"
+  },
+  "team/alexandre-perera-lluna/index.qmd": {
+    "index.html": "05986a30"
+  },
+  "team/joana_gelabert/index.qmd": {
+    "index.html": "93c7b3dc"
+  },
+  "blog/posts/20250204_NewWeb/index.qmd": {
+    "index.html": "b52ef789"
+  },
+  "team/joana-gelabert-xirinachs/index.qmd": {
+    "index.html": "7f6d9af9"
+  },
+  "R/animation/b2sanimation.ipynb": {
+    "b2sanimation.html": "c2087061"
+  },
+  "blog/posts/20250207_socialNetworks/index.qmd": {
+    "index.html": "10f1131b"
+  },
+  "team/rafael-leon-carrasco/index.qmd": {
+    "index.html": "d54013eb"
+  }
+}

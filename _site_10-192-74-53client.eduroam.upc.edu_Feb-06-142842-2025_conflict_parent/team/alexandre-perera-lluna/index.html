@@ -1,0 +1,1082 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.7.13">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Alexandre Perera Lluna – b2slab</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete-preset-algolia.umd.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../favicon.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-66ab7fd5e73b7f0a764e0d49b3e29ab1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-2c60c7d69c9c15bd54ff0ecefd2841a2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "algolia": {
+    "application-id": "--",
+    "search-only-api-key": "--",
+    "index-name": "--",
+    "analytics-events": false,
+    "show-logo": false,
+    "libDir": "site_libs"
+  },
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": true,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0MLZX4BR2N"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-0MLZX4BR2N', { 'anonymize_ip': true});
+</script>
+
+
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="Alexandre Perera Lluna – b2slab">
+<meta property="og:description" content="Bioinformatics and Biomedical Signals Labotaory">
+<meta property="og:image" content="https://b2slab.upc.edu/team/alexandre-perera-lluna/images/staff_Alexandre_Perera_LLuna.jpg">
+<meta property="og:site_name" content="b2slab">
+<meta name="twitter:title" content="Alexandre Perera Lluna – b2slab">
+<meta name="twitter:description" content="Bioinformatics and Biomedical Signals Labotaory">
+<meta name="twitter:image" content="https://b2slab.upc.edu/team/alexandre-perera-lluna/images/staff_Alexandre_Perera_LLuna.jpg">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../b2slab.png" alt="b2slab logo." class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Overview</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../team/index.html"> 
+<span class="menu-text">Our Team</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../publications/index.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../software/index.html"> 
+<span class="menu-text">Software</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog/index.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools tools-wide">
+    <a href="https://social.iris.upc.edu/@b2slab" title="b2slab msatodon" class="quarto-navigation-tool px-1" aria-label="b2slab msatodon"><i class="bi bi-mastodon"></i></a>
+    <a href="https://github.com/b2slab" title="b2slab GitHub" class="quarto-navigation-tool px-1" aria-label="b2slab GitHub"><i class="bi bi-github"></i></a>
+    <a href="http://b2slab.upc.edu/blog/index.xml" title="b2slab Blog RSS" class="quarto-navigation-tool px-1" aria-label="b2slab Blog RSS"><i class="bi bi-rss"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#bio" id="toc-bio" class="nav-link active" data-scroll-target="#bio">Bio</a></li>
+  <li><a href="#social-networks" id="toc-social-networks" class="nav-link" data-scroll-target="#social-networks">Social Networks</a></li>
+  <li><a href="#teaching" id="toc-teaching" class="nav-link" data-scroll-target="#teaching">Teaching</a></li>
+  <li><a href="#ongoing-phd-thesis" id="toc-ongoing-phd-thesis" class="nav-link" data-scroll-target="#ongoing-phd-thesis">Ongoing PhD Thesis</a></li>
+  <li><a href="#former-phd-thesis" id="toc-former-phd-thesis" class="nav-link" data-scroll-target="#former-phd-thesis">Former PhD Thesis</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/b2slab/b2sweb/edit/main/team/alexandre-perera-lluna/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/b2slab/b2sweb/issues/new/choose" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Alexandre Perera Lluna</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="bio" class="level2">
+<h2 class="anchored" data-anchor-id="bio">Bio</h2>
+<div class="img-float">
+<p><img src="images/staff_Alexandre_Perera_LLuna.jpg" class="img-fluid" style="float: left; margin: 5px; width: 200px;"></p>
+</div>
+<p>Welcome to my site. My name is Alexandre Perera Lluna, sometimes Alex Perera. I hold a degree in Physics, a second degree in Electrical Engineering, and a PhD in Physics from the University of Barcelona. I currently lead the <a href="https://b2slab.upc.edu/">B2SLab</a>, which is part of the Institut de Recerca i Innovació en Salut (<a href="https://iris.upc.edu/">IRIS</a>), formerly the Research Center for Biomedical Engineering (CREB) at the Universitat Politècnica de Catalunya (Polytechnic University of Catalonia, UPC), located in the beautiful city of Barcelona. It is a fantastic place for research, culture, and leisure—I truly love this city.</p>
+<p>At B2SLab, we integrate Data Science, Bioinformatics, and Bioengineering. My main interests include predicting disease trajectories using Transformer and Linear models, as well as applying machine learning to Rare Diseases. I also have experience in data integration, data fusion, metabolomics, functional enrichment, and bioengineering. Since 2022, I have been a full professor at the Universitat Politècnica de Catalunya.</p>
+<ul>
+<li>In 2019, I was appointed as the head of the Research Center for Biomedical Engineering at UPC (CREB-UPC, Centre de Recerca en Enginyeria Biomèdica).</li>
+<li>I also coordinate a <a href="https://xartecsalut.com">fascinating project named Xartec Salut</a>.</li>
+</ul>
+</section>
+<section id="social-networks" class="level2">
+<h2 class="anchored" data-anchor-id="social-networks">Social Networks</h2>
+<ul>
+<li>Find me on my profile on
+<ul>
+<li><a rel="me" href="https://social.iris.upc.edu/@alexperera">Mastodon</a></li>
+<li><a href="https://bsky.app/profile/alexperera.social.iris.upc.edu.ap.brid.gy">Blue Sky</a></li>
+</ul></li>
+<li>No, we do not use X nor twitter, and we will not use it for the time being</li>
+</ul>
+</section>
+<section id="teaching" class="level2">
+<h2 class="anchored" data-anchor-id="teaching">Teaching</h2>
+<p>I teach several subjects, including:</p>
+<ul>
+<li>Introduction to Bioinformatics.</li>
+<li>Data Mining for Biomedical Databases.</li>
+<li>Scientific computing.</li>
+<li>Machine learning.</li>
+<li>Embedded and real time computing.</li>
+</ul>
+</section>
+<section id="ongoing-phd-thesis" class="level2">
+<h2 class="anchored" data-anchor-id="ongoing-phd-thesis">Ongoing PhD Thesis</h2>
+<ul>
+<li><a href="https://b2slab.upc.edu/team/maria-barranco-altarriba/" title="Maria Barranco"><strong>Maria Barranco</strong></a><a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></li>
+<li><a href="https://b2slab.upc.edu/team/enrico-manzini/">Enrico Manzini</a></li>
+<li><a href="https://b2slab.upc.edu/team/joshua-llano">Joshua Llano</a></li>
+<li><a href="https://b2slab.upc.edu/team/joana-gelabert-xirinachs">Joana Gelabert</a></li>
+<li><a href="https://b2slab.upc.edu/team/blanca-aleajos">Blanca Aleajos</a></li>
+<li><a href="https://b2slab.upc.edu/team/aitor-moruno-cuenca">Aitor Moruno</a></li>
+</ul>
+</section>
+<section id="former-phd-thesis" class="level2">
+<h2 class="anchored" data-anchor-id="former-phd-thesis">Former PhD Thesis</h2>
+<p>I have proudly advised several PhD students who have successfully defended their dissertations:</p>
+<ul>
+<li><p>Helena Brunel. <em>Genetic association analysis of complex diseases through information theoretic metrics and linear pleiotropy</em>. Defended on 14/11/2013 at Universitat Politècnica de catalunya</p></li>
+<li><p>Jorge Alberto Jaramillo Garzón. <a href="http://web.archive.org/web/20241104024405/http://b2slab.upc.edu/wp-content/uploads/2014/02/Jorge-Alberto-Jaramillo-PhD.pdf"><em>Protein function prediction with semi-supervised classification based on evolutionary multi-objective optimization</em></a>, Defended on 25/11/2013 at the Universidad Nacional de Colombia. This thesis was coadvised with Dr.&nbsp;German Castellanos from the same university.</p></li>
+<li><p>Andrey Ziyatdinov, <em>Biomimetic Setup for Chemosensor-Based Machine olfaction</em>. Defended on 4/12/2014 at Universitat Politècnica de Catalunya.</p></li>
+<li><p>Francesc Fernandez, <em>Machine Learning Methods for the automated analysis of metabolomic data.</em> Defended on 30/10/2014 at Universitat Politècnica de Catalunya.</p></li>
+<li><p>Erola Pairó,<em>Detection of Transcription Factor Binding Sites by Means of Multivariate Signal Processing Techniques</em>. Defended on 21/07/2015 at Universitat de Barcelona. This thesis was coadvised with Dr.&nbsp;Santiago Marco from the same university.</p></li>
+<li><p>Joan Maynou, <em>Computational representation and discovery of transcription factor binding sites</em>. Defended on 01/02/2016 at Universitat Politècnica de Catalunya.</p></li>
+<li><p>Xavier Domingo, Signal processing in Metabolomics”, Defended on July 2016. Coadvised with Prof.&nbsp;Jesús Brezmes, Universitat Rovira i Virgili.</p></li>
+<li><p>Giovana Gavidia,Study of Longitudinal Neurodegeneration Biomarkers to Support the Early Diagnosis of Alzheimer’s Disease.&nbsp;Defended on 20/03/2018 at Universitat Politècnica de Catalunya.</p></li>
+<li><p>Samir Kanaan.Multiview pattern recognition methods for data visualization, embedding and clustering. Defended on 22/09/2017 at Universitat Politècnica de Catalunya.</p></li>
+<li><p>Sergio Picart, “Statistical Normalisation of Network Propagation Methods for Computational biology” , by Sergio Picart, 23/7,2020. The defense was performed online due to the sars-cov-2 pandemic and published in <a href="http://web.archive.org/web/20241104024405/https://www.youtube.com/watch?v=tIb9aVZa2dM">here</a>.</p></li>
+<li><p>Angela López del Río, “Development And Improvement Of Computer Aided Drug Development Techniques Using Deep Learning Algorithms”, defended on June 23rd, 2021. currently Post-Doc Data Scientist at Boehringer Ingelheim.</p></li>
+</ul>
+</section>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<p>You can also check my journal papers, available through:</p>
+<ul>
+<li><a href="http://web.archive.org/web/20241104024405/http://b2slab.upc.edu/publications/" title="All group publications">publications for all the group</a>, or</li>
+<li><a href="http://web.archive.org/web/20241104024405/https://scholar.google.es/citations?hl=ca&amp;user=uWiteHoAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">google scholar</a>.</li>
+</ul>
+<p>A possibly incomplete and malformatted list of publications is included below:</p>
+<h2 class="anchored">
+2024
+</h2>
+<p>
+<strong>1. Mediterranean diet is a predictor of progression of subclinical atherosclerosis in a mediterranean population: the ILERVAS prospective cohort study</strong><br>Rojo-L’opez, M. and Bermudez, M. and Castro, E. and Farras, C. and Torres, G. and Pamplona, R. and Lecube, A. and Valdivieso, J. and Fern’andez, E. and Julve, J. and Castelblanco, E. and Alonso, N. and Antentas, M. and Barranco, M. and Perera, A. and Franch, J. and Granado-Casas, M. and Mauricio Puente, D’idac<br><em>Nutrients</em>, Vol. 16, Issue 21, article 3607 (2024)<br><a href="https://doi.org/10.1016/j.atherosclerosis.2023.117191" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>2. Cerebrospinal fluid homovanillic and 5-hydroxyindoleacetic acids in a large pediatric population; establishment of reference intervals and impact of disease and medication</strong><br>Rodr’iguez, H. and Ormaz’abal, A. and Casado, M. and Arias, A. and Oliva, C. and Barranco, M. and Casadevall, R. and Garc’ia, F. and Nascimento, A. and Ortez, C. and Natera, D. and Armangu’e, T. and O’Callaghan, M. and Juli’a, N. and Darling, A. and Ortigoza, J. and Fons, C. and Garc’ia-Cazorla, ’A. and Perera, A. and Artuch, R.<br><em>Clinical chemistry</em>, Vol. 70, Issue 12 (2024)<br><a href="https://doi.org/10.1093/clinchem/hvae139" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>3. Lipidome characterisation and sex-specific differences in type 1 and type 2 diabetes mellitus</strong><br>Barranco, M. and Alonso, N. and Weber, R. and Lloyd, G. and Hern’andez, M. and Yanes, ’O. and Capellades, J. and Jankevics, A. and Winder, C. and Falguera, M. and Franch, J. and Dunn, W. and Perera, A. and Castelblanco, E. and Mauricio Puente, D’idac<br><em>Cardiovascular diabetology</em>, Vol. 23, Issue article 109 (2024)<br><a href="https://doi.org/10.1186/s12933-024-02202-5" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2023
+</h2>
+<p>
+<strong>4. Intrinsic functional brain connectivity changes following aerobic exercise, computerized cognitive training, and their combination in physically inactive healthy late-middle-aged adults: the Projecte Moviment</strong><br>Dimitriadis, S. and Castells, A. and Roig, F. and Dacosta, R. and Lamonja, N. and Toran, P. and Garc’ia, A. and Monte, G. and Stillman, C. and Perera, A. and Mataro-Serrat, M.<br><em>GeroScience</em>, Vol. 46, Issue (2023)<br><a href="https://doi.org/10.1101/2023.05.30.23290731" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>5. Home monitoring for older singles: A gas sensor array system</strong><br>Mar’in, D. and Llano, J. and Haddi, Z. and Perera, A. and Fonollosa, J.<br><em>Sensors and actuators B. Chemical</em>, Vol. 393, Issue article 134036 (2023)<br><a href="https://doi.org/10.1016/j.snb.2023.134036" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>6. EpiGe: A machine-learning strategy for rapid classification of medulloblastoma using PCR-based methyl-genotyping</strong><br>G’omez S. and Llano, J. and Garc’ia, M. and Garrido, A. and Sunol, M. and Lemos, I. and P’erez, S. and Salvador, N. and Gene, N. and Arnau, R. and Santa Mar’ia, V. and Perez, M. and Perera, A. and Mora, J. and Morales, A. and Lavarino, C.<br><em>iScience</em>, Vol. 26, Issue 9, article 107598 (2023)<br><a href="https://doi.org/10.1016/j.isci.2023.107598" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2022
+</h2>
+<p>
+<strong>7. Mapping layperson medical terminology into the Human Phenotype Ontology using neural machine translation models</strong><br>Manzini, E. and Garrido, J. and Fonollosa, J. and Perera, A.<br><em>Expert systems with applications</em>, Vol. 204, Issue C (2022)<br><a href="https://doi.org/10.1016/j.eswa.2022.117446" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>8. Longitudinal deep learning clustering of Type 2 Diabetes Mellitus trajectories using routinely collected health records</strong><br>Manzini, E. and Vlacho, B. and Franch, J. and Escudero, J. and G’enova, A. and Reixach-Espaulella, E. and Andr’es, E. and Pizarro, I. and Portero, J. and Mauricio Puente, D’idac and Perera, A.<br><em>Journal of biomedical informatics</em>, Vol. 135, Issue Article 104218 (2022)<br><a href="https://doi.org/10.1016/j.jbi.2022.104218" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>9. Data processing and analysis in mass spectrometry-based metabolomics</strong><br>Peralbo, ’A. and Sola, P. and Perera, A. and Chicano, E.<br><em>Methods in Molecular Biology</em>, Vol. 2571, Issue (2022)<br><a href="https://doi.org/10.1007/978-1-0716-2699-3_20" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>10. #CoronavirusCruise: Impact and implications of the COVID-19 outbreaks on the perception of cruise tourism</strong><br>Hern’andez-Lara, A. and Abubakr, B. and Sanchez-Rebull, M. and Perera, A.<br><em>Tourism Management Perspectives</em>, Vol. 41, Issue (2022)<br><a href="https://doi.org/10.1200/jco.2007.25.18_suppl.3507" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2021
+</h2>
+<p>
+<strong>11. How did the COVID-19 lockdown affect children and adolescent’s well-being: Spanish parents, children, and adolescents respond</strong><br>Ajanovic, S. and Garrido, J. and Baro, B. and Balanza, N. and Varo, R. and Millat-Mart’inez, P. and Arias, S. and Fonollosa, J. and Perera, A. and Jordan, I. and Munoz-Almagro, C. and Bonet-Carn’e, E. and Crosas-Soler, A. and Via, E. and Nafria, B. and Garc’ia-Garc’ia, J. and Bassat, Q.<br><em>Frontiers in public health</em>, Vol. 9, Issue 745062 (2021)<br><a href="https://doi.org/10.3389/fpubh.2021.746052" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>12. mWISE: an algorithm for context-based annotation of liquid chromatography-mass spectrometry features through diffusion in graphs</strong><br>Barranco, M. and Sola, P. and Picart, S. and Kanaan-Izquierdo, S. and Fonollosa, J. and Perera, A.<br><em>Analytical chemistry</em>, Vol. 93, Issue 31 (2021)<br><a href="https://doi.org/10.1021/acs.analchem.1c00238" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>13. Accurate early-stage colorectal cancer detection through analysis of cell-free circulating tumor DNA (ctDNA) methylation patterns</strong><br>Canal, P. and Perera, A.<br><em>Journal of clinical oncology</em>, Vol. 39, Issue 15_suppl (2021)<br><a href="https://doi.org/10.1200/jco.2021.39.15_suppl.3606" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>14. Global collaborative social network (Share4Rare) to promote citizen science in rare disease research: Platform development study</strong><br>Radu, R. and Hern’andez, S. and Borrega, O. and Palmeri, A. and Athanasiou, D. and Brooke, N. and Chap’i, I. and Le Corvec, A. and Guglieri, M. and Perera, A. and Garrido, J. and Ryll, B. and Nafria, B.<br><em>JMIR formative research</em>, Vol. 5, Issue 3 (2021)<br><a href="https://doi.org/10.2196/22695" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>15. MMP1 drives tumor progression in large cell carcinoma of the lung through fibroblast senescence</strong><br>Ikemori, R. and Llorente, A. and Maqueda, M. and D’avalos, A. and Perera, A. and Reguart, N. and Quiroz, L. and Alcaraz Casademunt, Jordi<br><em>Cancer letters</em>, Vol. 507, Issue (2021)<br><a href="https://doi.org/10.1158/1538-7445.am2021-2515" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>16. Balancing data on deep learning-based proteochemometric activity classification</strong><br>Lopez, A. and Picart, S. and Perera, A.<br><em>Journal of chemical information and modeling</em>, Vol. 61, Issue 4 (2021)<br><a href="https://doi.org/10.26434/chemrxiv.13634849" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>17. Game learning analytics of instant messaging and online discussion forums in higher education</strong><br>Hern’andez-Lara, A. and Perera, A. and Serradell-L’opez, E.<br><em>Education and Training</em>, Vol. 63, Issue 9 (2021)<br><a href="https://doi.org/10.1108/et-11-2020-0334" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2020
+</h2>
+<p>
+<strong>18. MultiPaths: a Python framework for analyzing multi-layer biological networks using diffusion algorithms</strong><br>Mar’in-Lla’o, Josep, J. and Mubeen, S. and Perera, A. and Hofmann-Apitius, M. and Picart, S. and Domingo-Fern’andez, D.<br><em>Bioinformatics</em>, Vol. , Issue btaa1069 (2020)<br><a href="https://doi.org/10.1093/bioinformatics/btaa1069" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>19. The effect of statistical normalisation on network propagation scores</strong><br>Picart, S. and Thompson, W. and Buil, A. and Perera, A.<br><em>Bioinformatics</em>, Vol. , Issue btaa896 (2020)<br><a href="https://doi.org/10.1093/bioinformatics/btaa896" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>20. Effect of sequence padding on the performance of deep learning models in archaeal protein functional prediction</strong><br>Lopez, A. and Martin, M. and Perera, A.<br><em>Scientific reports</em>, Vol. 10, Issue (2020)<br><a href="https://doi.org/10.21203/rs.2.21336/v1" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>21. Open chromatin region (OCR) based model predicts advanced adenoma in plasma cell-free DNA whole-genome bisulfite sequencing data</strong><br>Canal, P. and Perera, A.<br><em>Annals of oncology</em>, Vol. 31, Issue S4 (2020)<br><a href="https://doi.org/10.1016/j.annonc.2020.08.590" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>22. Eye vergence responses during an attention task in adults with ADHD and clinical controls</strong><br>Jim’enez, E. and Avella, C. and Kustow, S. and Cubbin, S. and Corrales, M. and Richarte, V. and Esposito, F. and Morata, I. and Perera, A. and Varela, P.<br><em>Journal of attention disorders</em>, Vol. , Issue (2020)<br><a href="https://doi.org/10.1177/1087054719897806" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2019
+</h2>
+<p>
+<strong>23. Benchmarking network propagation methods for disease gene identification</strong><br>Picart, S. and Barrett, S. and Will’e, D. and Perera, A. and Gutteridge, A. and Dessailly, B.<br><em>PLoS computational biology</em>, Vol. 15, Issue 9 (2019)<br><a href="https://doi.org/10.1371/journal.pcbi.1007276" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>24. Effects and mechanisms of cognitive, aerobic exercise, and combined training on cognition, health, and brain outcomes in physically inactive older adults: the projecte moviment protocol</strong><br>Castells, A. and Roig, F. and Lamonja, N. and Perera, A.<br><em>Frontiers in aging neuroscience</em>, Vol. 11, Issue (2019)<br><a href="https://doi.org/10.1101/2023.05.30.23290731" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>25. Heart failure with preserved ejection fraction infrequently evolves toward a reduced phenotype in long-term survivors: a long-term prospective longitudinal study</strong><br>Lupon, J. and Gavidia, G. and de Antonio-Ferrer, M. and Perera, A. and L’opez-Ayerbe, J. and Domingo-Teixidor, M. and Nunez, J. and Zamora, E. and Moliner, P. and santiago-vacas, E. and Santemases, J. and Bay’es-Genis, A.<br><em>Circulation-Heart Failure</em>, Vol. 12, Issue e005652 (2019)<br><a href="https://doi.org/10.1161/circheartfailure.118.005652" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>26. Amitriptyline at an environmentally relevant concentration alters the profile of metabolites beyond monoamines in gilt-head bream</strong><br>Ziarrusta, H. and Ribbenstedt, A. and Mijangos, L. and Picart, S. and Perera, A. and Prieto, A. and Izagirre, U.<br><em>Environmental toxicology and chemistry</em>, Vol. , Issue (2019)<br><a href="https://doi.org/10.1002/etc.4381" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>27. Evaluation of cross-validation strategies in sequence-based binding prediction using deep learning</strong><br>Lopez, A. and Nonell, A. and Vidal, D. and Perera, A.<br><em>Journal of chemical information and modeling</em>, Vol. 58, Issue 4 (2019)<br><a href="https://doi.org/10.26434/chemrxiv.7133885" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2018
+</h2>
+<p>
+<strong>28. Multiview: a software package for multiview pattern recognition methods</strong><br>Kanaan-Izquierdo, S. and Ziyatdinov, A. and Burgueno, M. and Perera, A.<br><em>Bioinformatics</em>, Vol. , Issue bty1039 (2018)<br><a href="https://doi.org/10.1093/bioinformatics/bty1039" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>29. FELLA: an R package to enrich metabolomics data</strong><br>Picart, S. and Fernandez-Albert, F. and Vinaixa, M. and Yanes, ’O. and Perera, A.<br><em>BMC bioinformatics</em>, Vol. 19, Issue 1 (2018)<br><a href="https://doi.org/10.1186/s12859-018-2487-5" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>30. Dynamic trajectories of left ventricular ejection fraction in heart failure</strong><br>Lupon, J. and Gavidia, G. and Ferrer, E. and de Antonio-Ferrer, M. and Perera, A. and D’iaz, P.<br><em>Journal of the American College of Cardiology</em>, Vol. 72, Issue (2018)<br><a href="https://doi.org/10.1016/j.jacc.2018.05.042" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>31. Non-targeted metabolomics reveals alterations in liver and plasma of gilt-head bream exposed to oxybenzone</strong><br>Ziarrusta, H. and Mijangos, L. and Picart, S. and Irazola, M. and Perera, A.<br><em>Chemosphere</em>, Vol. 211, Issue (2018)<br><a href="https://doi.org/10.1016/j.chemosphere.2018.08.013" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>32. Applying learning analytics to students’ interaction in business simulation games. The usefulness of learning analytics to know what students really learn</strong><br>Hern’andez-Lara, A. and Perera, A. and Serradell-L’opez, E.<br><em>Computers in human behavior</em>, Vol. 92, Issue (2018)<br><a href="https://doi.org/10.1016/j.chb.2018.03.001" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>33. </strong><br>Caminal, P. and Sola, F. and Gomis, P. and Guasch, E. and Perera, A. and Mont, L.<br><em>European journal of applied physiology</em>, Vol. 118, Issue 3 (2018)<br><a href="https://doi.org/10.1200/jco.2007.25.18_suppl.3507" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>34. diffuStats: an R package to compute diffusion-based scores on biological networks</strong><br>Picart, S. and Thompson, W. and Buil Demur, A. and Perera, A.<br><em>Bioinformatics</em>, Vol. 34, Issue 3 (2018)<br><a href="https://doi.org/10.1093/bioinformatics/btx632" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>35. Clinical validation of eye vergence as an objective marker for diagnosis of ADHD in children</strong><br>Varela, P. and Esposito, F. and Morata, I. and Capdevila, A. and Perera, A.<br><em>Journal of attention disorders</em>, Vol. , Issue (2018)<br><a href="https://doi.org/10.1177/1087054717749931" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>36. Multiview and multifeature spectral clustering using common eigenvectors</strong><br>Kanaan-Izquierdo, S. and Ziyatdinov, A. and Perera, A.<br><em>Pattern recognition letters</em>, Vol. 102, Issue (2018)<br><a href="https://doi.org/10.1016/j.patrec.2017.12.011" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2017
+</h2>
+<p>
+<strong>37. Null diffusion-based enrichment for metabolomics data</strong><br>Picart, S. and Fernandez, F. and Vinaixa, M. and Rodr’iguez, M.A.&nbsp;and Aivio, S. and Stracker, T. and Yanes Torrado, ’Oscar and Perera, A.<br><em>PloS one</em>, Vol. 12, Issue (2017)<br><a href="https://doi.org/10.1371/journal.pone.0189012" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>38. Assessment of heart rate variability during an endurance mountain trail race by multi-scale entropy analysis</strong><br>Vallverdu, M. and Ruiz, A. and Roca, E. and Caminal, P. and Rodr’iguez, F. and Irurtia-Amigo, A. and Perera, A.<br><em>Entropy (Basel)</em>, Vol. 19, Issue 12 (2017)<br><a href="https://doi.org/10.3390/e19120658" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>39. Affected pathways and transcriptional regulators in gene expression response to an ultra-marathon trail: Global and independent activity approaches</strong><br>Maqueda, M. and Roca, E. and Brotons, D. and Soria, J. and Perera, A.<br><em>PloS one</em>, Vol. 12, Issue 10 (2017)<br><a href="https://doi.org/10.1371/journal.pone.0180322" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>40. Baitmet, a computational approach for GC-MS library-driven metabolite profiling</strong><br>Domingo, X. and Brezmes, J. and Venturini, G. and Viv’o-Truyols, G. and Perera, A. and Vinaixa, M.<br><em>Metabolomics</em>, Vol. 13, Issue 93 (2017)<br><a href="https://doi.org/10.1007/s11306-017-1223-x" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>41. Early prediction of Alzheimer’s disease using null longitudinal model-based classifiers</strong><br>Gavidia, G. and Kanaan-Izquierdo, S. and Mataro-Serrat, M. and Perera, A.<br><em>PloS one</em>, Vol. 12, Issue 1 (2017)<br><a href="https://doi.org/10.1371/journal.pone.0168011" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2016
+</h2>
+<p>
+<strong>42. The Central role of KNG1 gene as a genetic determinant of coagulation pathway-related traits: Exploring metaphenotypes</strong><br>Brunel, H. and Massanet, R. and Martinez, A. and Ziyatdinov, A. and Martin-Fernandez, L. and Souto, J. and Perera, A. and Soria, J.<br><em>PloS one</em>, Vol. 11, Issue 12 (2016)<br><a href="https://doi.org/10.1371/journal.pone.0167187" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>43. Avoiding hard chromatographic segmentation: A moving window approach for the automated resolution of gas chromatography-mass spectrometry-based metabolomics signals by multivariate methods</strong><br>Domingo, X. and Perera, A. and Brezmes, J.<br><em>Journal of chromatography A</em>, Vol. 1474, Issue (2016)<br><a href="https://doi.org/10.1016/j.chroma.2016.10.066" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>44. eRah: A Computational Tool Integrating Spectral Deconvolution and Alignment with Quantification and Identification of Metabolites in GC/MS-Based Metabolomics</strong><br>Domingo, X. and Brezmes, J. and Vinaixa, M. and Samino, S. and Ramirez, N. and Ramon, M. and Lerin, C. and D’iaz, M. and Ibanez, L. and Correig, X. and Perera, A. and Yanes, ’O.<br><em>Analytical chemistry</em>, Vol. 88, Issue 19 (2016)<br><a href="https://doi.org/10.1021/acs.analchem.6b02927" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>45. DNA methylation profiling unveils TGF-ss hyperresponse in tumor associated fibroblasts from lung cancer patients</strong><br>Vizioso, M. and Puig, M. and Carmona, F. and Maqueda, M. and Gomez, A. and Labernardie, N. and Gabasa, M. and Mendizuri, S. and Ikemori, R. and Trepat, X. and Moran, S. and Vidal, E. and Reguart, N. and Perera, A. and Esteller, M. and Alcaraz Casademunt, Jordi<br><em>Cancer research</em>, Vol. 76, Issue 14 Supplement (2016)<br><a href="https://doi.org/10.1158/1538-7445.am2016-2763" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>46. Automated resolution of chromatographic signals by independent component analysis-orthogonal signal deconvolution in comprehensive gas chromatography/mass spectrometry-based metabolomics</strong><br>Domingo, X. and Perera, A. and Ramirez, N. and Brezmes, J.<br><em>Computer methods and programs in biomedicine</em>, Vol. 130, Issue (2016)<br><a href="https://doi.org/10.1016/j.cmpb.2016.03.007" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>47. Applicability of semi-supervised learning assumptions for gene ontology terms prediction</strong><br>Jaramillo-Garz’on, J. and Castellanos, C. and Perera, A.<br><em>Revista Facultad de Ingenier’ia. Universidad de Antioqu’ia</em>, Vol. , Issue 79 (2016)<br><a href="https://doi.org/10.17533/udea.redin.n79a03" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>48. Solarius: an R interface to SOLAR for variance component analysis in pedigrees</strong><br>Ziyatdinov, A. and Brunel, H. and Martinez, A. and Buil, A. and Perera, A. and Soria, J.<br><em>Bioinformatics</em>, Vol. 32, Issue 12 (2016)<br><a href="https://doi.org/10.1093/bioinformatics/btw080" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>49. Clinical phenotype clustering in cardiovascular risk patients for the identification of responsive metabotypes after red wine polyphenol intake</strong><br>Vazquez, R. and Llorach, R. and Perera, A. and Mandal, R. and Feliz, M. and Tinahones, F. and Wishart, D. and Andres, C.<br><em>Journal of nutritional biochemistry</em>, Vol. 28, Issue (2016)<br><a href="https://doi.org/10.1016/j.jnutbio.2015.10.002" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2015
+</h2>
+<p>
+<strong>50. Aberrant DNA methylation in non-small cell lung cancer-associated fibroblasts</strong><br>Vizoso, M. and Puig, M. and Carmona, F.J. and Maqueda, M. and Vel’asquez, A. and G’omez, A. and Labernadie, A. and Lugo, R. and Gabasa, M. and Rigat-Brugarolas, L. and Trepat, X. and Ramirez, J. and Moran, S. and Vidal, E. and Reguart, N. and Perera, A. and Esteller, M. and Alcaraz Casademunt, Jordi<br><em>Carcinogenesis</em>, Vol. 36, Issue 12 (2015)<br><a href="https://doi.org/10.1093/carcin/bgv146" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>51. Sequence information gain based motif analysis</strong><br>Maynou, J. and Pair’o, E. and Marco, S. and Perera, A.<br><em>BMC bioinformatics</em>, Vol. 16, Issue 377 (2015)<br><a href="https://doi.org/10.1186/s12859-015-0811-x" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>52. Compound identification in gas chromatography/mass spectrometry-based metabolomics by blind source separation</strong><br>Domingo, X. and Perera, A. and Ramirez, N. and Canellas, N. and Correig, X. and Brezmes, J.<br><em>Journal of chromatography A</em>, Vol. 1409, Issue (2015)<br><a href="https://doi.org/10.1016/j.chroma.2015.07.044" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>53. Data set from gas sensor array under flow modulation</strong><br>Ziyatdinov, A. and Fonollosa, J. and Fern’andez, L. and Guti’errez G’alvez, Agust’in and Marco, S. and Perera, A.<br><em>Data in brief</em>, Vol. 3, Issue (2015)<br><a href="https://doi.org/10.1016/j.dib.2015.02.016" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>54. Synthetic benchmarks for machine olfaction: Classification, segmentation and sensor damage</strong><br>Ziyatdinov, A. and Perera, A.<br><em>Data in brief</em>, Vol. 3, Issue (2015)<br><a href="https://doi.org/10.1016/j.dib.2015.02.011" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>55. Bioinspired early detection through gas flow modulation in chemo-sensory systems</strong><br>Ziyatdinov, A. and Fonollosa, J. and Valentin-Fernandez, L. and Guti’errez G’alvez, Agust’in and Marco, S. and Perera, A.<br><em>Sensors and actuators B. Chemical</em>, Vol. 206, Issue (2015)<br><a href="https://doi.org/10.1016/j.snb.2014.09.001" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2014
+</h2>
+<p>
+<strong>56. Intensity drift removal in LC/MS metabolomics by common variance compensation</strong><br>Fernandez, F. and Llorach, R. and Garcia, M. and Ziyatdinov, A. and Andres, C. and Perera, A.<br><em>Bioinformatics</em>, Vol. 30, Issue 20 (2014)<br><a href="https://doi.org/10.1093/bioinformatics/btu423" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>57. Automatic capacitor bank identification in power distribution systems</strong><br>Perera, A. and Manivannan, K. and Xu, P. and Gutierrez-Osuna, R. and Benner, C. and Russell, B.<br><em>Electric power systems research</em>, Vol. 111, Issue (2014)<br><a href="https://doi.org/10.1016/j.epsr.2014.02.003" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>58. An R package to analyse LC/MS metabolomic data: MAIT (Metabolite Automatic Identification Toolkit)</strong><br>Fernandez, F. and Llorach, R. and Andres, C. and Perera, A.<br><em>Bioinformatics</em>, Vol. 30, Issue 13 (2014)<br><a href="https://doi.org/10.1093/bioinformatics/btu136" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>59. Peak aggregation as an innovative strategy for improving the predictive power of LC-MS metabolomic profiles</strong><br>Fernandez, F. and Llorach, R. and Andres, C. and Perera, A.<br><em>Analytical chemistry</em>, Vol. 86, Issue 5 (2014)<br><a href="https://doi.org/10.1021/ac403702p" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>60. Data simulation in machine olfaction with the R package chemosensors</strong><br>Ziyatdinov, A. and Perera, A.<br><em>PloS one</em>, Vol. 9, Issue 2 (2014)<br><a href="https://doi.org/10.1371/journal.pone.0088839" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2013
+</h2>
+<p>
+<strong>61. A biomimetic approach to machine olfaction, featuring a very large-scale chemical sensor array and embedded neuro-bio-inspired computation</strong><br>Marco, S. and Guti’errez G’alvez, Agust’in and Lansner, A. and Martinez, D. and Rospars, J.P. and Beccherelli, R. and Perera, A. and Pearce, T.C. and Verschure, P. and Persaud, K.C.<br><em>Microsystem technologies</em>, Vol. , Issue (2013)<br><a href="https://doi.org/10.1007/s00542-013-2020-8" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>62. Effect of genetic regions on the correlation between single point mutation variability and morbidity</strong><br>Brunel, H. and Gallardo, J. and Vallverdu, M. and Caminal, P. and Perera, A.<br><em>Computers in biology and medicine</em>, Vol. 43, Issue 5 (2013)<br><a href="https://doi.org/10.1016/j.compbiomed.2013.01.017" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>63. Predictability of gene ontology slim-terms from primary structure information in Embryophyta plant proteins</strong><br>Jaramillo-Garz’on, J. and Gallardo, J. and Castellanos, G. and Perera, A.<br><em>BMC bioinformatics</em>, Vol. 14, Issue 68 (2013)<br><a href="https://doi.org/10.1186/1471-2105-14-68" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>64. A software tool for large-scale synthetic experiments based on polymeric sensor arrays</strong><br>Ziyatdinov, A. and Fernandez, E. and Chaudry, A. and Marco, S. and Persaud, K.C. and Perera, A.<br><em>Sensors and actuators B. Chemical</em>, Vol. 177, Issue (2013)<br><a href="https://doi.org/10.1016/j.snb.2012.09.093" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2012
+</h2>
+<p>
+<strong>65. Choi-Williams distribution to describe coding and non-coding regions in primary transcript pre-mRNA</strong><br>Melia U. and Vallverdu, M. and Claria, F and Gallardo, J. and Perera, A. and Caminal, P.<br><em>Journal of Medical and Biological Engineering</em>, Vol. , Issue (2012)<br><a href="https://doi.org/10.3390/e16052530" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>66. A subspace method for the detection of transcription factor binding sites</strong><br>Pair’o, E. and Maynou, J. and Marco, S. and Perera, A.<br><em>Bioinformatics</em>, Vol. 28, Issue 10 (2012)<br><a href="https://doi.org/10.1093/bioinformatics/bts147" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2011
+</h2>
+<p>
+<strong>67. Biologically inspired computation for chemical sensing</strong><br>Fonollosa, J. and Gutierrez-Galvez, A. and Lansner, A. and Martinez, D. and Rospars, J.P. and Beccherelli, R. and Perera, A. and Pearce, T.C. and Vershure, P. and Persaud, K.C. and Marco, S.<br><em>Procedia computer science</em>, Vol. 7, Issue (2011)<br><a href="https://doi.org/10.1016/j.procs.2011.09.066" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2010
+</h2>
+<p>
+<strong>68. MISS: a non-linear methodology based on mutual information for genetic association studies in both population and sib-pairs analysis</strong><br>Brunel, H. and Gallardo, J. and Buil, J. and Vallverdu, M. and Soria, J. and Caminal, P. and Perera, A.<br><em>Bioinformatics</em>, Vol. 26, Issue 15 (2010)<br><a href="https://doi.org/10.1093/bioinformatics/btq273" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>69. Drift compensation of gas sensor array data by common principal component analysis</strong><br>Ziyatdinov, A. and Marco, S. and Chaudry, A. and Persaud, K.C. and Caminal, P. and Perera, A.<br><em>Sensors and actuators B. Chemical</em>, Vol. 146, Issue 2 (2010)<br><a href="https://doi.org/10.1063/1.3156618" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>70. Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation</strong><br>Perera, A. and Pardo, A. and Barrettino, D. and Hierlemann, A. and Marco, S.<br><em>Sensors and actuators B. Chemical</em>, Vol. 146, Issue 2 (2010)<br><a href="https://doi.org/10.1063/1.3156589" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>71. Computational detection of transcription factor binding sites through differential R’enyi entropy</strong><br>Maynou, J. and Gallardo, J. and Vallverdu, M. and Caminal, P. and Perera, A.<br><em>IEEE transactions on information theory</em>, Vol. 52, Issue 2 (2010)<br><a href="https://doi.org/10.1109/tit.2009.2037038" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>72. Drift compensation of gas sensor array data by Orthogonal Signal Correction</strong><br>Padilla, M. and Perera, A. and Montoliu, I. and Chaudry, A. and Persaud, K.C. and Marco, S.<br><em>Chemometrics and intelligent laboratory systems</em>, Vol. 100, Issue 1 (2010)<br><a href="https://doi.org/10.1016/j.chemolab.2009.10.002" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2009
+</h2>
+<p>
+<strong>73. A new gene-based association test for genome-wide association studies</strong><br>Buil Demur, A. and Mart’inez-P’erez, A. and Perera, A. and Rib, L. and Soria, J. and Caminal, P.<br><em>BMC proceedings (Online)</em>, Vol. 15, Issue 3 (2009)<br><a href="https://doi.org/10.1186/1753-6561-3-s7-s130" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>74. Dimensionality reduction oriented toward the feature visualization for ischemia detection</strong><br>Delgado-Tejos, E. and Perera, A. and Vallverdu, M. and Caminal, P. and Castellanos Dominguez, G.<br><em>IEEE transactions on information technology in biomedicine</em>, Vol. 13, Issue 4 (2009)<br><a href="https://doi.org/10.1109/titb.2009.2016654" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2008
+</h2>
+<p>
+<strong>75. DNA Binding Site Characterization by Means of R’enyi Entropy Measures on Nucleotide</strong><br>Perera, A. and Vallverdu, M. and Claria, F and Caminal, P.<br><em>IEEE transactions on nanobioscience</em>, Vol. 7, Issue 2 (2008)<br><a href="https://doi.org/10.1109/tnb.2008.2000744" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2007
+</h2>
+<p>
+<strong>76. Searching for master regulators of transcription in a human gene expression data set</strong><br>Buil Demur, A. and Perera, A. and Souto, R. and Peralta, J. and Almasy, L. and Vallverdu, M. and Caminal, P. and Soria, J.<br><em>BMC proceedings (Online)</em>, Vol. 1, Issue (Suppl 1) (2007)<br><a href="https://doi.org/10.1186/1753-6561-1-s1-s81" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>77. Gene-phenotype association using mutual information-based cluster analysis</strong><br>Buil Demur, A. and Perera, A. and Brunel, H. and Souto, J. and Fontcuberta, J. and Vallverdu, M. and Soria, J. and Caminal, P.<br><em>Genetic epidemiology</em>, Vol. 31, Issue 6 (2007)<br><a href="https://doi.org/10.1109/iembs.2008.4650032" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2006
+</h2>
+<p>
+<strong>78. Gas measurement systems based on IEEE1451.2 standard</strong><br>Pardo, A. and C’amara, L. and Cabr’e, J. and Perera, A. and Cano, X. and Marco, S. and Bosch, J.<br><em>Sensors and actuators B. Chemical</em>, Vol. 116, Issue 1-2 (2006)<br><a href="https://doi.org/10.1016/j.snb.2006.03.012" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>79. A dimensionality-reduction technique inspired by receptor convergence in the olfactory system</strong><br>Perera, A. and Yamanaka, T. and Guti’errez-G’alvez, A. and Gutierrez-Osuna, R. and Raman, B.<br><em>Sensors and actuators B. Chemical</em>, Vol. 116, Issue 1-2 (2006)<br><a href="https://doi.org/10.1016/j.snb.2005.11.082" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>80. Feature extraction on three way enose signals</strong><br>Padilla, M. and Montoliu, I. and Pardo, A. and Perera, A.<br><em>Sensors and actuators B. Chemical</em>, Vol. 116, Issue 1-2 (2006)<br><a href="https://doi.org/10.1016/j.snb.2006.03.011" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>81. On-line novelty detection by recursive dynamic principal component analysis and gas sensor arrays under drift conditions</strong><br>Perera, A. and Papamichail, N. and Barsan, N. and Weimar, U. and Marco, S.<br><em>IEEE sensors journal</em>, Vol. 6, Issue 3 (2006)<br><a href="https://doi.org/10.1109/jsen.2006.874015" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2002
+</h2>
+<p>
+<strong>82. Fuzzy inference system for sensor array calibration : prediction of CO and CH4 levels in variable humidity conditions</strong><br>Teodor, S. and Perera, A. and Pardo, A. and Hahn, S. and Marco, S. and Barsan, N. and Weimar, U.<br><em>Chemometrics and intelligent laboratory systems</em>, Vol. 64, Issue 2 (2002)<br><a href="https://doi.org/10.1016/s0169-7439(02)00069-2" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2001
+</h2>
+<p>
+<strong>83. An intelligent detector based on temperature modulation of a gas sensor with a digital signal processor</strong><br>Arturo, O. and Marco, S. and Perera, A. and Teodor, S. and Pardo, A. and Samitier, J.<br><em>Sensors and actuators B. Chemical</em>, Vol. 78, Issue 1-3 (2001)<br><a href="https://doi.org/10.1016/s0925-4005(01)00788-2" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+2000
+</h2>
+<p>
+<strong>84. A bio-inspired nonlinear algorithm to integrate carbon monoxide concentration aiming to fulfil international standards</strong><br>Perera, A. and Teodor, S. and Marco, S.<br><em>Sensors and actuators B. Chemical</em>, Vol. 69, Issue 3 (2000)<br><a href="https://doi.org/10.1016/s0925-4005(00)00512-8" target="_blank">[DOI]</a>
+</p>
+<h2 class="anchored">
+Unknown Year
+</h2>
+<p>
+<strong>85. Validity of the Polar V800 monitor for measuring heart rate variability in mountain running route conditions</strong><br><br>**, Vol. , Issue (Unknown)<br><a href="https://doi.org/10.1007/s00421-018-3808-0" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>86. </strong><br><br>**, Vol. , Issue (Unknown)<br><a href="https://doi.org/10.1200/jco.2007.25.18_suppl.3507" target="_blank">[DOI]</a>
+</p>
+<p>
+<strong>87. </strong><br><br>**, Vol. , Issue (Unknown)<br><a href="https://doi.org/10.1200/jco.2007.25.18_suppl.3507" target="_blank">[DOI]</a>
+</p>
+
+
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>soon to defent her thesis<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/b2slab\.upc\.edu");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>A proud member of <a href="https://iris.upc.edu"><img src="https://www.duchenne-spain.org/wp-content/uploads/2020/02/CREB-UPC2-1024x181.png" class="img-fluid" alt="IRIS" width="65"></a></p>
+</div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="../../about.html">
+<p>About</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="../../license.html">
+<p>License</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="../../trademark.html">
+<p>Trademark</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://quarto.org">
+<p>Made with Quarto</p>
+</a>
+  </li>  
+</ul>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/b2slab/b2sweb/edit/main/team/alexandre-perera-lluna/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/b2slab/b2sweb/issues/new/choose" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://social.iris.upc.edu/@b2slab" rel="me">
+      <i class="bi bi-mastodon" role="img" aria-label="b2lsab Mastodon">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/b2slab">
+      <i class="bi bi-github" role="img" aria-label="b2slab GitHub">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://bsky.app/profile/b2slab.social.iris.upc.edu.ap.brid.gy" rel="me">
+      <i class="bi bi-twitter" role="img" aria-label="b2slab bluesky account (Bridged to Mastodon)">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="http://b2slab.upc.edu/blog/index.xml">
+      <i class="bi bi-rss" role="img" aria-label="b2slab Blog RSS">
+</i> 
+    </a>
+  </li>  
+</ul>
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
