@@ -1,0 +1,542 @@
+TY - MGZN
+DO - 10.1109/TBME.2022.3153791
+TI - Weighted time warping improves T-wave morphology markers clinical significance
+AB - Background: T-wave (TW) morphology indices based on time-warping (dw) have shown significant cardiovascular risk stratification value. However, errors in the location of TW boundaries may impact their prognostic power. Our aim was to test the hypothesis that a weighted time-warping function (WF) would reduce the sensitivity of dw to these errors and improve their clinical significance. Methods: The WFs were proportional to (i) the reference TW (T), and (ii) the absolute value of its derivative (D). The index dw was recalculated using these WFs, and its performance was compared to the unweighted control case (C) in four different scenarios: 1) robustness against simulated TW boundaries location errors; 2) ability to retain physiological information in an electrophysiological cardiac model; 3) ability to monitor blood potassium concentration changes ([K+]) in 29 hemodialysis (HD) patients; 4) and the sudden cardiac death (SCD) risk stratification value of the TW morphology restitution (TMR) index, derived from dw, in 651 chronic heart failure (CHF) patients. Results and Discussion: The WFs led to a reduced sensitivity (R) of dw to TW boundary location errors as compared to C (median R=0.19 and 0.22 and 0.35 for T, D and C, respectively). They also preserved the physiological relationship between dw and repolarization dispersion changes at ventricular level. No improvements in [K+] tracking were observed for the HD patients (Pearsons median correlation [r] between [K+] and dw was 0.86r0.90 for T, D and C). In CHF patients, the SCD risk stratification value of TMR was improved by applying T (hazard ratio, HAR, of 2.80), followed by D (HAR=2.32) and C (HAR=2.23). Conclusions and Significance: The proposed WFs, with T showing the best performance, increased the robustness of time-warping based markers against TW location errors preserving their physiological information content and boosting their SCD risk stratification value. Results from this work support the use of T when deriving dw for future clinical applications.
+AB - This work was funded by Products&TechnologyS.L. (Castellbisbal,Barcelona,Spain),and by AGAUR,Generalitat de Catalunya (Spain) grant DI001-2018 and CIBER-BBN ref:"DEKOALE".The work was also supported by project PID2019-104881RB-I00, and PID2019-105674 RB-I00 funded bySpanish Ministry of Science and Innovation (MICINN) and FEDER, by Gobierno de Arag'on (Reference Group Biomedical Signal Interpretation and Computational Simulation (BSICoS)) T39-20 Rand projects LMP94-21,LMP14121cofunded by FEDER 2014-2020 "Building Europe from Arag'on", J.R. acknowledge the "Mar'ia Zambrano" fellowship support from the European Union-Next Generation EU and the support from the Marie Sklodowska-Curie grant No786833. The computation was performed at the High Performance computing platform of the NANBIOSISICTS.
+AB - Peer Reviewed
+AB - Preprint
+Y1 - 2022
+UR - https://ieeexplore.ieee.org/document/9720130
+UR - http://hdl.handle.net/2117/388684
+UR - https://pubmed.ncbi.nlm.nih.gov/35196223/
+VL - 69
+IS - 9
+EP - 2787
+SP - 2796
+T2 - IEEE transactions on bio-medical engineering
+PB - Institute of Electrical and Electronics Engineers (IEEE)
+AU - Palmieri, F.
+AU - Gomis, P.
+AU - Ferreira, D.
+AU - Pueyo, E.
+AU - Mart'inez, J.
+AU - Laguna, P.
+AU - Ram'irez, J.
+
+TY - MGZN
+DO - 10.1016/j.hrthm.2021.06.415
+TI - Electrocardiographic markers' automatic detection and analysis for risk stratification in Brugada syndrome
+Y1 - 2021
+VL - 18
+IS - 8
+EP - S164
+SP - S164
+T2 - Heart rhythm
+AU - P'erez, A.
+AU - Fern'andez, A.
+AU - Jorda, P.
+AU - Doreste, A.
+AU - Gomis, P.
+AU - Calvo, M.
+AU - Arbelo, E.
+
+TY - MGZN
+DO - 10.1016/j.bspc.2021.102719
+TI - ECG-based monitoring of blood potassium concentration: Periodic versus principal component as lead transformation for biomarker robustness
+AB - Objective: The aim of this study is to compare the performance of two electrocardiogram (ECG) lead-space reduction (LSR) techniques in generating a transformed ECG lead from which T-wave morphology markers can be reliably derived to non-invasively monitor blood potassium concentration ([K+]) in end-stage renal disease (ESRD) patients undergoing hemodialysis (HD). These LSR techniques are: (1) principal component analysis (PCA), learned on the T wave, and (2) periodic component analysis (pCA), either learned on the whole QRST complex (pCB) or on the T wave (pCT). We hypothesized pCA is less sensitive to non-periodic disturbances, like noise and body position changes (BPC), than PCA, thus leading to more reliable T wave morphology markers. Methods: We compared the ability of T wave morphology markers obtained from PCA, pCB and pCT in tracking [K+]in an ESRD-HD dataset, including 29 patients, during and after HD (evaluated by correlation and residual fitting error analysis). We also studied their robustness to BPC using an annotated database, including 20 healthy individuals, as well as to different levels of noise using a simulation set-up (assessed by means of Mann-Whitney U test and relative error, respectively). Results: The performance of both pCB and pCT-based markers in following [K+]-variations during HD was com-parable, and superior to that from PCA-based markers. Moreover, pCT-based markers showed superior robustness against BPC and noise. Conclusion: Both pCB and pCT outperform PCA in terms of monitoring [K+]in ESRD-HD patients, as well as of robustness against BPC and low SNR, with pCT showing the highest stability for continuous post-HD monitoring. Significance: The usage of pCA (i) increases the accuracy in monitoring dynamic [K+]variations in ESRD-HD patients and (ii) reduces the sensitivity to BPC and noise in deriving T wave morphology markers.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://www.sciencedirect.com/science/article/pii/S1746809421003165
+UR - http://hdl.handle.net/2117/351563
+VL - 68
+EP - 102719:1
+SP - 102719:11
+T2 - Biomedical signal processing and control
+AU - Palmieri, F.
+AU - Gomis, P.
+AU - Ruiz, J.
+AU - Ferreira, D.
+AU - Mart'in-Yebra, A.
+AU - Pueyo Paules, Esther
+AU - Mart'inez Cort'es, Juan Pablo
+AU - Ram'irez, J.
+AU - Laguna, P.
+
+TY - MGZN
+DO - 10.3390/s21082710
+TI - Nonlinear T-wave time warping-based sensing model for non-invasive personalised blood potassium monitoring in hemodialysis patients: a pilot study
+AB - Background: End-stage renal disease patients undergoing hemodialysis (ESRD-HD) therapy are highly susceptible to malignant ventricular arrhythmias caused by undetected potassium concentration ([K+]) variations (?[K+]) out of normal ranges. Therefore, a reliable method for continuous, noninvasive monitoring of [K+] is crucial. The morphology of the T-wave in the electrocardiogram (ECG) reflects ?[K+] and two time-warping-based T-wave morphological parameters, dw and its heart-rate corrected version dw,c, have been shown to reliably track ?[K+] from the ECG. The aim of this study is to derive polynomial models relating dw and dw,c with ?[K+], and to test their ability to reliably sense and quantify ?[K+] values. Methods: 48-hour Holter ECGs and [K+] values from six blood samples were collected from 29 ESRD-HD patients. For every patient, dw and dw,c were computed, and linear, quadratic, and cubic fitting models were derived from them. Then, Spearman's (?) and Pearson's (r) correlation coefficients, and the estimation error (ed) between ?[K+] and the corresponding model-estimated values (?^[K+]) were calculated. Results and Discussions: Nonlinear models were the most suitable for ?[K+] estimation, rendering higher Pearson's correlation (median 0.77 =r= 0.92) and smaller estimation error (median 0.20 =ed= 0.43) than the linear model (median 0.76 =r= 0.86 and 0.30 =ed= 0.40), even if similar Spearman's ? were found across models (median 0.77 =?= 0.83). Conclusion: Results support the use of nonlinear T-wave-based models as ?[K+] sensors in ESRD-HD patients.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://www.mdpi.com/1424-8220/21/8/2710
+UR - http://hdl.handle.net/2117/345816
+VL - 21
+IS - 8
+EP - 2710/1
+SP - 2710/13
+T2 - Sensors (Basel)
+PB - Multidisciplinary Digital Publishing Institute (MDPI)
+AU - Palmieri, F.
+AU - Gomis, P.
+AU - Ruiz, J.
+AU - Ferreira, D.
+AU - Mart'in-Yebra, A.
+AU - Pueyo, E.
+AU - Mart'inez, J.
+AU - Ram'irez, J.
+AU - Laguna, P.
+
+TY - MGZN
+DO - 10.1038/s41598-021-82935-5
+TI - Monitoring blood potassium concentration in hemodialysis patients by quantifying T-wave morphology dynamics
+AB - We investigated the ability of time-warping-based ECG-derived markers of T-wave morphology changes in time (dw) and amplitude (da), as well as their non-linear components (dNLw and dNLa), and the heart rate corrected counterpart (dw,c), to monitor potassium concentration ([K+]) changes (?[K+]) in end-stage renal disease (ESRD) patients undergoing hemodialysis (HD). We compared the performance of the proposed time-warping markers, together with other previously proposed [K+] markers, such as T-wave width (Tw) and T-wave slope-to-amplitude ratio (TS/A), when computed from standard ECG leads as well as from principal component analysis (PCA)-based leads. 48-hour ECG recordings and a set of hourly-collected blood samples from 29 ESRD-HD patients were acquired. Values of dw, da, dNLw, dNLa and dw,c were calculated by comparing the morphology of the mean warped T-waves (MWTWs) derived at each hour along the HD with that from a reference MWTW, measured at the end of the HD. From the same MWTWs Tw and TS/A were also extracted. Similarly, ?[K+] was calculated as the difference between the [K+] values at each hour and the [K+] reference level at the end of the HD session. We found that dw and dw,c showed higher correlation coefficients with ?[K+] than TS/A-Spearman's (?) and Pearson's (r)-and Tw-Spearman's (?)-in both SL and PCA approaches being the intra-patient median ?=0.82 and r=0.87 in SL and ?=0.82 and r=0.89 in PCA respectively. Our findings would point at dw and dw,c as the most suitable surrogate of ?[K+], suggesting that they could be potentially useful for non-invasive monitoring of ESRD-HD patients in hospital, as well as in ambulatory settings. Therefore, the tracking of T-wave morphology variations by means of time-warping analysis could improve continuous and remote [K+] monitoring of ESRD-HD patients and flagging risk of [K+]-related cardiovascular events
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://www.nature.com/articles/s41598-021-82935-5
+UR - http://hdl.handle.net/2117/344958
+VL - 11
+IS - 1
+T2 - Scientific reports
+PB - Nature
+AU - Palmieri, F.
+AU - Gomis, P.
+AU - Ferreira, D.
+AU - Ruiz, J.
+AU - Bergasa, B.
+AU - Mart'in-Yebra, A.
+AU - Bukhari, H.
+AU - Pueyo Paules, Esther
+AU - M'artinez, J.
+AU - Ram'irez, J.
+AU - Laguna, P.
+
+TY - MGZN
+DO - 10.1016/j.artmed.2018.11.006
+TI - Recursive model identification for the analysis of the autonomic response to exercise testing in Brugada syndrome
+AB - This paper proposes the integration and analysis of a closed-loop model of the baroreflex and cardiovascular systems, focused on a time-varying estimation of the autonomic modulation of heart rate in Brugada syndrome (BS), during exercise and subsequent recovery. Patient-specific models of 44 BS patients at different levels of risk (symptomatic and asymptomatic) were identified through a recursive evolutionary algorithm. After parameter identification, a close match between experimental and simulated signals (mean error = 0.81%) was observed. The model-based estimation of vagal and sympathetic contributions were consistent with physiological knowledge, enabling to observe the expected autonomic changes induced by exercise testing. In particular, symptomatic patients presented a significantly higher parasympathetic activity during exercise, and an autonomic imbalance was observed in these patients at peak effort and during post-exercise recovery. A higher vagal modulation during exercise, as well as an increasing parasympathetic activity at peak effort and a decreasing vagal contribution during post-exercise recovery could be related with symptoms and, thus, with a worse prognosis in BS. This work proposes the first evaluation of the sympathetic and parasympathetic responses to exercise testing in patients suffering from BS, through the recursive identification of computational models; highlighting important trends of clinical relevance that provide new insights into the underlying autonomic mechanisms regulating the cardiovascular system in BS. The joint analysis of the extracted autonomic parameters and classic electrophysiological markers could improve BS risk stratification. (c) 2018 Elsevier B.V.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2019
+UR - http://hdl.handle.net/2117/175298
+VL - 97
+EP - 98
+SP - 104
+T2 - Artificial intelligence in medicine
+AU - Calvo, M.
+AU - Le Rolle, V.
+AU - Romero, D.
+AU - B'ehar, N.
+AU - Gomis, P.
+AU - Mabo, P.
+AU - Hernandez, A.I.
+
+TY - MGZN
+DO - 10.1016/j.compbiomed.2018.10.007
+TI - Model-based analysis of the autonomic response to head-up tilt testing in Brugada syndrome
+AB - The etiology of Brugada syndrome (BS) is complex and multifactorial, making risk stratification in this population a major challenge. Since changes in the autonomic modulation of these patients are commonly related to arrhythmic events, we analyze in this work whether the response to head-up tilt (HUT) testing on this population may provide useful, complementary information for risk stratification. In order to perform this analysis, a coupled physiological model integrating the cardiac electrical activity, the cardiovascular system and the baroreceptors reflex control of the autonomic function, in response to HUT is proposed. A sensitivity analysis was performed, based on a screening method, evidencing the influence of cardiovascular parameters on blood pressure and of baroreflex regulation on heart rate. The most sensitive parameters have been identified on a set of 20 subjects (8 controls and 12 BS patients), so as to assess subject-specific model parameters. According to the results, controls showed an increased sympathetic modulation after tilting, as well as a reduced left ventricular contractility was observed in symptomatic, with respect to asymptomatic BS patients. These results provide new insights regarding the autonomic mechanisms regulating the cardiovascular system in BS which might be used as a complementary source of information, along with classical electrophysiological parameters, for BS risk stratification.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://www.sciencedirect.com/science/article/pii/S0010482518303007
+UR - http://hdl.handle.net/2117/125275
+VL - 103
+EP - 82
+SP - 92
+T2 - Computers in biology and medicine
+PB - Elsevier
+AU - Calvo, M.
+AU - Le Rolle, V.
+AU - Romero, D.
+AU - Gomis, P.
+AU - Hernandez, A.I.
+
+TY - MGZN
+DO - 10.1088/1361-6579/aac550
+TI - Heart rate differences between symptomatic and asymptomatic Brugada syndrome patients at night
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - http://iopscience.iop.org/article/10.1088/1361-6579/aac550/meta
+UR - http://hdl.handle.net/2117/121636
+VL - 39
+IS - 6
+EP - 1
+SP - 26
+T2 - Physiological measurement
+PB - Institute of Physics (IOP)
+AU - Calvo, M.
+AU - Le Rolle, V.
+AU - Romero, D.
+AU - Gomis, P.
+
+TY - MGZN
+DO - 10.1371/journal.pone.0197367
+TI - Multivariate classification of Brugada syndrome patients based on autonomic response to exercise testing
+AB - Ventricular arrhythmias in Brugada syndrome (BS) typically occur at rest and especially during sleep, suggesting that changes in the autonomic modulation may play an important role in arrhythmogenesis. The autonomic response to exercise and subsequent recovery was evaluated on 105 patients diagnosed with BS (twenty-four were symptomatic), by means of a time-frequency heart rate variability (HRV) analysis, so as to propose a novel predictive model capable of distinguishing symptomatic and asymptomatic BS populations. During incremental exercise, symptomatic patients showed higher HFnu values, probably related to an increased parasympathetic modulation, with respect to asymptomatic subjects. In addition, those extracted HRV features best distinguishing between populations were selected using a two-step feature selection approach, so as to build a linear discriminant analysis (LDA) classifier. The final features subset included one third of the total amount of extracted autonomic markers, mostly acquired during incremental exercise and active recovery, thus evidencing the relevance of these test segments in BS patients classification. The derived predictive model showed an improved performance with respect to previous works in the field (AUC = 0.92 +/- 0.01; Se = 0.91 +/- 0.06; Sp = 0.90 +/- 0.05). Therefore, based on these findings, some of the analyzed HRV markers and the proposed model could be useful for risk stratification in Brugada syndrome.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2018
+UR - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197367
+UR - http://hdl.handle.net/2117/124971
+VL - 13
+IS - 5
+EP - 1/22
+SP - 22/22
+T2 - PloS one
+PB - Public Library of Science (PLOS)
+AU - Calvo, M.
+AU - Romero, D.
+AU - Le Rolle, V.
+AU - B'ehar, N.
+AU - Gomis, P.
+AU - Mabo, P.
+AU - Hernandez, A.I.
+
+TY - MGZN
+DO - 10.1007/s00421-018-3808-0
+TI - Validity of the Polar V800 monitor for measuring heart rate variability in mountain running route conditions
+AB - Purpose
+This study was conducted to test, in mountain running route conditions, the accuracy of the Polar V800TM monitor as a suitable device for monitoring the heart rate variability (HRV) of runners.
+
+Method
+Eighteen healthy subjects ran a route that included a range of running slopes such as those encountered in trail and ultra-trail races. The comparative study of a V800 and a Holter SEER 12 ECG RecorderTM included the analysis of RR time series and short-term HRV analysis. A correction algorithm was designed to obtain the corrected Polar RR intervals. Six 5-min segments related to different running slopes were considered for each subject.
+
+Results
+The correlation between corrected V800 RR intervals and Holter RR intervals was very high (r?=?0.99, p?<?0.001), and the bias was less than 1 ms. The limits of agreement (LoA) obtained for SDNN and RMSSD were (-?0.25 to 0.32 ms) and (-?0.90 to 1.08 ms), respectively. The effect size (ES) obtained in the time domain HRV parameters was considered small (ES?<?0.2). Frequency domain HRV parameters did not differ (p?>?0.05) and were well correlated (r?=?0.96, p?<?0.001).
+
+Conclusion
+Narrow limits of agreement, high correlations and small effect size suggest that the Polar V800 is a valid tool for the analysis of heart rate variability in athletes while running high endurance events such as marathon, trail, and ultra-trail races.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://link.springer.com/article/10.1007%2Fs00421-018-3808-0
+UR - http://hdl.handle.net/2117/116137
+VL - 118
+IS - 3
+EP - 669
+SP - 677
+T2 - European journal of applied physiology
+AU - Caminal, P.
+AU - Sola, F.
+AU - Gomis, P.
+AU - Guasch, E.
+AU - Perera, A.
+AU - Mont, L.
+
+TY - MGZN
+DO - 10.1007/978-3-319-77932-4_12
+TI - Sex differences in autonomic response to exercise testing in patients with Brugada syndrome
+AB - Ventricular arrhythmias in Brugada syndrome (BS) typically occur at rest and especially during sleep, suggesting that changes in the autonomic modulation may play an important role in arrhythmogenesis. The autonomic response to exercise and subsequent recovery was evaluated on 105 patients diagnosed with BS (twenty-four were symptomatic), by means of a time-frequency heart rate variability (HRV) analysis, so as to propose a novel predictive model capable of distinguishing symptomatic and asymptomatic BS populations. During incremental exercise, symptomatic patients showed higher HFnu values, probably related to an increased parasympathetic modulation, with respect to asymptomatic subjects. In addition, those extracted HRV features best distinguishing between populations were selected using a two-step feature selection approach, so as to build a linear discriminant analysis (LDA) classifier. The final features subset included one third of the total amount of extracted autonomic markers, mostly acquired during incremental exercise and active recovery, thus evidencing the relevance of these test segments in BS patients classification. The derived predictive model showed an improved performance with respect to previous works in the field (AUC = 0.92 +/- 0.01; Se = 0.91 +/- 0.06; Sp = 0.90 +/- 0.05). Therefore, based on these findings, some of the analyzed HRV markers and the proposed model could be useful for risk stratification in Brugada syndrome.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://link.springer.com/chapter/10.1007%2F978-3-319-77932-4_12
+UR - http://hdl.handle.net/2117/123426
+VL - 1065
+EP - 181
+SP - 190
+T2 - Advances in experimental medicine and biology
+PB - Springer
+AU - Calvo, M.
+AU - Le Rolle, V.
+AU - Romero, D.
+AU - B'ehar, N.
+AU - Gomis, P.
+AU - Mabo, P.
+AU - Hernandez, A.I.
+
+TY - MGZN
+DO - 10.1093/ehjci/eux158.246
+TI - Automatic Brugada pattern detection on continuous electrocardiographic monitoring
+AB - Background: As described in the literature, Brugada syndrome (BrS) patients presenting a spontaneous type 1 electrocardiographic (ECG) pattern are related to a greater arrhythmic risk compared to those with a flecainideinduced type 1 ECG pattern. The 24hour continuous ECG provides relevant cardiac information. However, it is usually challenging and time consuming to analyze.
+
+Purpose: This work presents an automatic algorithm able to detect significant ECG parameters in the disease, such as Brugada-like pattern burden on ECG monitoring.
+
+Methods: The algorithm integrates a previously developed and validated ECG delineator in order to locate the beginning, peak and ending of cardiac waves. Then, it classifies each beat between normal or Brugada-like, based on the morphology of the detected waves (see table below). Likewise, the algorithm includes the detection of other relevant ECG features: STsegment elevation, PR, QRS and QTc intervals duration, heart rate variability and number of premature ventricular contractions, among others. Validation of the Brugada-pattern detector was done by assessment of the beat-to-beat correlation of the 24hour 12lead ECG signals in 2 BrS patients with spontaneous type 1 ECG and 1 healthy individual, 2 blinded arrhythmia specialists.
+
+Results: From a random sample of 212 beats, type 1 ECG pattern was correctly detected in the 98.11% of beats in V1, 84.91% in V2, 92.45% in aVR and 100% in aVF. Erroneous detections mainly resulted from incorrect Twave delineations in noisy segments. Regarding type 2 ECG detections, all analyzed beats in V1 and the 92.45% in V2 were properly classified. 
+
+Conclusion: This study shows the feasibility of the algorithm to automatically detect Brugada-like beats on a 24hour continuous ECG monitoring. Future work will be focused on testing the performed detector in an extensive sample of patients diagnosed with BrS that, based on their cardiac events, will allow to determine the association of this ECG parameter burden with the individual risk of suffering sudden cardiac death.
+Y1 - 2017
+UR - https://academic.oup.com/europace/article-abstract/19/suppl_3/iii347/3873287?redirectedFrom=fulltext
+VL - 19
+IS - Supp 3
+EP - iii347
+SP - iii347
+T2 - Europace
+AU - Calvo, M.
+AU - Hern'andez-Rodr'iguez, J.
+AU - Vidorreta, S.
+AU - Brugada, J.
+AU - Gomis, P.
+AU - Arbelo, E.
+
+TY - MGZN
+DO - 10.1088/1361-6579/aa513c
+TI - Heart rate complexity analysis in Brugada syndrome during physical stress testing
+AB - Symptoms such as ventricular arrhythmias in Brugada syndrome (BS) typically occur at rest, especially during sleep, suggesting that the autonomic nervous system (ANS) function may be relevant in the arrhythmogenesis of the disease. The aim of this work was to assess the ANS response captured by a non-linear heart rate variability (HRV) measure in 69 patients diagnosed with BS, who underwent a standardized physical stress test. Heart rate complexity (HRC) was evaluated by the power-law scaling analysis (Beta slope) during rest, exercise, recovery and rest post-recovery, in order to discriminate between symptomatic and asymptomatic BS patients. Symptomatic patients showed a significant reduction in HRC in comparison to asymptomatic subjects, after exertion (p=0.015); during the whole recovery period (p=0.023), and, in particular within the passive recovery phase (p=0.025), as well as during rest post-recovery (p=0.022). Based on these results, symptoms could be associated with a lower ANS complexity during the stress test stages where parasympathetic activity is predominant. Therefore, the proposed HRV indicators could be of help in the risk stratification of asymptomatic patients.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2017
+UR - http://iopscience.iop.org/journal/0967-3334
+UR - http://hdl.handle.net/2117/101386
+VL - 38
+IS - 2
+EP - 387
+SP - 396
+T2 - Physiological measurement
+PB - Institute of Physics (IOP)
+AU - Calvo, M.
+AU - Gomis, P.
+AU - Romero, D.
+AU - Le Rolle, V.
+AU - B'ehar, N.
+AU - Mabo, P.
+AU - Hernandez, A.I.
+
+TY - MGZN
+DO - 10.1161/CIRCULATIONAHA.116.024875
+TI - Response by 'Alvarez-Garc'ia et al. to Letters Regarding article, "Electrophysiological effects of selective atrial coronary artery occlusion in humans"
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2016
+UR - http://circ.ahajournals.org/content/134/18/e401.full
+UR - http://hdl.handle.net/2117/101570
+VL - 134
+IS - 18
+EP - e401
+SP - e402
+T2 - Circulation
+AU - 'Alvarez-Garc'ia, Jesus
+AU - Vives, M.
+AU - Gomis, P.
+AU - Ordo~nez, J.
+AU - Ferrero-Gregori, A.
+AU - Serra, A.
+AU - Cinca, J.
+
+TY - MGZN
+DO - 10.1161/CIRCULATIONAHA.116.021700
+TI - Electrophysiological effects of selective atrial coronary artery occlusion in humans
+AB - Background-The arrhythmogenesis of ventricular myocardial ischemia has been extensively studied, but models of atrial ischemia in humans are lacking. This study aimed at describing the electrophysiological alterations induced by acute atrial ischemia secondary to atrial coronary branch occlusion during elective coronary angioplasty.; Methods and Results-Clinical data, 12-lead ECG, 12-hour Holter recordings, coronary angiography, and serial plasma levels of high-sensitivity troponin T and midregional proatrial natriuretic peptide were prospectively analyzed in 109 patients undergoing elective angioplasty of right or circumflex coronary arteries. Atrial coronary branches were identified and after the procedure patients were allocated into two groups: atrial branch occlusion (ABO, n= 17) and atrial branch patency (non-ABO, n= 92). In comparison with the non-ABO, patients with ABO showed: (1) higher incidence of periprocedural myocardial infarction (20% versus 53%, P= 0.01); (2) more frequent intra-atrial conduction delay (19% versus 46%, P= 0.03); (3) more marked PR segment deviation in the Holter recordings; and (4) higher incidence of atrial tachycardia (15% versus 41%, P= 0.02) and atrial fibrillation (0% versus 12%, P= 0.03). After adjustment by a propensity score, ABO was an independent predictor of periprocedural infarction (odds ratio, 3.4; 95% confidence interval, 1.01-11.6, P< 0.05) and atrial arrhythmias (odds ratio, 5.1; 95% confidence interval, 1.2-20.5, P= 0.02).; Conclusions-Selective atrial coronary artery occlusion during elective percutaneous transluminal coronary angioplasty is associated with myocardial ischemic damage, atrial arrhythmias, and intra-atrial conduction delay. Our data suggest that atrial ischemic episodes might be considered as a potential cause of atrial fibrillation in patients with chronic coronary artery disease.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2016
+UR - http://circ.ahajournals.org/content/133/23/2235
+UR - http://hdl.handle.net/2117/91213
+VL - 133
+IS - 23
+EP - 2235
+SP - 2242
+T2 - Circulation
+AU - 'Alvarez-Garc'ia, Jesus
+AU - Vives, M.
+AU - Gomis, P.
+AU - Ordo~nez, J.
+AU - Ferrero-Gregori, A.
+AU - Serra, A.
+AU - Cinca, J.
+
+TY - MGZN
+DO - 10.1016/j.jelectrocard.2014.04.014
+TI - Evaluation of very low amplitude intra-QRS potentials during the initial minutes of acute transmural myocardial ischemia
+AB - Introduction: Low-level electrocardiographic changes from depolarization wavefront may accompany acute myocardial ischemia. The purpose of this study was to assess the changes of microvolt amplitude intra-QRS potentials induced by elective percutaneous coronary interventions (PCI).; Methods: Fifty-seven patients with balloon inflation periods ranging from 3.1 to 7.3 minutes (4.9 +/- 0.7 min) were studied. Nine leads continuous high-resolution ECG before and during PCI were recorded and signal-averaged. Abnormal intra-QRS at microvolt level (mu AIQP) were obtained using a signal modeling approach. mu AIQP, R-wave amplitude and QRS duration were measured in the processed ECG during baseline and PCI episodes.; Results: The mean mu AIQP amplitude significantly decreased for each of the standard 12 leads at the PCI event respect to baseline. Left anterior descending artery (LAD) occlusion resulted in a decrease mu AIQP in both the precordial leads and the limb leads, while right coronary (RCA) and left circumflex (LCx) arteries occlusions mainly affected limb leads. R-wave amplitude increased during PCI in RCA and LCx groups in lead III but decreased in the precordial leads, while the amplitude decreased in the LAD group in lead III. The average duration of the QRS augmented in groups RCA and LCx but not in the LAD group.; Conclusions: Abnormal intra-QRS potentials at the level of mu V provide an excellent tool to characterize the very-low amplitude fragmentation of the QRS complex and its changes due to ischemic injuries. mu AIQP shows promise as a new ECG index to measure electrophysiologic changes associated with acute myocardial ischemia. (c) 2014 The Authors. Published by Elsevier Inc.
+Y1 - 2014
+UR - http://dx.doi.org/10.1016/j.jelectrocard.2014.04.014
+VL - 47
+IS - 4
+EP - 512
+SP - 519
+T2 - Journal of electrocardiology
+AU - Gomis, P.
+AU - Caminal, P.
+
+TY - MGZN
+DO - 10.1016/j.medengphy.2012.11.004
+TI - Complexity of the autonomic heart rate control in coronary artery occlusion in patients with and without prior myocardial infarction
+AB - Autonomic nervous system (ANS) is governed by complex interactions arising from feedback loops of nonlinear systems that operate over a wide range of temporal and spatial scales, enabling the organism to adapt to stress, metabolic changes and diseases. This study is aimed to assess multifractal and nonlinear characteristics of the ANS during ischemic events provoked by a prolonged percutaneous coronary intervention (PCI) procedure. Eighty-seven patients from the STAFF III database were used. Patients were classified into 2 groups: (1) with prior myocardial infarction (MI) and (2) without MI (noMI). R-R signals during three 3-min stages of the procedures were analyzed using multifractal and surrogate data techniques. Multifractal indices increased significantly from the pre-inflation stage to the post-deflation stage. These variations were more marked for the noMI group. Multifractal changes significantly correlated with both the decreased parasympathetic and the increased sympathetic modulations accounted by classical linear indices. Multifractal measures resulted to be a more powerful indicator than linear HRV indices in quantifying the ischemia-induced changes. Right coronary artery (RCA) occlusions provoke greater multifractal reactions throughout the PCI procedure. Our findings suggest reduced complex multifractal and nonlinear reactions of ANS activity in patients with prior MI in comparison to the noMI group, possibly due to degradation in the complexity of control mechanism of heart rate generation
+Y1 - 2013
+UR - http://www.sciencedirect.com/science/article/pii/S1350453312003037
+VL - 35
+IS - 8
+EP - 1070
+SP - 1078
+T2 - Medical engineering and physics
+AU - Magrans, R.
+AU - Gomis, P.
+AU - Caminal, P.
+AU - Wagner, G.S.
+
+TY - MGZN
+DO - 10.1016/j.jelectrocard.2011.08.013
+TI - Assessment of autonomic control of the heart during transient myocardial ischemia
+Y1 - 2012
+UR - http://www.sciencedirect.com/science/article/pii/S0022073611003293
+VL - 45
+IS - 1
+EP - 82
+SP - 89
+T2 - Journal of electrocardiology
+AU - Gomis, P.
+AU - Caminal, P.
+AU - Vallverdu, M.
+AU - Warren, S.
+AU - Stein, P.
+AU - Wagner, G.
+
+TY - MGZN
+DO - 10.1088/0967-3334/31/4/008
+TI - Multifractal and nonlinear assessment of autonomous nervous system response during transient myocardial ischaemia
+Y1 - 2010
+UR - http://iopscience.iop.org/0967-3334/31/4/008
+VL - 31
+IS - 4
+EP - 565
+SP - 580
+T2 - Physiological measurement
+AU - Magrans, R.
+AU - Gomis, P.
+AU - Caminal, P.
+AU - Wagner, G.S.
+
+TY - MGZN
+DO - 10.1016/j.medengphy.2008.12.006
+TI - Characterization of the nonlinear content of the heart rate dynamics during myocardial ischemia
+Y1 - 2009
+UR - http://linkinghub.elsevier.com/retrieve/pii/S1350453309000319
+VL - 31
+IS - 6
+EP - 660
+SP - 667
+T2 - Medical engineering and physics
+AU - Benitez, R.
+AU - Alvarez-Lacalle, E.
+AU - Echebarria, B.
+AU - Gomis, P.
+AU - Vallverdu, M.
+AU - Caminal, P.
+
+TY - MGZN
+DO - 10.1109/TBME.2006.889944
+TI - ECG Beat Detection Using a Geometrical Matching Approach
+Y1 - 2007
+UR - http://ieeexplore.ieee.org/xpl/tocresult.jsp?isYear=2007&isnumber=4132923&Submit32=Go+To+Issue
+VL - 54
+IS - 4
+EP - 641
+SP - 650
+T2 - IEEE transactions on biomedical engineering
+AU - Kleydis, S.
+AU - Jesus, S.
+AU - Berthoumieu, Y.
+AU - Gomis, P.
+AU - Mohamed, A.
+
+TY - MGZN
+TI - Non-linear dynamic analysis of the cardiac rhythm during transient myocardial ischemia
+Y1 - 2006
+VL - 51
+IS - 4
+EP - 178
+SP - 181
+T2 - Biomedizinische technik
+AU - Gomis, P.
+AU - Caminal, P.
+AU - Vallverdu, M.
+AU - Warren, S.
+AU - Wagner, G.
+
+TY - MGZN
+TI - Abnormal intra-QRS potentials associated with percutaneous transluminal coronary angioplasty-induced transient myocardial ischemia
+Y1 - 2006
+UR - http://www.elsevier.com/locate/jelectrocard
+VL - 39
+IS - 3
+EP - 282
+SP - 289
+T2 - Journal of electrocardiology
+AU - Gomis, P.
+
+TY - MGZN
+TI - An'alisis fractal del control auton'omico del ritmo cardiaco durante oclusi'on coronaria
+Y1 - 2006
+UR - http://riai.isa.upv.es
+VL - 3
+IS - 2
+EP - 116
+SP - 122
+T2 - Revista iberoamericana de automatica e informatica industrial
+AU - Gomis, P.
+AU - Caminal, P.
+AU - Vallverdu, M.
+
+TY - MGZN
+TI - An'alisis biomec'anico de la variabilidad del patr'on respiratorio
+Y1 - 2004
+UR - http://revele.ing.ucv.ve/revele/INDEX.asp
+VL - 19
+IS - 1
+EP - 51
+SP - 64
+T2 - Revista de la facultad de ingenier'ia de la Universidad Central de Venezuela
+AU - Gomis, P.
+
+TY - MGZN
+TI - Se~nales electrocardiogr'aficas de alta resoluci'on en Chagas: el proyecto SEARCH
+Y1 - 1999
+UR - http://www2.scielo.org.ve/scielo.php/script_sci_serial/pid_0001-5504/lng_es/nrm_iso
+VL - 50
+IS - 3
+EP - 187
+SP - 194
+T2 - Acta cient'ifica venezolana
+AU - Mora, F.
+AU - Gomis, P.
+AU - Passariello, G.
+
+TY - MGZN
+TI - Analysis of abnormal signals within the QRS Complex of the High-Resolution Electrocardiogram
+Y1 - 1997
+VL - 44
+IS - 8
+EP - 681
+SP - 693
+T2 - IEEE transactions on biomedical engineering
+AU - Gomis, P.
+AU - Jones, D.
+AU - Caminal, P.
+AU - Berbari, E.
+AU - Lander, P.
+
+TY - MGZN
+TI - Analysis of abnormal intra-QRS late potentials:Improved predictive value for arrhythunic events using the signal-avesaped electrocardiogram
+Y1 - 1997
+VL - 95
+IS - 6
+EP - 1386
+SP - 1393
+T2 - Circulation
+AU - Lander, P.
+AU - Gomis, P.
+AU - Goyal, R.
+AU - Berbari, S.
+AU - Caminal, P.
+AU - Lazzara, R.
+AU - Steinberg, J.
+
+TY - MGZN
+TI - Analysis of high resolution ECG changes during percutaneous transluminar coronary angioplastia
+Y1 - 1995
+VL - 28
+IS - 1
+EP - 39
+SP - 40
+T2 - Journal of electrocardiology
+AU - Lander, P.
+AU - Gomis, P.
+AU - Hartman, G.
+AU - Gates, K.
+

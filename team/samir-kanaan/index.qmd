@@ -1,0 +1,60 @@
+---
+title: "Samir Kanaan"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+## Bio
+
+::: img-float
+![](images/samir.jpg){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Hi! My name is Samir Kanaan-Izquierdo. Welcome to my page. Here’s a brief summary of my career and interests, along with the description of my main teaching areas. Feel free to contact me if you have any questions.
+
+I was with the Department of Computer Science at the Polytechnic University of Catalonia (UPC). I am a former  researcher at the B2SLab (Bioinformatics and Biomedical Signals Laboratory).
+
+I have a PhD in Biomedical Engineering and a BS degree on Computer Science.
+
+
+## Research areas:
+
+- Machine learning (ML) techniques in general, specially clustering and dimensionality reduction algorithms
+- ML applications to bioinformatics
+- ML applications to videogames
+- Deep learning
+- Multi-(multiview, multifeature, multilabel) problems and techniques
+
+
+## Teaching:
+
+I am a former full-time lecturer at the Escola d’Enginyeria Barcelona Est (EEBE, http://eebe.upc.edu/), where I taught the following courses:
+
+- Computer Programming (with Python)
+- Mobile Device Application Development (with QML + JavaScript + Python)
+- Artificial Intelligence Applications for Engineering (with Python)
+
+I also teach at the Universitat Oberta de Catalunya (UOC, http://www.uoc.edu/). I am collaborator at both the Computer Engineering Master and at the Design and Development of Video Games Master, on the following courses:
+
+- Advanced artificial intelligence
+- Artificial intelligence applied to video games
+
+
+## Publications in journals
+
+A possibly incomplete and malformatted list of publications is included below:
+
+```{r}
+cache_file <- "../../doi_cache.json"
+source("../../R/getpapers.R")
+# Define the RIS file URL
+ris_url <- "https://futur.upc.edu/RIS/SamirKanaanIzquierdo/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=en"
+```
+
+```{r}
+#| output: asis
+paperstohtmlnodiv(ris_url)
+```

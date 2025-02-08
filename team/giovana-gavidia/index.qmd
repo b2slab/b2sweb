@@ -1,0 +1,59 @@
+---
+title: "Giovana Gavidia"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+## Bio
+
+::: img-float
+![](images/gio.jpeg){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Welcome to my personal website! I’m Giovana Gavidia, a computer science engineer. I achieved my Ph.D. in Biomedical Engineering at Polytechnic University of Catalonia and working as a biomedical researcher at B2SLab. My academic and professional knowledge since its beginning has been in the biomedical and computer vision environment, it has familiarized me with many of the challenges involved in clinical diagnostic support today and the development of national and international R&D projects related with these fields. More details about my profile can be found on [LinkedIn.](https://es.linkedin.com/in/giovana-gavidia-95753119/en)
+
+## Research interests 
+
+I’m focussed on the research and development of decision support system based on machine learning, linear regression methods and mixed models to clinical diagnosis of diseases, such as, Alzheimer’s disease, prostate cancer, liver fibrosis and other pathologies. At B2SLab, we have great interest in becoming part of novel projects related with the statistical analysis, computer-aided diagnosis, artificial intelligence and other fields related with Biomedicine and Bioinformatics in order to transmit our skills.
+
+## Education: 
+
+|  |  |
+|:---|:---|
+| 2010-Present | Ph.D, Biomedical Engineering (research stage) at Polytechnic University of Catalonia. BarcelonaTech. |
+| 2007-2010 | Master of Science in Bioengineering at Central University of Venezuela, graduated with honors |
+| 1999-2007 | Computer Science Engineering at National University of Trujillo |
+
+|  |
+|:---|
+| **Thesis:** |
+| **“Longitudinal Analysis of Alzheimer’s Neuroimage Data”**. Ph.D Thesis in Biomedical Engineer (currently, research stage), UPC. Thesis directed by Àlexander Perera |
+| **“Clasificadores Basados en Máquinas de Soporte Vectorial para el Diagnóstico y Predicción de la Enfermedad de Alzheimer”**. Master’s thesis in Numerical Methods in Engineering at UPC. Thesis directed by Eugenio Oñate |
+| **“Generación de modelos discretos de órganos y patologías del ser humano a través del pre-procesamiento y segmentación de imágenes médicas”.** Master’s thesis in Bioengineering, Central University of Venezuela. Thesis directed by Miguel Cerrolaza |
+| **“Desarrollo de un sistema de medición de la calidad de sofware comercial”.** Bachelor’s degree Final Project in Computer Science, National University of Trujillo. Thesis directed by Carlos Castillo. |
+
+## Scientific and technical reports:
+
+-   G. Gavidia; E. Soudah; M. Martín Landrove; M. Cerrolaza; E. Oñate. **“Modeling Human Tissues: An Efficient Integrated Methodology”** .J. Biomedical Engineering: Applications, Basis and Communications. 26-1, 2014, pp14500. Elsevier, 2013.
+
+-   G. Gavidia; E. Soudah; M. Cerrolaza; M. Martín-Landrove and E. Oñate. **“Discrete modeling of human body using preprocessing and segmentation techniques of medical images”**. RIMNI: Revista Internacional de Métodos Numéricos\
+    para Cálculo y Diseño en Ingeniería. 27 – 3 pp. 200 – 226. Elsevier,01/09/2011 .ISSN 0213-1315.
+
+-   G. Gavidia; E. Soudah; M. Cerrolaza; M. Martín-Landrove .**“Anatomía Computacional: Una metodología eficiente basada en imágenes médicas para generación de modelos 3D”**. Monography of CIMNE M125.125,CIMNE. Publications,01/07/2010.
+
+-   G. Gavidia; E. Soudah; J. Perez; M. Martín Landrove; M. Cerrolaza; E. Oñate. **“Desarrollo de una Herramienta de Procesamiento de Imágenes Médicas en MATLAB y su Integración en Medical GiD”** . CIMNE Monograph. pp. 1 – 40.01/01/2010 .
+
+-   G. Gavidia; A. Távara; M. Cerrolaza. **“Aplicación del método de elementos de contorno en la Prevención y rehabilitación de problemas en postura y marcha a través de técnicas de visón artificial”**. Iberoamerican cooperation project ALFA- ELBENET , Europe Latin America Boundary Element Network.(Venezuela): 01/09/2007 .
+
+## National and international congress:
+
+-   G. Gavidia; A. Perera. **Longitudinal Analysis of Alzheimer’s Neuroimage Data**. 7TH ANNUAL CONFERENCE CIBER-BBN, Torremolinos, 21-22/11/2013.
+
+-   G. Gavidia; R. Lopez; E. Soudah. **Computer-aided diagnosis of dementia using medical imaging processing and artificial neural networks.**Computational Vision and Medical Image Processing: VipIMAGE 2011. Portugal, 12/10/2011 .ISBN 0-41568-395-5, Portugal, 12/10/2011.
+
+-   Giovana Gavidia; Eduardo Soudah; Miguel Martín Landrove; J. Pérez; Miguel Cerrolaza. **A Technique of Three-Dimensional Reconstruction of Myocardial Tissue Damage After Ischemic Heart Disease Using Image Processing in Cardiac Magnetic Resonance Imaging**. CIMENICS’2010, Venezuela, 22/03/2010. In: Modelos Computacionales en Ingeniería: Desarrollos Novedosos y Aplicaciones.
+
+-   G. Gavidia; E. Soudah; J. Ronda; M. Cerrolaza; M.Martín-Landrove and E.Oñate. **A Novel Technique Of Three-Dimensional Reconstruction Of Myocardial Tissue Damage After Ischemic Heart Disease Using Image Processing In Cardiac Magnetic Resonance Imaging**. IX COMPUTER METHODs in Biomechanics and Biomedical Engineering 2010. Valencia, España, 24/02/2010.

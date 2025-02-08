@@ -1,0 +1,210 @@
+---
+title: "Pere Caminal Magrans"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+## Bio
+
+::: img-float
+![](images/foto-pere-2.png){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Welcome to my site. My name is Pere Caminal Magrans, I am a former director and founder of the Research Center for Biomedical Engineering (CREB), and former leader of the SISBIO research group, which was the precursor fo the current [B2SLab](https://b2slab.upc.edu/), not part of the Institut de Recerca i Innovació en Salut ([IRIS](https://iris.upc.edu/)) at the Universitat Politècnica de Catalunya (Polytechnic University of Catalonia, UPC).
+
+## Teaching
+
+I taught Automatic Control of Dynamic Systems at the School of Industrial Engineering of Barcelona (ETSEIB) of the UPC. The ETSEIB combines its long-standing tradition with its endeavours to bring about renewal and continuous improvement. This has made it one of the best schools of engineering in Spain and it enjoys an excellent reputation on the international stage. The School has close ties with industry, the financial sector and local businesses, which it complements with its efforts to secure international outreach and recognition.
+
+## Publications
+
+You can also check out my journal papers, also listed in the publications for all the group:
+
+You can also check out my journal papers, also listed in the publications for all the group:
+
+1.  Valencia J.F., Melia U., Vallverdú M., Borrat X., Jospin M., Jensen E.W., Porta A., Gambús P.L., Caminal P. (2016). “Assessment of Nociceptive Responsiveness Levels during Sedation-Analgesia by Entropy Analysis of EEG”. *Entropy*, 18, 103; doi:10.3390/e18030103.
+
+2.  Valencia J.F., M. Vallverdú, I. Rivero, A. Voss, A. Bayés de Luna, A. Porta, P. Caminal (2015). “Symbolic dynamics to discriminate healthy and ischaemic dilated cardiomyopathy populations: an application to the variability of heart period and QT interval”, *Phil. Trans. R. Soc. A.*, 373: 20140092.
+
+3.  Melia U., Guaita M., Vallverdú M., Clariá F., Montserrat J.M., Vilaseca I., Salamero M., Gaig C., Caminal P., Santamaria J. (2015). “Characterization of Daytime Sleepiness by Time-Frequency Measures of EEG Signals”, *JMBE Journal of Medical and Biological Engineering,* vol 35, pp. 406-417.
+
+4.  Melia U., M. Vallverdú, X. Borrat, J.F. Valencia, M. Jospin, E.W. Jensen, P. Gambus, P. Caminal (2015). “[Prediction of nociceptive responses during sedation by linear and non-linear measures of EEG signals in high frequencies](https://web.archive.org/web/20240810142443/http://futur.upc.edu/15731042)”, *PLOS One,* 10(4): e0123464.
+
+5.  Guaita M., Melia U., Vallverdú M., Caminal P., Vilaseca I., Montserrat J.M., Gaig C., Salamero M., Santamaría J. (2015) “Regularity of cardiac rhythm as a marker of sleepiness in sleep disordered breathing”. *PLoS One*, 10(4):e0122645. doi: 10.1371/journal.pone.0122645.
+
+6.  Bas R., Vallverdú M., Valencia J.F., Voss A., Bayés de Luna A., Caminal P. (2015) “Evaluation of Acceleration and Deceleration Cardiac Processes using Phase-Rectified Signal Averaging in Healthy and Idiopathic Dilated Cardiomyopathy”. *Medical Engineering and Physics 37*, 195-202  [http://dx.doi.org/10.1016/j.medengphy.2014.12.001](https://web.archive.org/web/20240810142443/http://dx.doi.org/10.1016/j.medengphy.2014.12.001).
+
+7.  Arcentales A., P. Caminal, I. Díaz, S. Benito, B.F. Giraldo (2015). “Classification of patients undergoing weaning from mechanical ventilation using coherence between heart rate variability and respiratory flow signal”, *Physiological Measurement,* Vol. 36, pp. 1439-1452.
+
+8.  Melia U., Vallverdú M., Clariá F., Valls-Solé J., Caminal P. (2014). “[Auditory and Nociceptive Stimuli Responses in the Electroencephalogram. A Non-linear Measures and Time-frequency Representation Based Analysis”.](https://web.archive.org/web/20240810142443/http://scholar.google.com/citations?view_op=view_citation&hl=es&user=_KiUeFcAAAAJ&citation_for_view=_KiUeFcAAAAJ:YsMSGLbcyi4C) *Methods of information in medicine* 53 (4).
+
+9.  Melia U., F. Burgos, M. Vallverdú, F. Velickovski, M. Lluch, J. Roca, P. Caminal (2014). “Algorithm for automatic forced spirometry quality assessment: Technological developments”, *PLOS One*, 9(12): e116238.
+
+10. Melia U., Clariá F., Vallverdú M., Caminal P. (2014), “[Measuring Instantaneous and Spectral Information Entropies by Shannon Entropy of Choi-Williams Distribution in the Context of Electroencephalography”, ](https://web.archive.org/web/20240810142443/http://apps.webofknowledge.com/full_record.do?product=UA&search_mode=CitationReport&qid=3&SID=U13aICukmiDFcb4KBLI&page=1&doc=2)*Entropy,* 16 (5), pp. 2530-2548.
+
+11. Melia U., Clariá F., Vallverdú M., Caminal P. (2014) “Filtering and Thresholding the Analytic Signal Envelope in order to improve Peak and Spike Noise Reduction in EEG Signals”. *Medical Engineering and Physics,* 36 (4), pp. 547-553.
+
+12. Gomis P., Caminal P. (2014), “[Evaluation of very low amplitude intra-QRS potentials during the initial minutes of acute transmural myocardial ischemia”, *Journal of Electrocardiology,* ](https://web.archive.org/web/20240810142443/http://apps.webofknowledge.com/full_record.do?product=UA&search_mode=CitationReport&qid=3&SID=U13aICukmiDFcb4KBLI&page=1&doc=1)47 (4), pp. 512-519.
+
+13. Burgos F., U. Melia, M. Vallverdú, F. Velickovski, M. Lluch, P. Caminal, J. Roca (2014). “Clinical decision support system to enhance quality controlo f spirometry using information and communication Technologies”, *JMIR Medical Informatics,* 2(2): e29.
+
+14. Bari V., Valencia JF., Vallverdu M., Girardengo G., Marchi A., Bassani T., Caminal P., Cerutti S., George AL., Brink PA., Crotti L., Schwartz PJ., Porta A. (2014) “[Multiscale Complexity Analysis of the Cardiac Control Identifies Asymptomatic and Symptomatic Patients in Long QT Syndrome Type 1”, ](https://web.archive.org/web/20240810142443/http://apps.webofknowledge.com/full_record.do?product=UA&search_mode=CitationReport&qid=3&SID=U13aICukmiDFcb4KBLI&page=1&doc=3)*PLOS One*, 9 (4),  article number: e93808.
+
+15. Melia, U., Clariá, F., Vallverdú, M., & Caminal, P. (2013). Filtering and thresholding the analytic signal envelope in order to improve peak and spike noise reduction in EEG signals. Medical engineering & physics. [Link](https://web.archive.org/web/20240810142443/http://www.sciencedirect.com/science/article/pii/S1350453313002609)
+
+16. Valencia J.F., Vallverdú M., Porta A., Voss A., Schroeder R., Vázquez R., Bayés de Luna A., Caminal P. Ischemic risk stratification by means of multivariate analysis of the heart rate variability. Physiological Measurement 34, 325- 338 (2013). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/23399982)
+
+17. Brunel, H., Gallardo-Chacón, J.-J., Vallverdú, M., Caminal, P. & Perera, A. Effect of genetic regions on the correlation between single point mutation variability and morbidity. Computers in biology and medicine 1-6 (2013). [Link](https://web.archive.org/web/20240810142443/http://www.sciencedirect.com/science/article/pii/S0010482513000371)
+
+18. Melia, U. S., Vallverdú, M., Clarià, F., Gallardo, J. J., Perera, A., & Caminal, P. Choi-Williams Distribution to Describe Coding and Non-coding Regions in Primary Transcript Pre-mRNA. *Journal of Medical and Biological Engineering*, *33*(5), 504-512 (2013). [Link](https://web.archive.org/web/20240810142443/http://140.116.84.13/index.php/bme/article/viewArticle/1967)
+
+19. R Schroeder, P Caminal, M Vallverdú, H Brunel, I Cygankiewicz, R Vázquez, de Luna A Bayés. A Long-term versus short-term heart rate variability analyses for risk stratification in ischemic heart failure patients. 
+Voss
+Biomedizinische Technik/Biomedical Engineering. (2012). [Link](https://web.archive.org/web/20240810142443/http://www.degruyter.com/view/j/bmte.2012.57.issue-s1-F/bmt-2012-4315/bmt-2012-4315.xml)
+
+20. Schroeder R., Caminal P., Vallverdu M., Brunel H., Cygankiewicz I., Vázquez R., Bayes A., Voss A. Long-term versus short-term heart rate variability analyses for risk stratification in ischemic heart failure patients. BMT 2012 Biomedical Technology / Biomedical Engineering (2012). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/22945015)
+
+21. Gomis P, Caminal P, Vallverdú M, Warren SG,  Stein PK and Wagner GS. Assessment of autonomic control of the heart during transient myocardial ischemia. Journal of Electrocardiology 45, 82-89 (2012). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/21982039)
+
+22. Magrans R, Gomis P, Caminal P, Wagner GS. Complexity of the autonomic heart rate control in coronary artery   occlusion in patients with and without prior myocardial infarction. Medical Engineering and Physics (2012). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/23201277)
+
+23. Valencia J.F., Vallverdú M., Porta A., Voss A., Vázquez R., Caminal P. Heart Rate Variability Analysis in Ischemic Cardiomyopathy and Aortic Stenosis Patients. Heart Rate Variability (HRV) Signal Analysis: Clinical Applications. Editors: Markad V. Kamath, Carlos A. Morillo, Adrian Upton, CRC Press. Chapter 17 (2012). [Link](https://web.archive.org/web/20240810142443/http://www.crcpress.com/product/isbn/9781439849804)
+
+24. Andreas Voss, Rico Schroeder, Pere Caminal, Montserrat Vallverdú, Helena Brunel, Iwona Cygankiewicz, Rafael Vázquez, Antoni Bayés de Luna. Segmented Symbolic Dynamics for Risk Stratification in Patients with Ischemic Heart Failure. Cardiovascular Engineering and Technology. 1(4), 290-298 (2012). [Link](https://web.archive.org/web/20240810142443/http://link.springer.com/article/10.1007%2Fs13239-010-0025-3#page-1)
+
+25. Clariá F, Vallverdú M, Riba J, Romero S, Barbanoj MJ, Caminal P. Characterization of the cerebral activity by time-frequency representation of evoked EEG potentials. Physiological Measurement 32, 1327-1346 (2011). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/21765206)
+
+26. Schroeder R., Caminal P, Vallverdu M., Helena B., Cygankiewicz I., Vázquez García R., Bayés de Luna A., Voss A. Indices of segmented symbolic dynamics as risk markers in ischemic heart failure patients. Biomedizinische Technik 1, 27-30 2011. [Link](https://web.archive.org/web/20240810142443/http://www.researchgate.net/publication/225485910_Segmented_Symbolic_Dynamics_for_Risk_Stratification_in_Patients_with_Ischemic_Heart_Failure/file/9fcfd51137d8f45628.pdf)
+
+27. Brunel, H.; Gallardo, J.; Buil, A.; Vallverdu, M.; Soria, J.; Caminal, P.; Perera, A. MISS: a non-linear methodology based on mutual information for genetic association studies in both population and sib-pairs analysis. Bioinformatics 26, 1811-1818 (2010). [Link](https://web.archive.org/web/20240810142443/http://bioinformatics.oxfordjournals.org/content/26/15/1811)
+
+28. Ziyatdinov, A.; Marco, S.; Chaudry, A.; Persaud, K.; Caminal, P.; Perera, A. Drift compensation of gas sensor array data by common principal component analysis. Sensors and Actuators B: Chemical 146, 460-465 (2010). [Link](https://web.archive.org/web/20240810142443/http://www.sciencedirect.com/science/article/pii/S0925400509008995)
+
+29. Maynou, J., Gallardo-Chacon, J.J., Vallverdu, M., Caminal, P. & Perera, A. Computational Detection of Transcription Factor Binding Sites Through Differential Rényi Entropy. IEEE Transactions on Information Theory 56, 734-741 (2010). [Link](https://web.archive.org/web/20240810142443/http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=05420289)
+
+30. Magrans R, Gomis P, Caminal P, Wagner G. Multifractal and nonlinear assessment of autonomous nervous system response during transient myocardial ischaemia. Physiological Measurement 31, 565-580 (2010). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/20228447)
+
+31. Caminal P, Giraldo BF, Vallverdú M, Benito S, Schroeder R, and Voss A. Symbolic dynamic analysis of relations between cardiac and breathing cycles in patients on weaning trials. Annals of Biomedical Engineering 38, 8 2542-2552 (2010). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/20405218)
+
+32. Garde A, Schroeder R, Voss A, Caminal P, Benito S, and Giraldo BF. Patients on weaning trials classified with support vector machines. Physiological measurement 31, 7 979-993 (2010). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/20551506)
+
+33. Voss A., Schroeder R., Caminal P., Vallverdú M., Brunel H., Cygankiewicz I., Vázquez R., Bayés A. Segmented symbolic dynamics for risk stratification in patients with ischemic heart failure. Cardiovascular Engineering and Technology 1, 4 290-298 (2010). [Link](https://web.archive.org/web/20240810142443/http://link.springer.com/article/10.1007%2Fs13239-010-0025-3)
+
+34. Clariá F, Vallverdú M, Riba J, Romero S, Barbanoj MJ, Caminal P. Characterization of the cerebral activity by time-frequency representation of evoked EEG potentials. Physiological Measurement 32, 1327-1346 (2010). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/21765206)
+
+35. Buil, A.; Martínez-Pérez, A.; Perera, A.; Rib, L.; Caminal, P.; Soria, J. A new gene-based association test for genome-wide association studies. The American Journal of Human Genetics 3, S130 (2009). [Link](https://web.archive.org/web/20240810142443/http://www.biomedcentral.com/1753-6561/3/S7/S130)
+
+36. Voss A., Schulz S., Scroeder R., Baumert M., Caminal P. Methods derived from nonlinear dynamics for analyzing heart rate variability. Philosophical Transactions A. Royal Society 367, 277-296 (2009). [Link](https://web.archive.org/web/20240810142443/http://rsta.royalsocietypublishing.org/content/367/1887/277.abstract)
+
+37. F.Valencia, A. Porta, M. Vallverdú, F. Clariá, R. Baranowski, E. Orlowska-Baranowska, P. Caminal. Refined multiscale entropy: Application to 24-h Holter recordings of heart period variability in healthy and aortic stenosis subjects. IEEE Trans. Biomedical Engineering 56, 9 2202-2213 (2009). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/19457745)
+
+38. JF.Valencia, M. Vallverdú, R. Schroeder, A. Voss, R. Vázquez, Bayés de Luna, P. Caminal. Complexity of the short-term heart-rate variability. Using entropy rates to improve risk stratification to predict cardiac mortality. IEEE-EMB Magazine 28, 6 72-78 (2009). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/19914891)
+
+39. Benítez R, Alvarez-Lacalle E, Echebarría B, Gomis P, Vallverdú M, Caminal P. Characterization of the nonlinear content of the heart rate dynamics during myocardial ischemia. Medical Engineering and Physics 31, 660-667 (2009). [Link](https://web.archive.org/web/20240810142443/http://www.sciencedirect.com/science/article/pii/S1350453309000319)
+
+40. Delgado E, Perera A, Vallverdú M, Caminal P, Castellanos G. Dimensionality reduction oriented toward the feature visualization for ischemia detection. IEEE Trans. Information Technology in Biomedicine 13, 4 590-598 (2009). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/19304491)
+
+41. Delgado-Trejos, E., Perera-Lluna, A., Vallverdu-Ferrer, M., Caminal-Magrans, P. & Castellanos-Dominguez, G. Dimensionality reduction oriented toward the feature visualization for ischemia detection. IEEE transactions on information technology in biomedicine a publication of the IEEE Engineering in Medicine and Biology Society 13, 590-598 (2009). [Link](https://web.archive.org/web/20240810142443/http://upcommons.upc.edu/e-prints/bitstream/2117/9713/1/04801963.pdf)
+
+42. Perera, A., Vallverdu, M., Claria, F., Soria, J.M. & Caminal, P. DNA binding site characterization by means of Rényi entropy measures on nucleotide transitions. IEEE Transactions on NanoBioscience 7, 133-141 (2008). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/18556261)
+
+43. Clariá F., Vallverdu M., Baranowski R., Cygankiewicz I., Caminal P. Heart rate variability analysis  based on time-frequency representation and entropies in hypertrophic cardiomyopathy patients. Physiological Measurement 29, 401-416 (2008). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/18367814)
+
+44. Cygankiewicz I, Zareba W, Vazquez R, Vallverdu M, Almendral J, Cinca J, Caminal P, Bayés A. Heart rate turbulence predicts all-cause mortality and sudden death in congestive heart failure patients. Heart Rhythm 8, 1095-1102 (2008). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/18675217)
+
+45. Buil, A.; Perera, A.; Souto, R.; Peralta, J.; Almasy, L.; Vallverdu, M.; Caminal, P.; Soria, J. Searching for master regulators of transcription in a human gene expression data set. BMC proceedings 1, S81 (2007). [Link](https://web.archive.org/web/20240810142443/http://www.biomedcentral.com/1753-6561/1/S1/S81)
+
+46. Jospin M., Caminal P., Jensen E.W., Litván H., Vallverdú M., Struys M., Vereecke H., Kaplan D. Detrended fluctuation analysis of EEG as a measure of depth of anesthesia. IEEE Transactions on Biomedical Engineering 54, 5 840-846 (2007). [Link](https://web.archive.org/web/20240810142443/http://b2slab.upc.edu/publications/2005-2009/Detrended%20fluctuation%20analysis%20of%20EEG%20as%20a%20measure%20of%20depth%20of%20anesthesia)
+
+47. Palacios M., Friedrich H., Götze C., Vallverdú M., Bayes de Luna A., Caminal P. and Hoyer D. Changes of autonomic information flow due to idiopathic dilated cardiomyopathy. Pysiological Measurement 28, 6 677-688 (2007). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/17664621)
+
+48. Hoyer D.,Frank B.,Götze C.,Stein P.,Zebrowski J.,Baranowski R.,Palacios M.,Vallverdú M.,Caminal P. Interactions between short-term and long-term cardiovascular control mechanisms. Chaos 17, 015110-1 a 015110-8 (2007). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/17411267)
+
+49. Buil, A.; Perera, A.; Brunel, H.; Souto, J.; Fontcuberta, J.; Vallverdu, M.; Soria, J.; Caminal, P. Gene-phenotype association using mutual information-based cluster analysis. Genetic epidemiology.31 – 6, 618 – 618.09 (2007). [Link](https://web.archive.org/web/20240810142443/http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1098-2272;jsessionid=15647B919F3730B7ECDD4673D8F5468A.d03t02)
+
+50. Baier V., Baumert M., Caminal P., Vallverdú M., Faber R., Voss A. Hidden Markov models based on symbolic dynamics for statistical modelling of cardiovascular control in hypertensive pregnancy disorders. IEEE Transactions on Biomedical Engineering 53, 1 140-143 (2006). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/16402614)
+
+51. Hoyer D.,Frank B.,Gözte C.,Schmidt H.,Baranowski R.,Zebrowski J.,Vallverdú M.,Caminal P.,Bayés A. Complex autonomic dysfunction in cardiovascular, intensive care, and schizophrenic patients assessed by autonomic information flow. Biomed. Tech 51, 3 182-185 (2006). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/17061934)
+
+52. Gomis, P.; Caminal, P.; Vallverdú, M.; Wagner. Análisis fractal del control autonómico del ritmo cardiaco durante oclusión coronaria. Revista Iberoamericana de Automática e Informática Industrial 3, 2 116-122 (2006). [Link](https://web.archive.org/web/20240810142443/http://dialnet.unirioja.es/servlet/articulo?codigo=2227923)
+
+53. Gomis, P.; Caminal, P.; Vallverdú, M.; Warren, S.; Wagner, G. Non-linear dynamic analysis of the cardiac rhythm during transient myocardial ischemia. Biomed Tech 51, 3 178-181 (2006). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/17061933)
+
+54. Truebner S., Cygankiewicz I., Scroeder R., Baumert M., Vallverdú M., Caminal P., Bayés A., Voss A. Compression entropy contributes to risk stratification in patients with cardiomyopathy. Biomed. Tech 51, 2 77-82 (2006). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/16915769)
+
+55. Cygankiewicz I., Zareba W., Vazquez R., Vallverdu M., Cino J., Cinca J., Almendral J., Gonzalez, Caminal P., Bayes de Luna A. Relation of Heart Rate Turbulence to Severity of Heart Failure. American Journal of Cardiology 98, 12 1635-1640 (2006). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/17145225)
+
+56. Caminal P., Vallverdú M., Giraldo B., Benito S., Voss A. Optimized symbolic dynamics approach for the analysis of the respiratory pattern. IEEE Transactions on Biomedical Engineering 52, 11 1832-1839 (2005). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/16285386)
+
+57. Carvajal R., Wessel N., Vallverdú M., Caminal P., Voss A. Correlation dimension analysis of heart rate variability in patients with dilated cardiomyopathy. Computer Methods and Programs in Biomedicine. 78 133-140 (2005). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/15848268)
+
+58. Alonso J.L., Martínez P., Vallverdú M., Cygankiewicz I., Caminal P., Bayés de Luna A. Dynamics of ventricular repolarization in patients with dilated cardiomyopathy versus healthy patients. Annals of Noninvasive Electrocardiology 10, 2 121-128 (2005). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/15842422)
+
+59. Caminal P., Mateu J., Vallverdú M., Giraldo B., Benito S., Voss A. Estimating the respiratory pattern variability by symbolic dynamics. Methods of Information in Medicine 43, 22-25 (2004). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/15026830)
+
+60. Caminal P., Domingo L., Giraldo B.F., Vallverdú M., Benito S., Vázquez G., Kaplan D. Variability análisis of the respiratory volume based on nonlinear prediction methods. Medical and Biological Engineering and Computing 42, 86-91 (2004). [Link](https://web.archive.org/web/20240810142443/http://link.springer.com/article/10.1007%2FBF02351015)
+
+61. Pueyo E., P. Smetana, P. Caminal, A. Bayés, M. Malik, P. Laguna. Characterization of QT interval adapatation to RR interval changes and its use as a risk stratifier of arrhythmic mortality in amiodarone-treated survivors of acute myocardial infarction. IEEE Transactions on Biomedical Engineering 51, 9 1511-1520 (2004). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/15376499)
+
+62. Mañanas MA, R. Jané, J.A. Fiz, J. Morera, P. Caminal. Influence of the estimators on the spectral density on the analysis of electromyographic and vibromyographic signals. Medical & Biological Engineering & Computing 40, 90-98 (2002). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/11954714)
+
+63. Litvan H., E. Jensen, J. Galán, S. Henneberg, B.E. Rodríguez, P. Caminal, J.M. Villar. Comparison of conventional averaged and rapid averages, autoregressive-based extracted auditory evoked potentials for monitoring the hypnotic level during propofol induction. Anaesthesiology 97,  351-358 (2002). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/12151924)
+
+64. Carvajal R., Zebrowski J.J., Vallverdú M., Baranowski R., Poplawska W., Caminal P. Dimensional analysis of heart rate variability in hypertrophic cardomyopathy patients. IEEE Engineering in Medicine and Biology Magazine 21, 71-78 (2002). [Link](https://web.archive.org/web/20240810142443/http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1032644)
+
+65. Clariá F., Vallverdú M., Caminal P. Analysis of the RR signal by time-frequency representation: Effects of the myocardial Ischemia location. IEEE Engineering in Medicine and Biology Magazine 21, 59-64 (2002)
+
+66. Litvan H., E. Jensen, M. Revuelta, S. Henneberg, P. Martínez, P. Caminal, J.M. Villar. Comparison of auditory evoked potentials and the A-line ARX Index for monitoring the hypnotic level during sevoflurane and propofol induction. Acta Anaesthesiol. Scand 97, 351-358 (2002). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/11939913)
+
+67. Mañanas M.A., J.A. Fiz, J. Morera, P. Caminal. Analyzing dynamic EMG and VMG signals of respiratory muscles. IEEE Engineering in Medicine and Biology Magazine 6, 125-132 (2001). [Link](https://web.archive.org/web/20240810142443/http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=982284)
+
+68. Clariá F., Vallverdú M., Baranowski R., Chojnowska L., Caminal P. Time-Frequency analysis of the RR and RT variability to stratify hipertrophic cardiomyopathy patients. Computers and Biomedical Research 33, 416-430 (2000). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/11150235)
+
+69. Mañanas M.A., R. Jané, J.A. Fiz, J. Morera, P. Caminal. Study of myographic signals from sternomastoid muscle in patients with chronic obstructive pulmonary disease. IEEE Transactions on Biomedical Engineering 47, 674-681 (2000). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/10851811)
+
+70. Fiz J.A., R. Jané, D. Salvatella, J. Izquierdo, L. Lores, P. Caminal, J. Morera. Analysis of tracheal sounds during forced exhalation in asthma patients and normal subjects. Bronchodilator response effect. Chest 633-638 (1999). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/10492264)
+
+71. E. Jensen, A. Nebot, P. Caminal, S. Henneberg. Identification of causal relations between haemodynamic variables, auditory evoked potentials and isoflurane by means of fuzzy logic. Acta Anaesthesiol. Scand 82, 25-32 (1999). [Link](https://web.archive.org/web/20240810142443/http://bja.oxfordjournals.org/content/82/1/25)
+
+72. Lang E., Caminal P., Horváth G., Jané R., Vallverdú M., Slezsák I., Bayes de Luna A. Spectral analysis of heart period variance (HPV) – a tool to stratify risk following myocardial infarction. Journal of Medical Engineering & Technology 22, 248-256 (1998). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/9884927)
+
+73. Lander P., P. Gomis, R. Goyal, R. Berbari, P. Caminal, R. Lazzara, J. Steinberg. Analysis of Abnormal intra-QRS Late Potentials: Improved Predictive Value for Arrhythmic Events using the Signal-Averaged Electrocardiogram. Circulation 95, 1386-1393. [Link](https://web.archive.org/web/20240810142443/https://circ.ahajournals.org/content/95/6/1386.full)
+
+74. Homs E., V. Martí, J. Guindo, P. Laguna, X. Viñolas, P. Caminal, R. Elosua, A. Bayés de Luna. Automatic measurement of corrected QT-interval in holter recordings: comparison of its dynamic behavior in patients after myocardial infarction with and without life-threatening arrythmias. American Heart Journal 134, 181-187 (1997). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/9313595)
+
+75. Gomis P., D.L. Jones, P. Caminal, E. Berbari, P. Lander. Analysis of abnormal signals within the QRS complex of the high resolution electrocardiogram. IEEE Trans. on Biomedical Engineering 44, 681-693 (1997). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/9254982)
+
+76. Fiz J.A., J. Abad, R. Jané, M. Riera, M.A. Mañanas, P. Caminal, D. Rodenstein, J. Morera. Acoustic analysis of snoring sound in patients with simple snoring and obstructive sleep apnea. European Respiratory Journal 9, 2365-2370 (1996). [Link](https://web.archive.org/web/20240810142443/http://www.ersj.org.uk/content/9/11/2365.full.pdf)
+
+77. Laguna P., R. Jané, E. Masgrau,  P. Caminal. The Adaptive Linear Combiner with a Periodic-Impulse Reference Input as a Linear Comb Filter. Signal Processing 48, 193-203 (1996). [Link](https://web.archive.org/web/20240810142443/http://www.sciencedirect.com/science/article/pii/0165168495001352)
+
+78. Laguna P., R. Jané, S. Olmos, N. V. Thakor, H. Rix,  P. Caminal. Adaptive estimation of QRS complex wave features by the Hermite model. Medical and Biological Engineering and Computing 34, 58-68 (1996). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/8857313)
+
+79. Laguna P., G. B. Moody, R. Jané, P. Caminal, R. G. Mark. Karhunen-Loeve Transform as a Tool to Analyze the ST Segment: Comparison with QT Interval. Journal of Electrocardiol 28, 41-49 (1995). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/8656127)
+
+80. Gramatikov B., S. Yi-chun, H. Rix, P. Caminal, N. Thakor. Multiresolution wavelet analysis of the body surface ECG before and after angioplasty. Annals of Biomedical Engineering 23, 553-561 (1995). [Link](https://web.archive.org/web/20240810142443/http://www.ncbi.nlm.nih.gov/pubmed/7503458)
+
+You can also find my papers at some conferences in my google scholar website.
+
+## Thesis
+
+I have advised the following PhD thesis:
+
+1.  Nuevas técnicas en el análisis de la señal electrocardiográfica: Aplicación al ECG de alta resolución, Raimon Jané, Universitat Politècnica de Catalunya, 1989
+
+2.  Nuevas técnicas de procesado de señales electrocardiográficas: Aplicación a registros de larga duración, Pablo Laguna, Universitat Politècnica de Catalunya, 1990
+
+3.  Modelado y simulación del sistema de control cardiovascular en pacientes con lesiones coronarias, Montserrat Vallverdú, Universitat Politècnica de Catalunya, 1993
+
+4.  Contribución al diagnóstico automático de arrítmias cardíacas basado en el código Minnesota, Beatriz Giraldo, Universitat Politècnica de Catalunya, 1996
+
+5.  Caracterización de potenciales tardíos intra-QRS en el ECG de alta resolución: Aplicación a la identificación de cardiopatías, Pedro Gomis, Universitat Politècnica de Catalunya, 1996
+
+6.  Contribución al estudio de la variabilidad del ritmo cardíaco como marcador de riesgo de muerte súbita, Francisco Clariá, Universitat Politècnica de Catalunya, 1997
+
+7.  Análisis de la actividad muscular respiratoria mediante técnicas temporales, frecuenciales y estadísticas, Miguel Angel Mañanas, Universitat Politècnica de Catalunya, 1999
+
+8.  Análisis de complejidad del sistema respiratorio para la ayuda al diagnóstico de patologías, Carlos González Obregón, Universitat Politècnica de Catalunya, 2002

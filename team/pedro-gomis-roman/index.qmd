@@ -1,0 +1,204 @@
+---
+title: "Pedro Gomis Roman"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+## Bio
+
+::: img-float
+![](images/pedro.jpg){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+I am Pedro Gomis Roman, a Biomedical Engineer working with B2SLab at the Universitat Politecnica de Catalunya-Barcelona Tech (UPC). Actually, I work as researcher at the Institut de Recerca i Innovació en Salut (IRIS) and as Associated Professor of Informatics and Biomedical Engineering at Automatic Control Department (ESAII) of UPC. I was Full Professor at the University Simon Bolivar (USB), Venezuela, until 2002. Since 1984 I have worked with the Bioengineering and Biophysics Applied Group (GBBA) at the same University where I taught Biomedical Signals and Systems in post-graduated programs. My research work has also been done at the St. Bartholomew’s Hospital College, University of London, U.K. and University of Oklahoma Health Sciences Center, USA.
+
+At B2SLab, we are applying Bioinformatics and Bioengineering, mainly towards cardiovascular research. Our main focus, however, is applied signal processing, machine learning and statistical pattern recognition as diagnostic and monitoring tools in clinical applications.
+
+## Teaching
+
+I teach at UPC, at the [Master in Biomedical Engineering](http://www.ub.edu/estudis/en/mastersuniversitaris/engbiomedica/introduction "Master in Biomedical Engineering"), where I impart [Modelling and Simulation of Biomedical Systems](http://www.ub.edu/grad/plae/AccesInformePDInfes?curs=2017&assig=571483&ens=M010F&recurs=pladocent&n2=1&idioma=ENG); and at the [Degree of Biomedical Engineering](http://www.euetib.upc.edu/els-estudis/estudis-de-grau/grau-en-enginyeria-biomedica/index "Grado Ingenieria Biomedica"), where I teach [Informatics](http://www.upc.edu/estudispdf/guia_docent.php?codi=820006&lang=en "Informatics"), [Biomedical Signal Processing](http://www.upc.edu/estudispdf/guia_docent.php?codi=820027&lang=en), [Clinical Engineering,](http://www.upc.edu/estudispdf/guia_docent.php?codi=820024&lang=en "Clinical Engineering") [Modelling and Control of Biomedical Systems](http://www.upc.edu/estudispdf/guia_docent.php?codi=820039&lang=en "Modelling and Control of Biomedical Systems") and [Information Systems and Communications for Health Services](http://www.upc.edu/estudispdf/guia_docent.php?codi=820031&lang=en).
+
+I have also been writing some material for several classes, please check the following:
+
+-   [Programming Tools in Python (spanish) – slides](http://b2slab.upc.edu/software-and-tutorials/programming-tools-in-python/)
+
+-   [Fundamentos de Programación en Python (spanish)](https://drive.google.com/open?id=1YHBtAdqkbItGosWU_M1yTWCaIhc0Zbch) – book
+
+-   [Estimación Espectral de Señales Biomédicas. Métodos Clásicos y Paramétricos: Aplicaciones Prácticas con MATLAB. Tutorial (spanish)](https://www.researchgate.net/publication/239604884_Estimacion_Espectral_de_Senales_Biomedicas_Metodos_clasicos_FFT_y_Parametricos_Aplicaciones_Practicas_con_Matlab_Tutorial "Tutorial estimacion espectral de potencia señales biomedicas")
+
+-   [Power spectral density Tutorial – matlab/octave files](https://www.researchgate.net/publication/259085960_Tutorial_PSD_m-files "PSD tutorial in Matlab (files)")
+
+### Patents
+
+1.  Paul Lander, Pedro Gomis,“[Detecting Abnormal Activation of Heart](http://www.google.com/patents/US5891047)”, *United States Patent No. 5.891.047, Filed March, 14^th^ 1997. (disponible en* [http://www.uspto.gov](http://www.uspto.gov/)*)*
+
+2.  European patent No. 98301918.3-2305 del 07-05-97. Issued: April, 6th, 1999. http://www.patentstorm.us/patents/5891047-description.html
+
+## Publications in journals
+
+A possibly incomplete and malformatted list of publications is included below:
+
+```{r}
+cache_file <- "../../doi_cache.json"
+source("../../R/getpapers.R")
+# Define the RIS file URL
+ris_url <- "https://futur.upc.edu/RIS/PedroGomisRoman/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=en"
+```
+
+```{r}
+#| output: asis
+paperstohtmlnodiv(ris_url)
+```
+
+### Book Chapters
+
+1.  Mireia Calvo, Virginie Le Rolle, Daniel Romero, Nathalie Béhar, Pedro Gomis, Philippe Mabo, Alfredo Hernández. Chap 7b: Gender differences in the autonomic response to exercise testing in Brugada syndrome.   In book: Sex-Specific Analysis of Cardiovascular Function (Advances in Experimental Medicine and Biology). 1st edition, Publisher: Springer International Publishing. Editors: Peter Kerkhof, Virginia Miller. ISBN-13: 978-3319779317, ISBN-10: 3319779311, July **2018**.
+
+2.  Castro N., Gomis P., Wagner G. “Caracterización de Isquemia de Miocardio con Técnicas Electrocardiográficas durante obstrucción coronaria”. En: “Avances en Ingeniería Biomédica”. Diego Jugo, Rubén Medina, Rubén Rojas (editores). ISBN: 980-11-0777-4. Mérida, Junio 2004. pp. 333-340, **2004**.
+
+3.  Gomis P, Bravo R, Passariello G, Mora F. “Técnicas de Electrocardiografía de Alta Resolución: Aplicación al Estudio de Miocarditis de Chagas”, en: C.M. Müller-Karger y M. Cerrolaza (eds), “Bioingeniería en Iberoamérica: Avances y Desarrollo”. Centro Internacional de Métodos Numéricos en Ingeniería (CIMNE), ISBN: 84-95999-42-0, Barcelona, España, pp. 131-158, **2003**.
+
+4.  Suárez K, Gomis P, Passariello G, Mendoza I, “Análisis espectro-temporal de los potenciales tardíos ventriculares asociados con la miocarditis chagásica en señales electrocardiográficas de alta resolución”, en: V. Barrios, G. Montilla, M Cerrolaza (eds), “Avances Recientes en Bioingeniería. Investigación y Tecnología Aplicada”, *Sociedad Venezolana de Métodos Numéricos*, Caracas, Venezuela, pp. TS 85-90, **1997**.
+
+5.  Gomis P, Lander P, Caminal P, “[Parametric linear and non-linear modeling techniques for estimating abnormal intra-QRS potentials in the high resolution ECG](http://library.witpress.com/pages/PaperInfo.asp?PaperID=8709)“. en: M Cerrolaza, D Jugo, C Brebbia (eds), “Simulation Modeling in Bioengineering”, *Computational Mechanics Publications*, Southampton, U.K., pp. 271-280, **1996**.
+
+### Conference Papers (Peer reviewed)
+
+1.  Flavio Palmieri, P Gomis, José Esteban Ruiz, Dina Ferreira, Esther Pueyo, Juan Pablo Martínez, Pablo Laguna, Julia Ramírez. **(2021)**“Time-Warping” Ponderado Sobre la Onda T Para Reducir el Impacto de Errores de Delineación: Implicaciones Clínicas”. En CASEIB 2021: XXXIX Congreso Anual de la Sociedad Española de Ingeniería Biomédica, 25-26 de noviembre de 2021: libro de actas. Sociedad Española de Ingeniería Biomédica (SEIB), 2021. p. xxx. ISBN: 978-84-09-25491-0
+
+2.  Flavio Palmieri, P Gomis, José Esteban Ruiz, Dina Ferreira, Esther Pueyo, Juan Pablo Martínez, Pablo Laguna, Julia Ramírez. **(2021)**“Weighted Time Warping T-wave Analysis Robust to Delineation Errors: Clinical Implications”. Computing in Cardiology; Vol 48; pp. 1-4. ISSN: 2325-887X DOI: 10.22489/CinC.2021.
+
+3.  Perez Trenard, Andres Oswaldo, Andrea Fernandez-Valledor, Paloma Jorda, Ariana Doreste, Pedro Gomis, Mireia Calvo, Elena Arbelo**(2021).** B-PO02-162. Electrocardiographic Markers’ Automatic Detection and Analysis for Risk Stratification in Brugada Syndrome. Heart Rhythm, 18(8), S164. DOI: [https://doi.org/10.1016/j.hrthm.2021.06.415](https://doi.org/10.1016/j.hrthm.2021.06.415)
+
+4.  F. Palmieri, P. Gomis, J.E. Ruiz, D. Ferreira, A. Martín-Yebra, E. Pueyo, P. Laguna, J.P. Martínez, J. Ramírez (**2020**). “[Potassium Monitoring From Multilead T-wave Morphology Changes During Hemodyalisis: Periodic Versus Principal Component Analysis](http://www.cinc.org/archives/2020/pdf/CinC2020-199.pdf)”, Computing in Cardiology; Vol 47; pp. 1-4. ISSN: 2325-887X DOI: 10.22489/CinC.2020.199.
+
+5.  Flavio Palmieri, P Gomis, José Esteban Ruiz, Dina Ferreira, Alba Martín-Yebra, Esther Pueyo, Pablo Laguna, Juan Pablo Martínez, Julia Ramírez. (**2020**) “[Monitorización en diálisis de la Concentración de Potasio en Sangre mediante los cambios en la morfología multi-lead de la onda T: Comparación Entre usar la transformación en Componentes Periódicas y Principales](https://upcommons.upc.edu/bitstream/handle/2117/338297/CASEIB2020_FlavioPalmieri.pdf?sequence=1)”. En CASEIB 2020: XXXVIII Congreso Anual de la Sociedad Española de Ingeniería Biomédica, 25-27 de noviembre de 2020: libro de actas. Sociedad Española de Ingeniería Biomédica (SEIB), 2020. p. 434-437. ISBN: 978-84-09-25491-0
+
+6.  Calvo-González Mireia, Paloma Jorda, Andrea Fernández-Valledor, María Alcover Mas, Josep Brugada, Pedro Gomis y Elena Arbelo Laínez (**2019**). Variabilidad y Complejidad de la Frecuencia Cardiaca Nocturna en Pacientes con Síndrome de Brugada. SEC 2019 – El Congreso de las Enfermedades Cardiovasculares, Barcelona 17 a 19 de octubre 2019. Rev Esp Cardiol. 2019;72(Supl 1):600
+
+7.  Calvo, Mireia, Virginie Le Rolle, Daniel Romero, Nathalie Béhar, Pedro Gomis, Philippe Mabo,Alfredo Hernández (**2019**). [Multivariate Classification of Brugada Syndrome Patients Based on theAutonomic Response During Sleep](http://www.cinc.org/archives/2019/pdf/CinC2019-352.pdf), Exercise and Head-up Tilt Testing. Computing in Cardiology 2019; Vol 46 (ISSN: 2325-887X) DOI: 10.22489/CinC.2019.352
+
+8.  Flavio Palmieri, Pedro Gomis, Dina Ferreira, José Esteban Ruiz, Beatriz Bergasa, Alba Martín-Yebra, Hassaan A. Bukhari, Esther Pueyo, Juan Pablo Martínez, Julia Ramírez, Pablo Laguna (**2019**). [T-Wave Morphology Changes as Surrogate for Blood Potassium Concentration in Hemodialysis Patients](http://www.cinc.org/archives/2019/pdf/CinC2019-109.pdf). Computing in Cardiology 2019; Vol 46 (ISSN: 2325-887X) DOI: 10.22489/CinC.2019.109
+
+9.  Miguel Vizcardo, Antonio Ravelo, Miriam Manrique, Pedro Gomis (**2019**). [Application of the Entropy of Approximation for the nonlinear characterizationin patients with Chagas Disease](http://www.cinc.org/archives/2019/pdf/CinC2019-112.pdf). Computing in Cardiology 2019; Vol 46 (ISSN: 2325-887X) DOI: 10.22489/CinC.2019.112
+
+10. F. Palmieri, P. Gomis, D. Ferreira, J.E. Ruiz, B. Bergasa, A. Martín-Yebra, H.A. Bukhari, E. Pueyo, J.P. Martínez, J. Ramírez, P. Laguna (**2019**) [Estudio de los Cambios en la Morfología de las Ondas T como Sustituto de la Concentración de Potasio en Sangre en Pacientes de Hemodiálisis](http://diec.unizar.es/~laguna/personal/publicaciones/CASEIB2019_FlavioPalmieri.pdf) XXXVII Congreso de la Sociedad Española de Ingeniería Biomédica CASEIB. Santander, España. pp. 291–294.
+
+11. Mireia Calvo, Virginie Le Rolle, Daniel Romero Pérez, Nathalie Béhar, Pedro Gomis, Philippe Mabo, Alfredo I Hernández (**2018**). Global Sensitivity Analysis of a Cardiovascular Model for the Study of the Autonomic Response to Head-up Tilt Testing Conference: 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society.
+
+12. Pedro Gomis, Eduard Guasch, Alexandre Perera, Lluis Mont, Pere Caminal (**2018**). [Analysis of ECG in Athletes Running in Mountain Route Conditions](http://www.cinc.org/archives/2018/pdf/CinC2018-382.pdf). Computing in Cardiology 2018; Vol 45, ISSN: 2325-887X DOI: 10.22489/CinC.2018.382
+
+13. Pedro Gomis, Jesús Ávarez-García, Pere Caminal, Juan Cinca (**2017**). [Analysis of Heart Rate Variability Indices after Selective Acute Atrial Ischemia in Humans](http://www.cinc.org/archives/2017/pdf/149-339.pdf). Computing in Cardiology 2017; Vol 44
+
+14. Mireia Calvo, Virginie Le Rolle, Daniel Romero, Nathalie Béhar, Pedro Gomis, Philippe Mabo, Alfredo Hernández (**2017**). [Time-frequency Analysis of the Autonomic Response to Head-up Tilt Testing in Brugada Syndrome](http://www.cinc.org/archives/2017/pdf/204-288.pdf). Computing in Cardiology 2017; Vol 44.
+
+15. Mireia Calvo, Virginie Le Rolle, Daniel Romero, Nathalie Béhar, Pedro Gomis, Philippe Mabo, Alfredo Hernández. [Recursive model identification for the evaluation of the autonomic response to exercise in Brugada syndrome](http://iccb2017.bmbi.utc.fr/files/ICCB2017AbstractsBook.pdf). VII International Conference on Computational Bioengineering (ICCB 2017), Université de Technologie de Compiègne (Compiègne, France) 6-8 September **2017**
+
+16. Mireia Calvo, Virginie Le Rolle, Daniel Romero, Nathalie Béhar, Pedro Gomis, Philippe Mabo, Alfredo Hernández (**2017**). [Model-based approach for the study of the autonomic response in Brugada syndrome patients](http://www-math.sp2mi.univ-poitiers.fr/SFBT2017/fr/Resumes.pdf). 37ème Colloque de la Société Francophone de Biologie Théorique, Poitiers, 26 – 29 Junio 2017.
+
+17. Mireia Calvo, Jaime Hernández, Silvia Vidorreta, Josep Brugada, Pedro Gomis, Elena Arbelo (**2017**). [Automatic Brugada pattern detection on continuous electrocardiographic monitoring](https://academic.oup.com/europace/article-abstract/19/suppl_3/iii347/3873287?redirectedFrom=fulltext). *EP Europace*, Volume 19, Issue suppl_3, 1 June 2017, Pages iii347.
+
+18. Rudys Magrans, Pedro Gomis, Pere Caminal. [Myocardial ischemia events detection based on support vector machines using QRS and ST features](http://www.cinc.org/archives/2016/pdf/117-295.pdf). Computing in Cardiology 2016. Vol 43, **2016**.
+
+19. Mireia Calvo, Virginie Le Rolle, Daniel Romero, Nathalie Béhar, Pedro Gomis, Philippe Mabo, Alfredo Hernández. [Analysis of a Cardiovascular Model for the Study of the Autonomic Response of Brugada syndrome patients](https://upcommons.upc.edu/handle/2117/99623). *38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society* (EMBC’16), Orlando, FL, USA. pp. 5591-5594, **2016**.
+
+20. Mireia Calvo, Virginie Le Rolle, Daniel Romero, Nathalie Béhar, Pedro Gomis, Philippe Mabo, Alfredo Hernández. [Comparison of Methods to Measure Baroreflex Sensitivity in Brugada Syndrome](http://www.cinc.org/archives/2015/pdf/0245.pdf?f603ce&f603ce). Computing in Cardiology 2015; 42:245-248. (ISSN 2325-8861), **2015**.
+
+21. Mireia Calvo, Pedro Gomis, Alfredo Hernández, D. Andreu, Elena Arbelo, Pere Caminal. [Automatic detection of Brugada-like pattern on continuous electrocardiographic monitoring](https://www.researchgate.net/publication/282868749_Automatic_detection_of_Brugada-like_pattern_on_continuous_electrocardiographic_monitoring). IV International Conference on Computational Bioengineering ICCB 2015, 14-16 Sept, 2015, Barcelona, p. 138, **2015**.
+
+22. Pedro Gomis, Pere Caminal. [Low level and high frequency fragmentation of the QRS changes during acute myocardial ischemia in patients with and without prior myocardial infarction](http://cinc.org/archives/2014/pdf/0401.pdf). Computing in Cardiology 2014; 41:401-404, **2014**.
+
+23. Mireia Calvo-González, Pedro Gomis-Román, D. Andreu-Caballero, P. Caminal-Magrans, Elena. Arbelo-Lainez. [Análisis del ECG para la detección automática del patrón característico del síndrome de Brugada](https://www.researchgate.net/publication/269572501_Analisis_del_ECG_para_la_deteccion_automatica_del_patron_caracteristico_del_sindrome_de_Brugada). Libro de Actas del CASEIB2014. XXXII Congreso Anual de la SEIB. 26-28 de Noviembre de 2014, Barcelona, p 768, 2014.
+
+24. Rudys Magrans, Pedro Gomis, Pere Caminal, Andreas Voss. “[Higuchi’s Fractal Complexity of RR and QT Interval Series during Transient Myocardial Ischemia](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6713403&tag=1)”. Computers in Cardiology 2013, IEEE Computer Society Press, vol 40, pp. 421-424, 2013.
+
+25. Anna V Cuponne, Montserrat Vallverdú, Pedro Gomis, Alberto Porta, Andreas Voss, Antonio Bayés de Luna, Pere Caminal. “[Symbolic Dynamics of QT Interval Series in Ischemic Cardiomyopathy](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6420469)”. Computers in Cardiology 2012, IEEE Computer Society Press, vol. 39, pp 617-620, 2012.
+
+26. Rudys Magrans, Pedro Gomis*,* Andreas Voss,Pere Caminal, (2011) “[Effect of acute myocardial ischemia on different high-frequency bandwidths and temporal regions of the QRS](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6091790)”. *Proceedings of 33rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC ’11), Boston, August 30^th^– 3^rd^ September, pp. 7083-7086.*
+
+27. Magrans, R.; Gomis, P.; Caminal, P.; Wagner, G. (2010)[ Cambios en las componentes de alta frecuencia del QRS durante isquemia de miocardio inducida](http://scholar.google.es/scholar?oi=bibs&hl=en&cluster=14040669527010117863&btnI=Lucky), XXVIII Congreso Anual de la Sociedad Española de Ingeniería Biomédica (CASEIB 2010),pp. PSBV 1-4
+
+28. Rudys Magrans, Pedro Gomis*,* Pere Caminaland Galen Wagner, (2009) “[Multifractal Characterization of the Autonomous Nervous System during Prolonged Coronary Artery Occlusion](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5333930)”. *Proceedings of 31th Annual International Conference IEEE EMBS, (31st Annual International Conference of the IEEE EMBS Minneapolis, Minnesota, USA, September 2-6, 2009), p. 1808-1811. (ISBN: 978-1-4244-3296-7, ISSN:1557-170X)*
+
+29. J.F. Valencia, M. Vallverdú, P. Gomis, P. Caminal, G Wagner (2009) [“Análisis de la información multiescala del sistema nervioso autónomo durante isquemia miocárdica](https://www.researchgate.net/publication/239540611_Analisis_de_la_informacion_multiescala_del_sistema_nervioso_autonomo_durante_isquemia_miocardica)”. *XXX Jornadas de Automática (Valladolid 2 al 4 de Septiembre, 2009)* ISBN 13-978-84-692-2387-1 , p 73.
+
+30. J Dumont, G Carrault, P Gomis, GS Wagner, AI Hernández (2009) “[Detection of Myocardial Ischemia with Hidden Semi-Markovian models](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5445454)”. *Computers in Cardiology, IEEE Computer Society Press (ISSN 0276-6574)*, (Park City, Utah September 13-16, 2009). Ed. Alan Murray, Vol. 36, pp. 121-124.
+
+31. R Magrans, P Gomis, P Caminal, G Wagner (2009) “[Multifractal Properties of the Heart Rate Dynamics during Acute Myocardial Ischemia](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5445380)”. *Computers in Cardiology, IEEE Computer Society Press (ISSN 0276-6574)*, (Park City, Utah September 13-16, 2009). Ed. Alan Murray, Vol. 36, pp. 417-420.
+
+32. Jérôme Dumont, Alfredo Hernandez, Pedro Gomis, Guy Carrault (2009) “[Classification de séries temporelles par modèles markoviens cachés, application à l’ischémie myocardique](http://documents.irevues.inist.fr/handle/2042/28932)”. XXII colloque GRETSI sur le Traitement du Signal et des Images (Dijon, Francia, 8 – Septiembre, 2009),
+
+33. R Magrans, P Gomis, P Caminal, G Wagner (2009) “Análisis de complejidad multifractal de la dinámica del ritmo cardiaco asociada a isquemia de miocardio”. *Actas del XXVII Congreso Anual de la Sociedad Española de Bioingeniería (CASEIB 2009) (ISBN 978-84-608-0990-6)*, CDROM, pp. 521-524.
+
+34. F. Ng, S. Wong, P. Gomis, J. Lim, G. Passariello, M. Ansermino (2008) “[Probabilistic Assessment of Autonomic Nervous System fluctuations during Tilt Table Tests](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4650260)”. *Proceedings of 30th Annual International Conference IEEE EMBS, Vancouver, BA, Canada.* IEEE, p. 4692-4695.
+
+35. F. Ng, S. Wong, P. Gomis, J. Lim, G. Passariello, M. Ansermino (2008) “[Probability Trends in the Assessment of Cardiovascular Autonomic Fluctuations during Cold Pressor Tests](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4749208)”. *Computers in Cardiology, IEEE Computer Society Press (ISSN 0276-6574), Ed. Alan Murray,* Vol. 35, pp. 981-984.
+
+36. R. Magrans, P. Gomis, P. Caminal, G. Wagner (2008), “Caracterización de la dinámica multifractal del sistema nervioso autónomo relacionada con isquemia de miocardio inducida”. *Actas del XXVI Congreso Anual de la Sociedad Española de Ingeniería Biomédica (CASEIB 2008) (ISBN 978-84-691-3640-9)*, CDROM, pp. 529-532.
+
+37. Pérez-Poch, S. Tornil, G. Escudero, S. Kanaan, P. Gomis (2008), “Innovaciones docentes con introducción de portfolio en una asignatura de fundamentos de programación en ingeniería industrial”, *Octava Jornada sobre Aprendizaje Cooperativo*, Lleida, España. (ISBN 978-84-691-4605-7). Pp. 91-96. (http://www.greidi.uva.es/JAC08-JID08/index.html#)
+
+38. G. Escudero, S. Tornil, P. Gomis, A. Pérez-Poch, S. Kanaan, (2008), “[Innovaciones docentes en un proceso de mejora continua para una asignatura de fundamentos de programación en ingeniería industrial](http://scholar.google.es/scholar?oi=bibs&hl=en&cluster=11865420906906888260&btnI=Lucky)”, *XIV Jornadas de Enseñanza Universitaria de la Informática (JENUI 2008),* Granada, España. (ISBN 978-84-612-4675-1), pp. 385-392.
+
+39. JF Valencia, M Vallverdú, P Gomis, G Wagner, P Caminal (2007). “[Multiscale Information Analysis of the Autonomous Nervous System during Myocardial Ischemia](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4745554)”. *Computers in Cardiology, IEEE Computer Society Press (ISSN 0276-6547), Ed. Alan Murray,* Vol. 34, pp. 589-592.
+
+40. F Ng, S Wong, A La Cruz, AI Hernández, P Gomis, G Passariello (2007). [Heart Rate Recovery in the Diagnosis of Diabetic Cardiovascular Autonomic Neuropathy. *Computers in Cardiology*](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4745577)*, IEEE Computer Society Press (ISSN 0276-6547), Ed. Alan Murray,* Vol. 34,, pp. 681-684.
+
+41. R. Magrans, P. Gomis, P. Caminal, G. Wagner (2007), “Análisis multifractal de señales RR en isquemia producida por oclusión coronaria”. *Actas del XXV Congreso Anual de la Sociedad Española de Ingeniería Biomédica, CASEIB 2007 (ISBN 84-612-0370-3)*, vol. 25, pp. 164-167.
+
+42. Gomis P, Wong S, Ng F, Wagner G (2006). “[Autonomic Nervous System Response during Coronary Occlusion Evaluated with Multiple Factor Analysis of Standard and Fractal Indexes](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4511931)”. *Computers in Cardiology, IEEE Computer Society Press (ISSN,0276-6574),* Vol. 33, pp. 633-636.
+
+43. Gomis P., Escudero G. (2006) **“**Una aproximación a la Informática Industrial para la Ingenieria Química”. XII *Jornadas de Enseñanza Universitaria de la Informática* (JENUI 2006). Thomson (ISBN 84-9732-545-1), 2006, p. 271-278
+
+44. Castro N, Medina E, Gomis P, Wong S, Wagner GS (2005) “[Multiple Factor Analysis of the Autonomous Nervous System during PTCA](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1616570)”. *Proceedings of 27th Annual International Conference IEEE EMBS, Shangai, p. 2054*
+
+45. Merino M, Gomis P, Caminal P, Wagner, G (2004) “Evaluación mediante wavelets de la energía de alta frecuencia durante despolarización ventricular en isquemia de miocardio”. *Actas del XXII Congreso Anual de la Sociedad Española de Bioingeniería, CASEIB 2004*, vol. 22, pp. 229-232. ISBN: 84-688-9318-8, Dep. Legal: C-2556-2004.
+
+46. Gomis P, Caminal P, Vallverdú M, Wagner, G (2004) “Análisis fractal del Sistema de Control Cardiaco durante isquemia de miocardio”. *Actas de las XXV Jornadas de Automática*, vol. 25, trab. 95. CD: J.A. Somolinos, ISBN 84-688-2004, Dep. Legal: CR-388-2004.http://www.cea-ifac.es/actividades/jornadasXXV.htm
+
+47. Castro, N, Gomis, P, Wagner G (2003) “[Assessment of Myocardial Ischemia through High Frequency Energy Estimation over the Time-Frequency Plane using Wavelets](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1291206)”. *Computers in Cardiology, IEEE Computer Society Press,* Vol 30, pp. 517- 520.
+
+48. Gomis P, Cardellach E, Vallverdú M y Caminal P. (2003) “Análisis de la dinámica no lineal del ritmo cardiaco durante oclusión Arterial en angioplastia coronaria”. *Actas del XXI Congreso Anual de la Sociedad Española de Bioingeniería, CASEIB 2003*, vol. 21, pp. 279-282.
+
+49. Gomis, P, Ng, F, Lander, P, Gates, K, Wagner, W (2001) “[Dynamical Behavior Of Intra-QRS Potentials During Induced Myocardial Ischemia](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=977592)”. *Computers in Cardiology, IEEE Computer Society Press,* Vol 28, pp 65-68.
+
+50. Prado, R, García, I, Gomis, P (2001) “[Classification of Chagasic Patients with Wavelet Based Bayesian Models of High Resolution ECG](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=977702)”. *Computers in Cardiology, IEEE Computer Society Press,* Vol 28, pp. 501-504
+
+51. García, I, Prado, R, Gomis, P (2000), [“Wavelet based Bayesian models for characterizing Chagasic high-resolution ECG signals](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=898542)”. *Computers in Cardiology, IEEE Computer Society Press,* Vol 27, pp. 403-406.
+
+52. Ng, F, García, I, Gomis, P, La Cruz, A, Passariello, G, Mora, F (2000), “[Bayesian Hierarchical Model with Wavelet Transform Coefficients of the ECG in the Obstructive Sleep Apnea Screening](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=898510)”. *Computers in Cardiology, IEEE Computer Society Press,* Vol 27, pp. 275-278.
+
+53. Gomis, P, Mora, F, , Passariello, G, Caminal, P, Lander, P (1999) “Neural Network Modeling Analysis of the High Resolution ECG for Associated with Chagas Disease”. *Proceeding Fifth Conference of the European Society for Engineering and Medicine,* pp. 331-332.
+
+54. Gomis, P, García, I, Caminal, P, Lander, P (1999), “[Non-Linear Modeling Analysis of the High Resolution ECG for Estimating Abnormal intra-QRS Potentials](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=826034)”. *Computers in Cardiology, IEEE Computer Society Press,* Vol 26, pp. 567-570.
+
+55. Gomis, P, García, I, P, Passariello, G, Mora, F,(1999), “Analysis of abnormal intra-QRS potentials associated with chagasic myocarditis using the high-resolution electrocardiogram”, *Página web 1er Congreso Virtual de Cardiología*. Octubre 1999. http://pcvc.sminter.com.ar/cvirtual/tlibres/tnn2580/tnn2580.htm
+
+56. Silva, J, Suárez, K, Gomis, P (1999), “[Detection of Abnormal Cardiac Activity Using Genetic Descriptors](http://scholar.google.es/scholar?oi=bibs&hl=en&cluster=12094540065103749269&btnI=Lucky)”. *Computers in Cardiology, IEEE Computer Society Press,* Vol 26, pp. 543-545.
+
+57. Gomis, P, Suárez, K, Lander, P, Passariello, G, Caminal, P(1998), “Evaluación de Miocarditis Chagásica mediante caracterización de potenciales ventriculares anormales con el Electrocardiograma de Alta Resolución”, *Actas del XVI Congreso Anual de la Sociedad Española de Bioingeniería, CASEIB’98*, vol. 16, pp. 119-122.
+
+58. Suárez K, Gomis P, Silva J (1998), “[Analysis of late potentials associated with chagasic myocarditis by means of time-frequency representations](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=731825)“, *Computers in Cardiology, IEEE Computer Society Press,* Vol 25, pp. 397-400.
+
+59. Gomis, P, Caminal, P y Lander, P**.** (1997) “Evaluación de Isquemia Transitoria de Miocardio con el Electrocardiograma de Alta Resolución”, *Actas del XV Congreso Anual de la Sociedad Española de Bioingeniería, CASEIB’97*, vol. 15, pp. 113-116.
+
+60. Gomis P, Suárez K, Passariello G, Mendoza I, Caminal P, Lander P (1996), “[Abnormal intra-QRS signals and late potentials in the high resolution ECG associated with chagasic myocarditis](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=542616)“, *Computers in Cardiology, IEEE Computer Society Press,* pp. 633-636.
+
+61. Gomis P, Caminal P, Lander P (1996), “Caracterización de potenciales anormales intra-QRS en el ECG de alta resolución mediante modelado NARX con redes neuronales”, *Memorias del XIV Congreso Anual de la Sociedad Española de Bioingeniería,* vol. 14, pp.233-235.
+
+62. Gomis P, Caminal P, Lander P (1995), “Análisis de Potenciales Tardíos intra-QRS en el ECG de alta Resolución: Detección de Taquicardia Ventricular”. *Memorias III Col Ven Bioing, Ed Equinoccio,* pp. 1-5.
+
+63. Lander P, Gomis P, Patterson E, Caminal P, (1995), “Relación entre Riesgo de Arritmias y Señales Anormales en el Electrocardiograma de Alta Resolución”, *Memorias del XIII Congreso Anual de la Sociedad Española de Bioingeniería,* vol. 13, pp 83-84.
+
+64. Lander P, Gomis P, Caminal P, Berbari E, Ballauz G, Patterson E, Lazzara R (1995), “[Pathophysiological Insights into Abnormal Intra-QRS Signals in the High Resolution ECG](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=482625)“, *Computers in Cardiology, IEEE Computer Society Press*, pp 273-275.
+
+65. Gomis P, Caminal P, Lander P (1994) “Parametric modeling analysis of the high resolution ECG for late potentials detection within the QRS”, Proc V Int Symp Biomed Eng, vol 5, pp. 59-60.
+
+66. Caminal P, Gomis P, Laguna P, Jané R (1993), “Application of parametric models to classify ECG signals”. Tech Health Care (ISNN 0928-7329), Elseiver Sc Pub, vol 1(S), pp. 354-355. (Proc 2nd Eur Conf Eng Med).
+
+67. Lander P, Gomis P, Jané R, Jones DL, Caminal P (1993), “[Modeling abnormal signals within the QRS complex of the high resolution ECG](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=378410)“. Computers in Cardiology, IEEE Computer Society Press, pp. 435-37.
+
+68. Gomis P, González CH, Lew MN, Medrano G (1991), “[An analysis of the mechanical work of breathing based on a respiratory impedance model](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=684995&queryText%3DGomis+Medrano+Breathing)“. Proceedings of 13th Ann Intern Conf IEEE/EMBS, vol. 13, pp. 2268-69

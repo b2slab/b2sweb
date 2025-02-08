@@ -20,6 +20,10 @@ At B2SLab, we integrate Data Science, Bioinformatics, and Bioengineering. My mai
 -   In 2019, I was appointed as the head of the Research Center for Biomedical Engineering at UPC (CREB-UPC, Centre de Recerca en Enginyeria Biomèdica).
 -   I also coordinate a [fascinating project named Xartec Salut](https://xartecsalut.com).
 
+## Contact
+
+-   you can email me at *alexandre.perera* **you guess what***upc.edu*
+
 ## Social Networks
 
 -   Find me on my profile on
@@ -51,7 +55,6 @@ I teach several subjects, including:
 -   [Aitor Moruno](https://b2slab.upc.edu/team/aitor-moruno-cuenca)
 
 [^1]: soon to defend her thesis
-
 
 ## Former PhD Thesis
 

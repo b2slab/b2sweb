@@ -1,0 +1,48 @@
+---
+title: "Montserrat Vallverdú Ferrer"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+## Bio
+
+::: img-float
+![](images/P6080041retallada-296x400.jpg){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Senior researcher at Institut de Recerca i Innovació en Salut (IRIS) and Associate Professor at Barcelona Tech (UPC), specialization in automatic control engineering at the Graduate and Master’s levels and biomedical signal processing and modeling at PhD level. She is also member of the Bioinformatics and Biomedical Signals Laboratory (B2SLab) research group at the UPC and CIBER of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN). Her main research focuses on the complexity and time-frequency analysis to the recovery of the clinically useful hidden information in cardiac, respiratory and brain signals, and on the identification and simulation of their involved physiological control mechanisms.
+
+## **Doctoral Thesis supervisor**
+
+1.  **John Bustamante Osorno**, (1995). “Análisis del flujo transmitral mediante el modelado y la simulación por computador”, Universitat Politècnica de Catalunya – co-supervised with Dr. Xavier Borrás from Universidad Autónoma.de Barcelona.
+
+2.  **Raúl Carvajal Valdés**, (1999). “Análisis de complejidad de la variabilidad de intervalos característicos del electrocardiograma”, Universitat Politècnica de Catalunya.
+
+3.  **Pablo Guillén Rondón**, (2002). “Análisis de la dinámica no lineal y cambios de complejidad en la variabilidad del ritmo cardiaco y en señales electroencefalográficas”, Universitat Politècnica de Catalunya
+
+4.  **Manuel Eduardo Palacios Muñoz**, (2007). “Caracterización de la variabilidad del ritmo cardíaco mediante modelos ocultos de Markov”, Universitat Politècnica de Catalunya.
+
+5.  **Pablo Martínez Váquez**, (2010). “Robust multi-command BCI systems based on steady state visual evoked potentials”, Universitat Politècnica de Catalunya – co-supervised with Dr. Andrzej Cichocki from RIKEN Brain Science Institute.
+
+6.  **Jose Fernando Valencia Murillo**, (2010). “Estimación de la complexitat de la variabilidad del ritmo cardiaco mediante técnicas de la dinámica no lineal en patologías cardiacas”, Universitat Politècnica de Catalunya.
+
+7.  **Umberto Melia**, (2014). “Representation and information theory for the analysis of eeg signals to assess different states of consciousness”, Universitat Politècnica de Catalunya.
+
+## Publications in journals
+
+A possibly incomplete and malformatted list of publications is included below:
+
+```{r}
+cache_file <- "../../doi_cache.json"
+source("../../R/getpapers.R")
+# Define the RIS file URL
+ris_url <- "https://futur.upc.edu/RIS/MontserratVallverduFerrer/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=en"
+```
+
+```{r}
+#| output: asis
+paperstohtmlnodiv(ris_url)
+```

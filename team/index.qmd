@@ -5,6 +5,7 @@ execute:
   warning: false
   message: false
   echo: false
+image: images/2025_b2sgrup.jpeg
 ---
 
 ```{r, include=FALSE}

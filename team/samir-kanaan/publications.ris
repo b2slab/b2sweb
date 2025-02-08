@@ -1,0 +1,195 @@
+TY - MGZN
+DO - 10.1155/2023/6690805
+TI - Fault detection and isolation in smart-grid networks of intelligent power routers modeled as probabilistic boolean networks
+AB - A self-organizing complex-network modeling method, probabilistic Boolean networks, is presented as a model-based diagnostic system for detecting and isolating different types of faults, failures, and modes of operation in which a network of intelligent power routers is deployed over a standard power test case: the Western System Coordinating Council 9 Bus System. Such a system allows designers and engineering professionals to make educated decisions pertaining to the design of smart-grid systems endowed with intelligent power routers. There is a recurrent necessity to design reliable and fault-tolerant smart power systems, maintaining adequate operation and adherence to performance specifications, while keeping costs at the minimum. This diagnostics system will help achieve such goals: better design through thorough analysis of the conditions that lead to a fault on a smart grid, proper detection of these faults, and isolation of the respective assets.
+Y1 - 2023
+UR - https://www.hindawi.com/journals/complexity/2023/6690805/
+VL - 2023
+IS - article 6690805
+T2 - Complexity
+AU - Rivera, P.
+AU - Gershenson, C.
+AU - Kanaan Izquierdo, S.
+
+TY - MGZN
+DO - 10.1155/2022/3652441
+TI - Reinforcement learning with probabilistic boolean network models of smart grid devices
+AB - The area of smart power grids needs to constantly improve its efficiency and resilience, to provide high quality electrical power in a resilient grid, while managing faults and avoiding failures. Achieving this requires high component reliability, adequate maintenance, and a studied failure occurrence. Correct system operation involves those activities and novel methodologies to detect, classify, and isolate faults and failures and model and simulate processes with predictive algorithms and analytics (using data analysis and asset condition to plan and perform activities). In this paper, we showcase the application of a complex-adaptive, self-organizing modeling method, and Probabilistic Boolean Networks (PBNs), as a way towards the understanding of the dynamics of smart grid devices, and to model and characterize their behavior. This work demonstrates that PBNs are equivalent to the standard Reinforcement Learning Cycle, in which the agent/model has an interaction with its environment and receives feedback from it in the form of a reward signal. Different reward structures were created to characterize preferred behavior. This information can be used to guide the PBN to avoid fault conditions and failures.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2022
+UR - https://www.hindawi.com/journals/complexity/2022/3652441/
+UR - http://hdl.handle.net/2117/374168
+VL - 2022
+IS - article 3652441
+T2 - Complexity
+PB - Wiley-Blackwell
+AU - Rivera, P.
+AU - Gershenson, C.
+AU - S'anchez, M.
+AU - Kanaan-Izquierdo, S.
+
+TY - MGZN
+DO - 10.1021/acs.analchem.1c00238
+TI - mWISE: an algorithm for context-based annotation of liquid chromatography-mass spectrometry features through diffusion in graphs
+AB - Untargeted metabolomics using liquid chromatography coupled to mass spectrometry (LC-MS) allows the detection of thousands of metabolites in biological samples. However, LC-MS data annotation is still considered a major bottleneck in the metabolomics pipeline since only a small fraction of the metabolites present in the sample can be annotated with the required confidence level. Here, we introduce mWISE (metabolomics wise inference of speck entities), an R package for context-based annotation of LC-MS data. The algorithm consists of three main steps aimed at (i) matching mass-to-charge ratio values to the Kyoto Encyclopedia of Genes and Genomes (KEGG) database, (ii) clustering and filtering the potential KEGG candidates, and (iii) building a final prioritized list using diffusion in graphs. The algorithm performance is evaluated with three publicly available studies using both positive and negative ionization modes. We have also compared mWISE to other available annotation algorithms in terms of their performance and computation time. In particular, we explored four different configurations for mWISE, and all four of them outperform xMSannotator (a state-of-the-art annotator) in terms of both performance and computation time. Using a diffusion configuration that combines the biological network obtained from the FELLA R package and raw scores, mWISE shows a sensitivity mean (standard deviation) across data sets of 0.63 (0.07), while xMSannotator achieves a sensitivity of 0.55 (0.19). We have also shown that the chemical structures of the compounds proposed by mWISE are closer to the original compounds than those proposed by xMSannotator. Finally, we explore the diffusion prioritization separately, showing its key role in the annotation process. mWISE is freely available on GitHub (https://github.com/b2slab/mWISE) under a GPL license.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2021
+UR - https://pubs.acs.org/doi/10.1021/acs.analchem.1c00238
+UR - http://hdl.handle.net/2117/351137
+VL - 93
+IS - 31
+EP - 10772
+SP - 10778
+T2 - Analytical chemistry
+AU - Barranco, M.
+AU - Sol`a, P.
+AU - Picart, S.
+AU - Kanaan-Izquierdo, S.
+AU - Fonollosa, J.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1109/ACCESS.2020.3006423
+TI - Marker-less monitoring protocol to analyze biomechanical joint metrics during pedaling
+AB - Marker-less systems are becoming popular to detect a human skeleton in an image automatically. However, these systems have difficulties in tracking points when part of the body is hidden, or there is an artifact that does not belong to the subject (e.g., a bicycle).We present a low-cost tracking system combined with economic force-measurement sensors that allows the calculation of individual joint moments and powers affordable for anybody. The system integrates OpenPose (deep-learning based CCC library to
+detect human skeletons in an image) in a system of two webcams, to record videos of a cyclist, and seven resistive sensors to measure forces at the pedals and the saddle. OpenPose identifies the skeleton candidate using a convolution neural network. A corrective algorithm was written to automatically detect the hip, knee, ankle, metatarsal and heel points from webcam-recorded motions, which overcomes the limitations of the marker-less system. Then, with the information of external forces, an inverse dynamics analysis is applied in OpenSim to calculate the joint moments and powers at the hip, knee, and ankle joints. The results show that the obtained moments have similar shapes and trends compared to the literature values. Therefore, this represents a low-cost method that could be used to estimate relevant joint kinematics and dynamics, and consequently follow up or improve cycling training plans.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2020
+UR - https://ieeexplore.ieee.org/document/9131774
+UR - http://hdl.handle.net/2117/328416
+VL - 8
+EP - 122782
+SP - 122790
+T2 - IEEE access
+PB - Institute of Electrical and Electronics Engineers (IEEE)
+AU - Serrancoli, G.
+AU - Bogatikov, P.
+AU - Pales, J.
+AU - Forcada, A.
+AU - Sanchez Egea, Antonio J.
+AU - Jordi Torner
+AU - Kanaan-Izquierdo, S.
+AU - Susin, A.
+
+TY - MGZN
+DO - 10.1093/bioinformatics/bty1039
+TI - Multiview: a software package for multiview pattern recognition methods
+AB - Multiview datasets are the norm in bioinformatics, often under the label multi-omics. Multiview
+data is gathered from several experiments, measurements or feature sets available for the same subjects.
+Recent studies in pattern recognition have shown the advantage of using multiview methods of clustering
+and dimensionality reduction; however, none of these methods are readily available to the extent of our
+knowledge. Multiview extensions of four well-known pattern recognition methods are proposed here. Three
+multiview dimensionality reduction methods: multiview t-distributed stochastic neighbour embedding,
+multiview multidimensional scaling, and multiview minimum curvilinearity embedding, as well as a multiview
+spectral clustering method. Often they produce better results than their single-view counterparts, tested
+here on four multiview datasets.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty1039/5267824
+UR - http://hdl.handle.net/2117/130483
+IS - bty1039
+EP - 1
+SP - 3
+T2 - Bioinformatics
+AU - Kanaan-Izquierdo, S.
+AU - Ziyatdinov, A.
+AU - Burgue~no, M.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.patrec.2017.12.011
+TI - Multiview and multifeature spectral clustering using common eigenvectors
+AB - An ever-increasing number of data analysis problems include more than one view of the data, i.e. differ-
+ent measurement approaches to the population under study. In consequence, pattern analysis methods
+that deal appropriately with multiview data are becoming increasingly useful. In this paper, a novel mul-
+tiview spectral clustering algorithm is presented (multiview spectral clustering by common eigenvectors,
+or MVSC-CEV), based on computing the common eigenvectors of the Laplacian matrices derived from
+the similarity matrices of the input data. This algorithm maintains the features of spectral clustering,
+while allowing the use of an arbitrary number of input views, possibly of a different nature (feature or
+graph space) and with different dimensions. The method has been tested on four standard multiview
+data sets (UCI's Handwritten, BBC segmented news, Max Planck Institute's Animal With Attributes and
+Reuters multilingual), and compared with seven methods in the state of the art. Seven standard clus-
+tering evaluation metrics have been used in the experiments. The quality of the clustering produced by
+MVSC-CEV is above those obtained by other state-of-the-art methods in the majority of evaluation met-
+rics and dataset combinations. The computation times of this method are approximately twice those of
+the baseline spectral clustering of the concatenated data views.
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - http://hdl.handle.net/2117/113182
+UR - https://www.sciencedirect.com/science/article/pii/S016786551730449X
+VL - 102
+EP - 30
+SP - 36
+T2 - Pattern recognition letters
+PB - Elsevier
+AU - Kanaan-Izquierdo, S.
+AU - Ziyatdinov, A.
+AU - Perera, A.
+
+TY - MGZN
+DO - 10.1371/journal.pone.0168011
+TI - Early prediction of Alzheimer's disease using null longitudinal model-based classifiers
+AB - Incipient Alzheimer's Disease (AD) is characterized by a slow onset of clinical symptoms, with pathological brain changes starting several years earlier. Consequently, it is necessary to first understand and differentiate age-related changes in brain regions in the absence of disease, and then to support early and accurate AD diagnosis. However, there is poor understanding of the initial stage of AD; seemingly healthy elderly brains lose matter in regions related to AD, but similar changes can also be found in non-demented subjects having mild cognitive impairment (MCI). By using a Linear Mixed Effects approach, we modelled the change of 166 Magnetic Resonance Imaging (MRI)-based biomarkers available at a 5-year follow up on healthy elderly control (HC, n = 46) subjects. We hypothesized that, by identifying their significant variant (vr) and quasi-variant (qvr) brain regions over time, it would be possible to obtain an age-based null model, which would characterize their normal atrophy and growth patterns as well as the correlation between these two regions. By using the null model on those subjects who had been clinically diagnosed as HC (n = 161), MCI (n = 209) and AD (n = 331), normal age-related changes were estimated and deviation scores (residuals) from the observed MRI-based biomarkers were computed. Subject classification, as well as the early prediction of conversion to MCI and AD, were addressed through residual-based Support Vector Machines (SVM) modelling. We found reductions in most cortical volumes and thicknesses (with evident gender differences) as well as in sub-cortical regions, including greater atrophy in the hippocampus. The average accuracies (ACC) recorded for men and women were: AD-HC: 94.11%, MCI-HC: 83.77% and MCI converted to AD (cAD)-MCI non-converter (sMCI): 76.72%. Likewise, as compared to standard clinical diagnosis methods, SVM classifiers predicted the conversion of cAD to be 1.9 years earlier for females (ACC:72.5%) and 1.4 years earlier for males (ACC:69.0%).
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2017
+UR - http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168011
+UR - http://hdl.handle.net/2117/102451
+VL - 12
+IS - 1
+T2 - PloS one
+AU - Gavidia, G.
+AU - Kanaan-Izquierdo, S.
+AU - Mataro-Serrat, M.
+AU - Perera, A.
+
+TY - MGZN
+TI - The TALP-QA System for Spanish at CLEF 2005
+Y1 - 2006
+UR - http://dx.doi.org/10.1007/11878773_45
+VL - 4022
+EP - 400
+SP - 409
+T2 - Lecture notes in computer science
+AU - Ferres, D.
+AU - Kanaan-Izquierdo, S.
+AU - Ageno, A.
+AU - Gonz'alez, E.
+AU - Rodriguez, H.
+AU - Turmo, J.
+
+TY - MGZN
+TI - The TALP-QA System for Spanish at CLEF-2005
+Y1 - 2006
+UR - http://link.springer.com/chapter/10.1007%2F11878773_45#page-1
+VL - 4022
+EP - 400
+SP - 4009
+T2 - Lecture notes in computer science
+AU - Ferr'es, D.
+AU - Kanaan-Izquierdo, S.
+AU - Ageno, A.
+AU - Gonz`alez, E.
+AU - Rodriguez, H.
+AU - Turmo, J.
+
+TY - MGZN
+TI - The TALP-QA system for Spanish at CLEF 2004: Structural and hierarchical relaxing of semantic constraints
+Y1 - 2005
+UR - http://dx.doi.org/10.1007/11519645_55
+VL - 3491
+EP - 557
+SP - 568
+T2 - Lecture notes in computer science
+AU - Ferres, D.
+AU - Kanaan-Izquierdo, S.
+AU - Ageno, A.
+AU - Gonz'alez, E.
+AU - Rodriguez, H.
+AU - Surdeanu, M.
+AU - Turmo, J.
+
