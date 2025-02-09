@@ -69,6 +69,30 @@ AU - Perera, A.
 AU - Artuch, R.
 
 TY - MGZN
+DO - 10.1093/ndt/gfae069.238
+TI - Factors affecting disease progression in individuals with heterozygous COL4A3/COL4A4 pathogenic variants
+AB - Abstract Background and Aims Individuals with heterozygous pathogenic variants in COL4A3/COL4A4 or also known as autosomal dominant Alport syndrome (ADAS) are increasingly diagnosed and show a wide spectrum of disease. Factors contributing to these different outcomes are not well understood. Here we study a cohort of patients with pathogenic (P) or likely pathogenic (LP) variants in COL4A3/COL4A4 with slow and rapid progression to evaluate risk factors associated with the condition. Method A retrospective observational multicenter study was performed in a cohort of individuals with heterozygous P and LP in COL4A3/COL4A4. Criteria were established to classify patients into rapid (RP) and slow progression (SP) (Fig. 1). In this study, we compared both cohorts and identified risk factors of rapid progression using T-score for numeric variables or Chi square for categoric variables. For the numerical variables that were correlated with RP, a cut-off point was established fitting the data with a regression curve. Further analyses are ongoing. Results A total of 374 patients were studied, the progression of the disease was classified in 135 individuals: 82 with RP (60.7%) and 53 SP (39.3%). The remaining patients couldn't be classified due to age or missing data during follow-up. The mean age at diagnosis of classified patients was 46.61 years (SD 17.46), with 65% being women. Genetic variant distribution was COL4A3 38%, COL4A4 58%, and digenic 4%. At diagnosis, 72% of patients had albuminuria or proteinuria (mean age of diagnosis: 50 years). Among these, 52.7% had ACR or PCR greater than 300 or 500 mg/gCr, with mean ACR at 445.92 mg/gCr (SD 587.54, max 2240 mg/g) and mean PCR at 968.38 (SD 1422, max 10633). 94% individuals had hematuria (mean age at diagnosis: 36.27 years). Forty-nine patients (36%) had CKD G-5, with a mean age of diagnosis of 53.08 years (SD 12.42). The mean eGFR was 67.56 (SD 30.56 ml/min). Results of kidney biopsy were available for 51 patients. 73 individuals had hypertension (HTN) with a mean age at diagnosis of 46.30 years (SD 13.81). A total of 82 patients responded to personal habits questionnaire. With all the variables studied, a total of 4 main variables were associated with RP. - Presence of albuminuria or proteinuria measured by ACR (>300 mg/gCr) or PCR at diagnosis or during follow-up (>500 mg/gCr) (p < 0.001). - Age at diagnosis of HTN (p < 0.0001) establishing a cut-off point at 40 years (R2 0.85) - Age at diagnosis of the condition (p = 0.0046) establishing a cutoff point of 42 years (R2 0.61) - Years of smoking (p = 0.009) with a cut-off point 11.8 years (R2 0.72) The main variables associated with a worse outcome in individuals with heterozygous pathogenic variants in COL4A3/COL4A4 is the presence of albuminuria/proteinuria, HTN, age at diagnosis of HTN and age at diagnosis of the disease. Smoking has also been associated with a worse outcome when an exposure time over 11.8 years. More studies are still needed to understand the reasons for the huge phenotypic variability of this condition.
+Y1 - 2024
+UR - https://academic.oup.com/ndt/article/39/Supplement_1/gfae069-0238-2068/7677434?login=true
+VL - 39
+IS - Supplement_1
+EP - i416
+SP - i417
+T2 - Nephrology dialysis transplantation
+AU - Melissa, T.
+AU - Furlano, M.
+AU - Pybus, M.
+AU - Mart'inez, V.
+AU - Gom'a, E.
+AU - Gal'an, I.
+AU - Le'on Carrasco, R.
+AU - Soler, M.
+AU - Fayos de Ariz'on, L.
+AU - Perera, A.
+AU - Ars, E.
+AU - Torra, R.
+
+TY - MGZN
 DO - 10.1016/j.jobe.2023.108404
 TI - The dilemma of variables assumptions in thermal comfort calculations for educational buildings: to simplify or not?
 AB - Thermal comfort is crucial for people well-being and productivity in buildings, and it has a strong effect on building's energy usage. The main models for assessing thermal comfort, like predictive mean vote (PMV) and adaptive models, need many environmental measurements, making monitoring complex. That has sparked a debate: some advocate reducing the number of variables, while others stress sticking to the original models. This article evaluates current research trends and addresses the limitations of globe sensors, the most commonly used instrument for measuring mean radiant temperature. To address these is- sues, the study conducts a sensitivity analysis using latin hypercube sampling with multidimen- sional uniformity and employs data from 41 measurements conducted in educational buildings spanning different academic levels, from preschool to university. This analysis examines various simplifications in the measuring procedures for the PMV and adaptive models proposed by ASHRAE 55, ISO 7730 and EN 16798. For this purpose, two mean radiant temperature accuracies are used according to the minimum requirement and the desired value specified by ISO 7726, +/-2 ?C and +/-0.2 ? C respectively. The results suggest that models with fewer variables tend to overestimate thermal comfort levels. However, this models are valid as their estimations fall within the uncertainty range of the complete model, as long as the mean radiant temperature accuracy is +/-2 ?C as achieved with globe sensors. When mean radiant temperature accuracy improves (i.e. +/-0.2 ?C), the outcome of the models with less variables imply an overestimation falling out of the uncertainty of the complete model.
@@ -414,6 +438,21 @@ AU - Laguna, P.
 AU - Ram'irez, J.
 
 TY - MGZN
+DO - 10.1016/j.jenvman.2022.114787
+TI - COVID-19 impact on maritime traffic and corresponding pollutant emissions. The case of the Port of Barcelona
+AB - The impact of the SARS-CoV pandemic has gone well beyond health concerns, reaching the maritime industry. The study on the environmental impact of shipping industry during COVID-19 pandemic can provide useful insights to propose new management policies regarding shipping operations, both in-port and on the route. We present a case study centred in the Port of Barcelona covering a 30 nautical miles range in the period March to July 2020, during which different levels of restrictions and stringent lockdown measures were enforced. In this paper, we assess the impact of COVID-19 on maritime traffic and its related emissions in port cities using real-time Automatic Identification System (AIS) data. Interestingly, results show that the decline in maritime traffic is not correlated with a decrease in maritime emissions due to changes in vessel operation. During lockdown (March to June 2020), we observed a 27.9% reduction in the number of port calls compared to the pre-lockdown scenario, whereas pollutant emissions show a moderate decrease (1.8% for CO2), no significant reduction (SO2 and PM) or a slight increase (1.3% for NOx). This can be directly assigned to changes in vessel operation mode, i.e. vessels switched from Underway to At Anchor or Moored status, during which auxiliary engines are used at higher loads.
+AB - Postprint (author's final draft)
+Y1 - 2022
+UR - https://pubmed.ncbi.nlm.nih.gov/35248988/
+UR - http://hdl.handle.net/2117/365197
+T2 - Journal of environmental management
+AU - Mujal-Colilles, A.
+AU - Nieto, J.
+AU - Fonollosa, J.
+AU - Llull, T.
+AU - Castells-Sanabra, Marcella
+
+TY - MGZN
 DO - 10.1016/j.tmp.2022.100948
 TI - #CoronavirusCruise: Impact and implications of the COVID-19 outbreaks on the perception of cruise tourism
 AB - Early in the COVID-19 pandemic, the Diamond Princess became the center of the largest outbreak outside the original epicenter in China. This outbreak which left 712 passengers infected and 14 dead, followed by subsequent outbreaks affecting over one-third of the active ships in the cruise industry's global fleet, quickly became a crisis that captured public attention and dominated mainstream news and social media. This study investigates the perception of cruising during these outbreaks by analyzing the tweets on cruising using Natural Language Processing (NLP). The findings show a prevalent negative sentiment in most of the analyzed tweets, while the criticisms directed at the cruise industry were based on perceptions and stereotypes of the industry before the pandemic. The study provides insight into the concerns raised in these conversations and highlights the need for new business models outside the pre-pandemic mass-market model and to genuinely make cruising more environmentally friendly.
@@ -451,21 +490,6 @@ AU - Marco, S.
 AU - Fonollosa, J.
 
 TY - MGZN
-DO - 10.1016/j.jenvman.2022.114787
-TI - COVID-19 impact on maritime traffic and corresponding pollutant emissions. The case of the Port of Barcelona
-AB - The impact of the SARS-CoV pandemic has gone well beyond health concerns, reaching the maritime industry. The study on the environmental impact of shipping industry during COVID-19 pandemic can provide useful insights to propose new management policies regarding shipping operations, both in-port and on the route. We present a case study centred in the Port of Barcelona covering a 30 nautical miles range in the period March to July 2020, during which different levels of restrictions and stringent lockdown measures were enforced. In this paper, we assess the impact of COVID-19 on maritime traffic and its related emissions in port cities using real-time Automatic Identification System (AIS) data. Interestingly, results show that the decline in maritime traffic is not correlated with a decrease in maritime emissions due to changes in vessel operation. During lockdown (March to June 2020), we observed a 27.9% reduction in the number of port calls compared to the pre-lockdown scenario, whereas pollutant emissions show a moderate decrease (1.8% for CO2), no significant reduction (SO2 and PM) or a slight increase (1.3% for NOx). This can be directly assigned to changes in vessel operation mode, i.e. vessels switched from Underway to At Anchor or Moored status, during which auxiliary engines are used at higher loads.
-AB - Postprint (author's final draft)
-Y1 - 2022
-UR - https://pubmed.ncbi.nlm.nih.gov/35248988/
-UR - http://hdl.handle.net/2117/365197
-T2 - Journal of environmental management
-AU - Mujal-Colilles, A.
-AU - Nieto, J.
-AU - Fonollosa, J.
-AU - Llull, T.
-AU - Castells-Sanabra, Marcella
-
-TY - MGZN
 DO - 10.1155/2022/3652441
 TI - Reinforcement learning with probabilistic boolean network models of smart grid devices
 AB - The area of smart power grids needs to constantly improve its efficiency and resilience, to provide high quality electrical power in a resilient grid, while managing faults and avoiding failures. Achieving this requires high component reliability, adequate maintenance, and a studied failure occurrence. Correct system operation involves those activities and novel methodologies to detect, classify, and isolate faults and failures and model and simulate processes with predictive algorithms and analytics (using data analysis and asset condition to plan and perform activities). In this paper, we showcase the application of a complex-adaptive, self-organizing modeling method, and Probabilistic Boolean Networks (PBNs), as a way towards the understanding of the dynamics of smart grid devices, and to model and characterize their behavior. This work demonstrates that PBNs are equivalent to the standard Reinforcement Learning Cycle, in which the agent/model has an interaction with its environment and receives feedback from it in the form of a reward signal. Different reward structures were created to characterize preferred behavior. This information can be used to guide the PBN to avoid fault conditions and failures.
@@ -497,8 +521,8 @@ EP - 1
 SP - 12
 T2 - Nature communications
 AU - Spencer, T.
-AU - Clark, A.
 AU - Fonollosa, J.
+AU - Clark, A.
 AU - Virot, E.
 AU - Hu, D.
 
@@ -734,24 +758,6 @@ AU - Ram'irez, J.
 AU - Laguna, P.
 
 TY - MGZN
-DO - 10.1021/acs.jcim.1c00086
-TI - Balancing data on deep learning-based proteochemometric activity classification
-AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
-AB - Peer Reviewed
-AB - Postprint (published version)
-Y1 - 2021
-UR - https://pubs.acs.org/doi/10.1021/acs.jcim.1c00086
-UR - http://hdl.handle.net/2117/353767
-VL - 61
-IS - 4
-EP - 1657
-SP - 1669
-T2 - Journal of chemical information and modeling
-AU - Lopez, A.
-AU - Picart, S.
-AU - Perera, A.
-
-TY - MGZN
 DO - 10.1108/ET-11-2020-0334
 TI - Game learning analytics of instant messaging and online discussion forums in higher education
 AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
@@ -768,6 +774,24 @@ T2 - Education and Training
 AU - Hern'andez-Lara, A.
 AU - Perera, A.
 AU - Serradell-L'opez, E.
+
+TY - MGZN
+DO - 10.1021/acs.jcim.1c00086
+TI - Balancing data on deep learning-based proteochemometric activity classification
+AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://pubs.acs.org/doi/10.1021/acs.jcim.1c00086
+UR - http://hdl.handle.net/2117/353767
+VL - 61
+IS - 4
+EP - 1657
+SP - 1669
+T2 - Journal of chemical information and modeling
+AU - Lopez, A.
+AU - Picart, S.
+AU - Perera, A.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/btaa1069
@@ -1643,28 +1667,6 @@ AU - Ziyatdinov, A.
 AU - Perera, A.
 
 TY - MGZN
-DO - 10.1007/978-3-319-77932-4_12
-TI - Sex differences in autonomic response to exercise testing in patients with Brugada syndrome
-AB - Ventricular arrhythmias in Brugada syndrome (BS) typically occur at rest and especially during sleep, suggesting that changes in the autonomic modulation may play an important role in arrhythmogenesis. The autonomic response to exercise and subsequent recovery was evaluated on 105 patients diagnosed with BS (twenty-four were symptomatic), by means of a time-frequency heart rate variability (HRV) analysis, so as to propose a novel predictive model capable of distinguishing symptomatic and asymptomatic BS populations. During incremental exercise, symptomatic patients showed higher HFnu values, probably related to an increased parasympathetic modulation, with respect to asymptomatic subjects. In addition, those extracted HRV features best distinguishing between populations were selected using a two-step feature selection approach, so as to build a linear discriminant analysis (LDA) classifier. The final features subset included one third of the total amount of extracted autonomic markers, mostly acquired during incremental exercise and active recovery, thus evidencing the relevance of these test segments in BS patients classification. The derived predictive model showed an improved performance with respect to previous works in the field (AUC = 0.92 +/- 0.01; Se = 0.91 +/- 0.06; Sp = 0.90 +/- 0.05). Therefore, based on these findings, some of the analyzed HRV markers and the proposed model could be useful for risk stratification in Brugada syndrome.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2018
-UR - https://link.springer.com/chapter/10.1007%2F978-3-319-77932-4_12
-UR - http://hdl.handle.net/2117/123426
-VL - 1065
-EP - 181
-SP - 190
-T2 - Advances in experimental medicine and biology
-PB - Springer
-AU - Calvo, M.
-AU - Le Rolle, V.
-AU - Romero, D.
-AU - B'ehar, N.
-AU - Gomis, P.
-AU - Mabo, P.
-AU - Hernandez, A.I.
-
-TY - MGZN
 DO - 10.1016/j.snb.2018.02.188
 TI - Multi-unit calibration rejects inherent device variability of chemical sensor arrays
 AB - Postprint (author's final draft)
@@ -1699,6 +1701,28 @@ PB - Multidisciplinary Digital Publishing Institute (MDPI)
 AU - Fonollosa, J.
 AU - Sol'orzano, A.
 AU - Marco, S.
+
+TY - MGZN
+DO - 10.1007/978-3-319-77932-4_12
+TI - Sex differences in autonomic response to exercise testing in patients with Brugada syndrome
+AB - Ventricular arrhythmias in Brugada syndrome (BS) typically occur at rest and especially during sleep, suggesting that changes in the autonomic modulation may play an important role in arrhythmogenesis. The autonomic response to exercise and subsequent recovery was evaluated on 105 patients diagnosed with BS (twenty-four were symptomatic), by means of a time-frequency heart rate variability (HRV) analysis, so as to propose a novel predictive model capable of distinguishing symptomatic and asymptomatic BS populations. During incremental exercise, symptomatic patients showed higher HFnu values, probably related to an increased parasympathetic modulation, with respect to asymptomatic subjects. In addition, those extracted HRV features best distinguishing between populations were selected using a two-step feature selection approach, so as to build a linear discriminant analysis (LDA) classifier. The final features subset included one third of the total amount of extracted autonomic markers, mostly acquired during incremental exercise and active recovery, thus evidencing the relevance of these test segments in BS patients classification. The derived predictive model showed an improved performance with respect to previous works in the field (AUC = 0.92 +/- 0.01; Se = 0.91 +/- 0.06; Sp = 0.90 +/- 0.05). Therefore, based on these findings, some of the analyzed HRV markers and the proposed model could be useful for risk stratification in Brugada syndrome.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://link.springer.com/chapter/10.1007%2F978-3-319-77932-4_12
+UR - http://hdl.handle.net/2117/123426
+VL - 1065
+EP - 181
+SP - 190
+T2 - Advances in experimental medicine and biology
+PB - Springer
+AU - Calvo, M.
+AU - Le Rolle, V.
+AU - Romero, D.
+AU - B'ehar, N.
+AU - Gomis, P.
+AU - Mabo, P.
+AU - Hernandez, A.I.
 
 TY - MGZN
 DO - 10.1371/journal.pone.0189012
@@ -2533,27 +2557,6 @@ AU - Huerta, R.
 AU - Marco, S.
 
 TY - MGZN
-DO - 10.1016/j.medengphy.2015.01.002
-TI - Mutual information measures applied to EEG signals for sleepiness characterization
-AB - Excessive daytime sleepiness (EDS) is one of the main symptoms of several sleep related disorders with a great impact on the patient lives. While many studies have been carried out in order to assess daytime sleepiness, the automatic EDS detection still remains an open problem. In this work, a novel approach to this issue based on non-linear dynamical analysis of EEG signal was proposed. Multichannel EEG signals were recorded during five maintenance of wakefulness (MWT) and multiple sleep latency (MSLT) tests alternated throughout the day from patients suffering from sleep disordered breathing. A group of 20 patients with excessive daytime sleepiness (EDS) was compared with a group of 20 patients without daytime sleepiness (WDS), by analyzing 60-s EEG windows in waking state. Measures obtained from cross-mutual information function (CMIF) and auto-mutual-information function (AMIF) were calculated in the EEG. These functions permitted a quantification of the complexity properties of the EEG signal and the non-linear couplings between different zones of the scalp. Statistical differences between EDS and WDS groups were found in ss band during MSLT events (. p-value<0.0001). WDS group presented more complexity than EDS in the occipital zone, while a stronger nonlinear coupling between occipital and frontal zones was detected in EDS patients than in WDS. The AMIF and CMIF measures yielded sensitivity and specificity above 80% and AUC of ROC above 0.85 in classifying EDS and WDS patients.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2015
-UR - http://hdl.handle.net/2117/79397
-VL - 37
-IS - 3
-EP - 297
-SP - 308
-T2 - Medical engineering and physics
-AU - Melia, U.
-AU - Guaita, M.
-AU - Vallverdu, M.
-AU - Embid, C.
-AU - Vilaseca, I.
-AU - Salamero, M.
-AU - Santamaria, J.
-
-TY - MGZN
 DO - 10.1007/s11517-015-1275-x
 TI - Time-varying signal analysis to detect high-altitude periodic breathing in climbers ascending to extreme altitude
 AB - This work investigates the performance of cardiorespiratory analysis detecting periodic breathing (PB) in chest wall recordings in mountaineers climbing to extreme altitude. The breathing patterns of 34 mountaineers were monitored unobtrusively by inductance plethysmography, ECG and pulse oximetry using a portable recorder during
@@ -2586,6 +2589,27 @@ AU - Merz, T.
 AU - Pichler Hefti, J.
 AU - Schoch, O.
 AU - Bloch, K.
+
+TY - MGZN
+DO - 10.1016/j.medengphy.2015.01.002
+TI - Mutual information measures applied to EEG signals for sleepiness characterization
+AB - Excessive daytime sleepiness (EDS) is one of the main symptoms of several sleep related disorders with a great impact on the patient lives. While many studies have been carried out in order to assess daytime sleepiness, the automatic EDS detection still remains an open problem. In this work, a novel approach to this issue based on non-linear dynamical analysis of EEG signal was proposed. Multichannel EEG signals were recorded during five maintenance of wakefulness (MWT) and multiple sleep latency (MSLT) tests alternated throughout the day from patients suffering from sleep disordered breathing. A group of 20 patients with excessive daytime sleepiness (EDS) was compared with a group of 20 patients without daytime sleepiness (WDS), by analyzing 60-s EEG windows in waking state. Measures obtained from cross-mutual information function (CMIF) and auto-mutual-information function (AMIF) were calculated in the EEG. These functions permitted a quantification of the complexity properties of the EEG signal and the non-linear couplings between different zones of the scalp. Statistical differences between EDS and WDS groups were found in ss band during MSLT events (. p-value<0.0001). WDS group presented more complexity than EDS in the occipital zone, while a stronger nonlinear coupling between occipital and frontal zones was detected in EDS patients than in WDS. The AMIF and CMIF measures yielded sensitivity and specificity above 80% and AUC of ROC above 0.85 in classifying EDS and WDS patients.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2015
+UR - http://hdl.handle.net/2117/79397
+VL - 37
+IS - 3
+EP - 297
+SP - 308
+T2 - Medical engineering and physics
+AU - Melia, U.
+AU - Guaita, M.
+AU - Vallverdu, M.
+AU - Embid, C.
+AU - Vilaseca, I.
+AU - Salamero, M.
+AU - Santamaria, J.
 
 TY - MGZN
 DO - 10.1093/cvr/cvv046
@@ -2806,24 +2830,6 @@ AU - Benner, C.
 AU - Russell, B.
 
 TY - MGZN
-DO - 10.1007/s10489-014-0548-7
-TI - LTI ODE-valued neural networks
-AB - A dynamical version of the classical McCulloch & Pitts' neural model is introduced in this paper. In this new approach, artificial neurons are characterized by: i) inputs in the form of differentiable continuous-time signals, ii) linear time-invariant ordinary differential equations (LTI ODE) for connection weights, and iii) activation functions evaluated in the frequency domain. It will be shown that this new characterization of the constitutive nodes in an artificial neural network, namely LTI ODE-valued neural network (LTI ODEVNN), allows solving multiple problems at the same time using a single neural structure. Moreover, it is demonstrated that LTI ODEVNNs can be interpreted as complex-valued neural networks (CVNNs). Hence, research on this topic can be applied in a straightforward form. Standard boolean functions are implemented to illustrate the operation of LTI ODEVNNs. Concluding the paper, several future research lines are highlighted, including the need for developing learning algorithms for the newly introduced LTI ODEVNNs.
-AB - Postprint (published version)
-Y1 - 2014
-UR - http://link.springer.com/article/10.1007/s10489-014-0548-7
-UR - http://hdl.handle.net/2117/24573
-VL - 41
-IS - 2
-EP - 594
-SP - 605
-T2 - Applied intelligence
-AU - Velasco, M.
-AU - Martin, E.X.
-AU - Angulo, C.
-AU - Marti, P.
-
-TY - MGZN
 DO - 10.3390/e16052530
 TI - Measuring instantaneous and spectral information entropies by shannon entropy of choi-williams distribution in the context of electroencephalography
 AB - The theory of Shannon entropy was applied to the Choi-Williams time-frequency distribution (CWD) of time series in order to extract entropy information in both time and frequency domains. In this way, four novel indexes were defined: (1) partial instantaneous entropy, calculated as the entropy of the CWD with respect to time by using the probability mass function at each time instant taken independently; (2) partial spectral information entropy, calculated as the entropy of the CWD with respect to frequency by using the probability mass function of each frequency value taken independently; (3) complete instantaneous entropy, calculated as the entropy of the CWD with respect to time by using the probability mass function of the entire CWD; (4) complete spectral information entropy, calculated as the entropy of the CWD with respect to frequency by using the probability mass function of the entire CWD. These indexes were tested on synthetic time series with different behavior (periodic, chaotic and random) and on a dataset of electroencephalographic (EEG) signals recorded in different states (eyes-open, eyes-closed, ictal and non-ictal activity). The results have shown that the values of these indexes tend to decrease, with different proportion, when the behavior of the synthetic signals evolved from chaos or randomness to periodicity. Statistical differences (p-value < 0.0005) were found between values of these measures comparing eyes-open and eyes-closed states and between ictal and non-ictal states in the traditional EEG frequency bands. Finally, this paper has demonstrated that the proposed measures can be useful tools to quantify the different periodic, chaotic and random components in EEG signals. (c) 2014 by the authors; licensee MDPI, Basel, Switzerland.
@@ -2841,6 +2847,24 @@ AU - Melia, U.
 AU - Clari`a, F
 AU - Vallverdu, M.
 AU - Caminal, P.
+
+TY - MGZN
+DO - 10.1007/s10489-014-0548-7
+TI - LTI ODE-valued neural networks
+AB - A dynamical version of the classical McCulloch & Pitts' neural model is introduced in this paper. In this new approach, artificial neurons are characterized by: i) inputs in the form of differentiable continuous-time signals, ii) linear time-invariant ordinary differential equations (LTI ODE) for connection weights, and iii) activation functions evaluated in the frequency domain. It will be shown that this new characterization of the constitutive nodes in an artificial neural network, namely LTI ODE-valued neural network (LTI ODEVNN), allows solving multiple problems at the same time using a single neural structure. Moreover, it is demonstrated that LTI ODEVNNs can be interpreted as complex-valued neural networks (CVNNs). Hence, research on this topic can be applied in a straightforward form. Standard boolean functions are implemented to illustrate the operation of LTI ODEVNNs. Concluding the paper, several future research lines are highlighted, including the need for developing learning algorithms for the newly introduced LTI ODEVNNs.
+AB - Postprint (published version)
+Y1 - 2014
+UR - http://link.springer.com/article/10.1007/s10489-014-0548-7
+UR - http://hdl.handle.net/2117/24573
+VL - 41
+IS - 2
+EP - 594
+SP - 605
+T2 - Applied intelligence
+AU - Velasco, M.
+AU - Martin, E.X.
+AU - Angulo, C.
+AU - Marti, P.
 
 TY - MGZN
 DO - 10.1371/journal.pone.0093808
@@ -3283,6 +3307,36 @@ AU - Guti'errez-G'alvez, A.
 AU - Marco, S.
 
 TY - MGZN
+TI - Analysis of the respiratory flow cycle morphology in chronic heart failure patients applying principal components analysis
+Y1 - 2012
+UR - http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06090494
+VL - 2012
+EP - 1725
+SP - 1728
+T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+AU - Garde, A.
+AU - Giraldo, B.
+AU - S"ornmo, L.
+AU - Jane, R.
+
+TY - MGZN
+DO - 10.1016/j.jelectrocard.2011.08.013
+TI - Assessment of autonomic control of the heart during transient myocardial ischemia
+Y1 - 2012
+UR - http://www.sciencedirect.com/science/article/pii/S0022073611003293
+VL - 45
+IS - 1
+EP - 82
+SP - 89
+T2 - Journal of electrocardiology
+AU - Gomis, P.
+AU - Caminal, P.
+AU - Vallverdu, M.
+AU - Warren, S.
+AU - Stein, P.
+AU - Wagner, G.
+
+TY - MGZN
 DO - 10.1515/bmt-2012-4315
 TI - Long-term versus short-term heart rate variability analyses for risk stratification in ischemic heart failure patients
 Y1 - 2012
@@ -3317,36 +3371,6 @@ AU - Ayza, J.
 AU - Caminal, P.
 AU - Escarrabill , J.
 AU - Roca, J.
-
-TY - MGZN
-DO - 10.1016/j.jelectrocard.2011.08.013
-TI - Assessment of autonomic control of the heart during transient myocardial ischemia
-Y1 - 2012
-UR - http://www.sciencedirect.com/science/article/pii/S0022073611003293
-VL - 45
-IS - 1
-EP - 82
-SP - 89
-T2 - Journal of electrocardiology
-AU - Gomis, P.
-AU - Caminal, P.
-AU - Vallverdu, M.
-AU - Warren, S.
-AU - Stein, P.
-AU - Wagner, G.
-
-TY - MGZN
-TI - Analysis of the respiratory flow cycle morphology in chronic heart failure patients applying principal components analysis
-Y1 - 2012
-UR - http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06090494
-VL - 2012
-EP - 1725
-SP - 1728
-T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
-AU - Garde, A.
-AU - Giraldo, B.
-AU - S"ornmo, L.
-AU - Jane, R.
 
 TY - MGZN
 DO - 10.1007/s00500-011-0781-5
@@ -3630,22 +3654,6 @@ AU - Fuertes, J.M.
 AU - Martin, E.X.
 
 TY - MGZN
-DO - 10.1016/j.snb.2009.11.037
-TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
-Y1 - 2010
-UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
-VL - 146
-IS - 2
-EP - 477
-SP - 482
-T2 - Sensors and actuators B. Chemical
-AU - Perera, A.
-AU - Pardo, A.
-AU - Barrettino, D.
-AU - Hierlemann, A.
-AU - Marco, S.
-
-TY - MGZN
 DO - 10.1016/j.snb.2009.11.034
 TI - Drift compensation of gas sensor array data by common principal component analysis
 Y1 - 2010
@@ -3661,6 +3669,22 @@ AU - Chaudry, A.
 AU - Persaud, K.C.
 AU - Caminal, P.
 AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.snb.2009.11.037
+TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
+Y1 - 2010
+UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
+VL - 146
+IS - 2
+EP - 477
+SP - 482
+T2 - Sensors and actuators B. Chemical
+AU - Perera, A.
+AU - Pardo, A.
+AU - Barrettino, D.
+AU - Hierlemann, A.
+AU - Marco, S.
 
 TY - MGZN
 DO - 10.1109/TBME.2010.2047505
@@ -3790,21 +3814,6 @@ AU - Casamitjana, M.
 AU - Casals, A.
 
 TY - MGZN
-DO - 10.1109/IEMBS.2010.5626533
-TI - Spectral analysis of the RR series and the respiratory flow signal on patients in weaning process
-Y1 - 2010
-UR - http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5626533&tag=1
-VL - 2010
-EP - 2485
-SP - 2488
-T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
-AU - Arcentales, A.
-AU - Giraldo, B.
-AU - Caminal, P.
-AU - Diaz, I.
-AU - Benito, S.
-
-TY - MGZN
 DO - 10.1007/s10439-010-0027-1
 TI - Symbolic dynamic analysis of relations between cardiac and breathing cycles in patients on weaning trials
 AB - Traditional time-domain techniques of data analysis are often not sufficient to characterize the complex dynamics of the cardiorespiratory interdependencies during
@@ -3823,6 +3832,21 @@ AU - Vallverdu, M.
 AU - Benito, S.
 AU - Schroeder, R.
 AU - Voss, A.
+
+TY - MGZN
+DO - 10.1109/IEMBS.2010.5626533
+TI - Spectral analysis of the RR series and the respiratory flow signal on patients in weaning process
+Y1 - 2010
+UR - http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5626533&tag=1
+VL - 2010
+EP - 2485
+SP - 2488
+T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+AU - Arcentales, A.
+AU - Giraldo, B.
+AU - Caminal, P.
+AU - Diaz, I.
+AU - Benito, S.
 
 TY - MGZN
 DO - 10.1186/1753-6561-3-S7-S130
@@ -3976,17 +4000,6 @@ AU - W"ollnestein, J.
 AU - Marco, S.
 
 TY - MGZN
-TI - Space Carving Acceleration Using Uncertainty Measurements
-Y1 - 2009
-VL - 5524
-EP - 112
-SP - 119
-T2 - Lecture notes in computer science
-AU - P'erez, M.C.
-AU - Casamitjana, M.
-AU - Martin, E.X.
-
-TY - MGZN
 TI - Data mining of patients on weaning trials from mechanical ventilation using cluster analysis and neural networks
 Y1 - 2009
 VL - 1
@@ -4000,6 +4013,17 @@ AU - Caminal, P.
 AU - Diaz, I.
 AU - Salvador, B.
 AU - Giraldo, B.
+
+TY - MGZN
+TI - Space Carving Acceleration Using Uncertainty Measurements
+Y1 - 2009
+VL - 5524
+EP - 112
+SP - 119
+T2 - Lecture notes in computer science
+AU - P'erez, M.C.
+AU - Casamitjana, M.
+AU - Martin, E.X.
 
 TY - MGZN
 TI - Effects of propofol anesthesia on nonlinear properties of EEG: Lyapunov exponents and short-term predictability

@@ -1,0 +1,44 @@
+---
+title: "Angela Lopez del Rio"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+## Bio
+
+::: img-float
+![](images/aLopez.png){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Hi! I am a biomedical engineer (BSc from the Technical University of Madrid and MSc from the University of Barcelona/Polytechnic University of Catalonia). I did my PhD, advised by Dr. Alexandre Perera Lluna, at the B2SLab between 2017-2021.
+
+It focused on ways to ensure the quality and reliability of deep learning models used to predict how proteins and compounds interact in the early stages of drug discovery.
+
+During my PhD, I collaborated with the start-up Mind the Byte and did a research stay at Uniprot, in the European Bioinformatics Institute (EMBL) in Cambridge, UK. Since 2020, I have been working as a Data Scientist at the pharma company Boehringer Ingelheim, first in R&D in Biberach (Germany) and now back in Barcelona, in the Business Operations department.
+
+## Social Networks
+
+You can contact me on <a href="https://www.linkedin.com/in/angelalopezdelrio/">LinkedIn</a>
+
+## PhD Thesis
+
+You can access my PhD thesis **Data preprocessing and quality diagnosis in deep learning-based in silico bioactivity prediction** <a href="https://upcommons.upc.edu/handle/2117/351136">here</a>.
+
+## Publications
+
+You can also check my journal papers, also  available through <a href="https://scholar.google.es/citations?hl=es&user=6DYNpc0AAAAJ&view_op=list_works&gmla=AOv-ny81R97SBRMMuyOmLRN-7NBTuipHkvm9OuiJDfMzdEtFXoA1HZ6PKpOTuqu0HwB9r08g6aH-UQJL8DaxeMzJI3HxW9o2tzlB7_X6">Google Scholar</a>
+
+```{r}
+cache_file <- "../../doi_cache.json"
+source("../../R/getpapers.R")
+# Define the RIS file URL
+ris_url <- "https://scholar.google.com/citations?user=6DYNpc0AAAAJ"
+```
+
+```{r}
+#| output: asis
+paperstohtmlnodiv(ris_url)
+```

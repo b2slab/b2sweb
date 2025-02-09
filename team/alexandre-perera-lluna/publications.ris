@@ -69,6 +69,30 @@ AU - Perera, A.
 AU - Artuch, R.
 
 TY - MGZN
+DO - 10.1093/ndt/gfae069.238
+TI - Factors affecting disease progression in individuals with heterozygous COL4A3/COL4A4 pathogenic variants
+AB - Abstract Background and Aims Individuals with heterozygous pathogenic variants in COL4A3/COL4A4 or also known as autosomal dominant Alport syndrome (ADAS) are increasingly diagnosed and show a wide spectrum of disease. Factors contributing to these different outcomes are not well understood. Here we study a cohort of patients with pathogenic (P) or likely pathogenic (LP) variants in COL4A3/COL4A4 with slow and rapid progression to evaluate risk factors associated with the condition. Method A retrospective observational multicenter study was performed in a cohort of individuals with heterozygous P and LP in COL4A3/COL4A4. Criteria were established to classify patients into rapid (RP) and slow progression (SP) (Fig. 1). In this study, we compared both cohorts and identified risk factors of rapid progression using T-score for numeric variables or Chi square for categoric variables. For the numerical variables that were correlated with RP, a cut-off point was established fitting the data with a regression curve. Further analyses are ongoing. Results A total of 374 patients were studied, the progression of the disease was classified in 135 individuals: 82 with RP (60.7%) and 53 SP (39.3%). The remaining patients couldn't be classified due to age or missing data during follow-up. The mean age at diagnosis of classified patients was 46.61 years (SD 17.46), with 65% being women. Genetic variant distribution was COL4A3 38%, COL4A4 58%, and digenic 4%. At diagnosis, 72% of patients had albuminuria or proteinuria (mean age of diagnosis: 50 years). Among these, 52.7% had ACR or PCR greater than 300 or 500 mg/gCr, with mean ACR at 445.92 mg/gCr (SD 587.54, max 2240 mg/g) and mean PCR at 968.38 (SD 1422, max 10633). 94% individuals had hematuria (mean age at diagnosis: 36.27 years). Forty-nine patients (36%) had CKD G-5, with a mean age of diagnosis of 53.08 years (SD 12.42). The mean eGFR was 67.56 (SD 30.56 ml/min). Results of kidney biopsy were available for 51 patients. 73 individuals had hypertension (HTN) with a mean age at diagnosis of 46.30 years (SD 13.81). A total of 82 patients responded to personal habits questionnaire. With all the variables studied, a total of 4 main variables were associated with RP. - Presence of albuminuria or proteinuria measured by ACR (>300 mg/gCr) or PCR at diagnosis or during follow-up (>500 mg/gCr) (p < 0.001). - Age at diagnosis of HTN (p < 0.0001) establishing a cut-off point at 40 years (R2 0.85) - Age at diagnosis of the condition (p = 0.0046) establishing a cutoff point of 42 years (R2 0.61) - Years of smoking (p = 0.009) with a cut-off point 11.8 years (R2 0.72) The main variables associated with a worse outcome in individuals with heterozygous pathogenic variants in COL4A3/COL4A4 is the presence of albuminuria/proteinuria, HTN, age at diagnosis of HTN and age at diagnosis of the disease. Smoking has also been associated with a worse outcome when an exposure time over 11.8 years. More studies are still needed to understand the reasons for the huge phenotypic variability of this condition.
+Y1 - 2024
+UR - https://academic.oup.com/ndt/article/39/Supplement_1/gfae069-0238-2068/7677434?login=true
+VL - 39
+IS - Supplement_1
+EP - i416
+SP - i417
+T2 - Nephrology dialysis transplantation
+AU - Melissa, T.
+AU - Furlano, M.
+AU - Pybus, M.
+AU - Mart'inez, V.
+AU - Gom'a, E.
+AU - Gal'an, I.
+AU - Le'on Carrasco, R.
+AU - Soler, M.
+AU - Fayos de Ariz'on, L.
+AU - Perera, A.
+AU - Ars, E.
+AU - Torra, R.
+
+TY - MGZN
 DO - 10.1186/s12933-024-02202-5
 TI - Lipidome characterisation and sex-specific differences in type 1 and type 2 diabetes mellitus
 AB - Background: In this study, we evaluated the lipidome alterations caused by type 1 diabetes (T1D) and type 2 diabetes (T2D), by determining lipids significantly associated with diabetes overall and in both sexes, and lipids associated with the glycaemic state. Methods: An untargeted lipidomic analysis was performed to measure the lipid profiles of 360 subjects (91 T1D, 91 T2D, 74 with prediabetes and 104 controls (CT)) without cardiovascular and/or chronic kidney disease. Ultra-high performance liquid chromatography-electrospray ionization mass spectrometry (UHPLC-ESI-MS) was conducted in two ion modes (positive and negative). We used multiple linear regression models to (1) assess the association between each lipid feature and each condition, (2) determine sex-specific differences related to diabetes, and (3) identify lipids associated with the glycaemic state by considering the prediabetes stage. The models were adjusted by sex, age, hypertension, dyslipidaemia, body mass index, glucose, smoking, systolic blood pressure, triglycerides, HDL cholesterol, LDL cholesterol, alternate Mediterranean diet score (aMED) and estimated glomerular filtration rate (eGFR); diabetes duration and glycated haemoglobin (HbA1c) were also included in the comparison between T1D and T2D. Results: A total of 54 unique lipid subspecies from 15 unique lipid classes were annotated. Lysophosphatidylcholines (LPC) and ceramides (Cer) showed opposite effects in subjects with T1D and subjects with T2D, LPCs being mainly up-regulated in T1D and down-regulated in T2D, and Cer being up-regulated in T2D and down-regulated in T1D. Also, Phosphatidylcholines were clearly down-regulated in subjects with T1D. Regarding sex-specific differences, ceramides and phosphatidylcholines exhibited important diabetes-associated differences due to sex. Concerning the glycaemic state, we found a gradual increase of a panel of 1-deoxyceramides from normoglycemia to prediabetes to T2D. Conclusions: Our findings revealed an extensive disruption of lipid metabolism in both T1D and T2D. Additionally, we found sex-specific lipidome changes associated with diabetes, and lipids associated with the glycaemic state that can be linked to previously described molecular mechanisms in diabetes.
@@ -399,24 +423,6 @@ AU - Quiroz, L.
 AU - Alcaraz Casademunt, Jordi
 
 TY - MGZN
-DO - 10.1021/acs.jcim.1c00086
-TI - Balancing data on deep learning-based proteochemometric activity classification
-AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
-AB - Peer Reviewed
-AB - Postprint (published version)
-Y1 - 2021
-UR - https://pubs.acs.org/doi/10.1021/acs.jcim.1c00086
-UR - http://hdl.handle.net/2117/353767
-VL - 61
-IS - 4
-EP - 1657
-SP - 1669
-T2 - Journal of chemical information and modeling
-AU - Lopez, A.
-AU - Picart, S.
-AU - Perera, A.
-
-TY - MGZN
 DO - 10.1108/ET-11-2020-0334
 TI - Game learning analytics of instant messaging and online discussion forums in higher education
 AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
@@ -433,6 +439,24 @@ T2 - Education and Training
 AU - Hern'andez-Lara, A.
 AU - Perera, A.
 AU - Serradell-L'opez, E.
+
+TY - MGZN
+DO - 10.1021/acs.jcim.1c00086
+TI - Balancing data on deep learning-based proteochemometric activity classification
+AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://pubs.acs.org/doi/10.1021/acs.jcim.1c00086
+UR - http://hdl.handle.net/2117/353767
+VL - 61
+IS - 4
+EP - 1657
+SP - 1669
+T2 - Journal of chemical information and modeling
+AU - Lopez, A.
+AU - Picart, S.
+AU - Perera, A.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/btaa1069
@@ -1448,22 +1472,6 @@ AU - Caminal, P.
 AU - Perera, A.
 
 TY - MGZN
-DO - 10.1016/j.snb.2009.11.037
-TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
-Y1 - 2010
-UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
-VL - 146
-IS - 2
-EP - 477
-SP - 482
-T2 - Sensors and actuators B. Chemical
-AU - Perera, A.
-AU - Pardo, A.
-AU - Barrettino, D.
-AU - Hierlemann, A.
-AU - Marco, S.
-
-TY - MGZN
 DO - 10.1016/j.snb.2009.11.034
 TI - Drift compensation of gas sensor array data by common principal component analysis
 Y1 - 2010
@@ -1479,6 +1487,22 @@ AU - Chaudry, A.
 AU - Persaud, K.C.
 AU - Caminal, P.
 AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.snb.2009.11.037
+TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
+Y1 - 2010
+UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
+VL - 146
+IS - 2
+EP - 477
+SP - 482
+T2 - Sensors and actuators B. Chemical
+AU - Perera, A.
+AU - Pardo, A.
+AU - Barrettino, D.
+AU - Hierlemann, A.
+AU - Marco, S.
 
 TY - MGZN
 DO - 10.1109/TIT.2009.2037038

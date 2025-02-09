@@ -7,7 +7,6 @@ execute:
   echo: false
 ---
 
-
 ## Bio
 
 ::: img-float
@@ -16,17 +15,15 @@ execute:
 
 I am Associate Professor (professor agregat) at the Universitat Politècnica de Catalunya, under the Serra-Húnter program.
 
-
 ## Publications
 
-You can check my publications at [google scholar](https://scholar.google.com/citations?user=oAe0nMkAAAAJ&hl=en) or check the (possibly incomplete) list below: 
-
+You can check my publications at [google scholar](https://scholar.google.com/citations?user=oAe0nMkAAAAJ&hl=en) or check the (possibly incomplete) list below:
 
 ```{r}
 cache_file <- "../../doi_cache.json"
 source("../../R/getpapers.R")
 # Define the RIS file URL
-ris_url <- "https://futur.upc.edu/JordiFonollosaMagrinya/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=en"
+ris_url <- "https://futur.upc.edu/RIS/JordiFonollosaMagrinya/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=//?locale=en"
 ```
 
 ```{r}
