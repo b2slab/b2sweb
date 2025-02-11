@@ -2,8 +2,8 @@
 title: "Could we predict patient trajectories in Type 2 Diabetes Mellitus?"
 description: "A Deep Attention-Based Encoder for the Prediction of Type 2 Diabetes Longitudinal Outcomes from Routinely Collected Health Care Data"
 author: "E. Manzini"
-date: "02/07/2025"
-date-modified: "02/07/2025"
+date: "02/11/2025"
+date-modified: "02/11/2025"
 ---
 
 ## Connect with Us
@@ -12,23 +12,21 @@ date-modified: "02/07/2025"
 ![](web.png){style="float: left; margin: 5px; width: 200px;"}
 :::
 
-Our paper *[A Deep Attention-Based Encoder for the Prediction of Type 2 Diabetes Longitudinal Outcomes from Routinely Collected Health Care Data](https://doi.org/10.1101/2024.11.02.24316561)*, to be published on the Expert Systems With Applications Journal, introduces DARE, a novel deep learning model designed to enhance the management of Type 2 Diabetes Mellitus (T2DM). 
+Our paper [*A Deep Attention-Based Encoder for the Prediction of Type 2 Diabetes Longitudinal Outcomes from Routinely Collected Health Care Data*](https://doi.org/10.1101/2024.11.02.24316561), to be published on the Expert Systems With Applications Journal, introduces DARE, a novel deep learning model designed to enhance the management of Type 2 Diabetes Mellitus (T2DM).
 
-Developed by researchers from b2slab at IRIS, jointly with Dr. Mauricio at Sant Pau and Dr. Franch at IDIAPJGol, DARE leverages transformer-based architecture to analyze complex, longitudinal healthcare data.  
-
-
-
+Developed by researchers from b2slab at IRIS, jointly with Dr. Mauricio at Sant Pau and Dr. Franch at IDIAPJGol, DARE leverages transformer-based architecture to analyze complex, longitudinal healthcare data.
 
 ## Key Highlights:
 
-- Model Architecture: DARE is built upon a transformer encoder framework, adept at processing sequences of clinical events such as diagnoses, treatments, and laboratory results. This design enables the model to capture intricate patterns and relationships within the data.
+-   Model Architecture: DARE is built upon a transformer encoder framework, adept at processing sequences of clinical events such as diagnoses, treatments, and laboratory results. This design enables the model to capture intricate patterns and relationships within the data.
 
-- Data Utilization: The model was trained on data from over 200,000 individuals with T2DM, sourced from the SIDIAP database. This extensive dataset encompasses diagnostic codes, medication records, and various clinical measurements, providing a comprehensive view of patient health trajectories.
+-   Data Utilization: The model was trained on data from over 200,000 individuals with T2DM, sourced from the SIDIAP database. This extensive dataset encompasses diagnostic codes, medication records, and various clinical measurements, providing a comprehensive view of patient health trajectories.
 
-- Predictive Capabilities: After an initial unsupervised training phase, DARE was fine-tuned to predict three critical clinical outcomes:
-  1. Development of comorbidities.
-  1. Achievement of target glycemic control (defined as glycated hemoglobin levels below 7%).
-  1. Adjustments in glucose-lowering treatments.
+-   Predictive Capabilities: After an initial unsupervised training phase, DARE was fine-tuned to predict three critical clinical outcomes:
+
+    1.  Development of comorbidities.
+    2.  Achievement of target glycemic control (defined as glycated hemoglobin levels below 7%).
+    3.  Adjustments in glucose-lowering treatments.
 
 In validation tests, DARE demonstrated superior performance compared to traditional models, achieving area under the curve (AUC) scores of 0.88 for comorbidity prediction, 0.91 for treatment changes, and 0.82 for glycemic control targets.
 
@@ -36,4 +34,4 @@ In validation tests, DARE demonstrated superior performance compared to traditio
 
 The introduction of DARE signifies a significant advancement in personalized diabetes care. By accurately forecasting disease progression and treatment responses, healthcare providers can tailor interventions more effectively, potentially improving patient outcomes. Moreover, the model's ability to analyze vast amounts of routinely collected health data underscores the growing role of artificial intelligence in transforming medical practice.
 
-As the prevalence of T2DM continues to rise globally, tools like DARE offer promising avenues for enhancing disease management through data-driven insights and personalized care strategies. 
+As the prevalence of T2DM continues to rise globally, tools like DARE offer promising avenues for enhancing disease management through data-driven insights and personalized care strategies.
