@@ -12,9 +12,11 @@ date-modified: "02/07/2025"
 ![](web.png){style="float: left; margin: 5px; width: 200px;"}
 :::
 
-Our paper "A Deep Attention-Based Encoder for the Prediction of Type 2 Diabetes Longitudinal Outcomes from Routinely Collected Health Care Data", to be published on the Expert Systems With Applications Journal, introduces DARE, a novel deep learning model designed to enhance the management of Type 2 Diabetes Mellitus (T2DM). 
+Our paper *[A Deep Attention-Based Encoder for the Prediction of Type 2 Diabetes Longitudinal Outcomes from Routinely Collected Health Care Data](https://doi.org/10.1101/2024.11.02.24316561)*, to be published on the Expert Systems With Applications Journal, introduces DARE, a novel deep learning model designed to enhance the management of Type 2 Diabetes Mellitus (T2DM). 
 
 Developed by researchers from b2slab at IRIS, jointly with Dr. Mauricio at Sant Pau and Dr. Franch at IDIAPJGol, DARE leverages transformer-based architecture to analyze complex, longitudinal healthcare data.  
+
+
 
 
 ## Key Highlights:
