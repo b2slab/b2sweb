@@ -44,12 +44,12 @@ A possibly incomplete and malformatted list of publications is included below:
 ```{r}
 cache_file <- "../../doi_cache.json"
 source("../../R/getpapers.R")
- Define the RIS file URL
+# Define the RIS file URL
 ris_url <- "https://futur.upc.edu/RIS/PedroGomisRoman/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=en"
 ```
 
 ```{r}
-| output: asis
+#| output: asis
 paperstohtmlnodiv(ris_url)
 ```
 
