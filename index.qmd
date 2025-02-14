@@ -28,7 +28,11 @@ resources:
 
 This is a research group member of the [Institut de Recerca i Innovació en Salut (IRIS)](https://iris.upc.edu) of the Universitat Politècnica de Catalunya (UPC) in Barcelona, Spain. Former member of the Research Center for Biomedical Engineering (CREB)
 
-Our main three research lines are : - Analysis of large datasets from primary and non-primary care related datasets. - Methods in Bioinformatics, specially in metabolomics - Biomedical Engineering
+Our main three research lines are :
+
+- Analysis of large datasets from primary and non-primary care related datasets.
+- Methods in Bioinformatics, specially in metabolomics 
+- Biomedical Engineering
 
 The Bioinformatics and Biomedical Signals Laboratory (B2SLab) at the Universitat Politècnica de Catalunya (UPC) focuses on the intersection of bioinformatics and biomedical signal processing. Our research encompasses areas such as computational modeling, machine learning, and data analysis applied to biological and medical data.
 
