@@ -15,7 +15,7 @@ execute:
 
 Senior researcher at Institut de Recerca i Innovació en Salut (IRIS) and Associate Professor at Barcelona Tech (UPC), specialization in automatic control engineering at the Graduate and Master’s levels and biomedical signal processing and modeling at PhD level. She is also member of the Bioinformatics and Biomedical Signals Laboratory (B2SLab) research group at the UPC and CIBER of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN). Her main research focuses on the complexity and time-frequency analysis to the recovery of the clinically useful hidden information in cardiac, respiratory and brain signals, and on the identification and simulation of their involved physiological control mechanisms.
 
-## **Doctoral Thesis supervisor**
+## Doctoral Thesis supervisor
 
 1.  **John Bustamante Osorno**, (1995). “Análisis del flujo transmitral mediante el modelado y la simulación por computador”, Universitat Politècnica de Catalunya – co-supervised with Dr. Xavier Borrás from Universidad Autónoma.de Barcelona.
 

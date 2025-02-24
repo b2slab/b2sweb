@@ -144,12 +144,16 @@ TY - MGZN
 DO - 10.3390/ijms25063502
 TI - Use of enzymatically converted cell-free DNA (cfDNA) data for copy number variation-linked fragmentation analysis allows for early colorectal cancer detection
 AB - The use of non-invasive liquid biopsy-based cell-free DNA (cfDNA) analysis is an emerging method of cancer detection and intervention. Different analytical methodologies are used to investigate cfDNA characteristics, resulting in costly and long analysis processes needed for combining different data. This study investigates the possibility of using cfDNA data converted for methylation analysis for combining the cfDNA fragment size with copy number variation (CNV) in the context of early colorectal cancer detection. Specifically, we focused on comparing enzymatically and bisulfite-converted data for evaluating cfDNA fragments belonging to chromosome 18. Chromosome 18 is often reported to be deleted in colorectal cancer. We used counts of short and medium cfDNA fragments of chromosome 18 and trained a linear model (LDA) on a set of 2959 regions to predict early-stage (I-IIA) colorectal cancer on an independent test set. In total, 87.5% sensitivity and 92% specificity were obtained on the enzymatically converted libraries. Repeating the same workflow on bisulfite-converted data yielded lower accuracy results with 58.3% sensitivity, implying that enzymatic conversion preserves the cancer fragmentation footprint in whole genome data better than bisulfite conversion. These results could serve as a promising new avenue for the early detection of colorectal cancer using fragmentation and methylation approaches on the same datasets.
+AB - This work was supported by the Grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by ERDF A way of making Europe; the Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigaci'on Carlos III (ISCIII); ISCIII (grant AC22/00035); and the CERCA Programme/Generalitat de Catalunya. B2SLab is certified as 2021 SGR 01052; and private funding by UniversalDx S.A.
+AB - Peer Reviewed
+AB - Postprint (published version)
 Y1 - 2024
 UR - https://www.mdpi.com/1422-0067/25/6/3502
 UR - http://hdl.handle.net/2117/423334
 VL - 25
 IS - 6, article 3502
 T2 - International journal of molecular sciences
+PB - Multidisciplinary Digital Publishing Institute (MDPI)
 AU - Canal, P.
 AU - Perera, A.
 
@@ -438,21 +442,6 @@ AU - Laguna, P.
 AU - Ram'irez, J.
 
 TY - MGZN
-DO - 10.1016/j.jenvman.2022.114787
-TI - COVID-19 impact on maritime traffic and corresponding pollutant emissions. The case of the Port of Barcelona
-AB - The impact of the SARS-CoV pandemic has gone well beyond health concerns, reaching the maritime industry. The study on the environmental impact of shipping industry during COVID-19 pandemic can provide useful insights to propose new management policies regarding shipping operations, both in-port and on the route. We present a case study centred in the Port of Barcelona covering a 30 nautical miles range in the period March to July 2020, during which different levels of restrictions and stringent lockdown measures were enforced. In this paper, we assess the impact of COVID-19 on maritime traffic and its related emissions in port cities using real-time Automatic Identification System (AIS) data. Interestingly, results show that the decline in maritime traffic is not correlated with a decrease in maritime emissions due to changes in vessel operation. During lockdown (March to June 2020), we observed a 27.9% reduction in the number of port calls compared to the pre-lockdown scenario, whereas pollutant emissions show a moderate decrease (1.8% for CO2), no significant reduction (SO2 and PM) or a slight increase (1.3% for NOx). This can be directly assigned to changes in vessel operation mode, i.e. vessels switched from Underway to At Anchor or Moored status, during which auxiliary engines are used at higher loads.
-AB - Postprint (author's final draft)
-Y1 - 2022
-UR - https://pubmed.ncbi.nlm.nih.gov/35248988/
-UR - http://hdl.handle.net/2117/365197
-T2 - Journal of environmental management
-AU - Mujal-Colilles, A.
-AU - Nieto, J.
-AU - Fonollosa, J.
-AU - Llull, T.
-AU - Castells-Sanabra, Marcella
-
-TY - MGZN
 DO - 10.1016/j.tmp.2022.100948
 TI - #CoronavirusCruise: Impact and implications of the COVID-19 outbreaks on the perception of cruise tourism
 AB - Early in the COVID-19 pandemic, the Diamond Princess became the center of the largest outbreak outside the original epicenter in China. This outbreak which left 712 passengers infected and 14 dead, followed by subsequent outbreaks affecting over one-third of the active ships in the cruise industry's global fleet, quickly became a crisis that captured public attention and dominated mainstream news and social media. This study investigates the perception of cruising during these outbreaks by analyzing the tweets on cruising using Natural Language Processing (NLP). The findings show a prevalent negative sentiment in most of the analyzed tweets, while the criticisms directed at the cruise industry were based on perceptions and stereotypes of the industry before the pandemic. The study provides insight into the concerns raised in these conversations and highlights the need for new business models outside the pre-pandemic mass-market model and to genuinely make cruising more environmentally friendly.
@@ -490,6 +479,21 @@ AU - Marco, S.
 AU - Fonollosa, J.
 
 TY - MGZN
+DO - 10.1016/j.jenvman.2022.114787
+TI - COVID-19 impact on maritime traffic and corresponding pollutant emissions. The case of the Port of Barcelona
+AB - The impact of the SARS-CoV pandemic has gone well beyond health concerns, reaching the maritime industry. The study on the environmental impact of shipping industry during COVID-19 pandemic can provide useful insights to propose new management policies regarding shipping operations, both in-port and on the route. We present a case study centred in the Port of Barcelona covering a 30 nautical miles range in the period March to July 2020, during which different levels of restrictions and stringent lockdown measures were enforced. In this paper, we assess the impact of COVID-19 on maritime traffic and its related emissions in port cities using real-time Automatic Identification System (AIS) data. Interestingly, results show that the decline in maritime traffic is not correlated with a decrease in maritime emissions due to changes in vessel operation. During lockdown (March to June 2020), we observed a 27.9% reduction in the number of port calls compared to the pre-lockdown scenario, whereas pollutant emissions show a moderate decrease (1.8% for CO2), no significant reduction (SO2 and PM) or a slight increase (1.3% for NOx). This can be directly assigned to changes in vessel operation mode, i.e. vessels switched from Underway to At Anchor or Moored status, during which auxiliary engines are used at higher loads.
+AB - Postprint (author's final draft)
+Y1 - 2022
+UR - https://pubmed.ncbi.nlm.nih.gov/35248988/
+UR - http://hdl.handle.net/2117/365197
+T2 - Journal of environmental management
+AU - Mujal-Colilles, A.
+AU - Nieto, J.
+AU - Fonollosa, J.
+AU - Llull, T.
+AU - Castells-Sanabra, Marcella
+
+TY - MGZN
 DO - 10.1155/2022/3652441
 TI - Reinforcement learning with probabilistic boolean network models of smart grid devices
 AB - The area of smart power grids needs to constantly improve its efficiency and resilience, to provide high quality electrical power in a resilient grid, while managing faults and avoiding failures. Achieving this requires high component reliability, adequate maintenance, and a studied failure occurrence. Correct system operation involves those activities and novel methodologies to detect, classify, and isolate faults and failures and model and simulate processes with predictive algorithms and analytics (using data analysis and asset condition to plan and perform activities). In this paper, we showcase the application of a complex-adaptive, self-organizing modeling method, and Probabilistic Boolean Networks (PBNs), as a way towards the understanding of the dynamics of smart grid devices, and to model and characterize their behavior. This work demonstrates that PBNs are equivalent to the standard Reinforcement Learning Cycle, in which the agent/model has an interaction with its environment and receives feedback from it in the form of a reward signal. Different reward structures were created to characterize preferred behavior. This information can be used to guide the PBN to avoid fault conditions and failures.
@@ -521,8 +525,8 @@ EP - 1
 SP - 12
 T2 - Nature communications
 AU - Spencer, T.
-AU - Fonollosa, J.
 AU - Clark, A.
+AU - Fonollosa, J.
 AU - Virot, E.
 AU - Hu, D.
 
@@ -690,6 +694,27 @@ AU - Ryll, B.
 AU - Nafria, B.
 
 TY - MGZN
+DO - 10.4067/S0718-33052021000100027
+TI - Time-delay selection in poincar'e plot: assessing sedation-analgesia levels with eeg signals Selecci'on del tiempo de retardo en el gr'afico de poincar'e: Medici'on de los niveles de sedaci'on y analgesia con se~nales eeg
+AB - El gr'afico de Poincar'e es un m'etodo no lineal que permite analizar la variabilidad de una se~nal, dibujando dicha se~nal contra ella misma retardada en el tiempo. Aunque este m'etodo ha sido aplicado al an'alisis del electroencefalograma (EEG) para la medici'on de niveles de anestesia general, su aplicaci'on en la medici'on de niveles de anestesia ligera a'un no se ha abordado con profundidad. En este trabajo, se consideran varios tiempos de retardo en el gr'afico de Poincar'e para caracterizar el nivel de anestesia ligera en 110 pacientes sometidos a endoscopia digestiva. Los 'indices de Poincar'e son combinados con par'ametros espectrales de se~nales que contienen informaci'on del EEG y del EMG (electromiograf'ia) para modelar los niveles de anestesia ligera, teniendo como referencia la escala de sedaci'on Ramsay. La mejor predicci'on, utilizando 'indices del gr'afico de Poincar'e, del nivel de sedaci'on y analgesia (Pk = 0,711) se obtiene usando un retardo de 8 ms en el rango de frecuencia de 30-110 Hz y de 6 ms en el rango de frecuencia de 0,5 - 30 Hz, respectivamente. La combinaci'on de diferentes par'ametros permiti'o obtener valores de Pk = 0,799.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-33052021000100027&lng=en&nrm=iso&tlng=en
+UR - http://hdl.handle.net/2117/352887
+VL - 29
+IS - 1
+EP - 27
+SP - 40
+T2 - Ingeniare
+AU - Bola~nos , J.
+AU - Valencia, J.
+AU - Vallverdu, M.
+AU - Valencia , D.
+AU - Borrat, X.
+AU - Garnb'us, P.
+
+TY - MGZN
 DO - 10.1016/j.canlet.2021.01.028
 TI - MMP1 drives tumor progression in large cell carcinoma of the lung through fibroblast senescence
 AB - Large cell carcinoma (LCC) is a rare and aggressive lung cancer subtype with poor prognosis and no targeted therapies. Tumor-associated fibroblasts (TAFs) derived from LCC tumors exhibit premature senescence, and coculture of pulmonary fibroblasts with LCC cell lines selectively induces fibroblast senescence, which in turn drives LCC cell growth and invasion. Here we identify MMP1 as overexpressed specifically in LCC cell lines, and we show that expression of MMP1 by LCC cells is necessary for induction of fibroblast senescence and consequent tumor promotion in both cell culture and mouse models. We also show that MMP1, in combination with TGF-ss1, is sufficient to induce fibroblast senescence and consequent LCC promotion. Furthermore, we implicate PAR-1 and oxidative stress in MMP1/TGF-ss1-induced TAF senescence. Our results establish an entirely new role for MMP1 in cancer, and support a novel therapeutic strategy in LCC based on targeting senescent TAFs.
@@ -710,27 +735,6 @@ AU - Perera, A.
 AU - Reguart, N.
 AU - Quiroz, L.
 AU - Alcaraz Casademunt, Jordi
-
-TY - MGZN
-DO - 10.4067/S0718-33052021000100027
-TI - Time-delay selection in poincar'e plot: assessing sedation-analgesia levels with eeg signals Selecci'on del tiempo de retardo en el gr'afico de poincar'e: Medici'on de los niveles de sedaci'on y analgesia con se~nales eeg
-AB - El gr'afico de Poincar'e es un m'etodo no lineal que permite analizar la variabilidad de una se~nal, dibujando dicha se~nal contra ella misma retardada en el tiempo. Aunque este m'etodo ha sido aplicado al an'alisis del electroencefalograma (EEG) para la medici'on de niveles de anestesia general, su aplicaci'on en la medici'on de niveles de anestesia ligera a'un no se ha abordado con profundidad. En este trabajo, se consideran varios tiempos de retardo en el gr'afico de Poincar'e para caracterizar el nivel de anestesia ligera en 110 pacientes sometidos a endoscopia digestiva. Los 'indices de Poincar'e son combinados con par'ametros espectrales de se~nales que contienen informaci'on del EEG y del EMG (electromiograf'ia) para modelar los niveles de anestesia ligera, teniendo como referencia la escala de sedaci'on Ramsay. La mejor predicci'on, utilizando 'indices del gr'afico de Poincar'e, del nivel de sedaci'on y analgesia (Pk = 0,711) se obtiene usando un retardo de 8 ms en el rango de frecuencia de 30-110 Hz y de 6 ms en el rango de frecuencia de 0,5 - 30 Hz, respectivamente. La combinaci'on de diferentes par'ametros permiti'o obtener valores de Pk = 0,799.
-AB - Peer Reviewed
-AB - Postprint (published version)
-Y1 - 2021
-UR - https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0718-33052021000100027&lng=en&nrm=iso&tlng=en
-UR - http://hdl.handle.net/2117/352887
-VL - 29
-IS - 1
-EP - 27
-SP - 40
-T2 - Ingeniare
-AU - Bola~nos , J.
-AU - Valencia, J.
-AU - Vallverdu, M.
-AU - Valencia , D.
-AU - Borrat, X.
-AU - Garnb'us, P.
 
 TY - MGZN
 DO - 10.1038/s41598-021-82935-5
@@ -1166,26 +1170,6 @@ AU - Vallverdu, M.
 AU - Bail'on, R.
 
 TY - MGZN
-DO - 10.1021/acs.jcim.8b00663
-TI - Evaluation of cross-validation strategies in sequence-based binding prediction using deep learning
-AB - Binding prediction between targets and drug-like compounds through deep neural networks has generated promising results in recent years, outperforming traditional machine learning-based methods. However, the generalization capability of these classification models is still an issue to be addressed. In this work, we explored how different cross-validation strategies applied to data from different molecular databases affect to the performance of binding prediction proteochemometrics models. These strategies are (1) random splitting, (2) splitting based on K-means clustering (both of actives and inactives), (3) splitting based on source database, and (4) splitting based both in the clustering and in the source database. These schemas are applied to a deep learning proteochemometrics model and to a simple logistic regression model to be used as baseline. Additionally, two different ways of describing molecules in the model are tested: (1) by their SMILES and (2) by three fingerprints. The classification performance of our deep learning-based proteochemometrics model is comparable to the state of the art. Our results show that the lack of generalization of these models is due to a bias in public molecular databases and that a restrictive cross-validation schema based on compound clustering leads to worse but more robust and credible results. Our results also show better performance when representing molecules by their fingerprints.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2019
-UR - https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00663
-UR - http://hdl.handle.net/2117/168430
-UR - https://chemrxiv.org/articles/Evaluation_of_Cross-Validation_Strategies_in_Sequence-Based_Binding_Prediction_Using_Deep_Learning/7133885/1
-VL - 58
-IS - 4
-EP - 1645
-SP - 1657
-T2 - Journal of chemical information and modeling
-AU - Lopez, A.
-AU - Nonell, A.
-AU - Vidal, D.
-AU - Perera, A.
-
-TY - MGZN
 DO - 10.1016/j.artmed.2018.11.006
 TI - Recursive model identification for the analysis of the autonomic response to exercise testing in Brugada syndrome
 AB - This paper proposes the integration and analysis of a closed-loop model of the baroreflex and cardiovascular systems, focused on a time-varying estimation of the autonomic modulation of heart rate in Brugada syndrome (BS), during exercise and subsequent recovery. Patient-specific models of 44 BS patients at different levels of risk (symptomatic and asymptomatic) were identified through a recursive evolutionary algorithm. After parameter identification, a close match between experimental and simulated signals (mean error = 0.81%) was observed. The model-based estimation of vagal and sympathetic contributions were consistent with physiological knowledge, enabling to observe the expected autonomic changes induced by exercise testing. In particular, symptomatic patients presented a significantly higher parasympathetic activity during exercise, and an autonomic imbalance was observed in these patients at peak effort and during post-exercise recovery. A higher vagal modulation during exercise, as well as an increasing parasympathetic activity at peak effort and a decreasing vagal contribution during post-exercise recovery could be related with symptoms and, thus, with a worse prognosis in BS. This work proposes the first evaluation of the sympathetic and parasympathetic responses to exercise testing in patients suffering from BS, through the recursive identification of computational models; highlighting important trends of clinical relevance that provide new insights into the underlying autonomic mechanisms regulating the cardiovascular system in BS. The joint analysis of the extracted autonomic parameters and classic electrophysiological markers could improve BS risk stratification. (c) 2018 Elsevier B.V.
@@ -1204,6 +1188,26 @@ AU - B'ehar, N.
 AU - Gomis, P.
 AU - Mabo, P.
 AU - Hernandez, A.I.
+
+TY - MGZN
+DO - 10.1021/acs.jcim.8b00663
+TI - Evaluation of cross-validation strategies in sequence-based binding prediction using deep learning
+AB - Binding prediction between targets and drug-like compounds through deep neural networks has generated promising results in recent years, outperforming traditional machine learning-based methods. However, the generalization capability of these classification models is still an issue to be addressed. In this work, we explored how different cross-validation strategies applied to data from different molecular databases affect to the performance of binding prediction proteochemometrics models. These strategies are (1) random splitting, (2) splitting based on K-means clustering (both of actives and inactives), (3) splitting based on source database, and (4) splitting based both in the clustering and in the source database. These schemas are applied to a deep learning proteochemometrics model and to a simple logistic regression model to be used as baseline. Additionally, two different ways of describing molecules in the model are tested: (1) by their SMILES and (2) by three fingerprints. The classification performance of our deep learning-based proteochemometrics model is comparable to the state of the art. Our results show that the lack of generalization of these models is due to a bias in public molecular databases and that a restrictive cross-validation schema based on compound clustering leads to worse but more robust and credible results. Our results also show better performance when representing molecules by their fingerprints.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2019
+UR - https://pubs.acs.org/doi/abs/10.1021/acs.jcim.8b00663
+UR - http://hdl.handle.net/2117/168430
+UR - https://chemrxiv.org/articles/Evaluation_of_Cross-Validation_Strategies_in_Sequence-Based_Binding_Prediction_Using_Deep_Learning/7133885/1
+VL - 58
+IS - 4
+EP - 1645
+SP - 1657
+T2 - Journal of chemical information and modeling
+AU - Lopez, A.
+AU - Nonell, A.
+AU - Vidal, D.
+AU - Perera, A.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/bty1039
@@ -1529,6 +1533,28 @@ AU - Perera, A.
 AU - Mont, L.
 
 TY - MGZN
+DO - 10.1093/bioinformatics/btx632
+TI - diffuStats: an R package to compute diffusion-based scores on biological networks
+AB - Label propagation and diffusion over biological networks are a common mathematical formalism in computational biology for giving context to molecular entities and prioritising novel candidates in the area of study. 
+There are several choices in conceiving the diffusion process -involving the graph kernel, the score definitions and the presence of a posterior statistical normalisation- which have an impact on the results. 
+This manuscript describes diffuStats, an R package that provides a collection of graph kernels and diffusion scores, as well as a parallel permutation analysis for the normalised scores, that eases the computation of the scores and their benchmarking for an optimal choice.
+AB - This is a pre-copyedited, author-produced version of an article accepted for publication in Bioinformatics following peer review. The version of record Sergio Picart-Armada, Wesley K Thompson, Alfonso Buil, Alexandre Perera-Lluna; diffuStats: an R package to compute diffusion-based scores on biological networks, Bioinformatics, Volume 34, Issue 3, 1 February 2018, Pages 533-534 is available online at: https://doi.org/10.1093/bioinformatics/btx632.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://academic.oup.com/bioinformatics/article-abstract/34/3/533/4347202?redirectedFrom=fulltext
+UR - http://hdl.handle.net/2117/114063
+VL - 34
+IS - 3
+EP - 533
+SP - 534
+T2 - Bioinformatics
+AU - Picart, S.
+AU - Thompson, W.
+AU - Buil Demur, A.
+AU - Perera, A.
+
+TY - MGZN
 DO - 10.3414/ME17-01-0071
 TI - Time-frequency features for impedance cardiography signals during anesthesia using different distribution kernels
 AB - Objective: This works investigates the time-frequency content of impedance cardiography signals during a propofol-remifentanil anesthesia.
@@ -1552,28 +1578,6 @@ AU - Escriv'a, J.
 AU - Gambus, P.
 AU - Jensen, E.W.
 AU - Vallverdu, M.
-
-TY - MGZN
-DO - 10.1093/bioinformatics/btx632
-TI - diffuStats: an R package to compute diffusion-based scores on biological networks
-AB - Label propagation and diffusion over biological networks are a common mathematical formalism in computational biology for giving context to molecular entities and prioritising novel candidates in the area of study. 
-There are several choices in conceiving the diffusion process -involving the graph kernel, the score definitions and the presence of a posterior statistical normalisation- which have an impact on the results. 
-This manuscript describes diffuStats, an R package that provides a collection of graph kernels and diffusion scores, as well as a parallel permutation analysis for the normalised scores, that eases the computation of the scores and their benchmarking for an optimal choice.
-AB - This is a pre-copyedited, author-produced version of an article accepted for publication in Bioinformatics following peer review. The version of record Sergio Picart-Armada, Wesley K Thompson, Alfonso Buil, Alexandre Perera-Lluna; diffuStats: an R package to compute diffusion-based scores on biological networks, Bioinformatics, Volume 34, Issue 3, 1 February 2018, Pages 533-534 is available online at: https://doi.org/10.1093/bioinformatics/btx632.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2018
-UR - https://academic.oup.com/bioinformatics/article-abstract/34/3/533/4347202?redirectedFrom=fulltext
-UR - http://hdl.handle.net/2117/114063
-VL - 34
-IS - 3
-EP - 533
-SP - 534
-T2 - Bioinformatics
-AU - Picart, S.
-AU - Thompson, W.
-AU - Buil Demur, A.
-AU - Perera, A.
 
 TY - MGZN
 DO - 10.1016/j.bpj.2017.11.026
@@ -1667,6 +1671,28 @@ AU - Ziyatdinov, A.
 AU - Perera, A.
 
 TY - MGZN
+DO - 10.1007/978-3-319-77932-4_12
+TI - Sex differences in autonomic response to exercise testing in patients with Brugada syndrome
+AB - Ventricular arrhythmias in Brugada syndrome (BS) typically occur at rest and especially during sleep, suggesting that changes in the autonomic modulation may play an important role in arrhythmogenesis. The autonomic response to exercise and subsequent recovery was evaluated on 105 patients diagnosed with BS (twenty-four were symptomatic), by means of a time-frequency heart rate variability (HRV) analysis, so as to propose a novel predictive model capable of distinguishing symptomatic and asymptomatic BS populations. During incremental exercise, symptomatic patients showed higher HFnu values, probably related to an increased parasympathetic modulation, with respect to asymptomatic subjects. In addition, those extracted HRV features best distinguishing between populations were selected using a two-step feature selection approach, so as to build a linear discriminant analysis (LDA) classifier. The final features subset included one third of the total amount of extracted autonomic markers, mostly acquired during incremental exercise and active recovery, thus evidencing the relevance of these test segments in BS patients classification. The derived predictive model showed an improved performance with respect to previous works in the field (AUC = 0.92 +/- 0.01; Se = 0.91 +/- 0.06; Sp = 0.90 +/- 0.05). Therefore, based on these findings, some of the analyzed HRV markers and the proposed model could be useful for risk stratification in Brugada syndrome.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://link.springer.com/chapter/10.1007%2F978-3-319-77932-4_12
+UR - http://hdl.handle.net/2117/123426
+VL - 1065
+EP - 181
+SP - 190
+T2 - Advances in experimental medicine and biology
+PB - Springer
+AU - Calvo, M.
+AU - Le Rolle, V.
+AU - Romero, D.
+AU - B'ehar, N.
+AU - Gomis, P.
+AU - Mabo, P.
+AU - Hernandez, A.I.
+
+TY - MGZN
 DO - 10.1016/j.snb.2018.02.188
 TI - Multi-unit calibration rejects inherent device variability of chemical sensor arrays
 AB - Postprint (author's final draft)
@@ -1701,28 +1727,6 @@ PB - Multidisciplinary Digital Publishing Institute (MDPI)
 AU - Fonollosa, J.
 AU - Sol'orzano, A.
 AU - Marco, S.
-
-TY - MGZN
-DO - 10.1007/978-3-319-77932-4_12
-TI - Sex differences in autonomic response to exercise testing in patients with Brugada syndrome
-AB - Ventricular arrhythmias in Brugada syndrome (BS) typically occur at rest and especially during sleep, suggesting that changes in the autonomic modulation may play an important role in arrhythmogenesis. The autonomic response to exercise and subsequent recovery was evaluated on 105 patients diagnosed with BS (twenty-four were symptomatic), by means of a time-frequency heart rate variability (HRV) analysis, so as to propose a novel predictive model capable of distinguishing symptomatic and asymptomatic BS populations. During incremental exercise, symptomatic patients showed higher HFnu values, probably related to an increased parasympathetic modulation, with respect to asymptomatic subjects. In addition, those extracted HRV features best distinguishing between populations were selected using a two-step feature selection approach, so as to build a linear discriminant analysis (LDA) classifier. The final features subset included one third of the total amount of extracted autonomic markers, mostly acquired during incremental exercise and active recovery, thus evidencing the relevance of these test segments in BS patients classification. The derived predictive model showed an improved performance with respect to previous works in the field (AUC = 0.92 +/- 0.01; Se = 0.91 +/- 0.06; Sp = 0.90 +/- 0.05). Therefore, based on these findings, some of the analyzed HRV markers and the proposed model could be useful for risk stratification in Brugada syndrome.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2018
-UR - https://link.springer.com/chapter/10.1007%2F978-3-319-77932-4_12
-UR - http://hdl.handle.net/2117/123426
-VL - 1065
-EP - 181
-SP - 190
-T2 - Advances in experimental medicine and biology
-PB - Springer
-AU - Calvo, M.
-AU - Le Rolle, V.
-AU - Romero, D.
-AU - B'ehar, N.
-AU - Gomis, P.
-AU - Mabo, P.
-AU - Hernandez, A.I.
 
 TY - MGZN
 DO - 10.1371/journal.pone.0189012
@@ -1967,6 +1971,27 @@ AU - Benitez, R.
 AU - Gordon, L.
 
 TY - MGZN
+DO - 10.1161/CIRCULATIONAHA.116.024875
+TI - Response by 'Alvarez-Garc'ia et al. to Letters Regarding article, "Electrophysiological effects of selective atrial coronary artery occlusion in humans"
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2016
+UR - http://circ.ahajournals.org/content/134/18/e401.full
+UR - http://hdl.handle.net/2117/101570
+VL - 134
+IS - 18
+EP - e401
+SP - e402
+T2 - Circulation
+AU - 'Alvarez-Garc'ia, Jesus
+AU - Vives, M.
+AU - Gomis, P.
+AU - Ordo~nez, J.
+AU - Ferrero-Gregori, A.
+AU - Serra, A.
+AU - Cinca, J.
+
+TY - MGZN
 DO - 10.1042/BCJ20160606
 TI - Suppression of ryanodine receptor function prolongs Ca2+ release refractoriness and promotes cardiac alternans in intact hearts
 AB - Beat-to-beat alternations in the amplitude of the cytosolic Ca2+ transient (Ca2+ alternans) are thought to be the primary cause of cardiac alternans that can lead to cardiac arrhythmias and sudden death. Despite its important role in arrhythmogenesis, the mechanism underlying Ca2+ alternans remains poorly understood. Here, we investigated the role of cardiac ryanodine receptor (RyR2), the major Ca2+ release channel responsible for cytosolic Ca2+ transients, in cardiac alternans. Using a unique mouse model harboring a suppression-of-function (SOF) RyR2 mutation (E4872Q), we assessed the effect of genetically suppressing RyR2 function on Ca2+ and action potential duration (APD) alternans in intact hearts, and electrocardiogram (ECG) alternans in vivo. We found that RyR2-SOF hearts displayed prolonged sarcoplasmic reticulum Ca2+ release refractoriness and enhanced propensity for Ca2+ alternans. RyR2-SOF hearts/mice also exhibited increased propensity for APD and ECG alternans. Caffeine, which enhances RyR2 activity and the propensity for catecholaminergic polymorphic ventricular tachycardia (CPVT), suppressed Ca2+ alternans in RyR2-SOF hearts, whereas carvedilol, a ss-blocker that suppresses RyR2 activity and CPVT, promoted Ca2+ alternans in these hearts. Thus, RyR2 function is an important determinant of Ca2+, APD, and ECG alternans. Our data also indicate that the activity of RyR2 influences the propensity for cardiac alternans and CPVT in an opposite manner. Therefore, overly suppressing or enhancing RyR2 function is pro-arrhythmic.
@@ -1991,27 +2016,6 @@ AU - Song, L.
 AU - Hove-Madsen, L.
 AU - Benitez, R.
 AU - Wayne Chen, S. R.
-
-TY - MGZN
-DO - 10.1161/CIRCULATIONAHA.116.024875
-TI - Response by 'Alvarez-Garc'ia et al. to Letters Regarding article, "Electrophysiological effects of selective atrial coronary artery occlusion in humans"
-AB - Peer Reviewed
-AB - Postprint (published version)
-Y1 - 2016
-UR - http://circ.ahajournals.org/content/134/18/e401.full
-UR - http://hdl.handle.net/2117/101570
-VL - 134
-IS - 18
-EP - e401
-SP - e402
-T2 - Circulation
-AU - 'Alvarez-Garc'ia, Jesus
-AU - Vives, M.
-AU - Gomis, P.
-AU - Ordo~nez, J.
-AU - Ferrero-Gregori, A.
-AU - Serra, A.
-AU - Cinca, J.
 
 TY - MGZN
 DO - 10.1007/s10877-016-9948-z
@@ -2557,6 +2561,27 @@ AU - Huerta, R.
 AU - Marco, S.
 
 TY - MGZN
+DO - 10.1016/j.medengphy.2015.01.002
+TI - Mutual information measures applied to EEG signals for sleepiness characterization
+AB - Excessive daytime sleepiness (EDS) is one of the main symptoms of several sleep related disorders with a great impact on the patient lives. While many studies have been carried out in order to assess daytime sleepiness, the automatic EDS detection still remains an open problem. In this work, a novel approach to this issue based on non-linear dynamical analysis of EEG signal was proposed. Multichannel EEG signals were recorded during five maintenance of wakefulness (MWT) and multiple sleep latency (MSLT) tests alternated throughout the day from patients suffering from sleep disordered breathing. A group of 20 patients with excessive daytime sleepiness (EDS) was compared with a group of 20 patients without daytime sleepiness (WDS), by analyzing 60-s EEG windows in waking state. Measures obtained from cross-mutual information function (CMIF) and auto-mutual-information function (AMIF) were calculated in the EEG. These functions permitted a quantification of the complexity properties of the EEG signal and the non-linear couplings between different zones of the scalp. Statistical differences between EDS and WDS groups were found in ss band during MSLT events (. p-value<0.0001). WDS group presented more complexity than EDS in the occipital zone, while a stronger nonlinear coupling between occipital and frontal zones was detected in EDS patients than in WDS. The AMIF and CMIF measures yielded sensitivity and specificity above 80% and AUC of ROC above 0.85 in classifying EDS and WDS patients.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2015
+UR - http://hdl.handle.net/2117/79397
+VL - 37
+IS - 3
+EP - 297
+SP - 308
+T2 - Medical engineering and physics
+AU - Melia, U.
+AU - Guaita, M.
+AU - Vallverdu, M.
+AU - Embid, C.
+AU - Vilaseca, I.
+AU - Salamero, M.
+AU - Santamaria, J.
+
+TY - MGZN
 DO - 10.1007/s11517-015-1275-x
 TI - Time-varying signal analysis to detect high-altitude periodic breathing in climbers ascending to extreme altitude
 AB - This work investigates the performance of cardiorespiratory analysis detecting periodic breathing (PB) in chest wall recordings in mountaineers climbing to extreme altitude. The breathing patterns of 34 mountaineers were monitored unobtrusively by inductance plethysmography, ECG and pulse oximetry using a portable recorder during
@@ -2589,27 +2614,6 @@ AU - Merz, T.
 AU - Pichler Hefti, J.
 AU - Schoch, O.
 AU - Bloch, K.
-
-TY - MGZN
-DO - 10.1016/j.medengphy.2015.01.002
-TI - Mutual information measures applied to EEG signals for sleepiness characterization
-AB - Excessive daytime sleepiness (EDS) is one of the main symptoms of several sleep related disorders with a great impact on the patient lives. While many studies have been carried out in order to assess daytime sleepiness, the automatic EDS detection still remains an open problem. In this work, a novel approach to this issue based on non-linear dynamical analysis of EEG signal was proposed. Multichannel EEG signals were recorded during five maintenance of wakefulness (MWT) and multiple sleep latency (MSLT) tests alternated throughout the day from patients suffering from sleep disordered breathing. A group of 20 patients with excessive daytime sleepiness (EDS) was compared with a group of 20 patients without daytime sleepiness (WDS), by analyzing 60-s EEG windows in waking state. Measures obtained from cross-mutual information function (CMIF) and auto-mutual-information function (AMIF) were calculated in the EEG. These functions permitted a quantification of the complexity properties of the EEG signal and the non-linear couplings between different zones of the scalp. Statistical differences between EDS and WDS groups were found in ss band during MSLT events (. p-value<0.0001). WDS group presented more complexity than EDS in the occipital zone, while a stronger nonlinear coupling between occipital and frontal zones was detected in EDS patients than in WDS. The AMIF and CMIF measures yielded sensitivity and specificity above 80% and AUC of ROC above 0.85 in classifying EDS and WDS patients.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2015
-UR - http://hdl.handle.net/2117/79397
-VL - 37
-IS - 3
-EP - 297
-SP - 308
-T2 - Medical engineering and physics
-AU - Melia, U.
-AU - Guaita, M.
-AU - Vallverdu, M.
-AU - Embid, C.
-AU - Vilaseca, I.
-AU - Salamero, M.
-AU - Santamaria, J.
 
 TY - MGZN
 DO - 10.1093/cvr/cvv046
@@ -2830,6 +2834,24 @@ AU - Benner, C.
 AU - Russell, B.
 
 TY - MGZN
+DO - 10.1007/s10489-014-0548-7
+TI - LTI ODE-valued neural networks
+AB - A dynamical version of the classical McCulloch & Pitts' neural model is introduced in this paper. In this new approach, artificial neurons are characterized by: i) inputs in the form of differentiable continuous-time signals, ii) linear time-invariant ordinary differential equations (LTI ODE) for connection weights, and iii) activation functions evaluated in the frequency domain. It will be shown that this new characterization of the constitutive nodes in an artificial neural network, namely LTI ODE-valued neural network (LTI ODEVNN), allows solving multiple problems at the same time using a single neural structure. Moreover, it is demonstrated that LTI ODEVNNs can be interpreted as complex-valued neural networks (CVNNs). Hence, research on this topic can be applied in a straightforward form. Standard boolean functions are implemented to illustrate the operation of LTI ODEVNNs. Concluding the paper, several future research lines are highlighted, including the need for developing learning algorithms for the newly introduced LTI ODEVNNs.
+AB - Postprint (published version)
+Y1 - 2014
+UR - http://link.springer.com/article/10.1007/s10489-014-0548-7
+UR - http://hdl.handle.net/2117/24573
+VL - 41
+IS - 2
+EP - 594
+SP - 605
+T2 - Applied intelligence
+AU - Velasco, M.
+AU - Martin, E.X.
+AU - Angulo, C.
+AU - Marti, P.
+
+TY - MGZN
 DO - 10.3390/e16052530
 TI - Measuring instantaneous and spectral information entropies by shannon entropy of choi-williams distribution in the context of electroencephalography
 AB - The theory of Shannon entropy was applied to the Choi-Williams time-frequency distribution (CWD) of time series in order to extract entropy information in both time and frequency domains. In this way, four novel indexes were defined: (1) partial instantaneous entropy, calculated as the entropy of the CWD with respect to time by using the probability mass function at each time instant taken independently; (2) partial spectral information entropy, calculated as the entropy of the CWD with respect to frequency by using the probability mass function of each frequency value taken independently; (3) complete instantaneous entropy, calculated as the entropy of the CWD with respect to time by using the probability mass function of the entire CWD; (4) complete spectral information entropy, calculated as the entropy of the CWD with respect to frequency by using the probability mass function of the entire CWD. These indexes were tested on synthetic time series with different behavior (periodic, chaotic and random) and on a dataset of electroencephalographic (EEG) signals recorded in different states (eyes-open, eyes-closed, ictal and non-ictal activity). The results have shown that the values of these indexes tend to decrease, with different proportion, when the behavior of the synthetic signals evolved from chaos or randomness to periodicity. Statistical differences (p-value < 0.0005) were found between values of these measures comparing eyes-open and eyes-closed states and between ictal and non-ictal states in the traditional EEG frequency bands. Finally, this paper has demonstrated that the proposed measures can be useful tools to quantify the different periodic, chaotic and random components in EEG signals. (c) 2014 by the authors; licensee MDPI, Basel, Switzerland.
@@ -2847,24 +2869,6 @@ AU - Melia, U.
 AU - Clari`a, F
 AU - Vallverdu, M.
 AU - Caminal, P.
-
-TY - MGZN
-DO - 10.1007/s10489-014-0548-7
-TI - LTI ODE-valued neural networks
-AB - A dynamical version of the classical McCulloch & Pitts' neural model is introduced in this paper. In this new approach, artificial neurons are characterized by: i) inputs in the form of differentiable continuous-time signals, ii) linear time-invariant ordinary differential equations (LTI ODE) for connection weights, and iii) activation functions evaluated in the frequency domain. It will be shown that this new characterization of the constitutive nodes in an artificial neural network, namely LTI ODE-valued neural network (LTI ODEVNN), allows solving multiple problems at the same time using a single neural structure. Moreover, it is demonstrated that LTI ODEVNNs can be interpreted as complex-valued neural networks (CVNNs). Hence, research on this topic can be applied in a straightforward form. Standard boolean functions are implemented to illustrate the operation of LTI ODEVNNs. Concluding the paper, several future research lines are highlighted, including the need for developing learning algorithms for the newly introduced LTI ODEVNNs.
-AB - Postprint (published version)
-Y1 - 2014
-UR - http://link.springer.com/article/10.1007/s10489-014-0548-7
-UR - http://hdl.handle.net/2117/24573
-VL - 41
-IS - 2
-EP - 594
-SP - 605
-T2 - Applied intelligence
-AU - Velasco, M.
-AU - Martin, E.X.
-AU - Angulo, C.
-AU - Marti, P.
 
 TY - MGZN
 DO - 10.1371/journal.pone.0093808
@@ -3192,6 +3196,25 @@ AU - Rulkov, N.
 AU - Huerta, R.
 
 TY - MGZN
+DO - 10.1088/0967-3334/34/3/325
+TI - Ischemic risk stratification by means of multivariate analysis of the heart rate variability
+AB - In this work, a univariate and multivariate statistical analysis of indexes derived from heart rate variability (HRV) was conducted to stratify patients with ischemic dilated cardiomyopathy (IDC) in cardiac risk groups. Indexes conditional entropy, refined multiscale entropy (RMSE), detrended fluctuation analysis, time and frequency analysis, were applied to the RR interval series (beat-to-beat series), for single and multiscale complexity analysis of the HRV in IDC patients. Also, clinical parameters were considered. Two different end-points after a follow-up of three years were considered: (i) analysis A, with 151 survivor patients as a low risk group and 13 patients that suffered sudden cardiac death as a high risk group; (ii) analysis B, with 192 survivor patients as a low risk group and 30 patients that suffered cardiac mortality as a high risk group. A univariate and multivariate linear discriminant analysis was used as a statistical technique for classifying patients in risk groups. Sensitivity (Sen) and specificity (Spe) were calculated as diagnostic criteria in order to evaluate the performance of the indexes and their linear combinations. Sen and Spe values of 80.0% and 72.9%, respectively, were obtained during daytime by combining one clinical parameter and one index from RMSE, and during nighttime Sen = 80% and Spe = 73.4% were attained by combining one clinical factor and two indexes from RMSE. In particular, relatively long time scales were more relevant for classifying patients into risk groups during nighttime, while during daytime shorter scales performed better. The results suggest that the left atrial size, indexed to body surface and RMSE indexes are those that allow enhanced classification of ischemic patients in their respective risk groups, confirming that a single measurement is not enough to fully characterize ischemic risk patients and the clinical relevance of HRV complexity measures.
+Y1 - 2013
+UR - http://iopscience.iop.org/0967-3334/34/3/325
+VL - 34
+IS - 3
+EP - 325
+SP - 338
+T2 - Physiological measurement
+AU - Valencia, J.
+AU - Vallverdu, M.
+AU - Voss, A.
+AU - Porta, A.
+AU - V'azquez, R.
+AU - Caminal, P.
+AU - de Luna, A. B.
+
+TY - MGZN
 DO - 10.1016/j.compbiomed.2013.01.014
 TI - SVM-based feature selection to optimize sensitivity-specificity balance applied to weaning
 AB - Classification algorithms with unbalanced datasets tend to produce high predictive accuracy over the
@@ -3225,25 +3248,6 @@ AU - Voss, A.
 AU - Caminal, P.
 AU - Benito, S.
 AU - Giraldo, B.
-
-TY - MGZN
-DO - 10.1088/0967-3334/34/3/325
-TI - Ischemic risk stratification by means of multivariate analysis of the heart rate variability
-AB - In this work, a univariate and multivariate statistical analysis of indexes derived from heart rate variability (HRV) was conducted to stratify patients with ischemic dilated cardiomyopathy (IDC) in cardiac risk groups. Indexes conditional entropy, refined multiscale entropy (RMSE), detrended fluctuation analysis, time and frequency analysis, were applied to the RR interval series (beat-to-beat series), for single and multiscale complexity analysis of the HRV in IDC patients. Also, clinical parameters were considered. Two different end-points after a follow-up of three years were considered: (i) analysis A, with 151 survivor patients as a low risk group and 13 patients that suffered sudden cardiac death as a high risk group; (ii) analysis B, with 192 survivor patients as a low risk group and 30 patients that suffered cardiac mortality as a high risk group. A univariate and multivariate linear discriminant analysis was used as a statistical technique for classifying patients in risk groups. Sensitivity (Sen) and specificity (Spe) were calculated as diagnostic criteria in order to evaluate the performance of the indexes and their linear combinations. Sen and Spe values of 80.0% and 72.9%, respectively, were obtained during daytime by combining one clinical parameter and one index from RMSE, and during nighttime Sen = 80% and Spe = 73.4% were attained by combining one clinical factor and two indexes from RMSE. In particular, relatively long time scales were more relevant for classifying patients into risk groups during nighttime, while during daytime shorter scales performed better. The results suggest that the left atrial size, indexed to body surface and RMSE indexes are those that allow enhanced classification of ischemic patients in their respective risk groups, confirming that a single measurement is not enough to fully characterize ischemic risk patients and the clinical relevance of HRV complexity measures.
-Y1 - 2013
-UR - http://iopscience.iop.org/0967-3334/34/3/325
-VL - 34
-IS - 3
-EP - 325
-SP - 338
-T2 - Physiological measurement
-AU - Valencia, J.
-AU - Vallverdu, M.
-AU - Voss, A.
-AU - Porta, A.
-AU - V'azquez, R.
-AU - Caminal, P.
-AU - de Luna, A. B.
 
 TY - MGZN
 DO - 10.1007/s11241-012-9174-9
@@ -3307,36 +3311,6 @@ AU - Guti'errez-G'alvez, A.
 AU - Marco, S.
 
 TY - MGZN
-TI - Analysis of the respiratory flow cycle morphology in chronic heart failure patients applying principal components analysis
-Y1 - 2012
-UR - http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06090494
-VL - 2012
-EP - 1725
-SP - 1728
-T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
-AU - Garde, A.
-AU - Giraldo, B.
-AU - S"ornmo, L.
-AU - Jane, R.
-
-TY - MGZN
-DO - 10.1016/j.jelectrocard.2011.08.013
-TI - Assessment of autonomic control of the heart during transient myocardial ischemia
-Y1 - 2012
-UR - http://www.sciencedirect.com/science/article/pii/S0022073611003293
-VL - 45
-IS - 1
-EP - 82
-SP - 89
-T2 - Journal of electrocardiology
-AU - Gomis, P.
-AU - Caminal, P.
-AU - Vallverdu, M.
-AU - Warren, S.
-AU - Stein, P.
-AU - Wagner, G.
-
-TY - MGZN
 DO - 10.1515/bmt-2012-4315
 TI - Long-term versus short-term heart rate variability analyses for risk stratification in ischemic heart failure patients
 Y1 - 2012
@@ -3371,6 +3345,36 @@ AU - Ayza, J.
 AU - Caminal, P.
 AU - Escarrabill , J.
 AU - Roca, J.
+
+TY - MGZN
+TI - Analysis of the respiratory flow cycle morphology in chronic heart failure patients applying principal components analysis
+Y1 - 2012
+UR - http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06090494
+VL - 2012
+EP - 1725
+SP - 1728
+T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+AU - Garde, A.
+AU - Giraldo, B.
+AU - S"ornmo, L.
+AU - Jane, R.
+
+TY - MGZN
+DO - 10.1016/j.jelectrocard.2011.08.013
+TI - Assessment of autonomic control of the heart during transient myocardial ischemia
+Y1 - 2012
+UR - http://www.sciencedirect.com/science/article/pii/S0022073611003293
+VL - 45
+IS - 1
+EP - 82
+SP - 89
+T2 - Journal of electrocardiology
+AU - Gomis, P.
+AU - Caminal, P.
+AU - Vallverdu, M.
+AU - Warren, S.
+AU - Stein, P.
+AU - Wagner, G.
 
 TY - MGZN
 DO - 10.1007/s00500-011-0781-5
@@ -3800,6 +3804,21 @@ AU - Sutherland, D.
 AU - Dmitriev, A.
 
 TY - MGZN
+DO - 10.1109/IEMBS.2010.5626533
+TI - Spectral analysis of the RR series and the respiratory flow signal on patients in weaning process
+Y1 - 2010
+UR - http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5626533&tag=1
+VL - 2010
+EP - 2485
+SP - 2488
+T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+AU - Arcentales, A.
+AU - Giraldo, B.
+AU - Caminal, P.
+AU - Diaz, I.
+AU - Benito, S.
+
+TY - MGZN
 DO - 10.1007/978-3-642-14097-6_50
 TI - Friendly human-machine interaction in an adapted robotized kitchen
 Y1 - 2010
@@ -3832,21 +3851,6 @@ AU - Vallverdu, M.
 AU - Benito, S.
 AU - Schroeder, R.
 AU - Voss, A.
-
-TY - MGZN
-DO - 10.1109/IEMBS.2010.5626533
-TI - Spectral analysis of the RR series and the respiratory flow signal on patients in weaning process
-Y1 - 2010
-UR - http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5626533&tag=1
-VL - 2010
-EP - 2485
-SP - 2488
-T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
-AU - Arcentales, A.
-AU - Giraldo, B.
-AU - Caminal, P.
-AU - Diaz, I.
-AU - Benito, S.
 
 TY - MGZN
 DO - 10.1186/1753-6561-3-S7-S130
@@ -4000,6 +4004,17 @@ AU - W"ollnestein, J.
 AU - Marco, S.
 
 TY - MGZN
+TI - Space Carving Acceleration Using Uncertainty Measurements
+Y1 - 2009
+VL - 5524
+EP - 112
+SP - 119
+T2 - Lecture notes in computer science
+AU - P'erez, M.C.
+AU - Casamitjana, M.
+AU - Martin, E.X.
+
+TY - MGZN
 TI - Data mining of patients on weaning trials from mechanical ventilation using cluster analysis and neural networks
 Y1 - 2009
 VL - 1
@@ -4013,17 +4028,6 @@ AU - Caminal, P.
 AU - Diaz, I.
 AU - Salvador, B.
 AU - Giraldo, B.
-
-TY - MGZN
-TI - Space Carving Acceleration Using Uncertainty Measurements
-Y1 - 2009
-VL - 5524
-EP - 112
-SP - 119
-T2 - Lecture notes in computer science
-AU - P'erez, M.C.
-AU - Casamitjana, M.
-AU - Martin, E.X.
 
 TY - MGZN
 TI - Effects of propofol anesthesia on nonlinear properties of EEG: Lyapunov exponents and short-term predictability
@@ -4181,21 +4185,6 @@ AU - Soria, J.
 AU - Caminal, P.
 
 TY - MGZN
-TI - Changes of autonomic information flow due to idiopathic dilated cardiomyopathy
-Y1 - 2007
-VL - 28
-EP - 677
-SP - 688
-T2 - Physiological measurement
-AU - Palacios, M.
-AU - Friedrich, H.
-AU - Christine, G.
-AU - Vallverdu, M.
-AU - de Luna, A. B.
-AU - Caminal, P.
-AU - Hoyer, D.
-
-TY - MGZN
 TI - Detrended fluctuation analysis of EEG as a measure of depth of anesthesia
 Y1 - 2007
 VL - 54
@@ -4211,6 +4200,21 @@ AU - Vallverdu, M.
 AU - Struys, M.
 AU - Vereecke, H.
 AU - Kaplan, D.
+
+TY - MGZN
+TI - Changes of autonomic information flow due to idiopathic dilated cardiomyopathy
+Y1 - 2007
+VL - 28
+EP - 677
+SP - 688
+T2 - Physiological measurement
+AU - Palacios, M.
+AU - Friedrich, H.
+AU - Christine, G.
+AU - Vallverdu, M.
+AU - de Luna, A. B.
+AU - Caminal, P.
+AU - Hoyer, D.
 
 TY - MGZN
 DO - 10.1109/TBME.2006.889944
@@ -4329,37 +4333,6 @@ T2 - Journal of electrocardiology
 AU - Gomis, P.
 
 TY - MGZN
-TI - Compression entropy contribuyes to risk stratification in patients with cardiomyopathy
-Y1 - 2006
-VL - 51
-IS - 2
-EP - 77
-SP - 82
-T2 - Biomedizinische technik
-AU - Truebner, S.
-AU - Cygankiewicz, I.
-AU - Schroeder, R.
-AU - Baumert, M.
-AU - Vallverdu, M.
-AU - Caminal, P.
-AU - Vazquez, R.
-AU - de Luna, A. B.
-AU - Voss, A.
-
-TY - MGZN
-TI - An'alisis fractal del control auton'omico del ritmo cardiaco durante oclusi'on coronaria
-Y1 - 2006
-UR - http://riai.isa.upv.es
-VL - 3
-IS - 2
-EP - 116
-SP - 122
-T2 - Revista iberoamericana de automatica e informatica industrial
-AU - Gomis, P.
-AU - Caminal, P.
-AU - Vallverdu, M.
-
-TY - MGZN
 DO - 10.1016/j.snb.2006.03.012
 TI - Gas measurement systems based on IEEE1451.2 standard
 Y1 - 2006
@@ -4407,6 +4380,37 @@ AU - Padilla, M.
 AU - Montoliu, I.
 AU - Pardo, A.
 AU - Perera, A.
+
+TY - MGZN
+TI - Compression entropy contribuyes to risk stratification in patients with cardiomyopathy
+Y1 - 2006
+VL - 51
+IS - 2
+EP - 77
+SP - 82
+T2 - Biomedizinische technik
+AU - Truebner, S.
+AU - Cygankiewicz, I.
+AU - Schroeder, R.
+AU - Baumert, M.
+AU - Vallverdu, M.
+AU - Caminal, P.
+AU - Vazquez, R.
+AU - de Luna, A. B.
+AU - Voss, A.
+
+TY - MGZN
+TI - An'alisis fractal del control auton'omico del ritmo cardiaco durante oclusi'on coronaria
+Y1 - 2006
+UR - http://riai.isa.upv.es
+VL - 3
+IS - 2
+EP - 116
+SP - 122
+T2 - Revista iberoamericana de automatica e informatica industrial
+AU - Gomis, P.
+AU - Caminal, P.
+AU - Vallverdu, M.
 
 TY - MGZN
 TI - On-line novelty detection by recursive dynamic principal component analysis and gas sensor arrays under drift conditions

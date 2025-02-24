@@ -1,0 +1,8 @@
+/.quarto/
+_site
+.DS_Store
+team/.DS_Store
+.Rproj.user
+quarto
+/.gitignone
+/.Rhistory

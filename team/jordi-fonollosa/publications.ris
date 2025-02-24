@@ -115,21 +115,6 @@ AU - van Schaik, A.
 AU - Schmuker, M.
 
 TY - MGZN
-DO - 10.1016/j.jenvman.2022.114787
-TI - COVID-19 impact on maritime traffic and corresponding pollutant emissions. The case of the Port of Barcelona
-AB - The impact of the SARS-CoV pandemic has gone well beyond health concerns, reaching the maritime industry. The study on the environmental impact of shipping industry during COVID-19 pandemic can provide useful insights to propose new management policies regarding shipping operations, both in-port and on the route. We present a case study centred in the Port of Barcelona covering a 30 nautical miles range in the period March to July 2020, during which different levels of restrictions and stringent lockdown measures were enforced. In this paper, we assess the impact of COVID-19 on maritime traffic and its related emissions in port cities using real-time Automatic Identification System (AIS) data. Interestingly, results show that the decline in maritime traffic is not correlated with a decrease in maritime emissions due to changes in vessel operation. During lockdown (March to June 2020), we observed a 27.9% reduction in the number of port calls compared to the pre-lockdown scenario, whereas pollutant emissions show a moderate decrease (1.8% for CO2), no significant reduction (SO2 and PM) or a slight increase (1.3% for NOx). This can be directly assigned to changes in vessel operation mode, i.e. vessels switched from Underway to At Anchor or Moored status, during which auxiliary engines are used at higher loads.
-AB - Postprint (author's final draft)
-Y1 - 2022
-UR - https://pubmed.ncbi.nlm.nih.gov/35248988/
-UR - http://hdl.handle.net/2117/365197
-T2 - Journal of environmental management
-AU - Mujal-Colilles, A.
-AU - Nieto, J.
-AU - Fonollosa, J.
-AU - Llull, T.
-AU - Castells-Sanabra, Marcella
-
-TY - MGZN
 DO - 10.1016/j.snb.2021.130961
 TI - Early fire detection based on gas sensor arrays: Multivariate calibration and validation
 AB - Smoldering fires are characterized by the production of early gas emissions that can include high levels of CO and Volatile Organic Compounds (VOCs) due to pyrolysis or thermal degradation. Nowadays, standalone CO sensors, smoke detectors, or a combination of these, are standard components for fire alarm systems. While gas sensor arrays together with pattern recognition techniques are a valuable alternative for early fire detection, in practice they have certain drawbacks-they can detect early gas emissions, but can show low immunity to nuisances, and sensor time drift can render calibration models obsolete. In this work, we explore the performance of a gas sensor array for detecting smoldering and plastic fires while ensuring the rejection of a set of nuisances. We conducted variety of fire and nuisance experiments in a validated standard fire room (240 m3). Using PLS-DA and SVM, we evaluate the performance of different multivariate calibration models for this dataset. We show that calibration models remain predictive after several months, but perfect performance is not achieved. For example, 4 months after calibration, a PLS-DA model provides 100% specificity and 85% sensitivity since the system has difficulties in detecting plastic fires, whose signatures are close to nuisance scenarios. Nevertheless, our results show that systems based on gas sensor arrays are able to provide faster fire alarm response than conventional smoke-based fire alarms. We also propose the use of small-scale fire experiments to increase the number of calibration con- ditions at a reduced cost. Our results show that this is an effective way to increase the performance of the model, even when evaluated on a standard fire room. Finally, the acquired datasets are made publicly available to the community (doi: 10.5281/zenodo.5643074).
@@ -149,6 +134,21 @@ AU - Marco, S.
 AU - Fonollosa, J.
 
 TY - MGZN
+DO - 10.1016/j.jenvman.2022.114787
+TI - COVID-19 impact on maritime traffic and corresponding pollutant emissions. The case of the Port of Barcelona
+AB - The impact of the SARS-CoV pandemic has gone well beyond health concerns, reaching the maritime industry. The study on the environmental impact of shipping industry during COVID-19 pandemic can provide useful insights to propose new management policies regarding shipping operations, both in-port and on the route. We present a case study centred in the Port of Barcelona covering a 30 nautical miles range in the period March to July 2020, during which different levels of restrictions and stringent lockdown measures were enforced. In this paper, we assess the impact of COVID-19 on maritime traffic and its related emissions in port cities using real-time Automatic Identification System (AIS) data. Interestingly, results show that the decline in maritime traffic is not correlated with a decrease in maritime emissions due to changes in vessel operation. During lockdown (March to June 2020), we observed a 27.9% reduction in the number of port calls compared to the pre-lockdown scenario, whereas pollutant emissions show a moderate decrease (1.8% for CO2), no significant reduction (SO2 and PM) or a slight increase (1.3% for NOx). This can be directly assigned to changes in vessel operation mode, i.e. vessels switched from Underway to At Anchor or Moored status, during which auxiliary engines are used at higher loads.
+AB - Postprint (author's final draft)
+Y1 - 2022
+UR - https://pubmed.ncbi.nlm.nih.gov/35248988/
+UR - http://hdl.handle.net/2117/365197
+T2 - Journal of environmental management
+AU - Mujal-Colilles, A.
+AU - Nieto, J.
+AU - Fonollosa, J.
+AU - Llull, T.
+AU - Castells-Sanabra, Marcella
+
+TY - MGZN
 DO - 10.1038/s41467-021-21405-y
 TI - Sniffing speeds up chemical detection by controlling air-flows near sensors
 AB - Most mammals sniff to detect odors, but little is known how the periodic inhale and exhale that make up a sniff helps to improve odor detection. In this combined experimental and theoretical study, we use fluid mechanics and machine olfaction to rationalize the benefits of sniffing at different rates. We design and build a bellows and sensor system to detect the change in current as a function of odor concentration. A fast sniff enables quick odor recognition, but too fast a sniff makes the amplitude of the signal comparable to noise. A slow sniff increases signal amplitude but delays its transmission. This trade-off may inspire the design of future devices that can actively modulate their sniffing frequency according to different odors.
@@ -162,8 +162,8 @@ EP - 1
 SP - 12
 T2 - Nature communications
 AU - Spencer, T.
-AU - Fonollosa, J.
 AU - Clark, A.
+AU - Fonollosa, J.
 AU - Virot, E.
 AU - Hu, D.
 
