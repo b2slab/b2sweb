@@ -1,4 +1,26 @@
 TY - MGZN
+DO - 10.3390/en17246399
+TI - A learning probabilistic boolean network model of a smart grid with applications in system maintenance
+AB - Probabilistic Boolean Networks can capture the dynamics of complex biological systems as well as other non-biological systems, such as manufacturing systems and smart grids. In this proof-of-concept manuscript, we propose a Probabilistic Boolean Network architecture with a learning process that significantly improves the prediction of the occurrence of faults and failures in smart-grid systems. This idea was tested in a Probabilistic Boolean Network model of the WSCC nine-bus system that incorporates Intelligent Power Routers on every bus. The model learned the equality and negation functions in the different experiments performed. We take advantage of the complex properties of Probabilistic Boolean Networks to use them as a positive feedback adaptive learning tool and to illustrate that these networks could have a more general use than previously thought. This multi-layered PBN architecture provides a significant improvement in terms of performance for fault detection, within a positive-feedback network structure that is more tolerant of noise than other techniques.
+AB - This project has received funding from the European Union's Horizon 2020 research and innovation program under the Maria Sklodowska-Curie grant agreement No. 101034371.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2024
+UR - https://www.mdpi.com/1996-1073/17/24/6399
+UR - http://hdl.handle.net/2117/423964
+VL - 17
+IS - 24, article 6399
+T2 - Energies
+AU - Rivera, P.
+AU - Chen, C.
+AU - Mac'ias, J.
+AU - Rodr'iguez, S.
+AU - Prieto, J.
+AU - Llanes, O.
+AU - Gershenson, C.
+AU - Kanaan Izquierdo, S.
+
+TY - MGZN
 DO - 10.1155/2023/6690805
 TI - Fault detection and isolation in smart-grid networks of intelligent power routers modeled as probabilistic boolean networks
 AB - A self-organizing complex-network modeling method, probabilistic Boolean networks, is presented as a model-based diagnostic system for detecting and isolating different types of faults, failures, and modes of operation in which a network of intelligent power routers is deployed over a standard power test case: the Western System Coordinating Council 9 Bus System. Such a system allows designers and engineering professionals to make educated decisions pertaining to the design of smart-grid systems endowed with intelligent power routers. There is a recurrent necessity to design reliable and fault-tolerant smart power systems, maintaining adequate operation and adherence to performance specifications, while keeping costs at the minimum. This diagnostics system will help achieve such goals: better design through thorough analysis of the conditions that lead to a fault on a smart grid, proper detection of these faults, and isolation of the respective assets.
