@@ -3,7 +3,7 @@ title: "Could we predict patient trajectories in Type 2 Diabetes Mellitus?"
 description: "A Deep Attention-Based Encoder for the Prediction of Type 2 Diabetes Longitudinal Outcomes from Routinely Collected Health Care Data"
 author: "E. Manzini"
 date: "02/11/2025"
-date-modified: "02/11/2025"
+date-modified: "02/25/2025"
 ---
 
 ## Connect with Us
@@ -12,7 +12,9 @@ date-modified: "02/11/2025"
 ![](web.png){style="float: left; margin: 5px; width: 200px;"}
 :::
 
-Our paper [*A Deep Attention-Based Encoder for the Prediction of Type 2 Diabetes Longitudinal Outcomes from Routinely Collected Health Care Data*](https://doi.org/10.1101/2024.11.02.24316561), to be published on the Expert Systems With Applications Journal, introduces DARE, a novel deep learning model designed to enhance the management of Type 2 Diabetes Mellitus (T2DM).
+Our paper [*A Deep Attention-Based Encoder for the Prediction of Type 2 Diabetes Longitudinal Outcomes from Routinely Collected Health Care Data*](https://doi.org/10.1016/j.eswa.2025.126876), to be published on the Expert Systems With Applications Journal, introduces DARE, a novel deep learning model designed to enhance the management of Type 2 Diabetes Mellitus (T2DM)[^1].
+
+[^1]: Enrico Manzini, Bogdan Vlacho, Josep Franch-Nadal, Joan Escudero, Ana Génova, Elisenda Reixach, Erich Andrés, Israel Pizarro, Dídac Mauricio, Alexandre Perera-Lluna, A deep attention-based encoder for the prediction of type 2 diabetes longitudinal outcomes from routinely collected health care data, Expert Systems with Applications, Volume 274, 2025, 126876, ISSN 0957-4174, [https://doi.org/10.1016/j.eswa.2025.126876](https://doi.org/10.1016/j.eswa.2025.126876), <https://www.sciencedirect.com/science/article/pii/S0957417425004981>
 
 Developed by researchers from b2slab at IRIS, jointly with Dr. Mauricio at Sant Pau and Dr. Franch at IDIAPJGol, DARE leverages transformer-based architecture to analyze complex, longitudinal healthcare data.
 
