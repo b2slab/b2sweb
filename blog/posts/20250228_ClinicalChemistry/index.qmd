@@ -41,21 +41,22 @@ They used a highly precise laboratory technique (called UPLC-MS/MS) to measure a
 One of the most striking findings was that **more than 90% of children with epilepsy had normal amino acid levels in their CSF**. This suggests that, for most young patients, epilepsy does not cause major disruptions in amino acid balance.
 
 ### 2️⃣ One Exception: The Role of Glutamine
-While most amino acids remained stable across groups, one stood out: *glutamine*. The study found that children taking certain epilepsy medications (such as valproate or GABA A channel activators) had higher levels of glutamine in their CSF. This means that some epilepsy treatments may influence brain chemistry in ways that need to be better understood.
+While most amino acids remained stable across groups, one stood out: *glutamine*. The study found that children taking certain epilepsy medications (such as valproate or GABAA receptor agonists) had higher levels of glutamine in their CSF. This means that some epilepsy treatments may influence brain chemistry in ways that need to be better understood.
 
 ### 3️⃣ A Small Subgroup Showed Unusual Amino Acid Patterns
-While the majority of children had typical amino acid levels, a **small group of 24 children (mostly with epilepsy) had significantly elevated levels of multiple amino acids**. Interestingly, most of these children had **generalized epilepsy**, a type that affects the entire brain rather than just one part. This discovery suggests that, for some patients, epilepsy might be linked to deeper metabolic changes in the brain.
+While the majority of children had typical amino acid levels, a **small group of 24 children (mostly with epilepsy) had significantly elevated levels of multiple essential amino acids**. Interestingly, most of these children had **generalized epilepsy**, a type that affects the entire brain rather than just one part. Essential amino acids, which the body cannot produce and must be obtained from the diet, rely entirely on the bloodstream to reach the brain. This discovery suggests that, for some patients, epilepsy may be linked to disruptions in the blood-brain barrier.
 
 ## What Do These Findings Mean?
 
 1. 🔹 Better Reference Values for Diagnosis
 One of the biggest contributions of this study is the creation of *age-specific reference values* for amino acid levels in CSF. This means that doctors now have a more accurate tool to determine if a child's amino acid levels are within a normal range.
 
-1. 🔹 Understanding Medication Effects 
-The study confirms that some epilepsy medications, particularly valproate, can alter amino acid levels—especially glutamine. This could help doctors monitor treatment effects and possibly adjust medications to minimize unwanted side effects.
+2. 🔹 Understanding Medication Effects 
+The study confirms that some epilepsy medications, particularly valproate and GABAA receptor agonists, can alter amino acid levels—especially glutamine. This underscores the importance of accounting for these treatments when interpreting cerebrospinal fluid (CSF) analysis results. 
 
-1. 🔹 Potential Clues for Future Research?
-The small group of children with elevated amino acid levels may indicate an *underlying metabolic or genetic factor* related to epilepsy. Future studies could explore whether specific dietary changes or targeted therapies might help these patients.
+3. 🔹 Potential Clues for Future Research?
+The small group of children with elevated amino acid levels may indicate an impaired blood-brain barrier (BBB) permeability related to severe epilepsy. Future studies could explore BBB dysfunction and epileptogenic activity in altering amino acid levels further to understand their implications for epilepsy and potential therapeutic strategies.
+
 
 ## A Step Toward Personalized Medicine
 
