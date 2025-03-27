@@ -1,0 +1,30 @@
+---
+title: "What’s Holding People Back from Vaccinating? A Look at European Attitudes"
+description: "Vaccine hesitancy remains a major barrier to public health, even with vaccines readily available. This post breaks down our recent study that surveyed adolescents and parents across four European countries to understand why some still hesitate. "
+author: "Pol Ezquerra"
+date: "03/27/2025"
+date-modified: "03/27/2025"
+---
+
+
+
+
+
+##  Why to study Vaccine hesitancy?
+
+
+
+::: img-float
+![](web.png){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Vaccine hesitancy—the reluctance or refusal to vaccinate despite available services—poses a significant challenge to public health initiatives aimed at preventing infectious diseases. A recent study published in BMC Public Health explored this issue among European adolescents and parents across Italy, Portugal, Poland, and Spain. The research revealed that approximately 21% of both adolescents and parents exhibited vaccine hesitancy. Notably, the prevalence varied by country, with Spain showing the lowest rates (12.5% among adolescents) and Poland the highest (31.6% among adolescents). This suggests that cultural and regional factors significantly influence attitudes toward vaccination.
+
+The study identified fear of vaccine side effects and distrust in government recommendations as the primary reasons for hesitancy among both groups. Specifically, 56.1% of hesitant adolescents and 51.9% of hesitant parents cited concerns about side effects, while approximately 22% in both groups expressed a lack of trust in governmental guidance. These findings highlight common apprehensions that may deter individuals from accepting vaccinations.
+
+
+Addressing vaccine hesitancy requires targeted educational strategies that consider the specific concerns and cultural contexts of different populations. By focusing on transparent communication about vaccine safety and efficacy, and by building trust in public health recommendations, we can work toward increasing vaccination acceptance. Recognizing and respecting the diverse factors that contribute to hesitancy is crucial in developing effective interventions to promote public health.
+
+Want to explore the findings? Check out our new paper at:
+[Click Here](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-22316-z)
+
