@@ -139,6 +139,29 @@ AU - Canal, P.
 AU - Perera, A.
 
 TY - MGZN
+DO - 10.1093/ckj/sfad182
+TI - Artificial intelligence: a new field of knowledge for nephrologists?
+AB - Artificial intelligence (AI) is a science that involves creating machines that can imitate human intelligence and learn. AI is ubiquitous in our daily lives, from search engines like Google to home assistants like Alexa and, more recently, OpenAI with its chatbot. AI can improve clinical care and research, but its use requires a solid understanding of its fundamentals, the promises and perils of algorithmic fairness, the barriers and solutions to its clinical implementation, and the pathways to developing an AI-competent workforce. The potential of AI in the field of nephrology is vast, particularly in the areas of diagnosis, treatment and prediction. One of the most significant advantages of AI is the ability to improve diagnostic accuracy. Machine learning algorithms can be trained to recognize patterns in patient data, including lab results, imaging and medical history, in order to identify early signs of kidney disease and thereby allow timely diagnoses and prompt initiation of treatment plans that can improve outcomes for patients. In short, AI holds the promise of advancing personalized medicine to new levels. While AI has tremendous potential, there are also significant challenges to its implementation, including data access and quality, data privacy and security, bias, trustworthiness, computing power, AI integration and legal issues. The European Commission's proposed regulatory framework for AI technology will play a significant role in ensuring the safe and ethical implementation of these technologies in the healthcare industry. Training nephrologists in the fundamentals of AI is imperative because traditionally, decision-making pertaining to the diagnosis, prognosis and treatment of renal patients has relied on ingrained practices, whereas AI serves as a powerful tool for swiftly and confidently synthesizing this information.
+AB - This work was supported by Instituto de Salud Carlos III, RI- CORS2040, funded by EU-Next Generation, Mechanism of re- cuperation and resilience ( MRR ) and PI22/00361; Fundaci'ola Marat'ode TV3 ( Grant agreement 202036-30 ) ; FEDER funds ( Grant agreement SPACKDc PMP21/00 109 ) ; Spanish Ministry of Economy and Competitiveness ( www.mineco.gob.es ) PID2021- 122952OB-I00, DPI2017-89827-R and Networking Biomedical Re- search Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine ( CIBER-BBN ) , initiatives of Instituto de Inves- tigaci'on Carlos III ( ISCIII ).
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2023
+UR - https://academic.oup.com/ckj/article/16/12/2314/7233740
+UR - http://hdl.handle.net/2117/427361
+VL - 16
+IS - 12
+EP - 2314
+SP - 2326
+T2 - Clinical Kidney Journal
+AU - Fayos de Ariz'on, L.
+AU - Viera, E.
+AU - Melissa, T.
+AU - Perera, A.
+AU - Nicolau, A.
+AU - Furlano, M.
+AU - Torra, R.
+
+TY - MGZN
 DO - 10.1007/s11357-023-00946-8
 TI - Intrinsic functional brain connectivity changes following aerobic exercise, computerized cognitive training, and their combination in physically inactive healthy late-middle-aged adults: the Projecte Moviment
 AB - Lifestyle interventions have positive neuroprotective effects in aging. However, there are still open questions about how changes in resting-state functional connectivity (rsFC) contribute to cognitive improvements. The Projecte Moviment is a 12-week randomized controlled trial of a multimodal data acquisition protocol that investigated the effects of aerobic exercise (AE), computerized cognitive training (CCT), and their combination (COMB). An initial list of 109 participants was recruited from which a total of 82 participants (62% female; age?=?58.38?+/-?5.47) finished the intervention with a level of adherence?>?80%. Only in the COMB group, we revealed an extended network of 33 connections that involved an increased and decreased rsFC within and between the aDMN/pDMN and a reduced rsFC between the bilateral supplementary motor areas and the right thalamus. No global and especially local rsFC changes due to any intervention mediated the cognitive benefits detected in the AE and COMB groups. Projecte Moviment provides evidence of the clinical relevance of lifestyle interventions and the potential benefits when combining them.
@@ -223,6 +246,30 @@ AU - Perera, A.
 AU - Mora, J.
 AU - Morales, A.
 AU - Lavarino, C.
+
+TY - MGZN
+DO - 10.1093/ndt/gfad063c_4037
+TI - Development of an expert model for the diagnosis of inherited kidney diseases
+AB - Background and Aims Inherited kidney diseases (IKDs) account for 10-20% of cases of Chronic Kidney Disease (CKD). Mutations in over 400 genes are known as drivers of more than 150 monogenic kidney disorders. Clinical diagnosis is often challenging as these disorders are characterized by numerous clinical features often shared by many diseases as well as very variable expression. Over the years, rare-disease databases such as OMIM and Orphanet have complied information to facilitate diagnosis of rare diseases. Based on these, The Human Phenotype Ontology (HPO) developed a standardized directory for phenotypes with phenotype-disease associations. New phenotype-driven gene-priorization tools such as Phenomizer have been developed in the recent years using these resources, however structural inaccuracies prevent a proper uptake of these tools. To date, no specific renal tool has been developed. The aim of the study was to develop an expert model for the diagnosis of IKDs based on phenotype semantic similarity distances such over Human Phenotype Annotations. Method Using MONDO ontology which encompasses HPO phenotypes, OMIM and Orphanet, HPO annotations corresponding to 196 IKDs were exported an analyzed. Based on literature, original HPO annotations for each IKD were manually curated (inaccurate terms were eliminated, new known HPOs were added and new annotations were generated in case they were missing). Frequencies were added to each annotation. Specific kidney data such as CKD stage, age at need of kidney replacement therapy and degree of proteinuria were included. Age of onset, prevalence, and specific gender sub analysis in case of diseases with X-linked inheritance was also integrated. All curated phenotype-disease associations were reviewed by European experts. Using MONDO annotations for each IKD as synthetic patients a statistical model with a friendly user web-based interface was developed in Java. Results Analysis of current ontologies by experts in the filed revealed that HPO terms associated to IKDs were inaccurate and non-specific. A new phenotype-driven tool fed with new curated terms and specific kidney data was found to be superior to current tools. Future contributions to ontologies such as HPO, MONDO and open data-sources with curated terms and updated classifications concerning IKDs will help to improving the diagnosis and characterization of IKDs. Conclusion Current phenotype-based gene prioritization tools and rare disease databases have contributed significantly to improving the clinical diagnosis of rare diseases. However, these tools are nonspecific and imprecise when focusing on a specific field such as IKDs. Curation of current annotations by experts in the field will greatly improve the accuracy of these tools and facilitate clinical diagnosis of IKDs.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2023
+UR - https://academic.oup.com/ndt/article/38/Supplement_1/gfad063c_4037/7195710
+UR - http://hdl.handle.net/2117/427354
+VL - 38
+IS - Supplement_1
+EP - 1231
+SP - 1231, article 4037
+T2 - Nephrology dialysis transplantation
+AU - Fayos de Ariz'on, L.
+AU - Viera, E.
+AU - Furlano, M.
+AU - Vallverdu, M.
+AU - Melissa, T.
+AU - Guirado, L.
+AU - Le'on Carrasco, R.
+AU - Perera, A.
+AU - Torra, R.
 
 TY - MGZN
 DO - 10.1016/j.eswa.2022.117446
@@ -427,24 +474,6 @@ AU - Quiroz, L.
 AU - Alcaraz Casademunt, Jordi
 
 TY - MGZN
-DO - 10.1108/ET-11-2020-0334
-TI - Game learning analytics of instant messaging and online discussion forums in higher education
-AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2021
-UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
-UR - http://hdl.handle.net/2117/356893
-VL - 63
-IS - 9
-EP - 1288
-SP - 1308
-T2 - Education and Training
-AU - Hern'andez-Lara, A.
-AU - Perera, A.
-AU - Serradell-L'opez, E.
-
-TY - MGZN
 DO - 10.1021/acs.jcim.1c00086
 TI - Balancing data on deep learning-based proteochemometric activity classification
 AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
@@ -461,6 +490,24 @@ T2 - Journal of chemical information and modeling
 AU - Lopez, A.
 AU - Picart, S.
 AU - Perera, A.
+
+TY - MGZN
+DO - 10.1108/ET-11-2020-0334
+TI - Game learning analytics of instant messaging and online discussion forums in higher education
+AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2021
+UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
+UR - http://hdl.handle.net/2117/356893
+VL - 63
+IS - 9
+EP - 1288
+SP - 1308
+T2 - Education and Training
+AU - Hern'andez-Lara, A.
+AU - Perera, A.
+AU - Serradell-L'opez, E.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/btaa1069

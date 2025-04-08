@@ -442,6 +442,25 @@ AU - Laguna, P.
 AU - Ram'irez, J.
 
 TY - MGZN
+DO - 10.1016/j.snb.2021.130961
+TI - Early fire detection based on gas sensor arrays: Multivariate calibration and validation
+AB - Smoldering fires are characterized by the production of early gas emissions that can include high levels of CO and Volatile Organic Compounds (VOCs) due to pyrolysis or thermal degradation. Nowadays, standalone CO sensors, smoke detectors, or a combination of these, are standard components for fire alarm systems. While gas sensor arrays together with pattern recognition techniques are a valuable alternative for early fire detection, in practice they have certain drawbacks-they can detect early gas emissions, but can show low immunity to nuisances, and sensor time drift can render calibration models obsolete. In this work, we explore the performance of a gas sensor array for detecting smoldering and plastic fires while ensuring the rejection of a set of nuisances. We conducted variety of fire and nuisance experiments in a validated standard fire room (240 m3). Using PLS-DA and SVM, we evaluate the performance of different multivariate calibration models for this dataset. We show that calibration models remain predictive after several months, but perfect performance is not achieved. For example, 4 months after calibration, a PLS-DA model provides 100% specificity and 85% sensitivity since the system has difficulties in detecting plastic fires, whose signatures are close to nuisance scenarios. Nevertheless, our results show that systems based on gas sensor arrays are able to provide faster fire alarm response than conventional smoke-based fire alarms. We also propose the use of small-scale fire experiments to increase the number of calibration con- ditions at a reduced cost. Our results show that this is an effective way to increase the performance of the model, even when evaluated on a standard fire room. Finally, the acquired datasets are made publicly available to the community (doi: 10.5281/zenodo.5643074).
+Y1 - 2022
+UR - https://www.sciencedirect.com/science/article/pii/S092540052101529X
+VL - 352
+IS - 130961
+EP - 130961-1
+SP - 130961-16
+T2 - Sensors and actuators B. Chemical
+AU - Sol'orzano, A.
+AU - Eichmann, J.
+AU - Fernandez, L.
+AU - Ziems, B.
+AU - Jimenez-Soto, J.
+AU - Marco, S.
+AU - Fonollosa, J.
+
+TY - MGZN
 DO - 10.1016/j.jenvman.2022.114787
 TI - COVID-19 impact on maritime traffic and corresponding pollutant emissions. The case of the Port of Barcelona
 AB - The impact of the SARS-CoV pandemic has gone well beyond health concerns, reaching the maritime industry. The study on the environmental impact of shipping industry during COVID-19 pandemic can provide useful insights to propose new management policies regarding shipping operations, both in-port and on the route. We present a case study centred in the Port of Barcelona covering a 30 nautical miles range in the period March to July 2020, during which different levels of restrictions and stringent lockdown measures were enforced. In this paper, we assess the impact of COVID-19 on maritime traffic and its related emissions in port cities using real-time Automatic Identification System (AIS) data. Interestingly, results show that the decline in maritime traffic is not correlated with a decrease in maritime emissions due to changes in vessel operation. During lockdown (March to June 2020), we observed a 27.9% reduction in the number of port calls compared to the pre-lockdown scenario, whereas pollutant emissions show a moderate decrease (1.8% for CO2), no significant reduction (SO2 and PM) or a slight increase (1.3% for NOx). This can be directly assigned to changes in vessel operation mode, i.e. vessels switched from Underway to At Anchor or Moored status, during which auxiliary engines are used at higher loads.
@@ -473,25 +492,6 @@ AU - Hern'andez-Lara, A.
 AU - Abubakr, B.
 AU - Sanchez-Rebull, M.
 AU - Perera, A.
-
-TY - MGZN
-DO - 10.1016/j.snb.2021.130961
-TI - Early fire detection based on gas sensor arrays: Multivariate calibration and validation
-AB - Smoldering fires are characterized by the production of early gas emissions that can include high levels of CO and Volatile Organic Compounds (VOCs) due to pyrolysis or thermal degradation. Nowadays, standalone CO sensors, smoke detectors, or a combination of these, are standard components for fire alarm systems. While gas sensor arrays together with pattern recognition techniques are a valuable alternative for early fire detection, in practice they have certain drawbacks-they can detect early gas emissions, but can show low immunity to nuisances, and sensor time drift can render calibration models obsolete. In this work, we explore the performance of a gas sensor array for detecting smoldering and plastic fires while ensuring the rejection of a set of nuisances. We conducted variety of fire and nuisance experiments in a validated standard fire room (240 m3). Using PLS-DA and SVM, we evaluate the performance of different multivariate calibration models for this dataset. We show that calibration models remain predictive after several months, but perfect performance is not achieved. For example, 4 months after calibration, a PLS-DA model provides 100% specificity and 85% sensitivity since the system has difficulties in detecting plastic fires, whose signatures are close to nuisance scenarios. Nevertheless, our results show that systems based on gas sensor arrays are able to provide faster fire alarm response than conventional smoke-based fire alarms. We also propose the use of small-scale fire experiments to increase the number of calibration con- ditions at a reduced cost. Our results show that this is an effective way to increase the performance of the model, even when evaluated on a standard fire room. Finally, the acquired datasets are made publicly available to the community (doi: 10.5281/zenodo.5643074).
-Y1 - 2022
-UR - https://www.sciencedirect.com/science/article/pii/S092540052101529X
-VL - 352
-IS - 130961
-EP - 130961-1
-SP - 130961-16
-T2 - Sensors and actuators B. Chemical
-AU - Sol'orzano, A.
-AU - Eichmann, J.
-AU - Fernandez, L.
-AU - Ziems, B.
-AU - Jimenez-Soto, J.
-AU - Marco, S.
-AU - Fonollosa, J.
 
 TY - MGZN
 DO - 10.1155/2022/3652441
@@ -762,24 +762,6 @@ AU - Ram'irez, J.
 AU - Laguna, P.
 
 TY - MGZN
-DO - 10.1108/ET-11-2020-0334
-TI - Game learning analytics of instant messaging and online discussion forums in higher education
-AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2021
-UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
-UR - http://hdl.handle.net/2117/356893
-VL - 63
-IS - 9
-EP - 1288
-SP - 1308
-T2 - Education and Training
-AU - Hern'andez-Lara, A.
-AU - Perera, A.
-AU - Serradell-L'opez, E.
-
-TY - MGZN
 DO - 10.1021/acs.jcim.1c00086
 TI - Balancing data on deep learning-based proteochemometric activity classification
 AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
@@ -796,6 +778,24 @@ T2 - Journal of chemical information and modeling
 AU - Lopez, A.
 AU - Picart, S.
 AU - Perera, A.
+
+TY - MGZN
+DO - 10.1108/ET-11-2020-0334
+TI - Game learning analytics of instant messaging and online discussion forums in higher education
+AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2021
+UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
+UR - http://hdl.handle.net/2117/356893
+VL - 63
+IS - 9
+EP - 1288
+SP - 1308
+T2 - Education and Training
+AU - Hern'andez-Lara, A.
+AU - Perera, A.
+AU - Serradell-L'opez, E.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/btaa1069
@@ -1533,6 +1533,28 @@ AU - Perera, A.
 AU - Mont, L.
 
 TY - MGZN
+DO - 10.1093/bioinformatics/btx632
+TI - diffuStats: an R package to compute diffusion-based scores on biological networks
+AB - Label propagation and diffusion over biological networks are a common mathematical formalism in computational biology for giving context to molecular entities and prioritising novel candidates in the area of study. 
+There are several choices in conceiving the diffusion process -involving the graph kernel, the score definitions and the presence of a posterior statistical normalisation- which have an impact on the results. 
+This manuscript describes diffuStats, an R package that provides a collection of graph kernels and diffusion scores, as well as a parallel permutation analysis for the normalised scores, that eases the computation of the scores and their benchmarking for an optimal choice.
+AB - This is a pre-copyedited, author-produced version of an article accepted for publication in Bioinformatics following peer review. The version of record Sergio Picart-Armada, Wesley K Thompson, Alfonso Buil, Alexandre Perera-Lluna; diffuStats: an R package to compute diffusion-based scores on biological networks, Bioinformatics, Volume 34, Issue 3, 1 February 2018, Pages 533-534 is available online at: https://doi.org/10.1093/bioinformatics/btx632.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - https://academic.oup.com/bioinformatics/article-abstract/34/3/533/4347202?redirectedFrom=fulltext
+UR - http://hdl.handle.net/2117/114063
+VL - 34
+IS - 3
+EP - 533
+SP - 534
+T2 - Bioinformatics
+AU - Picart, S.
+AU - Thompson, W.
+AU - Buil Demur, A.
+AU - Perera, A.
+
+TY - MGZN
 DO - 10.3414/ME17-01-0071
 TI - Time-frequency features for impedance cardiography signals during anesthesia using different distribution kernels
 AB - Objective: This works investigates the time-frequency content of impedance cardiography signals during a propofol-remifentanil anesthesia.
@@ -1556,28 +1578,6 @@ AU - Escriv'a, J.
 AU - Gambus, P.
 AU - Jensen, E.W.
 AU - Vallverdu, M.
-
-TY - MGZN
-DO - 10.1093/bioinformatics/btx632
-TI - diffuStats: an R package to compute diffusion-based scores on biological networks
-AB - Label propagation and diffusion over biological networks are a common mathematical formalism in computational biology for giving context to molecular entities and prioritising novel candidates in the area of study. 
-There are several choices in conceiving the diffusion process -involving the graph kernel, the score definitions and the presence of a posterior statistical normalisation- which have an impact on the results. 
-This manuscript describes diffuStats, an R package that provides a collection of graph kernels and diffusion scores, as well as a parallel permutation analysis for the normalised scores, that eases the computation of the scores and their benchmarking for an optimal choice.
-AB - This is a pre-copyedited, author-produced version of an article accepted for publication in Bioinformatics following peer review. The version of record Sergio Picart-Armada, Wesley K Thompson, Alfonso Buil, Alexandre Perera-Lluna; diffuStats: an R package to compute diffusion-based scores on biological networks, Bioinformatics, Volume 34, Issue 3, 1 February 2018, Pages 533-534 is available online at: https://doi.org/10.1093/bioinformatics/btx632.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2018
-UR - https://academic.oup.com/bioinformatics/article-abstract/34/3/533/4347202?redirectedFrom=fulltext
-UR - http://hdl.handle.net/2117/114063
-VL - 34
-IS - 3
-EP - 533
-SP - 534
-T2 - Bioinformatics
-AU - Picart, S.
-AU - Thompson, W.
-AU - Buil Demur, A.
-AU - Perera, A.
 
 TY - MGZN
 DO - 10.1016/j.bpj.2017.11.026
@@ -1971,6 +1971,27 @@ AU - Benitez, R.
 AU - Gordon, L.
 
 TY - MGZN
+DO - 10.1161/CIRCULATIONAHA.116.024875
+TI - Response by 'Alvarez-Garc'ia et al. to Letters Regarding article, "Electrophysiological effects of selective atrial coronary artery occlusion in humans"
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2016
+UR - http://circ.ahajournals.org/content/134/18/e401.full
+UR - http://hdl.handle.net/2117/101570
+VL - 134
+IS - 18
+EP - e401
+SP - e402
+T2 - Circulation
+AU - 'Alvarez-Garc'ia, Jesus
+AU - Vives, M.
+AU - Gomis, P.
+AU - Ordo~nez, J.
+AU - Ferrero-Gregori, A.
+AU - Serra, A.
+AU - Cinca, J.
+
+TY - MGZN
 DO - 10.1042/BCJ20160606
 TI - Suppression of ryanodine receptor function prolongs Ca2+ release refractoriness and promotes cardiac alternans in intact hearts
 AB - Beat-to-beat alternations in the amplitude of the cytosolic Ca2+ transient (Ca2+ alternans) are thought to be the primary cause of cardiac alternans that can lead to cardiac arrhythmias and sudden death. Despite its important role in arrhythmogenesis, the mechanism underlying Ca2+ alternans remains poorly understood. Here, we investigated the role of cardiac ryanodine receptor (RyR2), the major Ca2+ release channel responsible for cytosolic Ca2+ transients, in cardiac alternans. Using a unique mouse model harboring a suppression-of-function (SOF) RyR2 mutation (E4872Q), we assessed the effect of genetically suppressing RyR2 function on Ca2+ and action potential duration (APD) alternans in intact hearts, and electrocardiogram (ECG) alternans in vivo. We found that RyR2-SOF hearts displayed prolonged sarcoplasmic reticulum Ca2+ release refractoriness and enhanced propensity for Ca2+ alternans. RyR2-SOF hearts/mice also exhibited increased propensity for APD and ECG alternans. Caffeine, which enhances RyR2 activity and the propensity for catecholaminergic polymorphic ventricular tachycardia (CPVT), suppressed Ca2+ alternans in RyR2-SOF hearts, whereas carvedilol, a ss-blocker that suppresses RyR2 activity and CPVT, promoted Ca2+ alternans in these hearts. Thus, RyR2 function is an important determinant of Ca2+, APD, and ECG alternans. Our data also indicate that the activity of RyR2 influences the propensity for cardiac alternans and CPVT in an opposite manner. Therefore, overly suppressing or enhancing RyR2 function is pro-arrhythmic.
@@ -1995,27 +2016,6 @@ AU - Song, L.
 AU - Hove-Madsen, L.
 AU - Benitez, R.
 AU - Wayne Chen, S. R.
-
-TY - MGZN
-DO - 10.1161/CIRCULATIONAHA.116.024875
-TI - Response by 'Alvarez-Garc'ia et al. to Letters Regarding article, "Electrophysiological effects of selective atrial coronary artery occlusion in humans"
-AB - Peer Reviewed
-AB - Postprint (published version)
-Y1 - 2016
-UR - http://circ.ahajournals.org/content/134/18/e401.full
-UR - http://hdl.handle.net/2117/101570
-VL - 134
-IS - 18
-EP - e401
-SP - e402
-T2 - Circulation
-AU - 'Alvarez-Garc'ia, Jesus
-AU - Vives, M.
-AU - Gomis, P.
-AU - Ordo~nez, J.
-AU - Ferrero-Gregori, A.
-AU - Serra, A.
-AU - Cinca, J.
 
 TY - MGZN
 DO - 10.1007/s10877-016-9948-z
@@ -2561,27 +2561,6 @@ AU - Huerta, R.
 AU - Marco, S.
 
 TY - MGZN
-DO - 10.1016/j.medengphy.2015.01.002
-TI - Mutual information measures applied to EEG signals for sleepiness characterization
-AB - Excessive daytime sleepiness (EDS) is one of the main symptoms of several sleep related disorders with a great impact on the patient lives. While many studies have been carried out in order to assess daytime sleepiness, the automatic EDS detection still remains an open problem. In this work, a novel approach to this issue based on non-linear dynamical analysis of EEG signal was proposed. Multichannel EEG signals were recorded during five maintenance of wakefulness (MWT) and multiple sleep latency (MSLT) tests alternated throughout the day from patients suffering from sleep disordered breathing. A group of 20 patients with excessive daytime sleepiness (EDS) was compared with a group of 20 patients without daytime sleepiness (WDS), by analyzing 60-s EEG windows in waking state. Measures obtained from cross-mutual information function (CMIF) and auto-mutual-information function (AMIF) were calculated in the EEG. These functions permitted a quantification of the complexity properties of the EEG signal and the non-linear couplings between different zones of the scalp. Statistical differences between EDS and WDS groups were found in ss band during MSLT events (. p-value<0.0001). WDS group presented more complexity than EDS in the occipital zone, while a stronger nonlinear coupling between occipital and frontal zones was detected in EDS patients than in WDS. The AMIF and CMIF measures yielded sensitivity and specificity above 80% and AUC of ROC above 0.85 in classifying EDS and WDS patients.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2015
-UR - http://hdl.handle.net/2117/79397
-VL - 37
-IS - 3
-EP - 297
-SP - 308
-T2 - Medical engineering and physics
-AU - Melia, U.
-AU - Guaita, M.
-AU - Vallverdu, M.
-AU - Embid, C.
-AU - Vilaseca, I.
-AU - Salamero, M.
-AU - Santamaria, J.
-
-TY - MGZN
 DO - 10.1007/s11517-015-1275-x
 TI - Time-varying signal analysis to detect high-altitude periodic breathing in climbers ascending to extreme altitude
 AB - This work investigates the performance of cardiorespiratory analysis detecting periodic breathing (PB) in chest wall recordings in mountaineers climbing to extreme altitude. The breathing patterns of 34 mountaineers were monitored unobtrusively by inductance plethysmography, ECG and pulse oximetry using a portable recorder during
@@ -2614,6 +2593,27 @@ AU - Merz, T.
 AU - Pichler Hefti, J.
 AU - Schoch, O.
 AU - Bloch, K.
+
+TY - MGZN
+DO - 10.1016/j.medengphy.2015.01.002
+TI - Mutual information measures applied to EEG signals for sleepiness characterization
+AB - Excessive daytime sleepiness (EDS) is one of the main symptoms of several sleep related disorders with a great impact on the patient lives. While many studies have been carried out in order to assess daytime sleepiness, the automatic EDS detection still remains an open problem. In this work, a novel approach to this issue based on non-linear dynamical analysis of EEG signal was proposed. Multichannel EEG signals were recorded during five maintenance of wakefulness (MWT) and multiple sleep latency (MSLT) tests alternated throughout the day from patients suffering from sleep disordered breathing. A group of 20 patients with excessive daytime sleepiness (EDS) was compared with a group of 20 patients without daytime sleepiness (WDS), by analyzing 60-s EEG windows in waking state. Measures obtained from cross-mutual information function (CMIF) and auto-mutual-information function (AMIF) were calculated in the EEG. These functions permitted a quantification of the complexity properties of the EEG signal and the non-linear couplings between different zones of the scalp. Statistical differences between EDS and WDS groups were found in ss band during MSLT events (. p-value<0.0001). WDS group presented more complexity than EDS in the occipital zone, while a stronger nonlinear coupling between occipital and frontal zones was detected in EDS patients than in WDS. The AMIF and CMIF measures yielded sensitivity and specificity above 80% and AUC of ROC above 0.85 in classifying EDS and WDS patients.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2015
+UR - http://hdl.handle.net/2117/79397
+VL - 37
+IS - 3
+EP - 297
+SP - 308
+T2 - Medical engineering and physics
+AU - Melia, U.
+AU - Guaita, M.
+AU - Vallverdu, M.
+AU - Embid, C.
+AU - Vilaseca, I.
+AU - Salamero, M.
+AU - Santamaria, J.
 
 TY - MGZN
 DO - 10.1093/cvr/cvv046
@@ -3311,19 +3311,6 @@ AU - Guti'errez-G'alvez, A.
 AU - Marco, S.
 
 TY - MGZN
-TI - Analysis of the respiratory flow cycle morphology in chronic heart failure patients applying principal components analysis
-Y1 - 2012
-UR - http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06090494
-VL - 2012
-EP - 1725
-SP - 1728
-T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
-AU - Garde, A.
-AU - Giraldo, B.
-AU - S"ornmo, L.
-AU - Jane, R.
-
-TY - MGZN
 DO - 10.1515/bmt-2012-4315
 TI - Long-term versus short-term heart rate variability analyses for risk stratification in ischemic heart failure patients
 Y1 - 2012
@@ -3358,6 +3345,19 @@ AU - Ayza, J.
 AU - Caminal, P.
 AU - Escarrabill , J.
 AU - Roca, J.
+
+TY - MGZN
+TI - Analysis of the respiratory flow cycle morphology in chronic heart failure patients applying principal components analysis
+Y1 - 2012
+UR - http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06090494
+VL - 2012
+EP - 1725
+SP - 1728
+T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+AU - Garde, A.
+AU - Giraldo, B.
+AU - S"ornmo, L.
+AU - Jane, R.
 
 TY - MGZN
 DO - 10.1016/j.jelectrocard.2011.08.013
@@ -3819,6 +3819,20 @@ AU - Diaz, I.
 AU - Benito, S.
 
 TY - MGZN
+DO - 10.1007/978-3-642-14097-6_50
+TI - Friendly human-machine interaction in an adapted robotized kitchen
+Y1 - 2010
+VL - 6179
+EP - 312
+SP - 319
+T2 - Lecture notes in computer science
+AU - Aranda, J.
+AU - Vinagre, M.
+AU - Martin, E.X.
+AU - Casamitjana, M.
+AU - Casals, A.
+
+TY - MGZN
 DO - 10.1007/s10439-010-0027-1
 TI - Symbolic dynamic analysis of relations between cardiac and breathing cycles in patients on weaning trials
 AB - Traditional time-domain techniques of data analysis are often not sufficient to characterize the complex dynamics of the cardiorespiratory interdependencies during
@@ -3837,20 +3851,6 @@ AU - Vallverdu, M.
 AU - Benito, S.
 AU - Schroeder, R.
 AU - Voss, A.
-
-TY - MGZN
-DO - 10.1007/978-3-642-14097-6_50
-TI - Friendly human-machine interaction in an adapted robotized kitchen
-Y1 - 2010
-VL - 6179
-EP - 312
-SP - 319
-T2 - Lecture notes in computer science
-AU - Aranda, J.
-AU - Vinagre, M.
-AU - Martin, E.X.
-AU - Casamitjana, M.
-AU - Casals, A.
 
 TY - MGZN
 DO - 10.1186/1753-6561-3-S7-S130
@@ -4004,17 +4004,6 @@ AU - W"ollnestein, J.
 AU - Marco, S.
 
 TY - MGZN
-TI - Space Carving Acceleration Using Uncertainty Measurements
-Y1 - 2009
-VL - 5524
-EP - 112
-SP - 119
-T2 - Lecture notes in computer science
-AU - P'erez, M.C.
-AU - Casamitjana, M.
-AU - Martin, E.X.
-
-TY - MGZN
 TI - Data mining of patients on weaning trials from mechanical ventilation using cluster analysis and neural networks
 Y1 - 2009
 VL - 1
@@ -4028,6 +4017,17 @@ AU - Caminal, P.
 AU - Diaz, I.
 AU - Salvador, B.
 AU - Giraldo, B.
+
+TY - MGZN
+TI - Space Carving Acceleration Using Uncertainty Measurements
+Y1 - 2009
+VL - 5524
+EP - 112
+SP - 119
+T2 - Lecture notes in computer science
+AU - P'erez, M.C.
+AU - Casamitjana, M.
+AU - Martin, E.X.
 
 TY - MGZN
 TI - Effects of propofol anesthesia on nonlinear properties of EEG: Lyapunov exponents and short-term predictability
@@ -4185,21 +4185,6 @@ AU - Soria, J.
 AU - Caminal, P.
 
 TY - MGZN
-TI - Changes of autonomic information flow due to idiopathic dilated cardiomyopathy
-Y1 - 2007
-VL - 28
-EP - 677
-SP - 688
-T2 - Physiological measurement
-AU - Palacios, M.
-AU - Friedrich, H.
-AU - Christine, G.
-AU - Vallverdu, M.
-AU - de Luna, A. B.
-AU - Caminal, P.
-AU - Hoyer, D.
-
-TY - MGZN
 TI - Detrended fluctuation analysis of EEG as a measure of depth of anesthesia
 Y1 - 2007
 VL - 54
@@ -4215,6 +4200,21 @@ AU - Vallverdu, M.
 AU - Struys, M.
 AU - Vereecke, H.
 AU - Kaplan, D.
+
+TY - MGZN
+TI - Changes of autonomic information flow due to idiopathic dilated cardiomyopathy
+Y1 - 2007
+VL - 28
+EP - 677
+SP - 688
+T2 - Physiological measurement
+AU - Palacios, M.
+AU - Friedrich, H.
+AU - Christine, G.
+AU - Vallverdu, M.
+AU - de Luna, A. B.
+AU - Caminal, P.
+AU - Hoyer, D.
 
 TY - MGZN
 DO - 10.1109/TBME.2006.889944
@@ -4275,6 +4275,21 @@ AU - Caminal, P.
 AU - de Luna, A. B.
 
 TY - MGZN
+TI - The TALP-QA System for Spanish at CLEF 2005
+Y1 - 2006
+UR - http://dx.doi.org/10.1007/11878773_45
+VL - 4022
+EP - 400
+SP - 409
+T2 - Lecture notes in computer science
+AU - Ferres, D.
+AU - Kanaan-Izquierdo, S.
+AU - Ageno, A.
+AU - Gonz'alez, E.
+AU - Rodriguez, H.
+AU - Turmo, J.
+
+TY - MGZN
 TI - Non-linear dynamic analysis of the cardiac rhythm during transient myocardial ischemia
 Y1 - 2006
 VL - 51
@@ -4305,63 +4320,6 @@ AU - Zebrowski, J.
 AU - Vallverdu, M.
 AU - Caminal, P.
 AU - de Luna, A. B.
-
-TY - MGZN
-TI - The TALP-QA System for Spanish at CLEF 2005
-Y1 - 2006
-UR - http://dx.doi.org/10.1007/11878773_45
-VL - 4022
-EP - 400
-SP - 409
-T2 - Lecture notes in computer science
-AU - Ferres, D.
-AU - Kanaan-Izquierdo, S.
-AU - Ageno, A.
-AU - Gonz'alez, E.
-AU - Rodriguez, H.
-AU - Turmo, J.
-
-TY - MGZN
-TI - Compression entropy contribuyes to risk stratification in patients with cardiomyopathy
-Y1 - 2006
-VL - 51
-IS - 2
-EP - 77
-SP - 82
-T2 - Biomedizinische technik
-AU - Truebner, S.
-AU - Cygankiewicz, I.
-AU - Schroeder, R.
-AU - Baumert, M.
-AU - Vallverdu, M.
-AU - Caminal, P.
-AU - Vazquez, R.
-AU - de Luna, A. B.
-AU - Voss, A.
-
-TY - MGZN
-TI - An'alisis fractal del control auton'omico del ritmo cardiaco durante oclusi'on coronaria
-Y1 - 2006
-UR - http://riai.isa.upv.es
-VL - 3
-IS - 2
-EP - 116
-SP - 122
-T2 - Revista iberoamericana de automatica e informatica industrial
-AU - Gomis, P.
-AU - Caminal, P.
-AU - Vallverdu, M.
-
-TY - MGZN
-TI - Abnormal intra-QRS potentials associated with percutaneous transluminal coronary angioplasty-induced transient myocardial ischemia
-Y1 - 2006
-UR - http://www.elsevier.com/locate/jelectrocard
-VL - 39
-IS - 3
-EP - 282
-SP - 289
-T2 - Journal of electrocardiology
-AU - Gomis, P.
 
 TY - MGZN
 DO - 10.1016/j.snb.2006.03.012
@@ -4413,6 +4371,48 @@ AU - Pardo, A.
 AU - Perera, A.
 
 TY - MGZN
+TI - Compression entropy contribuyes to risk stratification in patients with cardiomyopathy
+Y1 - 2006
+VL - 51
+IS - 2
+EP - 77
+SP - 82
+T2 - Biomedizinische technik
+AU - Truebner, S.
+AU - Cygankiewicz, I.
+AU - Schroeder, R.
+AU - Baumert, M.
+AU - Vallverdu, M.
+AU - Caminal, P.
+AU - Vazquez, R.
+AU - de Luna, A. B.
+AU - Voss, A.
+
+TY - MGZN
+TI - An'alisis fractal del control auton'omico del ritmo cardiaco durante oclusi'on coronaria
+Y1 - 2006
+UR - http://riai.isa.upv.es
+VL - 3
+IS - 2
+EP - 116
+SP - 122
+T2 - Revista iberoamericana de automatica e informatica industrial
+AU - Gomis, P.
+AU - Caminal, P.
+AU - Vallverdu, M.
+
+TY - MGZN
+TI - Abnormal intra-QRS potentials associated with percutaneous transluminal coronary angioplasty-induced transient myocardial ischemia
+Y1 - 2006
+UR - http://www.elsevier.com/locate/jelectrocard
+VL - 39
+IS - 3
+EP - 282
+SP - 289
+T2 - Journal of electrocardiology
+AU - Gomis, P.
+
+TY - MGZN
 TI - On-line novelty detection by recursive dynamic principal component analysis and gas sensor arrays under drift conditions
 Y1 - 2006
 UR - http://ieeexplore.ieee.org/iel5/7361/34270/01634430.pdf?tp=&isnumber=34270&arnumber=1634430&punumber=7361
@@ -4448,16 +4448,6 @@ AU - Moreno-Sereno, M.
 AU - Marco, S.
 
 TY - MGZN
-TI - Hidden Markov Models Based on Symbolic Dynamics for Statistical Modeling of Cardiovascular Control in Hypertensive Pregnancy Disorders
-Y1 - 2006
-VL - 53
-EP - 140
-SP - 143
-T2 - IEEE transactions on biomedical engineering
-AU - Vallverdu, M.
-AU - Caminal, P.
-
-TY - MGZN
 TI - The TALP-QA System for Spanish at CLEF-2005
 Y1 - 2006
 UR - http://link.springer.com/chapter/10.1007%2F11878773_45#page-1
@@ -4471,6 +4461,16 @@ AU - Ageno, A.
 AU - Gonz`alez, E.
 AU - Rodriguez, H.
 AU - Turmo, J.
+
+TY - MGZN
+TI - Hidden Markov Models Based on Symbolic Dynamics for Statistical Modeling of Cardiovascular Control in Hypertensive Pregnancy Disorders
+Y1 - 2006
+VL - 53
+EP - 140
+SP - 143
+T2 - IEEE transactions on biomedical engineering
+AU - Vallverdu, M.
+AU - Caminal, P.
 
 TY - MGZN
 TI - Optimazed Symbolic Dynamics approach for the analysis of the respiratory pattern
