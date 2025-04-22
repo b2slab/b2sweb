@@ -1,0 +1,14 @@
+---
+title: "Public Group Talks"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+css: index.css
+resources:
+   - 202503_MM_Blanca.html
+---
+
+Find here a list of public talks by the group (always in development).
+
