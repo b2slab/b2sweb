@@ -1,0 +1,41 @@
+---
+title: "Maria Barranco Altirriba"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+
+::: img-float
+![](images/staff_Maria_Barranco_Altirriba.jpg){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Welcome to my site! My name is Maria Barranco Altirriba and I hold a bachelor's and a master's degree in Biomedical Engineering in Universitat de Barcelona. I am currently doing (almost finishing!) a PhD in the [B2SLab](https://b2slab.upc.edu/), which is part of the Institut de Recerca i Innovació en Salut ([IRIS](https://iris.upc.edu/)), formerly the Research Center for Biomedical Engineering (CREB) at the Universitat Politècnica de Catalunya, in Barcelona.
+
+My research focuses on metabolomics, including the development of new methods to analyse and interpret metabolomics data, such as the mWISE annotation algorithm. I also apply these tools to better understand diabetes mellitus and its complications. In a recent publication, we identified lipids significantly associated with subclinical carotid atherosclerosis in individuals with type 2 diabetes. Last year, I spent nine months at LipiTUM (Technical University of Munich), where I developed a language model (Smile-to-Bert) to generate embeddings for molecular SMILES. These pre-trained models can be used across datasets to predict molecular properties, an active area of research in drug discovery.
+
+## Contact
+
+-   you can email me at *maria.barranco* **you guess what** *upc.edu*
+
+## Social Networks
+
+-   Find me on my profile on
+    -   <a rel="me" href="https://social.iris.upc.edu/@mariabarranco">Mastodon</a>
+-   No, we do not use X nor twitter, and we will not use it for the time being
+
+## Publications
+
+```{r}
+cache_file <- "../../doi_cache.json"
+source("../../R/getpapers.R")
+# Define the RIS file URL
+ris_url <- "https://scholar.google.com/citations?user=Yy5ThHAAAAAJ"
+```
+
+```{r}
+#| output: asis
+paperstohtmlnodiv(ris_url)
+```
