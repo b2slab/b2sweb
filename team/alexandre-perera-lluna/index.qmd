@@ -1,0 +1,106 @@
+---
+title: "Alexandre Perera Lluna"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+resources: 
+  - "teaching/*"
+---
+
+## Bio
+
+::: img-float
+![](images/staff_Alexandre_Perera_LLuna.jpg){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Welcome to my site. My name is Alexandre Perera Lluna, sometimes Alex Perera. I hold a degree in Physics, a second degree in Electrical Engineering, and a PhD in Physics from the University of Barcelona. I currently lead the [B2SLab](https://b2slab.upc.edu/), which is part of the Institut de Recerca i Innovació en Salut ([IRIS](https://iris.upc.edu/)), formerly the Research Center for Biomedical Engineering (CREB) at the Universitat Politècnica de Catalunya (Polytechnic University of Catalonia, UPC), located in the beautiful city of Barcelona. It is a fantastic place for research, culture, and leisure—I truly love this city.
+
+At B2SLab, we integrate Data Science, Bioinformatics, and Bioengineering. My main interests include predicting disease trajectories using Transformer and Linear models, as well as applying machine learning to Rare Diseases. I also have experience in data integration, data fusion, metabolomics, functional enrichment, and bioengineering. Since 2022, I have been a full professor at the Universitat Politècnica de Catalunya.
+
+-   In 2019, I was appointed as the head of the Research Center for Biomedical Engineering at UPC (CREB-UPC, Centre de Recerca en Enginyeria Biomèdica).
+-   I also coordinate a [fascinating project named Xartec Salut](https://xartecsalut.com).
+
+## Contact
+
+-   you can email me at *alexandre.perera* **you guess what***upc.edu*
+
+## Social Networks
+
+-   Find me on my profile on
+    -   <a rel="me" href="https://social.iris.upc.edu/@alexperera">Mastodon</a>
+    -   <a href="https://bsky.app/profile/alexperera.social.iris.upc.edu.ap.brid.gy">Blue Sky</a>
+-   No, we do not use X nor twitter, and we will not use it for the time being
+
+## Teaching
+
+I teach several subjects, including:
+
+-   Introduction to Bioinformatics.
+-   Data Mining for Biomedical Databases.
+-   Scientific computing.
+-   Machine learning.
+-   Embedded and real time computing.
+
+## Ongoing PhD Thesis
+
+-   [**Maria Barranco**](https://b2slab.upc.edu/team/maria-barranco-altarriba/ "Maria Barranco")[^1]
+-   [Enrico Manzini](https://b2slab.upc.edu/team/enrico-manzini/)
+-   [Joshua Llano](https://b2slab.upc.edu/team/joshua-llano)
+-   [Joana Gelabert](https://b2slab.upc.edu/team/joana-gelabert-xirinachs)
+-   [Blanca Aleajos](https://b2slab.upc.edu/team/blanca-aleajos)
+-   [Helena Rodriguez Gonzalez](https://b2slab.upc.edu/team/helena-rodriguez-gonzalez/)
+-   Pol Solà
+-   Pol Canal
+-   Pol Ezquerra
+-   [Aitor Moruno](https://b2slab.upc.edu/team/aitor-moruno-cuenca)
+
+[^1]: soon to defend her thesis
+
+## Former PhD Thesis
+
+I have proudly advised several PhD students who have successfully defended their dissertations:
+
+-   Helena Brunel. *Genetic association analysis of complex diseases through information theoretic metrics and linear pleiotropy*. Defended on 14/11/2013 at Universitat Politècnica de catalunya
+
+-   Jorge Alberto Jaramillo Garzón. [*Protein function prediction with semi-supervised classification based on evolutionary multi-objective optimization*](http://web.archive.org/web/20241104024405/http://b2slab.upc.edu/wp-content/uploads/2014/02/Jorge-Alberto-Jaramillo-PhD.pdf), Defended on 25/11/2013 at the Universidad Nacional de Colombia. This thesis was coadvised with Dr. German Castellanos from the same university.
+
+-   Andrey Ziyatdinov, *Biomimetic Setup for Chemosensor-Based Machine olfaction*. Defended on 4/12/2014 at Universitat Politècnica de Catalunya.
+
+-   Francesc Fernandez, *Machine Learning Methods for the automated analysis of metabolomic data.* Defended on 30/10/2014 at Universitat Politècnica de Catalunya.
+
+-   Erola Pairó,*Detection of Transcription Factor Binding Sites by Means of Multivariate Signal Processing Techniques*. Defended on 21/07/2015 at Universitat de Barcelona. This thesis was coadvised with Dr. Santiago Marco from the same university.
+
+-   Joan Maynou, *Computational representation and discovery of transcription factor binding sites*. Defended on 01/02/2016 at Universitat Politècnica de Catalunya.
+
+-   Xavier Domingo, Signal processing in Metabolomics”, Defended on July 2016. Coadvised with Prof. Jesús Brezmes, Universitat Rovira i Virgili.
+
+-   Giovana Gavidia,Study of Longitudinal Neurodegeneration Biomarkers to Support the Early Diagnosis of Alzheimer’s Disease. Defended on 20/03/2018 at Universitat Politècnica de Catalunya.
+
+-   Samir Kanaan.Multiview pattern recognition methods for data visualization, embedding and clustering. Defended on 22/09/2017 at Universitat Politècnica de Catalunya.
+
+-   Sergio Picart, “Statistical Normalisation of Network Propagation Methods for Computational biology” , by Sergio Picart, 23/7,2020. The defense was performed online due to the sars-cov-2 pandemic and published in [here](http://web.archive.org/web/20241104024405/https://www.youtube.com/watch?v=tIb9aVZa2dM).
+
+-   Angela López del Río, “Development And Improvement Of Computer Aided Drug Development Techniques Using Deep Learning Algorithms”, defended on June 23rd, 2021. currently Post-Doc Data Scientist at Boehringer Ingelheim.
+
+## Publications
+
+You can also check my journal papers, available through:
+
+-   [publications for all the group](http://web.archive.org/web/20241104024405/http://b2slab.upc.edu/publications/ "All group publications"), or
+-   [google scholar](http://web.archive.org/web/20241104024405/https://scholar.google.es/citations?hl=ca&user=uWiteHoAAAAJ&view_op=list_works&sortby=pubdate).
+
+A possibly incomplete and malformatted list of publications is included below:
+
+```{r}
+cache_file <- "../../doi_cache.json"
+source("../../R/getpapers.R")
+# Define the RIS file URL
+ris_url <- "https://futur.upc.edu/RIS/AlexandrePereraLluna/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=en"
+```
+
+```{r}
+#| output: asis
+paperstohtmlnodiv(ris_url)
+```
