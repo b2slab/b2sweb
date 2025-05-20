@@ -1,0 +1,36 @@
+---
+title: "Andreas Cardona Bonet"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+## Bio
+
+::: img-float
+![](images/staff_Andreas_Cardona_Bonet.png){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Welcome to my site. My name is Andrea Cardona. I hold a degree in Biological Systems Engineering and a Master’s degree in Biomedical Engineering at the Universitat Politècnica de Catalunya (UPC). My academic background is complemented by professional experience in data science and biomedical signal processing.
+
+Currently, I work as a research fellow at the Institut de Recerca i Innovació en Salut ([IRIS](https://iris.upc.edu/)), where I collaborate on projects that bridge data science, biomedical engineering, and digital health technologies. My research interests include the development of biosensing systems, signal processing for physiological data, and the application of machine learning to health monitoring and personalized medicine.
+
+In the past, I have worked on the development and validation of wearable sensors for non-invasive biomarker monitoring, particularly using optical and electrical sensing technologies such as IMUs and PPG sensors. I’m especially interested in integrating AI models into biosensor platforms to improve diagnostic capabilities and enable real-time decision-making in clinical settings.
+
+## Publications
+
+
+
+```{r} 
+cache_file <- "../../doi_cache.json" 
+source("../../R/getpapers.R") 
+# Define the RIS file URL 
+ris_url <- "https://scholar.google.com/citations?user=pdh8zBsAAAAJ" 
+```
+
+```{r} 
+#| output: asis 
+paperstohtmlnodiv(ris_url) 
+```

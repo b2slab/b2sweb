@@ -1,4 +1,28 @@
 TY - MGZN
+DO - 10.1093/ndt/gfad063c_4037
+TI - Development of an expert model for the diagnosis of inherited kidney diseases
+AB - Background and Aims Inherited kidney diseases (IKDs) account for 10-20% of cases of Chronic Kidney Disease (CKD). Mutations in over 400 genes are known as drivers of more than 150 monogenic kidney disorders. Clinical diagnosis is often challenging as these disorders are characterized by numerous clinical features often shared by many diseases as well as very variable expression. Over the years, rare-disease databases such as OMIM and Orphanet have complied information to facilitate diagnosis of rare diseases. Based on these, The Human Phenotype Ontology (HPO) developed a standardized directory for phenotypes with phenotype-disease associations. New phenotype-driven gene-priorization tools such as Phenomizer have been developed in the recent years using these resources, however structural inaccuracies prevent a proper uptake of these tools. To date, no specific renal tool has been developed. The aim of the study was to develop an expert model for the diagnosis of IKDs based on phenotype semantic similarity distances such over Human Phenotype Annotations. Method Using MONDO ontology which encompasses HPO phenotypes, OMIM and Orphanet, HPO annotations corresponding to 196 IKDs were exported an analyzed. Based on literature, original HPO annotations for each IKD were manually curated (inaccurate terms were eliminated, new known HPOs were added and new annotations were generated in case they were missing). Frequencies were added to each annotation. Specific kidney data such as CKD stage, age at need of kidney replacement therapy and degree of proteinuria were included. Age of onset, prevalence, and specific gender sub analysis in case of diseases with X-linked inheritance was also integrated. All curated phenotype-disease associations were reviewed by European experts. Using MONDO annotations for each IKD as synthetic patients a statistical model with a friendly user web-based interface was developed in Java. Results Analysis of current ontologies by experts in the filed revealed that HPO terms associated to IKDs were inaccurate and non-specific. A new phenotype-driven tool fed with new curated terms and specific kidney data was found to be superior to current tools. Future contributions to ontologies such as HPO, MONDO and open data-sources with curated terms and updated classifications concerning IKDs will help to improving the diagnosis and characterization of IKDs. Conclusion Current phenotype-based gene prioritization tools and rare disease databases have contributed significantly to improving the clinical diagnosis of rare diseases. However, these tools are nonspecific and imprecise when focusing on a specific field such as IKDs. Curation of current annotations by experts in the field will greatly improve the accuracy of these tools and facilitate clinical diagnosis of IKDs.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2023
+UR - https://academic.oup.com/ndt/article/38/Supplement_1/gfad063c_4037/7195710
+UR - http://hdl.handle.net/2117/427354
+VL - 38
+IS - Supplement_1
+EP - 1231
+SP - 1231, article 4037
+T2 - Nephrology dialysis transplantation
+AU - Fayos de Ariz'on, L.
+AU - Viera, E.
+AU - Furlano, M.
+AU - Vallverdu, M.
+AU - Melissa, T.
+AU - Guirado, L.
+AU - Le'on Carrasco, R.
+AU - Perera, A.
+AU - Torra, R.
+
+TY - MGZN
 DO - 10.3389/fnetp.2022.912733
 TI - Assessing rheoencephalography dynamics through analysis of the interactions among brain and cardiac networks during general anesthesia
 AB - Cerebral blood flow (CBF) reflects the rate of delivery of arterial blood to the brain. Since no nutrients, oxygen or water can be stored in the cranial cavity due to space and pressure restrictions, a continuous perfusion of the brain is critical for survival. Anesthetic procedures are known to affect cerebral hemodynamics, but CBF is only monitored in critical patients due, among others, to the lack of a continuous and affordable bedside monitor for this purpose. A potential solution through bioelectrical impedance technology, also known as rheoencephalography (REG), is proposed, that could fill the existing gap for a low-cost and effective CBF monitoring tool. The underlying hypothesis is that REG signals carry information on CBF that might be recovered by means of the application of advanced signal processing techniques, allowing to track CBF alterations during anesthetic procedures. The analysis of REG signals was based on geometric features extracted from the time domain in the first place, since this is the standard processing strategy for this type of physiological data. Geometric features were tested to distinguish between different anesthetic depths, and they proved to be capable of tracking cerebral hemodynamic changes during anesthesia. Furthermore, an approach based on Poincar'e plot features was proposed, where the reconstructed attractors form REG signals showed significant differences between different anesthetic states. This was a key finding, providing an alternative to standard processing of REG signals and supporting the hypothesis that REG signals do carry CBF information. Furthermore, the analysis of cerebral hemodynamics during anesthetic procedures was performed by means of studying causal relationships between global hemodynamics, cerebral hemodynamics and electroencephalogram (EEG) based-parameters. Interactions were detected during anesthetic drug infusion and patient positioning (Trendelenburg positioning and passive leg raise), providing evidence of the causal coupling between hemodynamics and brain activity. The provided alternative of REG signal processing confirmed the hypothesis that REG signals carry information on CBF. The simplicity of the technology, together with its low cost and easily interpretable outcomes, should provide a new opportunity for REG to reach standard clinical practice. Moreover, causal relationships among the hemodynamic physiological signals and brain activity were assessed, suggesting that the inclusion of REG information in depth of anesthesia monitors could be of valuable use to prevent unwanted CBF alterations during anesthetic procedures.
@@ -1030,21 +1054,6 @@ AU - Soria, J.
 AU - Caminal, P.
 
 TY - MGZN
-TI - Changes of autonomic information flow due to idiopathic dilated cardiomyopathy
-Y1 - 2007
-VL - 28
-EP - 677
-SP - 688
-T2 - Physiological measurement
-AU - Palacios, M.
-AU - Friedrich, H.
-AU - Christine, G.
-AU - Vallverdu, M.
-AU - de Luna, A. B.
-AU - Caminal, P.
-AU - Hoyer, D.
-
-TY - MGZN
 TI - Detrended fluctuation analysis of EEG as a measure of depth of anesthesia
 Y1 - 2007
 VL - 54
@@ -1060,6 +1069,21 @@ AU - Vallverdu, M.
 AU - Struys, M.
 AU - Vereecke, H.
 AU - Kaplan, D.
+
+TY - MGZN
+TI - Changes of autonomic information flow due to idiopathic dilated cardiomyopathy
+Y1 - 2007
+VL - 28
+EP - 677
+SP - 688
+T2 - Physiological measurement
+AU - Palacios, M.
+AU - Friedrich, H.
+AU - Christine, G.
+AU - Vallverdu, M.
+AU - de Luna, A. B.
+AU - Caminal, P.
+AU - Hoyer, D.
 
 TY - MGZN
 TI - Interactions between short-term and long-term cardiovascular control mechanisms - art. no. 015110

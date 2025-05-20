@@ -1,0 +1,110 @@
+---
+title: "2025 B$^2$TER:  B2SLab Basic Tools for Everyday Research "
+description: "This is the annual b2s crash course for everyday basic tools"
+author: "A. Perera"
+date: "04/08/2025"
+date-modified: "04/08/2025"
+---
+
+::: img-float
+![](b2s_cycle_animation.gif){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Here's a proposed course programme distributed in a logical progression that builds on foundational topics and gradually introduces more complex concepts.
+
+I've balanced the hours across days and topics while ensuring hands-on time.
+
+## 📅 May 5 (3 hours)
+
+-   🕙 10h–13h
+
+### Module 1: Introduction to Linux and Shell Tools
+
+#### Overview of Linux systems
+
+-   Linux distributions, package managers, file systems\
+-   Users, permissions, processes
+
+#### The Shell & Bash scripting basics
+
+-   Navigation, file manipulation, redirection, pipes\
+-   Writing and executing shell scripts
+
+#### Essential tools
+
+-   `grep`, `awk`, `sed`, `find`, `xargs`, `ssh`, `cron`, `tmux`/`screen`/`byobu`.
+-   Command chaining and automation basics
+-   Deployging a LAMB stack
+-   docker
+
+#### Hands-on exercises:
+
+-   Writing basic scripts\
+-   Automating small tasks\
+-   Using command-line tools to process text and files
+
+## 📅 May 6 (3 hours)
+
+-   🕙 10h–13h
+
+### Module 2: Introduction to R and Tidyverse
+
+#### Intro to R syntax & environment
+
+-   Objects, vectors, data frames\
+-   Functions and packages
+
+#### Working with the Tidyverse
+
+-   `dplyr`, `ggplot2`, `readr`, `tidyr`\
+-   Data wrangling and visualization
+
+#### Hands-on exercises:
+
+-   Cleaning and visualizing a dataset\
+-   Filtering, grouping, summarizing data
+
+## 📅 May 8 (3 hours)
+
+-   🕙 10h–13h
+
+### Module 3: Linear Models in R
+
+#### Introduction to statistical modeling in R
+
+-   Linear regression fundamentals\
+-   `lm()` function and interpreting output
+-   qualitative and quantitative variables
+-   interaction factors
+-   logistic and beyond
+
+#### Model diagnostics and assumptions
+
+-   Residual analysis, multicollinearity
+
+#### Hands-on exercises:
+
+-   Fitting and visualizing linear models with real data\
+-   Using `broom` and `ggplot2` to interpret models
+
+## 📅 May 9 (3 hours)
+
+-   🕙 10h–13h
+
+### Module 4: Introduction to Python for Tool Development
+
+#### Python refresher & deeper concepts
+
+-   Functions, generators, decorators
+-   Organizing code with modules and packages
+-   Building command-line tools with Typer
+-   Creating APIs with FastAPI
+-   Interactive visualizations with ipywidgets
+-   Hands-on exercises
+    -   Write a CLI with Typer
+    -   Build a minimal API with FastAPI
+    -   Create a small dashboard with `ipywidgets`
+
+## Registration
+
+-   Write Alex ;)
