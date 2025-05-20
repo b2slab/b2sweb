@@ -457,24 +457,6 @@ AU - Llull, T.
 AU - Castells-Sanabra, Marcella
 
 TY - MGZN
-DO - 10.1016/j.tmp.2022.100948
-TI - #CoronavirusCruise: Impact and implications of the COVID-19 outbreaks on the perception of cruise tourism
-AB - Early in the COVID-19 pandemic, the Diamond Princess became the center of the largest outbreak outside the original epicenter in China. This outbreak which left 712 passengers infected and 14 dead, followed by subsequent outbreaks affecting over one-third of the active ships in the cruise industry's global fleet, quickly became a crisis that captured public attention and dominated mainstream news and social media. This study investigates the perception of cruising during these outbreaks by analyzing the tweets on cruising using Natural Language Processing (NLP). The findings show a prevalent negative sentiment in most of the analyzed tweets, while the criticisms directed at the cruise industry were based on perceptions and stereotypes of the industry before the pandemic. The study provides insight into the concerns raised in these conversations and highlights the need for new business models outside the pre-pandemic mass-market model and to genuinely make cruising more environmentally friendly.
-AB - Peer Reviewed
-AB - Postprint (published version)
-Y1 - 2022
-UR - https://pubmed.ncbi.nlm.nih.gov/35165650/
-UR - http://hdl.handle.net/2117/363286
-VL - 41
-EP - 100948:1
-SP - 100948:15
-T2 - Tourism Management Perspectives
-AU - Hern'andez-Lara, A.
-AU - Abubakr, B.
-AU - Sanchez-Rebull, M.
-AU - Perera, A.
-
-TY - MGZN
 DO - 10.1016/j.snb.2021.130961
 TI - Early fire detection based on gas sensor arrays: Multivariate calibration and validation
 AB - Smoldering fires are characterized by the production of early gas emissions that can include high levels of CO and Volatile Organic Compounds (VOCs) due to pyrolysis or thermal degradation. Nowadays, standalone CO sensors, smoke detectors, or a combination of these, are standard components for fire alarm systems. While gas sensor arrays together with pattern recognition techniques are a valuable alternative for early fire detection, in practice they have certain drawbacks-they can detect early gas emissions, but can show low immunity to nuisances, and sensor time drift can render calibration models obsolete. In this work, we explore the performance of a gas sensor array for detecting smoldering and plastic fires while ensuring the rejection of a set of nuisances. We conducted variety of fire and nuisance experiments in a validated standard fire room (240 m3). Using PLS-DA and SVM, we evaluate the performance of different multivariate calibration models for this dataset. We show that calibration models remain predictive after several months, but perfect performance is not achieved. For example, 4 months after calibration, a PLS-DA model provides 100% specificity and 85% sensitivity since the system has difficulties in detecting plastic fires, whose signatures are close to nuisance scenarios. Nevertheless, our results show that systems based on gas sensor arrays are able to provide faster fire alarm response than conventional smoke-based fire alarms. We also propose the use of small-scale fire experiments to increase the number of calibration con- ditions at a reduced cost. Our results show that this is an effective way to increase the performance of the model, even when evaluated on a standard fire room. Finally, the acquired datasets are made publicly available to the community (doi: 10.5281/zenodo.5643074).
@@ -492,6 +474,24 @@ AU - Ziems, B.
 AU - Jimenez-Soto, J.
 AU - Marco, S.
 AU - Fonollosa, J.
+
+TY - MGZN
+DO - 10.1016/j.tmp.2022.100948
+TI - #CoronavirusCruise: Impact and implications of the COVID-19 outbreaks on the perception of cruise tourism
+AB - Early in the COVID-19 pandemic, the Diamond Princess became the center of the largest outbreak outside the original epicenter in China. This outbreak which left 712 passengers infected and 14 dead, followed by subsequent outbreaks affecting over one-third of the active ships in the cruise industry's global fleet, quickly became a crisis that captured public attention and dominated mainstream news and social media. This study investigates the perception of cruising during these outbreaks by analyzing the tweets on cruising using Natural Language Processing (NLP). The findings show a prevalent negative sentiment in most of the analyzed tweets, while the criticisms directed at the cruise industry were based on perceptions and stereotypes of the industry before the pandemic. The study provides insight into the concerns raised in these conversations and highlights the need for new business models outside the pre-pandemic mass-market model and to genuinely make cruising more environmentally friendly.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2022
+UR - https://pubmed.ncbi.nlm.nih.gov/35165650/
+UR - http://hdl.handle.net/2117/363286
+VL - 41
+EP - 100948:1
+SP - 100948:15
+T2 - Tourism Management Perspectives
+AU - Hern'andez-Lara, A.
+AU - Abubakr, B.
+AU - Sanchez-Rebull, M.
+AU - Perera, A.
 
 TY - MGZN
 DO - 10.1155/2022/3652441
@@ -762,24 +762,6 @@ AU - Ram'irez, J.
 AU - Laguna, P.
 
 TY - MGZN
-DO - 10.1108/ET-11-2020-0334
-TI - Game learning analytics of instant messaging and online discussion forums in higher education
-AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2021
-UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
-UR - http://hdl.handle.net/2117/356893
-VL - 63
-IS - 9
-EP - 1288
-SP - 1308
-T2 - Education and Training
-AU - Hern'andez-Lara, A.
-AU - Perera, A.
-AU - Serradell-L'opez, E.
-
-TY - MGZN
 DO - 10.1021/acs.jcim.1c00086
 TI - Balancing data on deep learning-based proteochemometric activity classification
 AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
@@ -796,6 +778,24 @@ T2 - Journal of chemical information and modeling
 AU - Lopez, A.
 AU - Picart, S.
 AU - Perera, A.
+
+TY - MGZN
+DO - 10.1108/ET-11-2020-0334
+TI - Game learning analytics of instant messaging and online discussion forums in higher education
+AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2021
+UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
+UR - http://hdl.handle.net/2117/356893
+VL - 63
+IS - 9
+EP - 1288
+SP - 1308
+T2 - Education and Training
+AU - Hern'andez-Lara, A.
+AU - Perera, A.
+AU - Serradell-L'opez, E.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/btaa1069
@@ -1622,6 +1622,25 @@ AU - Capdevila, A.
 AU - Perera, A.
 
 TY - MGZN
+DO - 10.1042/BCJ20170631
+TI - Reduced expression of cardiac ryanodine receptor protects against stress-induced ventricular tachyarrhythmia, but increases the susceptibility to cardiac alternans
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2018
+UR - http://www.biochemj.org/content/475/1/169
+UR - http://hdl.handle.net/2117/118502
+VL - 475
+IS - 1
+EP - 169
+SP - 183
+T2 - Biochemical journal
+AU - Zhong, X.
+AU - Vallmitjana, A.
+AU - Sun, B.
+AU - Xiao, Z.
+AU - Benitez, R.
+
+TY - MGZN
 DO - 10.1016/j.patrec.2017.12.011
 TI - Multiview and multifeature spectral clustering using common eigenvectors
 AB - An ever-increasing number of data analysis problems include more than one view of the data, i.e. differ-
@@ -1650,25 +1669,6 @@ PB - Elsevier
 AU - Kanaan-Izquierdo, S.
 AU - Ziyatdinov, A.
 AU - Perera, A.
-
-TY - MGZN
-DO - 10.1042/BCJ20170631
-TI - Reduced expression of cardiac ryanodine receptor protects against stress-induced ventricular tachyarrhythmia, but increases the susceptibility to cardiac alternans
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2018
-UR - http://www.biochemj.org/content/475/1/169
-UR - http://hdl.handle.net/2117/118502
-VL - 475
-IS - 1
-EP - 169
-SP - 183
-T2 - Biochemical journal
-AU - Zhong, X.
-AU - Vallmitjana, A.
-AU - Sun, B.
-AU - Xiao, Z.
-AU - Benitez, R.
 
 TY - MGZN
 DO - 10.1016/j.snb.2018.02.188
@@ -2561,27 +2561,6 @@ AU - Huerta, R.
 AU - Marco, S.
 
 TY - MGZN
-DO - 10.1016/j.medengphy.2015.01.002
-TI - Mutual information measures applied to EEG signals for sleepiness characterization
-AB - Excessive daytime sleepiness (EDS) is one of the main symptoms of several sleep related disorders with a great impact on the patient lives. While many studies have been carried out in order to assess daytime sleepiness, the automatic EDS detection still remains an open problem. In this work, a novel approach to this issue based on non-linear dynamical analysis of EEG signal was proposed. Multichannel EEG signals were recorded during five maintenance of wakefulness (MWT) and multiple sleep latency (MSLT) tests alternated throughout the day from patients suffering from sleep disordered breathing. A group of 20 patients with excessive daytime sleepiness (EDS) was compared with a group of 20 patients without daytime sleepiness (WDS), by analyzing 60-s EEG windows in waking state. Measures obtained from cross-mutual information function (CMIF) and auto-mutual-information function (AMIF) were calculated in the EEG. These functions permitted a quantification of the complexity properties of the EEG signal and the non-linear couplings between different zones of the scalp. Statistical differences between EDS and WDS groups were found in ss band during MSLT events (. p-value<0.0001). WDS group presented more complexity than EDS in the occipital zone, while a stronger nonlinear coupling between occipital and frontal zones was detected in EDS patients than in WDS. The AMIF and CMIF measures yielded sensitivity and specificity above 80% and AUC of ROC above 0.85 in classifying EDS and WDS patients.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2015
-UR - http://hdl.handle.net/2117/79397
-VL - 37
-IS - 3
-EP - 297
-SP - 308
-T2 - Medical engineering and physics
-AU - Melia, U.
-AU - Guaita, M.
-AU - Vallverdu, M.
-AU - Embid, C.
-AU - Vilaseca, I.
-AU - Salamero, M.
-AU - Santamaria, J.
-
-TY - MGZN
 DO - 10.1007/s11517-015-1275-x
 TI - Time-varying signal analysis to detect high-altitude periodic breathing in climbers ascending to extreme altitude
 AB - This work investigates the performance of cardiorespiratory analysis detecting periodic breathing (PB) in chest wall recordings in mountaineers climbing to extreme altitude. The breathing patterns of 34 mountaineers were monitored unobtrusively by inductance plethysmography, ECG and pulse oximetry using a portable recorder during
@@ -2614,6 +2593,27 @@ AU - Merz, T.
 AU - Pichler Hefti, J.
 AU - Schoch, O.
 AU - Bloch, K.
+
+TY - MGZN
+DO - 10.1016/j.medengphy.2015.01.002
+TI - Mutual information measures applied to EEG signals for sleepiness characterization
+AB - Excessive daytime sleepiness (EDS) is one of the main symptoms of several sleep related disorders with a great impact on the patient lives. While many studies have been carried out in order to assess daytime sleepiness, the automatic EDS detection still remains an open problem. In this work, a novel approach to this issue based on non-linear dynamical analysis of EEG signal was proposed. Multichannel EEG signals were recorded during five maintenance of wakefulness (MWT) and multiple sleep latency (MSLT) tests alternated throughout the day from patients suffering from sleep disordered breathing. A group of 20 patients with excessive daytime sleepiness (EDS) was compared with a group of 20 patients without daytime sleepiness (WDS), by analyzing 60-s EEG windows in waking state. Measures obtained from cross-mutual information function (CMIF) and auto-mutual-information function (AMIF) were calculated in the EEG. These functions permitted a quantification of the complexity properties of the EEG signal and the non-linear couplings between different zones of the scalp. Statistical differences between EDS and WDS groups were found in ss band during MSLT events (. p-value<0.0001). WDS group presented more complexity than EDS in the occipital zone, while a stronger nonlinear coupling between occipital and frontal zones was detected in EDS patients than in WDS. The AMIF and CMIF measures yielded sensitivity and specificity above 80% and AUC of ROC above 0.85 in classifying EDS and WDS patients.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2015
+UR - http://hdl.handle.net/2117/79397
+VL - 37
+IS - 3
+EP - 297
+SP - 308
+T2 - Medical engineering and physics
+AU - Melia, U.
+AU - Guaita, M.
+AU - Vallverdu, M.
+AU - Embid, C.
+AU - Vilaseca, I.
+AU - Salamero, M.
+AU - Santamaria, J.
 
 TY - MGZN
 DO - 10.1093/cvr/cvv046
@@ -2834,24 +2834,6 @@ AU - Benner, C.
 AU - Russell, B.
 
 TY - MGZN
-DO - 10.1007/s10489-014-0548-7
-TI - LTI ODE-valued neural networks
-AB - A dynamical version of the classical McCulloch & Pitts' neural model is introduced in this paper. In this new approach, artificial neurons are characterized by: i) inputs in the form of differentiable continuous-time signals, ii) linear time-invariant ordinary differential equations (LTI ODE) for connection weights, and iii) activation functions evaluated in the frequency domain. It will be shown that this new characterization of the constitutive nodes in an artificial neural network, namely LTI ODE-valued neural network (LTI ODEVNN), allows solving multiple problems at the same time using a single neural structure. Moreover, it is demonstrated that LTI ODEVNNs can be interpreted as complex-valued neural networks (CVNNs). Hence, research on this topic can be applied in a straightforward form. Standard boolean functions are implemented to illustrate the operation of LTI ODEVNNs. Concluding the paper, several future research lines are highlighted, including the need for developing learning algorithms for the newly introduced LTI ODEVNNs.
-AB - Postprint (published version)
-Y1 - 2014
-UR - http://link.springer.com/article/10.1007/s10489-014-0548-7
-UR - http://hdl.handle.net/2117/24573
-VL - 41
-IS - 2
-EP - 594
-SP - 605
-T2 - Applied intelligence
-AU - Velasco, M.
-AU - Martin, E.X.
-AU - Angulo, C.
-AU - Marti, P.
-
-TY - MGZN
 DO - 10.3390/e16052530
 TI - Measuring instantaneous and spectral information entropies by shannon entropy of choi-williams distribution in the context of electroencephalography
 AB - The theory of Shannon entropy was applied to the Choi-Williams time-frequency distribution (CWD) of time series in order to extract entropy information in both time and frequency domains. In this way, four novel indexes were defined: (1) partial instantaneous entropy, calculated as the entropy of the CWD with respect to time by using the probability mass function at each time instant taken independently; (2) partial spectral information entropy, calculated as the entropy of the CWD with respect to frequency by using the probability mass function of each frequency value taken independently; (3) complete instantaneous entropy, calculated as the entropy of the CWD with respect to time by using the probability mass function of the entire CWD; (4) complete spectral information entropy, calculated as the entropy of the CWD with respect to frequency by using the probability mass function of the entire CWD. These indexes were tested on synthetic time series with different behavior (periodic, chaotic and random) and on a dataset of electroencephalographic (EEG) signals recorded in different states (eyes-open, eyes-closed, ictal and non-ictal activity). The results have shown that the values of these indexes tend to decrease, with different proportion, when the behavior of the synthetic signals evolved from chaos or randomness to periodicity. Statistical differences (p-value < 0.0005) were found between values of these measures comparing eyes-open and eyes-closed states and between ictal and non-ictal states in the traditional EEG frequency bands. Finally, this paper has demonstrated that the proposed measures can be useful tools to quantify the different periodic, chaotic and random components in EEG signals. (c) 2014 by the authors; licensee MDPI, Basel, Switzerland.
@@ -2869,6 +2851,24 @@ AU - Melia, U.
 AU - Clari`a, F
 AU - Vallverdu, M.
 AU - Caminal, P.
+
+TY - MGZN
+DO - 10.1007/s10489-014-0548-7
+TI - LTI ODE-valued neural networks
+AB - A dynamical version of the classical McCulloch & Pitts' neural model is introduced in this paper. In this new approach, artificial neurons are characterized by: i) inputs in the form of differentiable continuous-time signals, ii) linear time-invariant ordinary differential equations (LTI ODE) for connection weights, and iii) activation functions evaluated in the frequency domain. It will be shown that this new characterization of the constitutive nodes in an artificial neural network, namely LTI ODE-valued neural network (LTI ODEVNN), allows solving multiple problems at the same time using a single neural structure. Moreover, it is demonstrated that LTI ODEVNNs can be interpreted as complex-valued neural networks (CVNNs). Hence, research on this topic can be applied in a straightforward form. Standard boolean functions are implemented to illustrate the operation of LTI ODEVNNs. Concluding the paper, several future research lines are highlighted, including the need for developing learning algorithms for the newly introduced LTI ODEVNNs.
+AB - Postprint (published version)
+Y1 - 2014
+UR - http://link.springer.com/article/10.1007/s10489-014-0548-7
+UR - http://hdl.handle.net/2117/24573
+VL - 41
+IS - 2
+EP - 594
+SP - 605
+T2 - Applied intelligence
+AU - Velasco, M.
+AU - Martin, E.X.
+AU - Angulo, C.
+AU - Marti, P.
 
 TY - MGZN
 DO - 10.1371/journal.pone.0093808
@@ -2979,6 +2979,24 @@ AU - Ziyatdinov, A.
 AU - Perera, A.
 
 TY - MGZN
+DO - 10.3414/ME13-02-0044
+TI - Auditory and nociceptive stimuli responses in the electro-encephalogram : a non-linear measures and time-frequency representation based analysis
+AB - Introduction: This article is part of the Focus Theme of Methods of Information in Medicine on "Biosignal Interpretation: Advanced Methods for Neural Signals and Images". Objectives: An efficient way to investigate the neural basis of nociceptive responses is the analysis of the event-related brain potentials (ERPs). The main objective of this work was to study how adaptation and fatigue affect the ERPs to stimuli of different modalities, by characterizing the responses to infrequent and frequent stimulation in different recording periods. Methods: In this work, series of averaged EEG epochs recorded after thermal, electrical and auditory stimulation were analyzed with time-frequency representation and non-linear measures as spectral entropy and auto-mutual information function. The study was performed by considering the traditional EEG frequency bands. Results: The defined measures presented a statistical significance p-value < 0.01 and accuracy higher than 60% by differentiating windows of response to infrequent (I) and frequent (F) stimuli between the start and end of the EEG recording. Conclusions: These measures permitted to observe some aspects of the subject's adaptation and the nociceptive response
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2014
+UR - http://www.schattauer.de/en/magazine/subject-areas/journals-a-z/methods/contents/archivestandard/issue/special/manuscript/21133.html
+UR - http://hdl.handle.net/2117/26443
+VL - 53
+IS - 4
+T2 - Methods of information in medicine
+AU - Melia, U.
+AU - Vallverdu, M.
+AU - Clari`a, F
+AU - Valls-Sol'e, J.
+AU - Caminal, P.
+
+TY - MGZN
 DO - 10.1016/j.aca.2013.10.030
 TI - Estimation of the limit of detection using information theory measures
 AB - Definitions of the limit of detection (LOD) based on the probability of false positive and/or false negative errors have been proposed over the past years. Although such definitions are straightforward and valid for any kind of analytical system, proposed methodologies to estimate the LOD are usually simplified to signals with Gaussian noise. Additionally, there is a general misconception that two systems with the same LOD provide the same amount of information on the source regardless of the prior probability of presenting a blank/analyte sample. Based upon an analogy between an analytical system and a binary communication channel, in this paper we show that the amount of information that can be extracted from an analytical system depends on the probability of presenting the two different possible states. We propose a new definition of LOD utilizing information theory tools that deals with noise of any kind and allows the introduction of prior knowledge easily. Unlike most traditional LOD estimation approaches, the proposed definition is based on the amount of information that the chemical instrumentation system provides on the chemical information source. Our findings indicate that the benchmark of analytical systems based on the ability to provide information about the presence/absence of the analyte (our proposed approach) is a more general and proper framework, while converging to the usual values when dealing with Gaussian noise.
@@ -3008,24 +3026,6 @@ AU - Fonollosa, J.
 AU - Vergara, A.
 AU - Homer, M.
 AU - Huerta, R.
-
-TY - MGZN
-DO - 10.3414/ME13-02-0044
-TI - Auditory and nociceptive stimuli responses in the electro-encephalogram : a non-linear measures and time-frequency representation based analysis
-AB - Introduction: This article is part of the Focus Theme of Methods of Information in Medicine on "Biosignal Interpretation: Advanced Methods for Neural Signals and Images". Objectives: An efficient way to investigate the neural basis of nociceptive responses is the analysis of the event-related brain potentials (ERPs). The main objective of this work was to study how adaptation and fatigue affect the ERPs to stimuli of different modalities, by characterizing the responses to infrequent and frequent stimulation in different recording periods. Methods: In this work, series of averaged EEG epochs recorded after thermal, electrical and auditory stimulation were analyzed with time-frequency representation and non-linear measures as spectral entropy and auto-mutual information function. The study was performed by considering the traditional EEG frequency bands. Results: The defined measures presented a statistical significance p-value < 0.01 and accuracy higher than 60% by differentiating windows of response to infrequent (I) and frequent (F) stimuli between the start and end of the EEG recording. Conclusions: These measures permitted to observe some aspects of the subject's adaptation and the nociceptive response
-AB - Peer Reviewed
-AB - Postprint (published version)
-Y1 - 2014
-UR - http://www.schattauer.de/en/magazine/subject-areas/journals-a-z/methods/contents/archivestandard/issue/special/manuscript/21133.html
-UR - http://hdl.handle.net/2117/26443
-VL - 53
-IS - 4
-T2 - Methods of information in medicine
-AU - Melia, U.
-AU - Vallverdu, M.
-AU - Clari`a, F
-AU - Valls-Sol'e, J.
-AU - Caminal, P.
 
 TY - MGZN
 DO - 10.1007/s00542-013-2020-8
@@ -3196,6 +3196,25 @@ AU - Rulkov, N.
 AU - Huerta, R.
 
 TY - MGZN
+DO - 10.1088/0967-3334/34/3/325
+TI - Ischemic risk stratification by means of multivariate analysis of the heart rate variability
+AB - In this work, a univariate and multivariate statistical analysis of indexes derived from heart rate variability (HRV) was conducted to stratify patients with ischemic dilated cardiomyopathy (IDC) in cardiac risk groups. Indexes conditional entropy, refined multiscale entropy (RMSE), detrended fluctuation analysis, time and frequency analysis, were applied to the RR interval series (beat-to-beat series), for single and multiscale complexity analysis of the HRV in IDC patients. Also, clinical parameters were considered. Two different end-points after a follow-up of three years were considered: (i) analysis A, with 151 survivor patients as a low risk group and 13 patients that suffered sudden cardiac death as a high risk group; (ii) analysis B, with 192 survivor patients as a low risk group and 30 patients that suffered cardiac mortality as a high risk group. A univariate and multivariate linear discriminant analysis was used as a statistical technique for classifying patients in risk groups. Sensitivity (Sen) and specificity (Spe) were calculated as diagnostic criteria in order to evaluate the performance of the indexes and their linear combinations. Sen and Spe values of 80.0% and 72.9%, respectively, were obtained during daytime by combining one clinical parameter and one index from RMSE, and during nighttime Sen = 80% and Spe = 73.4% were attained by combining one clinical factor and two indexes from RMSE. In particular, relatively long time scales were more relevant for classifying patients into risk groups during nighttime, while during daytime shorter scales performed better. The results suggest that the left atrial size, indexed to body surface and RMSE indexes are those that allow enhanced classification of ischemic patients in their respective risk groups, confirming that a single measurement is not enough to fully characterize ischemic risk patients and the clinical relevance of HRV complexity measures.
+Y1 - 2013
+UR - http://iopscience.iop.org/0967-3334/34/3/325
+VL - 34
+IS - 3
+EP - 325
+SP - 338
+T2 - Physiological measurement
+AU - Valencia, J.
+AU - Vallverdu, M.
+AU - Voss, A.
+AU - Porta, A.
+AU - V'azquez, R.
+AU - Caminal, P.
+AU - de Luna, A. B.
+
+TY - MGZN
 DO - 10.1016/j.compbiomed.2013.01.014
 TI - SVM-based feature selection to optimize sensitivity-specificity balance applied to weaning
 AB - Classification algorithms with unbalanced datasets tend to produce high predictive accuracy over the
@@ -3229,25 +3248,6 @@ AU - Voss, A.
 AU - Caminal, P.
 AU - Benito, S.
 AU - Giraldo, B.
-
-TY - MGZN
-DO - 10.1088/0967-3334/34/3/325
-TI - Ischemic risk stratification by means of multivariate analysis of the heart rate variability
-AB - In this work, a univariate and multivariate statistical analysis of indexes derived from heart rate variability (HRV) was conducted to stratify patients with ischemic dilated cardiomyopathy (IDC) in cardiac risk groups. Indexes conditional entropy, refined multiscale entropy (RMSE), detrended fluctuation analysis, time and frequency analysis, were applied to the RR interval series (beat-to-beat series), for single and multiscale complexity analysis of the HRV in IDC patients. Also, clinical parameters were considered. Two different end-points after a follow-up of three years were considered: (i) analysis A, with 151 survivor patients as a low risk group and 13 patients that suffered sudden cardiac death as a high risk group; (ii) analysis B, with 192 survivor patients as a low risk group and 30 patients that suffered cardiac mortality as a high risk group. A univariate and multivariate linear discriminant analysis was used as a statistical technique for classifying patients in risk groups. Sensitivity (Sen) and specificity (Spe) were calculated as diagnostic criteria in order to evaluate the performance of the indexes and their linear combinations. Sen and Spe values of 80.0% and 72.9%, respectively, were obtained during daytime by combining one clinical parameter and one index from RMSE, and during nighttime Sen = 80% and Spe = 73.4% were attained by combining one clinical factor and two indexes from RMSE. In particular, relatively long time scales were more relevant for classifying patients into risk groups during nighttime, while during daytime shorter scales performed better. The results suggest that the left atrial size, indexed to body surface and RMSE indexes are those that allow enhanced classification of ischemic patients in their respective risk groups, confirming that a single measurement is not enough to fully characterize ischemic risk patients and the clinical relevance of HRV complexity measures.
-Y1 - 2013
-UR - http://iopscience.iop.org/0967-3334/34/3/325
-VL - 34
-IS - 3
-EP - 325
-SP - 338
-T2 - Physiological measurement
-AU - Valencia, J.
-AU - Vallverdu, M.
-AU - Voss, A.
-AU - Porta, A.
-AU - V'azquez, R.
-AU - Caminal, P.
-AU - de Luna, A. B.
 
 TY - MGZN
 DO - 10.1007/s11241-012-9174-9
@@ -3311,17 +3311,21 @@ AU - Guti'errez-G'alvez, A.
 AU - Marco, S.
 
 TY - MGZN
-TI - Analysis of the respiratory flow cycle morphology in chronic heart failure patients applying principal components analysis
+DO - 10.1016/j.jelectrocard.2011.08.013
+TI - Assessment of autonomic control of the heart during transient myocardial ischemia
 Y1 - 2012
-UR - http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06090494
-VL - 2012
-EP - 1725
-SP - 1728
-T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
-AU - Garde, A.
-AU - Giraldo, B.
-AU - S"ornmo, L.
-AU - Jane, R.
+UR - http://www.sciencedirect.com/science/article/pii/S0022073611003293
+VL - 45
+IS - 1
+EP - 82
+SP - 89
+T2 - Journal of electrocardiology
+AU - Gomis, P.
+AU - Caminal, P.
+AU - Vallverdu, M.
+AU - Warren, S.
+AU - Stein, P.
+AU - Wagner, G.
 
 TY - MGZN
 DO - 10.1515/bmt-2012-4315
@@ -3360,21 +3364,17 @@ AU - Escarrabill , J.
 AU - Roca, J.
 
 TY - MGZN
-DO - 10.1016/j.jelectrocard.2011.08.013
-TI - Assessment of autonomic control of the heart during transient myocardial ischemia
+TI - Analysis of the respiratory flow cycle morphology in chronic heart failure patients applying principal components analysis
 Y1 - 2012
-UR - http://www.sciencedirect.com/science/article/pii/S0022073611003293
-VL - 45
-IS - 1
-EP - 82
-SP - 89
-T2 - Journal of electrocardiology
-AU - Gomis, P.
-AU - Caminal, P.
-AU - Vallverdu, M.
-AU - Warren, S.
-AU - Stein, P.
-AU - Wagner, G.
+UR - http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=06090494
+VL - 2012
+EP - 1725
+SP - 1728
+T2 - Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+AU - Garde, A.
+AU - Giraldo, B.
+AU - S"ornmo, L.
+AU - Jane, R.
 
 TY - MGZN
 DO - 10.1007/s00500-011-0781-5
@@ -3658,6 +3658,22 @@ AU - Fuertes, J.M.
 AU - Martin, E.X.
 
 TY - MGZN
+DO - 10.1016/j.snb.2009.11.037
+TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
+Y1 - 2010
+UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
+VL - 146
+IS - 2
+EP - 477
+SP - 482
+T2 - Sensors and actuators B. Chemical
+AU - Perera, A.
+AU - Pardo, A.
+AU - Barrettino, D.
+AU - Hierlemann, A.
+AU - Marco, S.
+
+TY - MGZN
 DO - 10.1016/j.snb.2009.11.034
 TI - Drift compensation of gas sensor array data by common principal component analysis
 Y1 - 2010
@@ -3673,22 +3689,6 @@ AU - Chaudry, A.
 AU - Persaud, K.C.
 AU - Caminal, P.
 AU - Perera, A.
-
-TY - MGZN
-DO - 10.1016/j.snb.2009.11.037
-TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
-Y1 - 2010
-UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
-VL - 146
-IS - 2
-EP - 477
-SP - 482
-T2 - Sensors and actuators B. Chemical
-AU - Perera, A.
-AU - Pardo, A.
-AU - Barrettino, D.
-AU - Hierlemann, A.
-AU - Marco, S.
 
 TY - MGZN
 DO - 10.1109/TBME.2010.2047505
@@ -3819,6 +3819,20 @@ AU - Diaz, I.
 AU - Benito, S.
 
 TY - MGZN
+DO - 10.1007/978-3-642-14097-6_50
+TI - Friendly human-machine interaction in an adapted robotized kitchen
+Y1 - 2010
+VL - 6179
+EP - 312
+SP - 319
+T2 - Lecture notes in computer science
+AU - Aranda, J.
+AU - Vinagre, M.
+AU - Martin, E.X.
+AU - Casamitjana, M.
+AU - Casals, A.
+
+TY - MGZN
 DO - 10.1007/s10439-010-0027-1
 TI - Symbolic dynamic analysis of relations between cardiac and breathing cycles in patients on weaning trials
 AB - Traditional time-domain techniques of data analysis are often not sufficient to characterize the complex dynamics of the cardiorespiratory interdependencies during
@@ -3837,20 +3851,6 @@ AU - Vallverdu, M.
 AU - Benito, S.
 AU - Schroeder, R.
 AU - Voss, A.
-
-TY - MGZN
-DO - 10.1007/978-3-642-14097-6_50
-TI - Friendly human-machine interaction in an adapted robotized kitchen
-Y1 - 2010
-VL - 6179
-EP - 312
-SP - 319
-T2 - Lecture notes in computer science
-AU - Aranda, J.
-AU - Vinagre, M.
-AU - Martin, E.X.
-AU - Casamitjana, M.
-AU - Casals, A.
 
 TY - MGZN
 DO - 10.1186/1753-6561-3-S7-S130
@@ -4004,17 +4004,6 @@ AU - W"ollnestein, J.
 AU - Marco, S.
 
 TY - MGZN
-TI - Space Carving Acceleration Using Uncertainty Measurements
-Y1 - 2009
-VL - 5524
-EP - 112
-SP - 119
-T2 - Lecture notes in computer science
-AU - P'erez, M.C.
-AU - Casamitjana, M.
-AU - Martin, E.X.
-
-TY - MGZN
 TI - Data mining of patients on weaning trials from mechanical ventilation using cluster analysis and neural networks
 Y1 - 2009
 VL - 1
@@ -4028,6 +4017,17 @@ AU - Caminal, P.
 AU - Diaz, I.
 AU - Salvador, B.
 AU - Giraldo, B.
+
+TY - MGZN
+TI - Space Carving Acceleration Using Uncertainty Measurements
+Y1 - 2009
+VL - 5524
+EP - 112
+SP - 119
+T2 - Lecture notes in computer science
+AU - P'erez, M.C.
+AU - Casamitjana, M.
+AU - Martin, E.X.
 
 TY - MGZN
 TI - Effects of propofol anesthesia on nonlinear properties of EEG: Lyapunov exponents and short-term predictability
@@ -4275,6 +4275,21 @@ AU - Caminal, P.
 AU - de Luna, A. B.
 
 TY - MGZN
+TI - The TALP-QA System for Spanish at CLEF 2005
+Y1 - 2006
+UR - http://dx.doi.org/10.1007/11878773_45
+VL - 4022
+EP - 400
+SP - 409
+T2 - Lecture notes in computer science
+AU - Ferres, D.
+AU - Kanaan-Izquierdo, S.
+AU - Ageno, A.
+AU - Gonz'alez, E.
+AU - Rodriguez, H.
+AU - Turmo, J.
+
+TY - MGZN
 TI - Non-linear dynamic analysis of the cardiac rhythm during transient myocardial ischemia
 Y1 - 2006
 VL - 51
@@ -4307,19 +4322,15 @@ AU - Caminal, P.
 AU - de Luna, A. B.
 
 TY - MGZN
-TI - The TALP-QA System for Spanish at CLEF 2005
+TI - Abnormal intra-QRS potentials associated with percutaneous transluminal coronary angioplasty-induced transient myocardial ischemia
 Y1 - 2006
-UR - http://dx.doi.org/10.1007/11878773_45
-VL - 4022
-EP - 400
-SP - 409
-T2 - Lecture notes in computer science
-AU - Ferres, D.
-AU - Kanaan-Izquierdo, S.
-AU - Ageno, A.
-AU - Gonz'alez, E.
-AU - Rodriguez, H.
-AU - Turmo, J.
+UR - http://www.elsevier.com/locate/jelectrocard
+VL - 39
+IS - 3
+EP - 282
+SP - 289
+T2 - Journal of electrocardiology
+AU - Gomis, P.
 
 TY - MGZN
 TI - Compression entropy contribuyes to risk stratification in patients with cardiomyopathy
@@ -4351,17 +4362,6 @@ T2 - Revista iberoamericana de automatica e informatica industrial
 AU - Gomis, P.
 AU - Caminal, P.
 AU - Vallverdu, M.
-
-TY - MGZN
-TI - Abnormal intra-QRS potentials associated with percutaneous transluminal coronary angioplasty-induced transient myocardial ischemia
-Y1 - 2006
-UR - http://www.elsevier.com/locate/jelectrocard
-VL - 39
-IS - 3
-EP - 282
-SP - 289
-T2 - Journal of electrocardiology
-AU - Gomis, P.
 
 TY - MGZN
 DO - 10.1016/j.snb.2006.03.012
@@ -4448,16 +4448,6 @@ AU - Moreno-Sereno, M.
 AU - Marco, S.
 
 TY - MGZN
-TI - Hidden Markov Models Based on Symbolic Dynamics for Statistical Modeling of Cardiovascular Control in Hypertensive Pregnancy Disorders
-Y1 - 2006
-VL - 53
-EP - 140
-SP - 143
-T2 - IEEE transactions on biomedical engineering
-AU - Vallverdu, M.
-AU - Caminal, P.
-
-TY - MGZN
 TI - The TALP-QA System for Spanish at CLEF-2005
 Y1 - 2006
 UR - http://link.springer.com/chapter/10.1007%2F11878773_45#page-1
@@ -4471,6 +4461,16 @@ AU - Ageno, A.
 AU - Gonz`alez, E.
 AU - Rodriguez, H.
 AU - Turmo, J.
+
+TY - MGZN
+TI - Hidden Markov Models Based on Symbolic Dynamics for Statistical Modeling of Cardiovascular Control in Hypertensive Pregnancy Disorders
+Y1 - 2006
+VL - 53
+EP - 140
+SP - 143
+T2 - IEEE transactions on biomedical engineering
+AU - Vallverdu, M.
+AU - Caminal, P.
 
 TY - MGZN
 TI - Optimazed Symbolic Dynamics approach for the analysis of the respiratory pattern
@@ -4874,6 +4874,19 @@ AU - Lores, L.
 AU - Caminal, P.
 
 TY - MGZN
+TI - Se~nales electrocardiogr'aficas de alta resoluci'on en Chagas: el proyecto SEARCH
+Y1 - 1999
+UR - http://www2.scielo.org.ve/scielo.php/script_sci_serial/pid_0001-5504/lng_es/nrm_iso
+VL - 50
+IS - 3
+EP - 187
+SP - 194
+T2 - Acta cient'ifica venezolana
+AU - Mora, F.
+AU - Gomis, P.
+AU - Passariello, G.
+
+TY - MGZN
 DO - 10.1093/bja/82.1.25
 TI - Identification of causal relations between haemodynamic variables, auditory evoked potentials and isoflurane by means of fuzzy
 Y1 - 1999
@@ -4887,19 +4900,6 @@ AU - Jensen, E.
 AU - Nebot, A.
 AU - Caminal, P.
 AU - Henneberg, S.
-
-TY - MGZN
-TI - Se~nales electrocardiogr'aficas de alta resoluci'on en Chagas: el proyecto SEARCH
-Y1 - 1999
-UR - http://www2.scielo.org.ve/scielo.php/script_sci_serial/pid_0001-5504/lng_es/nrm_iso
-VL - 50
-IS - 3
-EP - 187
-SP - 194
-T2 - Acta cient'ifica venezolana
-AU - Mora, F.
-AU - Gomis, P.
-AU - Passariello, G.
 
 TY - MGZN
 TI - Spectral analysis of heart period variance (HPV) -a tool to stratify risk following myocardial infraction
