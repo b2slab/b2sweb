@@ -14,7 +14,7 @@ website:
   site-url: "https://b2slab.upc.edu"
   repo-url: https://github.com/b2slab/b2sweb
   issue-url: https://github.com/b2slab/b2sweb/issues/new/choose 
-  description: "Bioinformatics and Biomedical Signals Labotaory"
+  description: "Bioinformatics and Biomedical Signals Laboratory"
   repo-actions: [edit, issue]
   page-navigation: true
   bread-crumbs: true
