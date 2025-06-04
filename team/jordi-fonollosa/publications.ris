@@ -1,4 +1,46 @@
 TY - MGZN
+DO - 10.1155/ina/5517242
+TI - The reliability of CO2 measurements using ow-cost sensors: a study of sensor positioning and ventilation strategies in classrooms
+AB - The COVID-19 emergency evidenced the value of keeping indoor spaces properly ventilated, which increased the interest in CO2 loggers. However, when monitoring, many significant variables are often overlooked, such as sensor specifications, the position of the system with respect to the airflow path (or occupants), and the relationship between these variables and the ventilation system of the room. With the purpose of properly standardizing future indoor air quality measurements in classroom settings, this study evaluated the results of a measurement campaign consisting of 33 individual measurements performed on site during 5 months in primary schools and university classrooms. This work uses dCO2/dt to identify CO2 tendencies while taking into account classroom topology and ventilation. Results show that variables such as their position and the ventilation strategy of the room often outweigh the sensor specifications, causing spatial discrepancies beyond 100?ppm. Along with the results, recommendations for future measurements are discussed in order to avoid nonrepresentative estimations of the CO2 level of indoor spaces.
+AB - This study was supported by the Spanish Ministry of Econ- omy and Competitiveness (http://www.mineco.gob.es) (PID2020-117366RB-I00 and PID2021-122952OB-I00), the Networking Biomedical Research Centre in the Subject Area of Bioengineering, Biomaterials and Nanomedicine (CIBER- BBN, Spain), the initiatives of Instituto de Investigaci'on Car- los III (ISCIII), Share4Rare project (Grant Agreement 780262), ISCIII (grant AC22/00035), ACCI'O (grant Innotec ACE014/20/000018), and Pla de Doctorats Industrials de la Secretaria d'Universitats i Recerca del Departament d'Em- presa i Coneixement de la Generalitat de Catalunya (2022 DI 014). This study is also supported by the "ComMit-20 (2020PANDE00116)" project funded by L'Ag`encia de Gesti'o d'Ajuts Universitaris i de Recerca (AGAUR) through the Pand`emies 2020 programme; the MOVE4EDU (modular ventilation system integrated with urban food production in educational buildings) project reference PID2021- 126845OB-C22 funded by MCIN/AEI/10.13039/ 501100011033/FEDER, UE, and by the European Union "NextGenerationEU"/PRTR; and the Catalan Agency AGAUR under their research group support program (2021 SGR 00341). B2SLab is certified as 2021 SGR 01052
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2025
+UR - https://onlinelibrary.wiley.com/doi/10.1155/ina/5517242
+UR - http://hdl.handle.net/2117/428259
+VL - 25
+IS - 1, article 517242,
+T2 - Indoor air
+AU - Mar'in, D.
+AU - Ruiz de Alegria, A.
+AU - Canals Casals, L.
+AU - Macarulla, M.
+AU - Fonollosa, J.
+
+TY - MGZN
+DO - 10.3390/s25030737
+TI - Signal preprocessing in instrument-based electronic noses leads to parsimonious predictive models: application to olive oil quality control
+AB - Gas sensor-based electronic noses (e-noses) have gained considerable attention over the past thirty years, leading to the publication of numerous research studies focused on both the development of these instruments and their various applications. Nonetheless, the limited specificity of gas sensors, along with the common requirement for chemical identification, has led to the adaptation and incorporation of analytical chemistry instruments into the e-nose framework. Although instrument-based e-noses exhibit greater specificity to gasses than traditional ones, they still produce data that require correction in order to build reliable predictive models. In this work, we introduce the use of a multivariate signal processing workflow for datasets from a multi-capillary column ion mobility spectrometer-based e-nose. Adhering to the electronic nose philosophy, these workflows prioritized untargeted approaches, avoiding dependence on traditional peak integration techniques. A comprehensive validation process demonstrates that the application of this preprocessing strategy not only mitigates overfitting but also produces parsimonious models, where classification accuracy is maintained with simpler, more interpretable structures. This reduction in model complexity offers significant advantages, providing more efficient and robust models without compromising predictive performance. This strategy was successfully tested on an olive oil dataset, showcasing its capability to improve model parsimony and generalization performance
+AB - This research was funded by Spanish Ministerio de asuntos econ'omicos y transformacion digital (MINECO) project TargetML (PID2021-126543OB-C21) and project BIOMADS (PID2021-122952OB-I00). Additional financial support was provided by the Institut de Bioenginyeria de Catalunya (IBEC). IBEC is a member of the CERCAProgramme/Generalitat de Catalunya. The authors would also like to acknowledge the Departament d'Universitats, Recerca i Societat de la Informacio de la Generalitat de Catalunya (expedient 2021 SGR 01393 and expedient 2021 SGR 01052, B2SLab). This study was supported by the Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN, Spain), the initiatives of Instituto de Investigaci'on Carlos III (ISCIII), ISCIII (grant AC22/00035), Pla de Doctorats Industrials de la Secretaria d'Universitats i Recerca del Departament d'Empresa i Coneixement de la Generalitat de Catalunya (2022 DI 014). JF acknowledges the support from the Serra H'unter program. L.F., S.M., and A.P. express their gratitude for the support provided by the Department of Electronics and Biomedical Engineering, Universitat de Barcelona (UB).
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2025
+UR - https://www.mdpi.com/1424-8220/25/3/737
+UR - http://hdl.handle.net/2117/428235
+VL - 25
+IS - 3, article 737
+T2 - Sensors (Basel)
+PB - Multidisciplinary Digital Publishing Institute (MDPI)
+AU - Fernandez, L.
+AU - Oller-Moreno, S.
+AU - Fonollosa, J.
+AU - Garrido-Delgado, R.
+AU - Arce, L.
+AU - Mart'in-G'omez, A.
+AU - Marco, S.
+AU - Pardo, A.
+
+TY - MGZN
 DO - 10.1016/j.jobe.2023.108404
 TI - The dilemma of variables assumptions in thermal comfort calculations for educational buildings: to simplify or not?
 AB - Thermal comfort is crucial for people well-being and productivity in buildings, and it has a strong effect on building's energy usage. The main models for assessing thermal comfort, like predictive mean vote (PMV) and adaptive models, need many environmental measurements, making monitoring complex. That has sparked a debate: some advocate reducing the number of variables, while others stress sticking to the original models. This article evaluates current research trends and addresses the limitations of globe sensors, the most commonly used instrument for measuring mean radiant temperature. To address these is- sues, the study conducts a sensitivity analysis using latin hypercube sampling with multidimen- sional uniformity and employs data from 41 measurements conducted in educational buildings spanning different academic levels, from preschool to university. This analysis examines various simplifications in the measuring procedures for the PMV and adaptive models proposed by ASHRAE 55, ISO 7730 and EN 16798. For this purpose, two mean radiant temperature accuracies are used according to the minimum requirement and the desired value specified by ISO 7726, +/-2 ?C and +/-0.2 ? C respectively. The results suggest that models with fewer variables tend to overestimate thermal comfort levels. However, this models are valid as their estimations fall within the uncertainty range of the complete model, as long as the mean radiant temperature accuracy is +/-2 ?C as achieved with globe sensors. When mean radiant temperature accuracy improves (i.e. +/-0.2 ?C), the outcome of the models with less variables imply an overestimation falling out of the uncertainty of the complete model.
@@ -115,6 +157,21 @@ AU - van Schaik, A.
 AU - Schmuker, M.
 
 TY - MGZN
+DO - 10.1016/j.jenvman.2022.114787
+TI - COVID-19 impact on maritime traffic and corresponding pollutant emissions. The case of the Port of Barcelona
+AB - The impact of the SARS-CoV pandemic has gone well beyond health concerns, reaching the maritime industry. The study on the environmental impact of shipping industry during COVID-19 pandemic can provide useful insights to propose new management policies regarding shipping operations, both in-port and on the route. We present a case study centred in the Port of Barcelona covering a 30 nautical miles range in the period March to July 2020, during which different levels of restrictions and stringent lockdown measures were enforced. In this paper, we assess the impact of COVID-19 on maritime traffic and its related emissions in port cities using real-time Automatic Identification System (AIS) data. Interestingly, results show that the decline in maritime traffic is not correlated with a decrease in maritime emissions due to changes in vessel operation. During lockdown (March to June 2020), we observed a 27.9% reduction in the number of port calls compared to the pre-lockdown scenario, whereas pollutant emissions show a moderate decrease (1.8% for CO2), no significant reduction (SO2 and PM) or a slight increase (1.3% for NOx). This can be directly assigned to changes in vessel operation mode, i.e. vessels switched from Underway to At Anchor or Moored status, during which auxiliary engines are used at higher loads.
+AB - Postprint (author's final draft)
+Y1 - 2022
+UR - https://pubmed.ncbi.nlm.nih.gov/35248988/
+UR - http://hdl.handle.net/2117/365197
+T2 - Journal of environmental management
+AU - Mujal-Colilles, A.
+AU - Nieto, J.
+AU - Fonollosa, J.
+AU - Llull, T.
+AU - Castells-Sanabra, Marcella
+
+TY - MGZN
 DO - 10.1016/j.snb.2021.130961
 TI - Early fire detection based on gas sensor arrays: Multivariate calibration and validation
 AB - Smoldering fires are characterized by the production of early gas emissions that can include high levels of CO and Volatile Organic Compounds (VOCs) due to pyrolysis or thermal degradation. Nowadays, standalone CO sensors, smoke detectors, or a combination of these, are standard components for fire alarm systems. While gas sensor arrays together with pattern recognition techniques are a valuable alternative for early fire detection, in practice they have certain drawbacks-they can detect early gas emissions, but can show low immunity to nuisances, and sensor time drift can render calibration models obsolete. In this work, we explore the performance of a gas sensor array for detecting smoldering and plastic fires while ensuring the rejection of a set of nuisances. We conducted variety of fire and nuisance experiments in a validated standard fire room (240 m3). Using PLS-DA and SVM, we evaluate the performance of different multivariate calibration models for this dataset. We show that calibration models remain predictive after several months, but perfect performance is not achieved. For example, 4 months after calibration, a PLS-DA model provides 100% specificity and 85% sensitivity since the system has difficulties in detecting plastic fires, whose signatures are close to nuisance scenarios. Nevertheless, our results show that systems based on gas sensor arrays are able to provide faster fire alarm response than conventional smoke-based fire alarms. We also propose the use of small-scale fire experiments to increase the number of calibration con- ditions at a reduced cost. Our results show that this is an effective way to increase the performance of the model, even when evaluated on a standard fire room. Finally, the acquired datasets are made publicly available to the community (doi: 10.5281/zenodo.5643074).
@@ -132,21 +189,6 @@ AU - Ziems, B.
 AU - Jimenez-Soto, J.
 AU - Marco, S.
 AU - Fonollosa, J.
-
-TY - MGZN
-DO - 10.1016/j.jenvman.2022.114787
-TI - COVID-19 impact on maritime traffic and corresponding pollutant emissions. The case of the Port of Barcelona
-AB - The impact of the SARS-CoV pandemic has gone well beyond health concerns, reaching the maritime industry. The study on the environmental impact of shipping industry during COVID-19 pandemic can provide useful insights to propose new management policies regarding shipping operations, both in-port and on the route. We present a case study centred in the Port of Barcelona covering a 30 nautical miles range in the period March to July 2020, during which different levels of restrictions and stringent lockdown measures were enforced. In this paper, we assess the impact of COVID-19 on maritime traffic and its related emissions in port cities using real-time Automatic Identification System (AIS) data. Interestingly, results show that the decline in maritime traffic is not correlated with a decrease in maritime emissions due to changes in vessel operation. During lockdown (March to June 2020), we observed a 27.9% reduction in the number of port calls compared to the pre-lockdown scenario, whereas pollutant emissions show a moderate decrease (1.8% for CO2), no significant reduction (SO2 and PM) or a slight increase (1.3% for NOx). This can be directly assigned to changes in vessel operation mode, i.e. vessels switched from Underway to At Anchor or Moored status, during which auxiliary engines are used at higher loads.
-AB - Postprint (author's final draft)
-Y1 - 2022
-UR - https://pubmed.ncbi.nlm.nih.gov/35248988/
-UR - http://hdl.handle.net/2117/365197
-T2 - Journal of environmental management
-AU - Mujal-Colilles, A.
-AU - Nieto, J.
-AU - Fonollosa, J.
-AU - Llull, T.
-AU - Castells-Sanabra, Marcella
 
 TY - MGZN
 DO - 10.1038/s41467-021-21405-y

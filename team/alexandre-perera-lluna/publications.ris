@@ -1,4 +1,81 @@
 TY - MGZN
+DO - 10.1186/s12933-025-02701-z
+TI - Lipidomic analysis reveals metabolism alteration associated with subclinical carotid atherosclerosis in type 2 diabetes
+AB - Background. Disruption of lipid metabolism contributes to increased cardiovascular risk in diabetes. Methods. We evaluated the associations between serum lipidomic profile and subclinical carotid atherosclerosis (SCA) in type 1 (T1D) and type 2 (T2D) diabetes, and in subjects without diabetes (controls) in a cross-sectional study. All subjects underwent a lipidomic analysis using ultra-high performance liquid chromatography-electrospray ionization tandem mass spectrometry, carotid ultrasound (mode B) to assess SCA, and clinical assessment. Multiple linear regression models were used to assess the association between features and the presence and burden of SCA in subjects with T1D, T2D, and controls separately. Additionally, multiple linear regression models with interaction terms were employed to determine features significantly associated with SCA within risk groups, including smoking habit, hypertension, dyslipidaemia, antiplatelet use and sex. Depending on the population under study, different confounding factors were considered and adjusted for, including sample origin, sex, age, hypertension, dyslipidaemia, body mass index, waist circumference, glycated haemoglobin, glucose levels, smoking habit, diabetes duration, antiplatelet use, and alanine aminotransferase levels. Results. A total of 513 subjects (151 T1D, 155 T2D, and 207 non-diabetic control) were included, in whom the percentage with SCA was 48.3%, 49.7%, and 46.9%, respectively. A total of 27 unique lipid species were associated with SCA in subjects with T2D, in former/current smokers with T2D, and in individuals with T2D without dyslipidaemia. Phosphatidylcholines and diacylglycerols were the main SCA-associated lipidic classes. Ten different species of phosphatidylcholines were up-regulated, while 4 phosphatidylcholines containing polyunsaturated fatty acids were down-regulated. One diacylglycerol was down-regulated, while the other 3 were positively associated with SCA in individuals with T2D without dyslipidaemia. We discovered several features significantly associated with SCA in individuals with T1D, but only one sterol could be partially annotated. Conclusions. We revealed a significant disruption of lipid metabolism associated with SCA in subjects with T2D, and a larger SCA-associated disruption in former/current smokers with T2D and individuals with T2D who do not undergo lipid-lowering treatment.
+AB - This work was funded by Spanish Ministry of Health, Instituto de Salud Carlos III (Madrid, Spain) grants PI15/0625 (to DM and EC), PI17/01362 (to NA), PI18/0328 (to DM), FEDER "Una manera de hacer Europa", and by Fundaci'o La Marat'o de TV3 2016 (303/C/2016) (201602.30.31) (to NA). This work was supported by the Grant PID2021-122952OB-I00 funded by AEI https:/ /doi. org/10.13039/501100011033 and by ERDF A way of making Europe (to AP). This research was supported by Biomedical Research Networking Center in Diabetes and Associated Metabolic Disorders (CIBERDEM-CB15/00071) (to DM) and Biomedical Research Networking Center in Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigaci'on Carlos III (ISCIII); ISCIII (grant AC22/00035) (to AP); and the CERCA Programme / Generalitat de Catalunya. B2SLab is certified as 2021 SGR 01052. Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau is accredited by the Generalitat de Catalunya as Centre de Recerca de Catalunya (CERCA).
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2025
+UR - https://cardiab.biomedcentral.com/articles/10.1186/s12933-025-02701-z
+UR - http://hdl.handle.net/2117/429268
+VL - 24
+IS - article 152
+T2 - Cardiovascular diabetology
+AU - Barranco, M.
+AU - Rossell, J.
+AU - Alonso, N.
+AU - Weber, R.
+AU - Ortega, E.
+AU - Lloyd, G.
+AU - Hern'andez, M.
+AU - Yanes, 'O.
+AU - Capellades, J.
+AU - Winder, C.
+AU - Junza, A.
+AU - Falguera, M.
+AU - Franch, J.
+AU - Dunn, W.
+AU - Perera, A.
+AU - Castelblanco, E.
+AU - Mauricio Puente, D'idac
+
+TY - MGZN
+DO - 10.3390/cancers17040654
+TI - Colorectal adenoma subtypes exhibit signature molecular profiles: unique insights into the microenvironment of advanced precancerous lesions for early detection applications
+AB - Background: Colorectal cancer (CRC) is characterized by the uncontrolled growth of malignant colonic or rectal crypt epithelium. About 85% of CRCs evolve through a stepwise progression from advanced precancerous adenoma lesions. A better understanding of the evolution from adenoma to carcinoma can provide a window of opportunity not only for early detection and therapeutic intervention but potentially also for cancer prevention strategies. Methods: This study investigates the heterogeneous methylation, copy-number alteration (CNA), and mutation signals of histological adenoma subtypes in the context of progression from normal colon to advanced precancerous lesions (APLs) and early-stage CRC. Results: Differential methylation analysis revealed 2321 significantly altered regions among APLs: 137 hypermethylated regions in serrated vs. tubular, 2093 in serrated vs. tubulovillous, and 91 in tubular vs. tubulovillous adenoma subtypes. The most differentiating pathways for serrated adenomas belonged to cAMP signaling and the regulation of pluripotency of stem cells, while regions separating tubular and tubulovillous subtypes were enriched for WNT signaling. CNA events were mostly present in tubular or tubulovillous adenomas, with the most frequent signals being seen in chromosomes 7, 12, 19, and 20. In contrast, early-stage CRC exhibited signals in chromosomes 7, 8, and 20, indicating different processes between APL and early-stage CRC. Mutations reinforce subtype-level differences, showing specific alterations in each subtype. Conclusions: These findings are especially important for developing early detection or cancer prevention tests trying to capture adenoma signatures.
+AB - This work was supported by grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by the ERDF-A way of making Europe; the Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN); the CERCA Programme/Generalitat de Catalunya (B2SLab is certified as 2021 SGR 01052); and private funding by UniversalDx S.A.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2025
+UR - https://www.mdpi.com/2072-6694/17/4/654
+UR - http://hdl.handle.net/2117/428022
+VL - 17
+IS - 4, article 654
+T2 - Cancers (Basel)
+PB - Multidisciplinary Digital Publishing Institute (MDPI)
+AU - Mattia, F.
+AU - Higareda, J.
+AU - Canal, P.
+AU - Bertossi, A.
+AU - Perera, A.
+AU - Herbert, M.
+AU - Kruusmaa, K.
+
+TY - MGZN
+DO - 10.1136/bmjopen-2023-083825
+TI - Characterisation of type 2 diabetes subgroups at diagnosis: the COPERNICAN prospective observational cohort study protocol
+AB - Introduction. Type 2 diabetes mellitus (T2DM) is a highly heterogeneous and complex metabolic disease harbouring different metabolic characteristics. Adequate characterisation of subjects is essential to allow the implementation of precision medicine for the prevention, diagnosis, prognosis and treatment of this condition. Methods and analysis. This prospective observational cohort study aims to identify and characterise relevant clinical clusters that are reproducibly associated with various clinical outcomes in T2DM in our Mediterranean region. The COPERNICAN study will include 1200 subjects with newly diagnosed T2DM from 28 primary care centres from the city of Barcelona and the healthcare district of Lleida in Catalonia (Spain). Participants will undergo a comprehensive phenotypic evaluation including, among others, six relevant variables: age, antibodies against glutamic acid decarboxylase, body mass index, glycated haemoglobin (HbA1c), indexes of insulin sensibility (HOMA2-IR) and secretion (HOMA2-beta). We will collect additional comprehensive data on glucose-lowering and other drug treatments, clinical evaluation (including complications), laboratory parameters, advanced lipoprotein profile, dietary habits and physical activity. The linkage with the population database will be done to perform a pragmatic follow-up of participants as part of their usual clinical care. A state-of-the-art cluster analysis (k-means and hierarchical clustering) will be performed. Ethics and dissemination. The present study complies with all the ethical aspects and protection of participant subjects complying with all current local and European Union legislation. All Ethics Committees from the institutions involved in the study (IR Sant Pau Ethics Committee, Ethics Committee for Drug Research at IDIAP Jordi Gol and University Hospital of Bellvitge Ethics Committee for Research) approved this protocol. Confidentiality and anonymity of the data are ensured according to the current Spanish Organic Law 3/2018 of 05 December.
+AB - This research received financial support from the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) PID2021-122952OB-I00, DPI2017-89827-R and Instituto de Salud Carlos III, Ministry of Health (PI21/01163). This work has been financed by a PERIS grant from the Primary Care Oriented Research Projects program with the reference number SLT021/21/000030 granted by the Generalitat de Catalunya (2022-2024). CIBER for Diabetes and Associated Metabolic Diseases (CIBERDEM; leading group CB15/00071) and the Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), are initiatives of Instituto de Salud Carlos III (ISCIII)
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2024
+UR - https://bmjopen.bmj.com/content/14/12/e083825
+UR - http://hdl.handle.net/2117/427917
+VL - 14
+IS - 12, article e083825
+T2 - BMJ open
+AU - Fernandez, B.
+AU - Vlacho, B.
+AU - Canudas, A.
+AU - Ortega, M.
+AU - Granado, M.
+AU - Perera, A.
+AU - Boluda, A.
+AU - El Khattabi, Y.
+AU - Franch, J.
+AU - Mauricio, D.
+
+TY - MGZN
 DO - 10.3390/nu16213607
 TI - Mediterranean diet is a predictor of progression of subclinical atherosclerosis in a mediterranean population: the ILERVAS prospective cohort study
 AB - Atherosclerotic cardiovascular disease remains a major health issue, often developing silently as subclinical atherosclerotic disease (SAD). The Mediterranean diet (MDiet) is known for its cardiovascular benefits, but the combined influence of both MDiet adherence and physical activity (PA) on SAD progression has not been previously documented. Objective: We aimed to investigate how adherence to a healthy lifestyle, defined as MDiet adherence and PA level, influences SAD progression in subjects from the ILERVAS cohort follow-up. Methods: A study on 3097 participants from the ILERVAS prospective cohort was conducted. MDiet adherence was assessed using the MEDAS score, and PA categories were established using the IPAQ, both categorized into low, moderate, and high levels. Two different lifestyle scores integrating the MDiet and PA categories were built. The presence of atherosclerotic plaques was assessed by carotid and femoral ultrasound examination. Demographic, clinical, and biochemical data were also obtained. Multivariable linear, logistic, and Poisson regression models adjusted for potential confounders were used to analyze the association between the lifestyle scores and SAD progression, as well as the MDiet and PA as separate variables and number of territories with plaque. Results: A healthier lifestyle score did not show an effect on SAD progression. However, a higher MEDAS score was associated with a 3% decrease in the number of territories with plaque (IRR 0.97, 95% CI 0.96-0.99, p < 0.001), suggesting a protective effect of the adherence to the MDiet. PA did not show a significant association (IRR 1.00, 95% CI 1.00-1.00, p = 0.269). Older age, hypertension, dyslipidemia, smoking, and lower eGFR were associated with SAD progression, while the female sex was protective (IRR 0.67, 95% CI 0.63-0.72, p < 0.001). Conclusions: The findings of this study show that higher adherence to the MDiet is associated with reduced incidence of SAD, indicating its potential role in cardiovascular prevention strategies. Although a higher lifestyle score or physical activity levels did not show any significant effect, promoting the MDiet, alongside managing traditional cardiovascular risk factors, could be an effective public health intervention to prevent atherosclerosis and reduce the burden of cardiovascular disease.
@@ -137,6 +214,28 @@ T2 - International journal of molecular sciences
 PB - Multidisciplinary Digital Publishing Institute (MDPI)
 AU - Canal, P.
 AU - Perera, A.
+
+TY - MGZN
+DO - 10.1371/journal.pone.0299556
+TI - Unraveling athletic performance: transcriptomics and external load monitoring in handball competition
+AB - Objective This study aims to comprehend the impact of handball practice on sub-elite athletes by investigating transcriptomic changes that occur during a match. The primary focus encompasses a dual objective: firstly, to identify and characterize these transcriptomic alterations, and secondly, to establish correlations between internal factors (gene expression), and external loads measured through Electronic Performance and Tracking Systems (EPTS variables). Ultimately, this comprehensive analysis seeks to evaluate both acute and chronic responses to exercise within the context of handball training. Methods The study included sixteen elite male athletes from the FC Barcelona handball second team. Blood samples were extracted at three different time points: before the match at baseline levels (T1), immediately upon completion (T2), and 24 hours after completion (T3). Differential gene expression, Gene Ontology Term and Kyoto Encyclopedia of Genes and Genomes pathway enrichment analyses were conducted in two comparisons: Comparison 1 (T1 vs T2) and Comparison 2 (T1 vs T3). Further, the correlation between gene expression levels and training variables (external load) was conducted. Results In T1 vs T2, 3717 of the 14632 genes detected were differentially expressed (adjusted p-value < 0.05), and enrichment of terms related to the immune system, mitochondria, and metabolic processes was found. Further, significant linear correlations were obtained between High-Speed running (HSR) and high-intensity variables such as acceleration ACC and deceleration DEC values with amino acids, and inflammatory and oxidative environment-related pathways, both in chronic and acute response. Conclusions This research highlights the effects of external workload on elite athletes during a handball match and throughout the season. The study identifies deregulation in the immune system, mitochondrial functions, and various metabolic pathways during the match. Additionally, it establishes correlations between the external load and pathways associated with amino acids, inflammation, oxidative environment, and regulation. These findings offer insights into the immediate and chronic responses of athletes to physical effort.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2024
+UR - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0299556
+UR - http://hdl.handle.net/2117/429059
+VL - 19
+IS - 3, article e0299556
+T2 - PloS one
+PB - Public Library of Science (PLOS)
+AU - Ezquerra, P.
+AU - Mallol, M.
+AU - Font, R.
+AU - Tremps, V.
+AU - Guti'errez, J.
+AU - Rodas, G.
+AU - Perera, A.
+AU - Soria, J.
 
 TY - MGZN
 DO - 10.1093/ckj/sfad182
@@ -474,24 +573,6 @@ AU - Quiroz, L.
 AU - Alcaraz Casademunt, Jordi
 
 TY - MGZN
-DO - 10.1021/acs.jcim.1c00086
-TI - Balancing data on deep learning-based proteochemometric activity classification
-AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
-AB - Peer Reviewed
-AB - Postprint (published version)
-Y1 - 2021
-UR - https://pubs.acs.org/doi/10.1021/acs.jcim.1c00086
-UR - http://hdl.handle.net/2117/353767
-VL - 61
-IS - 4
-EP - 1657
-SP - 1669
-T2 - Journal of chemical information and modeling
-AU - Lopez, A.
-AU - Picart, S.
-AU - Perera, A.
-
-TY - MGZN
 DO - 10.1108/ET-11-2020-0334
 TI - Game learning analytics of instant messaging and online discussion forums in higher education
 AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
@@ -508,6 +589,24 @@ T2 - Education and Training
 AU - Hern'andez-Lara, A.
 AU - Perera, A.
 AU - Serradell-L'opez, E.
+
+TY - MGZN
+DO - 10.1021/acs.jcim.1c00086
+TI - Balancing data on deep learning-based proteochemometric activity classification
+AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://pubs.acs.org/doi/10.1021/acs.jcim.1c00086
+UR - http://hdl.handle.net/2117/353767
+VL - 61
+IS - 4
+EP - 1657
+SP - 1669
+T2 - Journal of chemical information and modeling
+AU - Lopez, A.
+AU - Picart, S.
+AU - Perera, A.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/btaa1069
