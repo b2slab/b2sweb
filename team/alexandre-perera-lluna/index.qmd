@@ -15,11 +15,11 @@ resources:
 ![](images/staff_Alexandre_Perera_LLuna.jpg){style="float: left; margin: 5px; width: 200px;"}
 :::
 
-Welcome to my site. My name is Alexandre Perera Lluna, sometimes Alex Perera. I hold a degree in Physics, a second degree in Electrical Engineering, and a PhD in Physics from the University of Barcelona. I currently lead the [B2SLab](https://b2slab.upc.edu/), which is part of the Institut de Recerca i Innovació en Salut ([IRIS](https://iris.upc.edu/)), formerly the Research Center for Biomedical Engineering (CREB) at the Universitat Politècnica de Catalunya (Polytechnic University of Catalonia, UPC), located in the beautiful city of Barcelona. It is a fantastic place for research, culture, and leisure—I truly love this city.
+Welcome to my site. My name is Alexandre Perera Lluna, sometimes Alex Perera. I hold a degree in Physics, a second degree in Electrical Engineering, and a PhD in Physics from the University of Barcelona. I currently lead the [B2SLab](https://b2slab.upc.edu/), which is part of the Institute for Research and Innovation in Health  ([IRIS](https://iris.upc.edu/)), formerly the Research Center for Biomedical Engineering (CREB) at the Universitat Politècnica de Catalunya (Polytechnic University of Catalonia, UPC), located in the beautiful city of Barcelona. It is a fantastic place for research, culture, and leisure—I truly love this city.
 
 At B2SLab, we integrate Data Science, Bioinformatics, and Bioengineering. My main interests include predicting disease trajectories using Transformer and Linear models, as well as applying machine learning to Rare Diseases. I also have experience in data integration, data fusion, metabolomics, functional enrichment, and bioengineering. Since 2022, I have been a full professor at the Universitat Politècnica de Catalunya.
 
--   In 2019, I was appointed as the head of the Research Center for Biomedical Engineering at UPC (CREB-UPC, Centre de Recerca en Enginyeria Biomèdica).
+-   In 2019, I was appointed as the head of the Research Center for Biomedical Engineering at UPC (CREB-UPC, Centre de Recerca en Enginyeria Biomèdica) which has been recently transformed into the [Institute for Research and Innovation in Health (IRIS)](https://iris.upc.edu/).
 -   I also coordinate a [fascinating project named Xartec Salut](https://xartecsalut.com).
 
 ## Contact

@@ -5,7 +5,7 @@ subtitle: "Open source tools for scientific and technical publishing"
 
 ## Goals
 
-Welcome to the Bioinformatics and Biomedical Signals Laboratory (B2SLab) at the Universitat Politècnica de Catalunya (UPC) in Barcelona, Spain. As a multidisciplinary research group within the Research Centre for Biomedical Engineering (CREB), we specialize in biomedical engineering, bioinformatics, machine learning, and statistics, leveraging over two decades of expertise in these fields. ([xartecsalut.com](https://xartecsalut.com/members-upc/?utm_source=chatgpt.com))
+Welcome to the Bioinformatics and Biomedical Signals Laboratory (B2SLab) at the Universitat Politècnica de Catalunya (UPC) in Barcelona, Spain. As a multidisciplinary research group within the [Institute for Research and Innovation in Health (IRIS)](https://iris.upc.edu), we specialize in biomedical engineering, bioinformatics, machine learning, and statistics, leveraging over two decades of expertise in these fields. ([xartecsalut.com](https://xartecsalut.com))
 
 **Our Mission**
 

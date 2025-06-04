@@ -18,14 +18,14 @@ With a strong background in engineering and research experience, I enjoy facing 
 
 ## Professional Experience
 
-### Research Assistant Technician at CREB (UPC)
+### Research Assistant Technician at Institute for Research and Innovation in Health  
 
 **May 2024 – Present**\
 - Development of ML algorithms for diagnosing rare kidney diseases.\
 - Performance analysis of diagnostic models.\
 - Maintenance of the HDSI Share4Rare server (Django) and diagnostic platform (Springboot).
 
-### Research Assistant Technician at CREB (UPC)
+### Research Assistant Technician at Institute for Research and Innovation in Health  
 
 **November 2022 – May 2024**\
 - Development of diagnostic platforms for rare kidney diseases in collaboration with Hospital Sant Pau.\
