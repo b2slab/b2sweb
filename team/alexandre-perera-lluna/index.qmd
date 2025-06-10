@@ -7,6 +7,7 @@ execute:
   echo: false
 resources: 
   - "teaching/*"
+  - "docs/*"
 ---
 
 ## Bio
@@ -15,7 +16,7 @@ resources:
 ![](images/staff_Alexandre_Perera_LLuna.jpg){style="float: left; margin: 5px; width: 200px;"}
 :::
 
-Welcome to my site. My name is Alexandre Perera Lluna, sometimes Alex Perera. I hold a degree in Physics, a second degree in Electrical Engineering, and a PhD in Physics from the University of Barcelona. I currently lead the [B2SLab](https://b2slab.upc.edu/), which is part of the Institute for Research and Innovation in Health  ([IRIS](https://iris.upc.edu/)), formerly the Research Center for Biomedical Engineering (CREB) at the Universitat Politècnica de Catalunya (Polytechnic University of Catalonia, UPC), located in the beautiful city of Barcelona. It is a fantastic place for research, culture, and leisure—I truly love this city.
+Welcome to my site. My name is Alexandre Perera Lluna, sometimes Alex Perera. I hold a degree in Physics, a second degree in Electrical Engineering, and a PhD in Physics from the University of Barcelona. I currently lead the [B2SLab](https://b2slab.upc.edu/), which is part of the Institute for Research and Innovation in Health ([IRIS](https://iris.upc.edu/)), formerly the Research Center for Biomedical Engineering (CREB) at the Universitat Politècnica de Catalunya (Polytechnic University of Catalonia, UPC), located in the beautiful city of Barcelona. It is a fantastic place for research, culture, and leisure—I truly love this city.
 
 At B2SLab, we integrate Data Science, Bioinformatics, and Bioengineering. My main interests include predicting disease trajectories using Transformer and Linear models, as well as applying machine learning to Rare Diseases. I also have experience in data integration, data fusion, metabolomics, functional enrichment, and bioengineering. Since 2022, I have been a full professor at the Universitat Politècnica de Catalunya.
 
@@ -64,7 +65,7 @@ I have proudly advised several PhD students who have successfully defended their
 
 -   Helena Brunel. *Genetic association analysis of complex diseases through information theoretic metrics and linear pleiotropy*. Defended on 14/11/2013 at Universitat Politècnica de catalunya
 
--   Jorge Alberto Jaramillo Garzón. [*Protein function prediction with semi-supervised classification based on evolutionary multi-objective optimization*](http://web.archive.org/web/20241104024405/http://b2slab.upc.edu/wp-content/uploads/2014/02/Jorge-Alberto-Jaramillo-PhD.pdf), Defended on 25/11/2013 at the Universidad Nacional de Colombia. This thesis was coadvised with Dr. German Castellanos from the same university.
+-   Jorge Alberto Jaramillo Garzón. [*Protein function prediction with semi-supervised classification based on evolutionary multi-objective optimization*](docs/JorgeAlbertoJaramilloPhD.pdf), Defended on 25/11/2013 at the Universidad Nacional de Colombia. This thesis was coadvised with Dr. German Castellanos from the same university.
 
 -   Andrey Ziyatdinov, *Biomimetic Setup for Chemosensor-Based Machine olfaction*. Defended on 4/12/2014 at Universitat Politècnica de Catalunya.
 
@@ -80,7 +81,7 @@ I have proudly advised several PhD students who have successfully defended their
 
 -   Samir Kanaan.Multiview pattern recognition methods for data visualization, embedding and clustering. Defended on 22/09/2017 at Universitat Politècnica de Catalunya.
 
--   Sergio Picart, “Statistical Normalisation of Network Propagation Methods for Computational biology” , by Sergio Picart, 23/7,2020. The defense was performed online due to the sars-cov-2 pandemic and published in [here](http://web.archive.org/web/20241104024405/https://www.youtube.com/watch?v=tIb9aVZa2dM).
+-   Sergio Picart, “Statistical Normalisation of Network Propagation Methods for Computational biology” , by Sergio Picart, 23/7,2020. The defense was performed online due to the sars-cov-2 pandemic and published in [here](https://www.youtube.com/watch?v=tIb9aVZa2dM).
 
 -   Angela López del Río, “Development And Improvement Of Computer Aided Drug Development Techniques Using Deep Learning Algorithms”, defended on June 23rd, 2021. currently Post-Doc Data Scientist at Boehringer Ingelheim.
 
@@ -88,8 +89,8 @@ I have proudly advised several PhD students who have successfully defended their
 
 You can also check my journal papers, available through:
 
--   [publications for all the group](http://web.archive.org/web/20241104024405/http://b2slab.upc.edu/publications/ "All group publications"), or
--   [google scholar](http://web.archive.org/web/20241104024405/https://scholar.google.es/citations?hl=ca&user=uWiteHoAAAAJ&view_op=list_works&sortby=pubdate).
+-   [publications for all the group](http://b2slab.upc.edu/publications/ "All group publications"), or
+-   [google scholar]( https://scholar.google.es/citations?hl=ca&user=uWiteHoAAAAJ&view_op=list_works&sortby=pubdate).
 
 A possibly incomplete and malformatted list of publications is included below:
 
