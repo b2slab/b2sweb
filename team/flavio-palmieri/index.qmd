@@ -1,0 +1,83 @@
+---
+title: "Flavio Palmieri"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+
+## Bio
+
+::: img-float
+![](images/Pic_FP.jpeg){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Hi there. My name is Flavio Palmieri and I'm an Assistant Professor within the [Serra Hùnter program](https://recercaiuniversitats.gencat.cat/ca/serra-hunter/inici/) at the Universitat Politècnica de Catalunya (Polytechnic University of Catalonia, UPC), campus [Barcelona School of Engineering Est - EEBE](https://eebe.upc.edu/en?set_language=en).
+
+## From Student to Scientist: A Journey in Biomedical Engineering 
+I hold a B.Sc. (2015) and M.Sc. (2018) in Biomedical Engineering from the Università Politecnica delle Marche (Ancona, Italy). In June 2022, I completed an industrial Ph.D. in Biomedical Engineering through a joint program between Universitat Politècnica de Catalunya and the University of Zaragoza, under the supervision of [Professor Pablo Laguna](https://i3a.unizar.es/es/investigadores/pablo-laguna-lasaosa) and [Professor Pedro Gomis](https://portaldeinvestigacionviu.com/es/main/profile/105). 
+
+From June 2022 to December 2023, I was a postdoctoral researcher in bioinformatic at [Institut de Recerca Sant Joan de Déu (IRSJD)](https://www.irsjd.org/en/) in the [Metabolic diseases of pediatric origin gorup](https://www.irsjd.org/en/people/staff/197/jose-carlos-jimenez-chillaron), supported by a fellowship from the [John Templeton Foundation](https://www.templeton.org/).
+
+In January 2024, I was awarded a “Juan de la Cierva” postdoctoral fellowship from the Spanish Ministry of Science, Innovation and Universities. I held this position at the University of Barcelona, Department of Physiological Sciences, [Biophysics Unit](https://mmfpd-ub.wixsite.com/mmfpd) until I was appointed assistant professor at the Universitat Politècnica de Catalunya (UPC)
+
+Currently, I am a member of the [B2SLab](https://b2slab.upc.edu/), part of the Institut de Recerca i Innovació en Salut ([IRIS](https://iris.upc.edu/)), formerly known as the Research Center for Biomedical Engineering (CREB). 
+
+## Research interests 
+I'm passionate about using computational tools to better understand how our bodies work at the cellular and molecular level—especially in the context of metabolic diseases and childhood health. With a background in biomedical engineering, my work bridges biology, data science, and medicine.
+
+Over the years, I've been particularly drawn to spatial transcriptomics and cell type analysis, which help us see how different cells behave and interact in tissues. I enjoy exploring big biological datasets to uncover patterns that might tell us something new about health, disease, or development.
+
+Whether it's through bioinformatics, machine learning, or systems biology, my goal is to turn complex data into meaningful insights that could one day support better diagnosis, research, or treatment.
+
+## External collaborators
+-   Professor [José Carlos Jiménez Chillarón](https://www.irsjd.org/ca/persones/equip-huma/197/jose-carlos-jimenez-chillaron)
+-   Dr [Elena Arbelo](https://www.clinicbarcelona.org/ca/professionals/elena-arbelo)
+-   Professor [Pablo M Garcia-Roves](https://www.researchgate.net/profile/Pablo-Garcia-Roves)
+-   Dr [Carles Lerin Martinez](https://www.irsjd.org/ca/persones/equip-huma/309/carles-lerin-martinez)
+-   Professor [Pablo Laguna](https://i3a.unizar.es/es/investigadores/pablo-laguna-lasaosa)
+-   Professor [Pedro Gomis](https://portaldeinvestigacionviu.com/es/main/profile/105)
+-   Dr [Eduard Porta](https://www.carrerasresearch.org/es/directorio/eduard-porta-228)
+-   Professor [Anthony Molina](https://www.molinalab.com/)
+
+## Teaching
+
+I teach several subjects, including:
+
+-   Bioinformatics.
+-   Health information and comunication systems.
+-   Control and automation.
+
+## Ongoing PhD Thesis
+
+-   [Marta Mourín Fernández](https://www.linkedin.com/in/marta-mourin-b86bbb193/)
+-   [Alba Isabel Roquero](https://www.linkedin.com/in/alba-isabel-roquero/) 
+
+
+## Publications
+
+All my publications are available through:
+
+-   [publications for all the group](http://web.archive.org/web/20241104024405/http://b2slab.upc.edu/publications/ "All group publications"), or
+-   [google scholar](https://scholar.google.com/citations?user=wP7HZwYAAAAJ).
+
+What follows is a possibly messy and not-quite-complete list of my publications. I'm working on it!
+
+```{r}
+cache_file <- "../../doi_cache.json"
+source("../../R/getpapers.R")
+# Define the RIS file URL
+ris_url <- "https://futur.upc.edu/RIS/FlavioPalmieri/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=ca"
+```
+
+## Links
+- [ORCID](https://orcid.org/0000-0002-1455-4923)
+- [Google Scholar](https://scholar.google.com/citations?user=wP7HZwYAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/Flavio-Palmieri-PhD/)
+
+```{r}
+#| output: asis
+paperstohtmlnodiv(ris_url)
+```
