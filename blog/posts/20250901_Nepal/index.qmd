@@ -2,8 +2,8 @@
 title: "Improving Indoor Air Quality in rural areas of Nepal with Chimney-Stove Systems"
 description: "The research project was awarded the UPC Prize for Social Commitment 2025, granted by the Social Council of the Universitat Politècnica de Catalunya – BarcelonaTech (UPC)."
 author: "J. Fonollosa"
-date: "31/08/2025"
-date-modified: "31/08/2025"
+date: "08/31/2025"
+date-modified: "9/01/2025"
 ---
 
 ::: img-float
@@ -11,33 +11,29 @@ date-modified: "31/08/2025"
 :::
 
 
-In **rural areas of Nepal**, for cultural and economic reasons, the main source of energy is **firewood** 🔥: families typically cook on an **open fire made on the ground with three stones**, without using a chimney. Ventilation, therefore, depends on doors and windows, which in cold weather may be shut or only slightly open️.  
+In **rural areas of Nepal**, for cultural and economic reasons, the main source of energy is firewood: families typically cook on an open fire made on the ground with three stones, without using a chimney. Ventilation, therefore, depends on doors and windows, which in cold weather may be shut or only slightly open️.  
 
-This results in **high levels of indoor pollution** ⚠️ that severely affect the health of the inhabitants, mainly **women and children**. In fact, Nepal is one of the countries with the **highest levels of household air pollution**. The World Health Organization estimates that every year **toxic gases from kitchens cause the premature death of around 24,000 people**.  
+This results in high levels of indoor pollution that severely affect the health of the inhabitants, mainly women and children. In fact, Nepal is one of the countries with the **highest levels of household air pollution**. The World Health Organization estimates that every year toxic gases from kitchens cause the premature death of around 24,000 people.  
 
 
 #### Project Goal: Safe and Accessible Cooking  
 
-The aim of the research project is to promote the use of an **Improved Chimney and Hood System (CHS)** 🏡, optimized to prevent indoor pollution in rural areas of Nepal, without interfering with people’s habits and customs and without requiring a large economic investment 💰.  By **measuring air quality before and after installation** and objectively assessing the **health benefits**—mainly for women and children—the project seeks to **encourage easier adoption** of this technology.  
+The aim of the research project is to promote the use of an **Improved Chimney and Hood System (CHS)** 🏡, optimized to prevent indoor pollution in rural areas of Nepal, without interfering with people’s habits and customs and without requiring a large economic investment. By **measuring air quality before and after installation** and objectively assessing the health benefits —mainly for women and children— the project seeks to encourage easier adoption of this technology.  
 
-The initiative is coordinated by the **Awasuka Programme** (a cooperative project), with the participation of researchers from the B2SLab and BIOCOM-SC research groups.
-
+The initiative is coordinated by the [Awasuka Programme](https://awasuka.org/) (a cooperative project), with the participation of researchers from the B2SLab and BIOCOM-SC research groups.
 
 #### Implementation and Results  
 
-From **2019 until mid-2023**, **760 CHS systems** have been installed in the municipalities of **Bhimphedi, Bakaiya, and Dhunebesi (Nepal)**. For five months, **indoor air quality was monitored** in 10 homes before and after installation. A network of sensors measured **particulates (PM), carbon dioxide, temperature, and humidity**.  
+From 2019 until mid-2023, 760 CHS systems have been installed in the municipalities of Bhimphedi, Bakaiya, and Dhunebesi (Nepal). For five months, indoor air quality was monitored in 10 homes before and after installation. A network of sensors measured **particulates (PM), carbon dioxide, temperature, and humidity**.  
 
-The CHS design is capable of **extracting 90% of indoor smoke**. Results show:  
+The CHS design is capable of **extracting 90% of indoor smoke**. Results showed that the average daily time with high PM levels decreased from 3.5 hours/day to 0.6 hours/day and the maximum CO₂ concentration dropped from 5,500 ppm to 2,000 ppm.  
 
-- **Average daily time with high PM levels** decreased from **3.5 hours/day to 0.6 hours/day** ⏱️  
-- **Maximum CO₂ concentration** dropped from **5,500 ppm to 2,000 ppm** 💨  
-
-Additionally, **210 women** were surveyed, half living with an improved CHS and half with traditional stoves. Women in households without the improved CHS reported **significantly higher rates of fever, headaches, eye irritation, heart disease, and migraines**.  
+Additionally, 210 women were surveyed, half living with an improved CHS and half with traditional stoves. Women in households without the improved CHS reported significantly higher rates of fever, headaches, eye irritation, heart disease, and migraines.  
 
 
 ####  Recognition and Social Impact  
 
-In recognition of its social impact, the project was awarded the [UPC Prize for Social Commitment 2025](https://www.upc.edu/ca/sala-de-premsa/noticies/dos-projectes-cooperacio-nepal-i-brasil-i-projecte-habitatge-social-agramunt-premis-upc-compromis-social-2025) 🏅, granted by the **Social Council of the Universitat Politècnica de Catalunya – BarcelonaTech (UPC)**.  
+In recognition of its social impact, the project was awarded the [UPC Prize for Social Commitment 2025](https://www.upc.edu/ca/sala-de-premsa/noticies/dos-projectes-cooperacio-nepal-i-brasil-i-projecte-habitatge-social-agramunt-premis-upc-compromis-social-2025), granted by the **Social Council of the Universitat Politècnica de Catalunya – BarcelonaTech (UPC)**.  
 
-The award highlights the project’s **contribution to improving public health and living conditions** in vulnerable communities through **applied research and international cooperation** 🌏.  
+The award highlights the project’s contribution to improving public health and living conditions in vulnerable communities through applied research and international cooperation.  
 
