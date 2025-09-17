@@ -1,0 +1,74 @@
+---
+title: "Cerebrospinal amino acid profiling in a large cohort of neuropediatric patients with epilepsy"
+description: "Our new study Large pediatric study establishes age-adjusted CSF amino acid reference ranges, revealing mostly normal profiles in epilepsy but highlighting glutamine and essential amino acid changes linked to medications and generalized seizures"
+author: "Helena Rodríguez"
+date: "09/17/2025"
+date-modified: "09/17/2025"
+---
+
+
+
+
+
+## Why study spinal fluid in epilepsy?
+
+When doctors and scientists want to understand what’s happening in the brain, one of the most direct windows is **cerebrospinal fluid (CSF)** — the clear liquid that bathes the brain and spinal cord.  
+This fluid carries nutrients, removes waste, and reflects chemical changes in the nervous system.  
+
+Among the many molecules floating in CSF are **amino acids**, the building blocks of proteins and key players in brain chemistry. Some act as neurotransmitters, helping nerve cells “talk” to each other. Because of this, measuring amino acids in CSF can help us spot imbalances linked to brain diseases, including **epilepsy**, a condition marked by recurrent seizures.  
+
+But here’s the challenge: **CSF is hard to collect** (it requires a spinal tap), and children’s amino acid levels naturally change as they grow. That means we need accurate, age-adjusted reference values before we can say whether a child’s levels are “normal” or “abnormal.”  
+
+This is where the new study comes in.  
+
+
+
+::: img-float
+![](web.png){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+
+In a joint effort with [Dr. Rafael Artuch from Sant Joan de Déu Hospital](https://www.sjdhospitalbarcelona.org/ca/especialistes/rafael-artuch-iriberri) we analyzed **410 CSF samples** from children and teenagers, collected between 2018 and 2023.  
+
+- **201 children had epilepsy** (different types, from focal seizures to generalized epilepsy).  
+- **209 children served as disease controls** — they had other neurological problems but not epilepsy.  
+
+The team used a powerful method called **ultrahigh-performance liquid chromatography with tandem mass spectrometry (UPLC–MS/MS)**, which allows very precise measurement of amino acids in tiny fluid samples.  
+
+
+## What did we find?
+
+### Age matters — a lot  
+Our study confirmed that **amino acid levels in CSF are higher in newborns** and then gradually decline in early childhood, with some rising again later. This means reference ranges must always be adjusted for age, not just compared against a fixed “normal.”  
+
+### Most epilepsy patients look normal  
+Over **90% of children with epilepsy had CSF amino acid levels within normal age-adjusted ranges**.  
+This is important: epilepsy itself does not usually show up as a broad amino acid imbalance in spinal fluid.  
+
+### Medications make a difference  
+Some **antiseizure medications (ASMs)** changed CSF chemistry:  
+- Children taking **valproate or GABA receptor–acting drugs** had higher levels of **glutamine**, an amino acid tied to brain energy and neurotransmission.  
+- **Vigabatrin**, another seizure drug, was linked to higher **ornithine, leucine, and isoleucine**.  
+
+This shows that drug effects on metabolism must be considered when interpreting lab results.  
+
+### A special subgroup  
+The researchers discovered a small cluster of patients with generalized epilepsy** who had **elevated essential amino acids in their CSF.  
+This pattern may reflect blood–brain barrier disruption — when the protective wall between blood and brain becomes leaky, letting molecules pass more freely. Such disruption can happen in severe seizures like status epilepticus.  
+
+
+
+## Why does this matter?
+
+- **Better diagnosis**: The study provides the largest set of **age-adjusted CSF amino acid reference intervals** for children, freely available through an online calculator. This helps doctors interpret results more accurately.  
+- **Medication monitoring**: By showing how antiseizure drugs affect amino acids, the research helps distinguish between disease effects and drug effects.  
+- **New clues for epilepsy biology**: While most patients had normal amino acid profiles, the subgroup with high essential amino acids opens a new research path into how generalized seizures may alter the blood–brain barrier.  
+
+
+## The big picture
+
+This research reminds us that **not all tests will yield clear disease markers**, but carefully building reference data is essential for future discoveries. By establishing solid baselines and spotting exceptions, scientists inch closer to understanding the hidden chemistry of epilepsy — and maybe, one day, to finding more precise treatments.  
+
+This research has been publised in 
+
+- Rodriguez-Gonzalez H, Nou-Fontanet L, Ormazabal A, Casado M, Arias Á, Pias-Peleteiro L, Gutierrez A, Perera-Lluna A, Garcia-Cazorla A, Fons C, Artuch R. *Cerebrospinal amino acid profiling in a large cohort of neuropediatric patients with epilepsy*. Neurobiol Dis. 2025 Sep 10:107098. doi: (10.1016/j.nbd.2025.107098)[https://doi.org/10.1016/j.nbd.2025.107098]. Epub ahead of print. PMID: 40939842. 
