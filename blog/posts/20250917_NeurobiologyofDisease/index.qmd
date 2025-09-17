@@ -71,4 +71,4 @@ This research reminds us that **not all tests will yield clear disease markers**
 
 This research has been publised in 
 
-- Rodriguez-Gonzalez H, Nou-Fontanet L, Ormazabal A, Casado M, Arias Á, Pias-Peleteiro L, Gutierrez A, Perera-Lluna A, Garcia-Cazorla A, Fons C, Artuch R. *Cerebrospinal amino acid profiling in a large cohort of neuropediatric patients with epilepsy*. Neurobiol Dis. 2025 Sep 10:107098. doi: (10.1016/j.nbd.2025.107098)[https://doi.org/10.1016/j.nbd.2025.107098]. Epub ahead of print. PMID: 40939842. 
+- Rodriguez-Gonzalez H, Nou-Fontanet L, Ormazabal A, Casado M, Arias Á, Pias-Peleteiro L, Gutierrez A, Perera-Lluna A, Garcia-Cazorla A, Fons C, Artuch R. *Cerebrospinal amino acid profiling in a large cohort of neuropediatric patients with epilepsy*. Neurobiol Dis. 2025 Sep 10:107098. doi: [10.1016/j.nbd.2025.107098](https://doi.org/10.1016/j.nbd.2025.107098). Epub ahead of print. PMID: 40939842. 

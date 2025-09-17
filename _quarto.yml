@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "b2slab"
+  title: "Bioinformatics and Biomedical Signals Laboratory"
   image: "b2slab.png"
   favicon: "favicon.png"
   google-analytics: "G-0MLZX4BR2N"
