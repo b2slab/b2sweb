@@ -1622,22 +1622,6 @@ AU - Caminal, P.
 AU - Perera, A.
 
 TY - MGZN
-DO - 10.1016/j.snb.2009.11.037
-TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
-Y1 - 2010
-UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
-VL - 146
-IS - 2
-EP - 477
-SP - 482
-T2 - Sensors and actuators B. Chemical
-AU - Perera, A.
-AU - Pardo, A.
-AU - Barrettino, D.
-AU - Hierlemann, A.
-AU - Marco, S.
-
-TY - MGZN
 DO - 10.1016/j.snb.2009.11.034
 TI - Drift compensation of gas sensor array data by common principal component analysis
 Y1 - 2010
@@ -1653,6 +1637,22 @@ AU - Chaudry, A.
 AU - Persaud, K.C.
 AU - Caminal, P.
 AU - Perera, A.
+
+TY - MGZN
+DO - 10.1016/j.snb.2009.11.037
+TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
+Y1 - 2010
+UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
+VL - 146
+IS - 2
+EP - 477
+SP - 482
+T2 - Sensors and actuators B. Chemical
+AU - Perera, A.
+AU - Pardo, A.
+AU - Barrettino, D.
+AU - Hierlemann, A.
+AU - Marco, S.
 
 TY - MGZN
 DO - 10.1109/TIT.2009.2037038

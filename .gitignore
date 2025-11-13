@@ -6,3 +6,9 @@ team/.DS_Store
 quarto
 /.gitignone
 /.Rhistory
+doi_cache.json
+team/alexandre-perera-lluna/publications.ris
+publications/publications.ris
+team/flavio-palmieri/publications.ris
+team/jordi-fonollosa/publications.ris
+team/montserrat-vallverdu-ferrer/publications.ris
