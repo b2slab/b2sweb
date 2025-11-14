@@ -12,8 +12,8 @@ website:
     site-name: b2slab
   twitter-card: true
   site-url: "https://b2slab.upc.edu"
-  repo-url: https://github.com/b2slab/b2sweb
-  issue-url: https://github.com/b2slab/b2sweb/issues/new/choose 
+  repo-url: "https://github.com/b2slab/b2sweb"
+  issue-url: "https://github.com/b2slab/b2sweb/issues/new/choose"
   description: "Bioinformatics and Biomedical Signals Laboratory"
   repo-actions: [edit, issue]
   page-navigation: true
@@ -67,6 +67,8 @@ website:
         href: publications/index.qmd
       - text: "Software"
         href: software/index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
 #      - text: "Open Positions"
 #        href: open-positions/index.qmd
       - text: "Blog"
@@ -131,6 +133,15 @@ website:
           href: software/miss.qmd
         - text: "Chemosensors"
           href: software/chemosensors.qmd
+    - id: projects
+      title: "b2slab projects"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - projects/index.qmd
+        - text: "ClimaSalud-IA"
+          href: projects/climatehealth.qmd
 
 format:
   html:
@@ -141,5 +152,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 

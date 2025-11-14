@@ -1,0 +1,25 @@
+---
+title: "Extreme climate events and health"
+format: html
+---
+
+
+In Catalonia, more than half of the population lives with at least one chronic disease, a fact that increases their vulnerability and the risk of serious complications and hospitalizations. This situation is aggravated by the effects of climate change, which impacts health directly and indirectly through extreme temperatures, adverse weather phenomena, environmental pollution and changes in the distribution of diseases, especially affecting people with chronic pathologies such as respiratory diseases, cardiovascular diseases, diabetes, neurological diseases or mental health problems, etc. 
+
+In this context, it is essential to adapt health systems to protect people with chronic diseases, reducing their vulnerability to the effects of climate change and strengthening the capacity of the health system to prevent serious complications and hospitalizations.
+
+## ClimaSalud-IA
+
+ClimaSalud-IA is a solution based on artificial intelligence that integrates meteorological, environmental and clinical data to anticipate the effects of extreme heat on patients with chronic diseases.
+
+It currently has a technically validated functional platform and an operative predictive model, having completed the development and calibration phases. The objective of the project is to carry out a hospital pilot at the Mútua Terrassa University Hospital to evaluate its clinical and organizational utility. The tool makes it possible to identify vulnerable patients, support decision-making and improve care planning during heat episodes.
+
+Thanks to its adaptable design and the ease of integration with existing systems, the solution has a high potential for expansion to other hospitals and territories, contributing to more preventive care, efficient and prepared in the face of climate change
+
+### Risk, temperature, and AI
+
+In collaboration with the Polytechnic University of Catalonia (UPC) and the Mútua Terrassa, studies were carried out that measure the relationship between extreme heat and the increase in complications in patients with chronic diseases, especially cardiovascular and metabolic. This evidence made it possible to identify the risk factors and define the key variables of the predictive model.
+
+The next step is to carry out a pilot in a hospital environment to validate the model with real data, measure its clinical utility and evaluate the impact on the management of vulnerable patients. This phase will include the secure connection with the hospital databases, the final training of the model, the training of the medical staff and the joint evaluation of results. All activities will be carried out in strict compliance with the RPD and Catalan digital health regulations.
+
+The ClimaSalud-IA hospital pilot will allow obtaining preliminary technical, clinical and organizational results that demonstrate the practical utility of the tool in the care of chronic patients during episodes of extreme heat. The results will serve to validate its effectiveness and guide future expansion.

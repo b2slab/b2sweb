@@ -420,6 +420,22 @@ AU - Mauricio Puente, D'idac
 AU - Perera, A.
 
 TY - MGZN
+DO - 10.3389/fnagi.2022.936077
+TI - Effects and mechanisms of mindfulness training and physical exercise on cognition, emotional wellbeing, and brain outcomes in chronic stroke patients: study protocol of the MindFit project randomized controlled trial
+AB - Background: Post-stroke cognitive and emotional complications are frequent in the chronic stages of stroke and have important implications for the functionality and quality of life of those affected and their caregivers. Strategies such as mindfulness meditation, physical exercise (PE), or computerized cognitive training (CCT) may benefit stroke patients by impacting neuroplasticity and brain health. Materials and methods: One hundred and forty-one chronic stroke patients are randomly allocated to receive mindfulness-based stress reduction + CCT (n = 47), multicomponent PE program + CCT (n = 47), or CCT alone (n = 47). Interventions consist of 12-week home-based programs five days per week. Before and after the interventions, we collect data from cognitive, psychological, and physical tests, blood and stool samples, and structural and functional brain scans. Results: The effects of the interventions on cognitive and emotional outcomes will be described in intention-to-treat and per-protocol analyses. We will also explore potential mediators and moderators, such as genetic, molecular, brain, demographic, and clinical factors in our per-protocol sample. Discussion: The MindFit Project is a randomized clinical trial that aims to assess the impact of mindfulness and PE combined with CCT on chronic stroke patients' cognitive and emotional wellbeing. Furthermore, our design takes a multimodal biopsychosocial approach that will generate new knowledge at multiple levels of evidence, from molecular bases to behavioral changes.
+AB - The project described in these pages was funded by Fundaci'o LaMarat'o de TV3 (201717.30.31.32). It was supported by the ICREA Academia Program to MM and Mar'ia de Maeztu Unit of Excellence (Institute of Neurosciences, University of Barcelona) MDM-2017-0729, Ministry of Science and Innovation. Finally, it was rewarded with AB-G pre-doctoral fellowship (FPU18/04344).
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2022
+UR - https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.936077/full
+UR - http://hdl.handle.net/2117/444489
+VL - 14
+IS - article 936077
+T2 - Frontiers in aging neuroscience
+PB - Frontiers Media
+AU - Perera, A.
+
+TY - MGZN
 DO - 10.1007/978-1-0716-2699-3_20
 TI - Data processing and analysis in mass spectrometry-based metabolomics
 AB - Metabolomics is the latest of the omics sciences. It attempts to measure and characterize metabolites-small chemical compounds <1500 Da-on cells, tissue, or biofluids, which are usually products of biological reactions. As metabolic reactions are closer to the phenotype, metabolomics has emerged as an attractive science for various areas of research, including personalized medicine. However, due to the complexity of data obtained and the absence of curated databases for metabolite identification, data processing is the major bottleneck in this area since most technicians lack the required bioinformatics expertise to process datasets in a reliable and fast manner. The aim of this chapter is to describe the available tools for data processing that makes an inexperienced researcher capable of obtaining reliable results without having to undergo through huge parametrization steps.
@@ -1622,6 +1638,22 @@ AU - Caminal, P.
 AU - Perera, A.
 
 TY - MGZN
+DO - 10.1016/j.snb.2009.11.037
+TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
+Y1 - 2010
+UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
+VL - 146
+IS - 2
+EP - 477
+SP - 482
+T2 - Sensors and actuators B. Chemical
+AU - Perera, A.
+AU - Pardo, A.
+AU - Barrettino, D.
+AU - Hierlemann, A.
+AU - Marco, S.
+
+TY - MGZN
 DO - 10.1016/j.snb.2009.11.034
 TI - Drift compensation of gas sensor array data by common principal component analysis
 Y1 - 2010
@@ -1637,22 +1669,6 @@ AU - Chaudry, A.
 AU - Persaud, K.C.
 AU - Caminal, P.
 AU - Perera, A.
-
-TY - MGZN
-DO - 10.1016/j.snb.2009.11.037
-TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
-Y1 - 2010
-UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
-VL - 146
-IS - 2
-EP - 477
-SP - 482
-T2 - Sensors and actuators B. Chemical
-AU - Perera, A.
-AU - Pardo, A.
-AU - Barrettino, D.
-AU - Hierlemann, A.
-AU - Marco, S.
 
 TY - MGZN
 DO - 10.1109/TIT.2009.2037038
