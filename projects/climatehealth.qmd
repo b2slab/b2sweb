@@ -23,3 +23,9 @@ In collaboration with the Polytechnic University of Catalonia (UPC) and the Mút
 The next step is to carry out a pilot in a hospital environment to validate the model with real data, measure its clinical utility and evaluate the impact on the management of vulnerable patients. This phase will include the secure connection with the hospital databases, the final training of the model, the training of the medical staff and the joint evaluation of results. All activities will be carried out in strict compliance with the RPD and Catalan digital health regulations.
 
 The ClimaSalud-IA hospital pilot will allow obtaining preliminary technical, clinical and organizational results that demonstrate the practical utility of the tool in the care of chronic patients during episodes of extreme heat. The results will serve to validate its effectiveness and guide future expansion.
+
+You can check a prelimminar dashboard soon in our website.
+
+
+![Panell de dades](dashboard.png)
+

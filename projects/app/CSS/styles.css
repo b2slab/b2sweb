@@ -1,0 +1,31 @@
+
+
+.tab-button {
+  display: inline-block;
+  writing-mode: vertical-rl;
+  transform: rotate(90 deg);
+  padding: 8px 4px;
+  font-size: 14px;
+  white-space: nowrap;
+  background: none;
+  border: none;
+  cursor: pointer;
+  width: auto;        /* make width auto */
+  height: auto;       /* make height auto */
+  text-align: center;
+}
+
+.tab-button:hover {
+  background-color: #e2e6ea;
+}
+
+
+.vertical-tabs {
+  position: absolute;
+  top: 20%;
+  right: 0;
+  width: 60px;
+  background-color: #f8f9fa;
+  z-index: 3;
+  border-left: 1px solid #ddd;
+}

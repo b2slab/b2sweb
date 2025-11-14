@@ -24,6 +24,9 @@ Please find at teams/alexandre-perera-lluna folder  a template for personal webs
 - A file will download, discard the downloaded file, got to downloads in your browser and copy the address of the file, something like "https://futur.upc.edu/RIS/AlexandrePereraLluna/as/YXV0b3JpYUFydGljbGVSZXZpc3RhSW5kZXhhZGE=/?locale=en", add this file in the R section on the qmd of the template. 
 - Create your personal page and add a forder with your name. Create a commit to the [github](https://github.com/b2slab/b2sweb) in  the`team/`folder, or send the zip to @alex   
 
+- We neeed shinylive extension to show shiny apps like mutua dashboard
+- quarto add quarto-ext/shinylive
+- quarto add gadenbuie/quarto-base64
 
 # Deployment
 

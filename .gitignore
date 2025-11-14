@@ -1,4 +1,4 @@
-/.quarto/
+.gitignore/.quarto/
 _site
 .DS_Store
 team/.DS_Store
@@ -12,3 +12,5 @@ publications/publications.ris
 team/flavio-palmieri/publications.ris
 team/jordi-fonollosa/publications.ris
 team/montserrat-vallverdu-ferrer/publications.ris
+
+**/*.quarto_ipynb

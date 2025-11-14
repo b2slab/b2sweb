@@ -589,24 +589,6 @@ AU - Quiroz, L.
 AU - Alcaraz Casademunt, Jordi
 
 TY - MGZN
-DO - 10.1108/ET-11-2020-0334
-TI - Game learning analytics of instant messaging and online discussion forums in higher education
-AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2021
-UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
-UR - http://hdl.handle.net/2117/356893
-VL - 63
-IS - 9
-EP - 1288
-SP - 1308
-T2 - Education and Training
-AU - Hern'andez-Lara, A.
-AU - Perera, A.
-AU - Serradell-L'opez, E.
-
-TY - MGZN
 DO - 10.1021/acs.jcim.1c00086
 TI - Balancing data on deep learning-based proteochemometric activity classification
 AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
@@ -623,6 +605,24 @@ T2 - Journal of chemical information and modeling
 AU - Lopez, A.
 AU - Picart, S.
 AU - Perera, A.
+
+TY - MGZN
+DO - 10.1108/ET-11-2020-0334
+TI - Game learning analytics of instant messaging and online discussion forums in higher education
+AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2021
+UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
+UR - http://hdl.handle.net/2117/356893
+VL - 63
+IS - 9
+EP - 1288
+SP - 1308
+T2 - Education and Training
+AU - Hern'andez-Lara, A.
+AU - Perera, A.
+AU - Serradell-L'opez, E.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/btaa1069

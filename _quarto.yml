@@ -1,6 +1,14 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "projects/app_out/*"
+    - "projects/app_out/*/*"
+    - "projects/app_out/*/*/*"
+    - "projects/app_out/*/*/*/*"
+    - "projects/app_out/*/*/*/*/*"
+    - "projects/app_out/*/*/*/*/*/*"
+    - "projects/app_out/*/*/*/*/*/*/*"
 
 website:
   title: "Bioinformatics and Biomedical Signals Laboratory"
@@ -22,6 +30,7 @@ website:
     keyboard-shortcut: ["?", "H"]
     show-item-context: true
     type: textbox
+
 
   page-footer:
     left: |
@@ -142,6 +151,7 @@ website:
         - projects/index.qmd
         - text: "ClimaSalud-IA"
           href: projects/climatehealth.qmd
+
 
 format:
   html:
