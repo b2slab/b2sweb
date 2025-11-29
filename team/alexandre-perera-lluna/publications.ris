@@ -2,7 +2,7 @@ TY - MGZN
 DO - 10.1186/s12933-025-02701-z
 TI - Lipidomic analysis reveals metabolism alteration associated with subclinical carotid atherosclerosis in type 2 diabetes
 AB - Background. Disruption of lipid metabolism contributes to increased cardiovascular risk in diabetes. Methods. We evaluated the associations between serum lipidomic profile and subclinical carotid atherosclerosis (SCA) in type 1 (T1D) and type 2 (T2D) diabetes, and in subjects without diabetes (controls) in a cross-sectional study. All subjects underwent a lipidomic analysis using ultra-high performance liquid chromatography-electrospray ionization tandem mass spectrometry, carotid ultrasound (mode B) to assess SCA, and clinical assessment. Multiple linear regression models were used to assess the association between features and the presence and burden of SCA in subjects with T1D, T2D, and controls separately. Additionally, multiple linear regression models with interaction terms were employed to determine features significantly associated with SCA within risk groups, including smoking habit, hypertension, dyslipidaemia, antiplatelet use and sex. Depending on the population under study, different confounding factors were considered and adjusted for, including sample origin, sex, age, hypertension, dyslipidaemia, body mass index, waist circumference, glycated haemoglobin, glucose levels, smoking habit, diabetes duration, antiplatelet use, and alanine aminotransferase levels. Results. A total of 513 subjects (151 T1D, 155 T2D, and 207 non-diabetic control) were included, in whom the percentage with SCA was 48.3%, 49.7%, and 46.9%, respectively. A total of 27 unique lipid species were associated with SCA in subjects with T2D, in former/current smokers with T2D, and in individuals with T2D without dyslipidaemia. Phosphatidylcholines and diacylglycerols were the main SCA-associated lipidic classes. Ten different species of phosphatidylcholines were up-regulated, while 4 phosphatidylcholines containing polyunsaturated fatty acids were down-regulated. One diacylglycerol was down-regulated, while the other 3 were positively associated with SCA in individuals with T2D without dyslipidaemia. We discovered several features significantly associated with SCA in individuals with T1D, but only one sterol could be partially annotated. Conclusions. We revealed a significant disruption of lipid metabolism associated with SCA in subjects with T2D, and a larger SCA-associated disruption in former/current smokers with T2D and individuals with T2D who do not undergo lipid-lowering treatment.
-AB - This work was funded by Spanish Ministry of Health, Instituto de Salud Carlos III (Madrid, Spain) grants PI15/0625 (to DM and EC), PI17/01362 (to NA), PI18/0328 (to DM), FEDER "Una manera de hacer Europa", and by Fundaci'o La Marat'o de TV3 2016 (303/C/2016) (201602.30.31) (to NA). This work was supported by the Grant PID2021-122952OB-I00 funded by AEI https:/ /doi. org/10.13039/501100011033 and by ERDF A way of making Europe (to AP). This research was supported by Biomedical Research Networking Center in Diabetes and Associated Metabolic Disorders (CIBERDEM-CB15/00071) (to DM) and Biomedical Research Networking Center in Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigaci'on Carlos III (ISCIII); ISCIII (grant AC22/00035) (to AP); and the CERCA Programme / Generalitat de Catalunya. B2SLab is certified as 2021 SGR 01052. Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau is accredited by the Generalitat de Catalunya as Centre de Recerca de Catalunya (CERCA).
+AB - This work was funded by Spanish Ministry of Health, Instituto de Salud Carlos III (Madrid, Spain) grants PI15/0625 (to DM and EC), PI17/01362 (to NA), PI18/0328 (to DM), FEDER "Una manera de hacer Europa", and by Fundacio La Marato de TV3 2016 (303/C/2016) (201602.30.31) (to NA). This work was supported by the Grant PID2021-122952OB-I00 funded by AEI https:/ /doi. org/10.13039/501100011033 and by ERDF A way of making Europe (to AP). This research was supported by Biomedical Research Networking Center in Diabetes and Associated Metabolic Disorders (CIBERDEM-CB15/00071) (to DM) and Biomedical Research Networking Center in Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigacion Carlos III (ISCIII); ISCIII (grant AC22/00035) (to AP); and the CERCA Programme / Generalitat de Catalunya. B2SLab is certified as 2021 SGR 01052. Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau is accredited by the Generalitat de Catalunya as Centre de Recerca de Catalunya (CERCA).
 AB - Peer Reviewed
 AB - Postprint (published version)
 Y1 - 2025
@@ -17,8 +17,8 @@ AU - Alonso, N.
 AU - Weber, R.
 AU - Ortega, E.
 AU - Lloyd, G.
-AU - Hern'andez, M.
-AU - Yanes, 'O.
+AU - Hernandez, M.
+AU - Yanes, O.
 AU - Capellades, J.
 AU - Winder, C.
 AU - Junza, A.
@@ -27,13 +27,13 @@ AU - Franch, J.
 AU - Dunn, W.
 AU - Perera, A.
 AU - Castelblanco, E.
-AU - Mauricio Puente, D'idac
+AU - Mauricio Puente, Didac
 
 TY - MGZN
 DO - 10.3390/cancers17040654
 TI - Colorectal adenoma subtypes exhibit signature molecular profiles: unique insights into the microenvironment of advanced precancerous lesions for early detection applications
 AB - Background: Colorectal cancer (CRC) is characterized by the uncontrolled growth of malignant colonic or rectal crypt epithelium. About 85% of CRCs evolve through a stepwise progression from advanced precancerous adenoma lesions. A better understanding of the evolution from adenoma to carcinoma can provide a window of opportunity not only for early detection and therapeutic intervention but potentially also for cancer prevention strategies. Methods: This study investigates the heterogeneous methylation, copy-number alteration (CNA), and mutation signals of histological adenoma subtypes in the context of progression from normal colon to advanced precancerous lesions (APLs) and early-stage CRC. Results: Differential methylation analysis revealed 2321 significantly altered regions among APLs: 137 hypermethylated regions in serrated vs. tubular, 2093 in serrated vs. tubulovillous, and 91 in tubular vs. tubulovillous adenoma subtypes. The most differentiating pathways for serrated adenomas belonged to cAMP signaling and the regulation of pluripotency of stem cells, while regions separating tubular and tubulovillous subtypes were enriched for WNT signaling. CNA events were mostly present in tubular or tubulovillous adenomas, with the most frequent signals being seen in chromosomes 7, 12, 19, and 20. In contrast, early-stage CRC exhibited signals in chromosomes 7, 8, and 20, indicating different processes between APL and early-stage CRC. Mutations reinforce subtype-level differences, showing specific alterations in each subtype. Conclusions: These findings are especially important for developing early detection or cancer prevention tests trying to capture adenoma signatures.
-AB - This work was supported by grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by the ERDF-A way of making Europe; the Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN); the CERCA Programme/Generalitat de Catalunya (B2SLab is certified as 2021 SGR 01052); and private funding by UniversalDx S.A.
+AB - This work was supported by grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by the ERDF--A way of making Europe; the Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN); the CERCA Programme/Generalitat de Catalunya (B2SLab is certified as 2021 SGR 01052); and private funding by UniversalDx S.A.
 AB - Peer Reviewed
 AB - Postprint (published version)
 Y1 - 2025
@@ -79,11 +79,11 @@ TY - MGZN
 DO - 10.3390/nu16213607
 TI - Mediterranean diet is a predictor of progression of subclinical atherosclerosis in a mediterranean population: the ILERVAS prospective cohort study
 AB - Atherosclerotic cardiovascular disease remains a major health issue, often developing silently as subclinical atherosclerotic disease (SAD). The Mediterranean diet (MDiet) is known for its cardiovascular benefits, but the combined influence of both MDiet adherence and physical activity (PA) on SAD progression has not been previously documented. Objective: We aimed to investigate how adherence to a healthy lifestyle, defined as MDiet adherence and PA level, influences SAD progression in subjects from the ILERVAS cohort follow-up. Methods: A study on 3097 participants from the ILERVAS prospective cohort was conducted. MDiet adherence was assessed using the MEDAS score, and PA categories were established using the IPAQ, both categorized into low, moderate, and high levels. Two different lifestyle scores integrating the MDiet and PA categories were built. The presence of atherosclerotic plaques was assessed by carotid and femoral ultrasound examination. Demographic, clinical, and biochemical data were also obtained. Multivariable linear, logistic, and Poisson regression models adjusted for potential confounders were used to analyze the association between the lifestyle scores and SAD progression, as well as the MDiet and PA as separate variables and number of territories with plaque. Results: A healthier lifestyle score did not show an effect on SAD progression. However, a higher MEDAS score was associated with a 3% decrease in the number of territories with plaque (IRR 0.97, 95% CI 0.96-0.99, p < 0.001), suggesting a protective effect of the adherence to the MDiet. PA did not show a significant association (IRR 1.00, 95% CI 1.00-1.00, p = 0.269). Older age, hypertension, dyslipidemia, smoking, and lower eGFR were associated with SAD progression, while the female sex was protective (IRR 0.67, 95% CI 0.63-0.72, p < 0.001). Conclusions: The findings of this study show that higher adherence to the MDiet is associated with reduced incidence of SAD, indicating its potential role in cardiovascular prevention strategies. Although a higher lifestyle score or physical activity levels did not show any significant effect, promoting the MDiet, alongside managing traditional cardiovascular risk factors, could be an effective public health intervention to prevent atherosclerosis and reduce the burden of cardiovascular disease.
-AB - This research was supported by the CIBER-Consorcio Centro de Investigaci'on Biom'edica en Red-(CB15/00071), Instituto de Salud Carlos III, Ministerio de Ciencia e Innovaci'on, Spain. M.I.R.-L. holds a predoctoral grant SLT017/20/000107 from Pla Estrat`egic de Recerca i Innovaci'o en Salut (PERIS) 2021-2024 of Generalitat de Catalunya. JJ has received financial support from the Agencia Estatal de Investigaci'on MCIN/AEI/10.13039/501100011033 and the European Union "NextGeneration EU"/PRTR) within the action "Consolidaci'on Investigadora 2022" (CNS2022-135559) and Ministerio de Sanidad y Consumo, Instituto de Salud Carlos III (Madrid, Spain), grant PI21/00770 (to J.J.), FEDER "Una manera de hacer Europa". M Berm'udez-L'opez holds a postdoctoral grant funded by the Ministerio de Ciencia, Innovaci'on y Universidades (IJC2018-037792-I). This research was also funded by the Ministerio de Ciencia, Innovaci'on y Universidades (grant PID2023-152233OB-I00, co-funded by the European Regional Development Fund, "A way to build Europe"), and the Generalitat of Catalonia: Agency for Management of University and Research Grants (2021SGR00990) and Department of Health (SLT002/16/00250) to R.P. This work was supported by grants from the Diputaci'o de Lleida, Instituto de Salud Carlos III (RETIC RD16/0009/0011). This work was also supported by the Grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by ERDF A way of making Europe; the Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigaci'on Carlos III (ISCIII); ISCIII (grant AC22/00035); and the CERCA Programme/Generalitat de Catalunya. B2SLab is certified as 2021 SGR 01052. Institut d'Investigaci'o Biom`edica Sant Pau and Biomedical Research Institute's Dr. Pifarr'e Foundation from Lleida (IRBLleida) are accredited by the Generalitat de Catalunya as Centre de Recerca de Catalunya (CERCA).
+AB - This research was supported by the CIBER-Consorcio Centro de Investigacion Biomedica en Red-(CB15/00071), Instituto de Salud Carlos III, Ministerio de Ciencia e Innovacion, Spain. M.I.R.-L. holds a predoctoral grant SLT017/20/000107 from Pla Estrategic de Recerca i Innovacio en Salut (PERIS) 2021-2024 of Generalitat de Catalunya. JJ has received financial support from the Agencia Estatal de Investigacion MCIN/AEI/10.13039/501100011033 and the European Union "NextGeneration EU"/PRTR) within the action "Consolidacion Investigadora 2022" (CNS2022-135559) and Ministerio de Sanidad y Consumo, Instituto de Salud Carlos III (Madrid, Spain), grant PI21/00770 (to J.J.), FEDER "Una manera de hacer Europa". M Bermudez-Lopez holds a postdoctoral grant funded by the Ministerio de Ciencia, Innovacion y Universidades (IJC2018-037792-I). This research was also funded by the Ministerio de Ciencia, Innovacion y Universidades (grant PID2023-152233OB-I00, co-funded by the European Regional Development Fund, "A way to build Europe"), and the Generalitat of Catalonia: Agency for Management of University and Research Grants (2021SGR00990) and Department of Health (SLT002/16/00250) to R.P. This work was supported by grants from the Diputacio de Lleida, Instituto de Salud Carlos III (RETIC RD16/0009/0011). This work was also supported by the Grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by ERDF A way of making Europe; the Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigacion Carlos III (ISCIII); ISCIII (grant AC22/00035); and the CERCA Programme/Generalitat de Catalunya. B2SLab is certified as 2021 SGR 01052. Institut d'Investigacio Biomedica Sant Pau and Biomedical Research Institute's Dr. Pifarre Foundation from Lleida (IRBLleida) are accredited by the Generalitat de Catalunya as Centre de Recerca de Catalunya (CERCA).
 AB - Peer Reviewed
 AB - Postprint (published version)
 AB - Membres del ILERVAS project: 
-Eva Miquel, Marta Ortega, Ferran Barb'e, Jessica Gonz'alez, Silvia Barril, Manuel S'anchez-de-la-Torre, Manuel Portero-Ot'in, Mariona Jov'e, Marta Hern'andez, Ferran Rius, Pere Godoy and Montse Martinez-Alonso.
+Eva Miquel, Marta Ortega, Ferran Barbe, Jessica Gonzalez, Silvia Barril, Manuel Sanchez-de-la-Torre, Manuel Portero-Otin, Mariona Jove, Marta Hernandez, Ferran Rius, Pere Godoy and Montse Martinez-Alonso.
 Y1 - 2024
 UR - https://www.mdpi.com/2072-6643/16/21/3607
 UR - http://hdl.handle.net/2117/418444
@@ -91,15 +91,15 @@ UR - https://pubmed.ncbi.nlm.nih.gov/39519440/
 VL - 16
 IS - 21, article 3607
 T2 - Nutrients
-AU - Rojo-L'opez, M.
+AU - Rojo-Lopez, M.
 AU - Bermudez, M.
 AU - Castro, E.
-AU - Farr`as, C.
+AU - Farras, C.
 AU - Torres, G.
 AU - Pamplona, R.
 AU - Lecube, A.
 AU - Valdivieso, J.
-AU - Fern'andez, E.
+AU - Fernandez, E.
 AU - Julve, J.
 AU - Castelblanco, E.
 AU - Alonso, N.
@@ -108,7 +108,7 @@ AU - Barranco, M.
 AU - Perera, A.
 AU - Franch, J.
 AU - Granado-Casas, M.
-AU - Mauricio Puente, D'idac
+AU - Mauricio Puente, Didac
 
 TY - MGZN
 DO - 10.1093/clinchem/hvae139
@@ -124,24 +124,24 @@ IS - 12
 EP - 1443
 SP - 1451
 T2 - Clinical chemistry
-AU - Rodr'iguez, H.
-AU - Ormaz'abal, A.
+AU - Rodriguez, H.
+AU - Ormazabal, A.
 AU - Casado, M.
 AU - Arias, A.
 AU - Oliva, C.
 AU - Barranco, M.
 AU - Casadevall, R.
-AU - Garc'ia, F.
+AU - Garcia, F.
 AU - Nascimento, A.
 AU - Ortez, C.
 AU - Natera, D.
-AU - Armangu'e, T.
+AU - Armangue, T.
 AU - O'Callaghan, M.
-AU - Juli'a, N.
+AU - Julia, N.
 AU - Darling, A.
 AU - Ortigoza, J.
 AU - Fons, C.
-AU - Garc'ia-Cazorla, 'A.
+AU - Garcia-Cazorla, A.
 AU - Perera, A.
 AU - Artuch, R.
 
@@ -159,12 +159,12 @@ T2 - Nephrology dialysis transplantation
 AU - Melissa, T.
 AU - Furlano, M.
 AU - Pybus, M.
-AU - Mart'inez, V.
-AU - Gom'a, E.
-AU - Gal'an, I.
-AU - Le'on Carrasco, R.
+AU - Martinez, V.
+AU - Goma, E.
+AU - Galan, I.
+AU - Leon Carrasco, R.
 AU - Soler, M.
-AU - Fayos de Ariz'on, L.
+AU - Fayos de Arizon, L.
 AU - Perera, A.
 AU - Ars, E.
 AU - Torra, R.
@@ -173,7 +173,7 @@ TY - MGZN
 DO - 10.1186/s12933-024-02202-5
 TI - Lipidome characterisation and sex-specific differences in type 1 and type 2 diabetes mellitus
 AB - Background: In this study, we evaluated the lipidome alterations caused by type 1 diabetes (T1D) and type 2 diabetes (T2D), by determining lipids significantly associated with diabetes overall and in both sexes, and lipids associated with the glycaemic state. Methods: An untargeted lipidomic analysis was performed to measure the lipid profiles of 360 subjects (91 T1D, 91 T2D, 74 with prediabetes and 104 controls (CT)) without cardiovascular and/or chronic kidney disease. Ultra-high performance liquid chromatography-electrospray ionization mass spectrometry (UHPLC-ESI-MS) was conducted in two ion modes (positive and negative). We used multiple linear regression models to (1) assess the association between each lipid feature and each condition, (2) determine sex-specific differences related to diabetes, and (3) identify lipids associated with the glycaemic state by considering the prediabetes stage. The models were adjusted by sex, age, hypertension, dyslipidaemia, body mass index, glucose, smoking, systolic blood pressure, triglycerides, HDL cholesterol, LDL cholesterol, alternate Mediterranean diet score (aMED) and estimated glomerular filtration rate (eGFR); diabetes duration and glycated haemoglobin (HbA1c) were also included in the comparison between T1D and T2D. Results: A total of 54 unique lipid subspecies from 15 unique lipid classes were annotated. Lysophosphatidylcholines (LPC) and ceramides (Cer) showed opposite effects in subjects with T1D and subjects with T2D, LPCs being mainly up-regulated in T1D and down-regulated in T2D, and Cer being up-regulated in T2D and down-regulated in T1D. Also, Phosphatidylcholines were clearly down-regulated in subjects with T1D. Regarding sex-specific differences, ceramides and phosphatidylcholines exhibited important diabetes-associated differences due to sex. Concerning the glycaemic state, we found a gradual increase of a panel of 1-deoxyceramides from normoglycemia to prediabetes to T2D. Conclusions: Our findings revealed an extensive disruption of lipid metabolism in both T1D and T2D. Additionally, we found sex-specific lipidome changes associated with diabetes, and lipids associated with the glycaemic state that can be linked to previously described molecular mechanisms in diabetes.
-AB - This work was funded by Spanish Ministry of Health, Instituto de Salud Carlos III (Madrid, Spain) grants PI15/0625 (to DM and EC), PI17/01362 (to NA), PI18/0328 (to DM), FEDER "Una manera de hacer Europa", and by Fundaci'o La Marat'o de TV3 2016 (303/C/2016) (201602.30.31) (to NA). Spanish Ministry of Economy and Competitiveness, grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by ERDF A way of making Europe, Instituto de Salud Carlos III (grant AC22/00035); and the CERCA Programme / Generalitat de Catalunya (to AP). This research was supported by CIBER-Consorcio Centro de Investigaci'on Biom`edica en Red-CIBERDEM (leading group CB15/00071) and Biomedical Research Networking Center in Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Instituto de Salud Carlos III, Ministry of Science and Innovation. Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau is accredited by the Generalitat de Catalunya as Centre de Recerca de Catalunya (CERCA). B2SLab is certified as 2021 SGR 01052.
+AB - This work was funded by Spanish Ministry of Health, Instituto de Salud Carlos III (Madrid, Spain) grants PI15/0625 (to DM and EC), PI17/01362 (to NA), PI18/0328 (to DM), FEDER "Una manera de hacer Europa", and by Fundacio La Marato de TV3 2016 (303/C/2016) (201602.30.31) (to NA). Spanish Ministry of Economy and Competitiveness, grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by ERDF A way of making Europe, Instituto de Salud Carlos III (grant AC22/00035); and the CERCA Programme / Generalitat de Catalunya (to AP). This research was supported by CIBER-Consorcio Centro de Investigacion Biomedica en Red-CIBERDEM (leading group CB15/00071) and Biomedical Research Networking Center in Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Instituto de Salud Carlos III, Ministry of Science and Innovation. Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau is accredited by the Generalitat de Catalunya as Centre de Recerca de Catalunya (CERCA). B2SLab is certified as 2021 SGR 01052.
 AB - Peer Reviewed
 AB - Postprint (published version)
 Y1 - 2024
@@ -186,8 +186,8 @@ AU - Barranco, M.
 AU - Alonso, N.
 AU - Weber, R.
 AU - Lloyd, G.
-AU - Hern'andez, M.
-AU - Yanes, 'O.
+AU - Hernandez, M.
+AU - Yanes, O.
 AU - Capellades, J.
 AU - Jankevics, A.
 AU - Winder, C.
@@ -196,13 +196,13 @@ AU - Franch, J.
 AU - Dunn, W.
 AU - Perera, A.
 AU - Castelblanco, E.
-AU - Mauricio Puente, D'idac
+AU - Mauricio Puente, Didac
 
 TY - MGZN
 DO - 10.3390/ijms25063502
 TI - Use of enzymatically converted cell-free DNA (cfDNA) data for copy number variation-linked fragmentation analysis allows for early colorectal cancer detection
 AB - The use of non-invasive liquid biopsy-based cell-free DNA (cfDNA) analysis is an emerging method of cancer detection and intervention. Different analytical methodologies are used to investigate cfDNA characteristics, resulting in costly and long analysis processes needed for combining different data. This study investigates the possibility of using cfDNA data converted for methylation analysis for combining the cfDNA fragment size with copy number variation (CNV) in the context of early colorectal cancer detection. Specifically, we focused on comparing enzymatically and bisulfite-converted data for evaluating cfDNA fragments belonging to chromosome 18. Chromosome 18 is often reported to be deleted in colorectal cancer. We used counts of short and medium cfDNA fragments of chromosome 18 and trained a linear model (LDA) on a set of 2959 regions to predict early-stage (I-IIA) colorectal cancer on an independent test set. In total, 87.5% sensitivity and 92% specificity were obtained on the enzymatically converted libraries. Repeating the same workflow on bisulfite-converted data yielded lower accuracy results with 58.3% sensitivity, implying that enzymatic conversion preserves the cancer fragmentation footprint in whole genome data better than bisulfite conversion. These results could serve as a promising new avenue for the early detection of colorectal cancer using fragmentation and methylation approaches on the same datasets.
-AB - This work was supported by the Grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by ERDF A way of making Europe; the Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigaci'on Carlos III (ISCIII); ISCIII (grant AC22/00035); and the CERCA Programme/Generalitat de Catalunya. B2SLab is certified as 2021 SGR 01052; and private funding by UniversalDx S.A.
+AB - This work was supported by the Grant PID2021-122952OB-I00 funded by AEI 10.13039/501100011033 and by ERDF A way of making Europe; the Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigacion Carlos III (ISCIII); ISCIII (grant AC22/00035); and the CERCA Programme/Generalitat de Catalunya. B2SLab is certified as 2021 SGR 01052; and private funding by UniversalDx S.A.
 AB - Peer Reviewed
 AB - Postprint (published version)
 Y1 - 2024
@@ -232,7 +232,7 @@ AU - Ezquerra, P.
 AU - Mallol, M.
 AU - Font, R.
 AU - Tremps, V.
-AU - Guti'errez, J.
+AU - Gutierrez, J.
 AU - Rodas, G.
 AU - Perera, A.
 AU - Soria, J.
@@ -241,7 +241,7 @@ TY - MGZN
 DO - 10.1093/ckj/sfad182
 TI - Artificial intelligence: a new field of knowledge for nephrologists?
 AB - Artificial intelligence (AI) is a science that involves creating machines that can imitate human intelligence and learn. AI is ubiquitous in our daily lives, from search engines like Google to home assistants like Alexa and, more recently, OpenAI with its chatbot. AI can improve clinical care and research, but its use requires a solid understanding of its fundamentals, the promises and perils of algorithmic fairness, the barriers and solutions to its clinical implementation, and the pathways to developing an AI-competent workforce. The potential of AI in the field of nephrology is vast, particularly in the areas of diagnosis, treatment and prediction. One of the most significant advantages of AI is the ability to improve diagnostic accuracy. Machine learning algorithms can be trained to recognize patterns in patient data, including lab results, imaging and medical history, in order to identify early signs of kidney disease and thereby allow timely diagnoses and prompt initiation of treatment plans that can improve outcomes for patients. In short, AI holds the promise of advancing personalized medicine to new levels. While AI has tremendous potential, there are also significant challenges to its implementation, including data access and quality, data privacy and security, bias, trustworthiness, computing power, AI integration and legal issues. The European Commission's proposed regulatory framework for AI technology will play a significant role in ensuring the safe and ethical implementation of these technologies in the healthcare industry. Training nephrologists in the fundamentals of AI is imperative because traditionally, decision-making pertaining to the diagnosis, prognosis and treatment of renal patients has relied on ingrained practices, whereas AI serves as a powerful tool for swiftly and confidently synthesizing this information.
-AB - This work was supported by Instituto de Salud Carlos III, RI- CORS2040, funded by EU-Next Generation, Mechanism of re- cuperation and resilience ( MRR ) and PI22/00361; Fundaci'ola Marat'ode TV3 ( Grant agreement 202036-30 ) ; FEDER funds ( Grant agreement SPACKDc PMP21/00 109 ) ; Spanish Ministry of Economy and Competitiveness ( www.mineco.gob.es ) PID2021- 122952OB-I00, DPI2017-89827-R and Networking Biomedical Re- search Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine ( CIBER-BBN ) , initiatives of Instituto de Inves- tigaci'on Carlos III ( ISCIII ).
+AB - This work was supported by Instituto de Salud Carlos III, RI- CORS2040, funded by EU-Next Generation, Mechanism of re- cuperation and resilience ( MRR ) and PI22/00361; Fundaciola Maratode TV3 ( Grant agreement 202036-30 ) ; FEDER funds ( Grant agreement SPACKDc PMP21/00 109 ) ; Spanish Ministry of Economy and Competitiveness ( www.mineco.gob.es ) PID2021- 122952OB-I00, DPI2017-89827-R and Networking Biomedical Re- search Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine ( CIBER-BBN ) , initiatives of Instituto de Inves- tigacion Carlos III ( ISCIII ).
 AB - Peer Reviewed
 AB - Postprint (published version)
 Y1 - 2023
@@ -252,7 +252,7 @@ IS - 12
 EP - 2314
 SP - 2326
 T2 - Clinical Kidney Journal
-AU - Fayos de Ariz'on, L.
+AU - Fayos de Arizon, L.
 AU - Viera, E.
 AU - Melissa, T.
 AU - Perera, A.
@@ -263,14 +263,14 @@ AU - Torra, R.
 TY - MGZN
 DO - 10.1007/s11357-023-00946-8
 TI - Intrinsic functional brain connectivity changes following aerobic exercise, computerized cognitive training, and their combination in physically inactive healthy late-middle-aged adults: the Projecte Moviment
-AB - Lifestyle interventions have positive neuroprotective effects in aging. However, there are still open questions about how changes in resting-state functional connectivity (rsFC) contribute to cognitive improvements. The Projecte Moviment is a 12-week randomized controlled trial of a multimodal data acquisition protocol that investigated the effects of aerobic exercise (AE), computerized cognitive training (CCT), and their combination (COMB). An initial list of 109 participants was recruited from which a total of 82 participants (62% female; age?=?58.38?+/-?5.47) finished the intervention with a level of adherence?>?80%. Only in the COMB group, we revealed an extended network of 33 connections that involved an increased and decreased rsFC within and between the aDMN/pDMN and a reduced rsFC between the bilateral supplementary motor areas and the right thalamus. No global and especially local rsFC changes due to any intervention mediated the cognitive benefits detected in the AE and COMB groups. Projecte Moviment provides evidence of the clinical relevance of lifestyle interventions and the potential benefits when combining them.
+AB - Lifestyle interventions have positive neuroprotective effects in aging. However, there are still open questions about how changes in resting-state functional connectivity (rsFC) contribute to cognitive improvements. The Projecte Moviment is a 12-week randomized controlled trial of a multimodal data acquisition protocol that investigated the effects of aerobic exercise (AE), computerized cognitive training (CCT), and their combination (COMB). An initial list of 109 participants was recruited from which a total of 82 participants (62% female; age?=?58.38?+-?5.47) finished the intervention with a level of adherence?>?80%. Only in the COMB group, we revealed an extended network of 33 connections that involved an increased and decreased rsFC within and between the aDMN/pDMN and a reduced rsFC between the bilateral supplementary motor areas and the right thalamus. No global and especially local rsFC changes due to any intervention mediated the cognitive benefits detected in the AE and COMB groups. Projecte Moviment provides evidence of the clinical relevance of lifestyle interventions and the potential benefits when combining them.
 AB - Open Access funding provided thanks to the CRUE-CSIC agreement with Springer Nature. Projecte Moviment is a project funded by the Spanish Ministry of Economy and Competitiveness under two grants: Neuroplasticity in the adulthood: physical exercise and cognitive training (PSI2013-47724-P) and Integrative omics study on the neurobiological effects of physical activity and cognitive stimulation (PSI2016-77475-R). It has also been rewarded with three pre-doctoral fellowships (FPU014/01460, FI-2016, and FI-2018). It was supported by the ICREA Academia Program to MM.
-AB - SID is supported by a Beatriu de Pin'os
+AB - SID is supported by a Beatriu de Pinos
 fellowship (2020 BP 00116). This work was supported by the
 Spanish Ministry of Economy and Competitiveness (www.
 mineco.gob.es) PID2021-122952OB-I00, Networking Biomedical Research Centre in the subject area of Bioengineering,
 Biomaterials and Nanomedicine (CIBER-BBN), initiatives of
-Instituto de Investigaci'on Carlos III (ISCIII), and Share4Rare
+Instituto de Investigacion Carlos III (ISCIII), and Share4Rare
 project (Grant Agreement 780262).
 AB - Peer Reviewed
 AB - Postprint (published version)
@@ -288,7 +288,7 @@ AU - Roig, F.
 AU - Dacosta, R.
 AU - Lamonja, N.
 AU - Toran, P.
-AU - Garc'ia, A.
+AU - Garcia, A.
 AU - Monte, G.
 AU - Stillman, C.
 AU - Perera, A.
@@ -298,7 +298,7 @@ TY - MGZN
 DO - 10.1016/j.snb.2023.134036
 TI - Home monitoring for older singles: A gas sensor array system
 AB - Many residential environments have been equipped with sensing technologies both to provide assistance to older people who have opted for aging-in-place and to provide information to caregivers and family. However, such technologies are often accompanied by physical discomfort, privacy concerns, and complexity of use. We explored the feasibility of monitoring home activity using chemical sensors that pose fewer privacy concerns than, for example, video-cameras and which do not suffer from blind spots. We built a monitoring device that integrates a sensor array and IoT capabilities to gather the necessary data about a resident in his/her living space. Over a period of 3 months, we uninterruptedly measured the living space of a typical elder person living on his/her own. To record the level of activity during the same period and obtain a ground truth for the activity, a set of motion sensors were also deployed in the house. Home activity was extracted from a PCA space moving-window which translated sensor data into the event space; this also compensated for environmental and sensor drift. Our results show that it is possible to monitor the person's home activity and detect sudden deviations from it using a low-cost, non-invasive, system based on gas sensors that gather data on the air composition in the living space. We made the dataset publicly available at https://archive.ics.uci.edu/ml/index.php2.
-AB - This work was supported by the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) PID2021-122952OB-I00, DPI2017-89827-R, Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigaci'on Carlos III (ISCIII), Share4Rare project (Grant Agreement 780262), ISCIII (grant AC22/00035), ACCI'O (grant Innotec ACE014/20/000018) and Pla de Doctorats Industrials de la Secretaria d'Universitats i Recerca del Departament d'Empresa i Coneixement de la Generalitat de Catalunya (2022 DI 014), and the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie (grant No. 101029808). JF also acknowledges the CERCA Program/Generalitat de Catalunya and the Serra H'unter Program. B2SLab is certified as 2017 SGR 952.
+AB - This work was supported by the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) PID2021-122952OB-I00, DPI2017-89827-R, Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigacion Carlos III (ISCIII), Share4Rare project (Grant Agreement 780262), ISCIII (grant AC22/00035), ACCIO (grant Innotec ACE014/20/000018) and Pla de Doctorats Industrials de la Secretaria d'Universitats i Recerca del Departament d'Empresa i Coneixement de la Generalitat de Catalunya (2022 DI 014), and the European Union's Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie (grant No. 101029808). JF also acknowledges the CERCA Program/Generalitat de Catalunya and the Serra Hunter Program. B2SLab is certified as 2017 SGR 952.
 AB - Peer Reviewed
 AB - Postprint (published version)
 Y1 - 2023
@@ -308,7 +308,7 @@ VL - 393
 IS - article 134036
 T2 - Sensors and actuators B. Chemical
 PB - Elsevier
-AU - Mar'in, D.
+AU - Marin, D.
 AU - Llano, J.
 AU - Haddi, Z.
 AU - Perera, A.
@@ -317,11 +317,11 @@ AU - Fonollosa, J.
 TY - MGZN
 DO - 10.1016/j.isci.2023.107598
 TI - EpiGe: A machine-learning strategy for rapid classification of medulloblastoma using PCR-based methyl-genotyping
-AB - Molecular classification of medulloblastoma is critical for the treatment of this brain tumor. Array-based DNA methylation profiling has emerged as a powerful approach for brain tumor classification. However, this technology is currently not widely available. We present a machine-learning decision support system (DSS) that enables the classification of the principal molecular groups-WNT, SHH, and non-WNT/non-SHH-directly from quantitative PCR (qPCR) data. We propose a framework where the developed DSS appears as a user-friendly web-application-EpiGe-App-that enables automated interpretation of qPCR methylation data and subsequent molecular group prediction. The basis of our classification strategy is a previously validated six-cytosine signature with subgroup-specific methylation profiles. This reduced set of markers enabled us to develop a methyl-genotyping assay capable of determining the methylation status of cytosines using qPCR instruments. This study provides a comprehensive approach for rapid classification of clinically relevant medulloblastoma groups, using readily accessible equipment and an easy-to-use web-application.
-AB - The study was supported by Associations of Parents and Families of Children with Cancer and by funding of the Spanish Ministry of for Science, Innovation and University (grant PI20/00519; PI CL) and the Foundation La Marat'o TV3 (grant 201921-30; PI CL). We acknowledge the multidisciplinary team who helped in the molecular analyses and care of patients, and the BioBank Hospital Sant Joan de D'eu of the Spanish BioBank Network for sample procurement. We also acknowledge Marta Fortuny for communication strategy advice and Eduard Puig for legal assistance and data protection regulations. Authors acknowledge the SJD Fundraising Team.
+AB - Molecular classification of medulloblastoma is critical for the treatment of this brain tumor. Array-based DNA methylation profiling has emerged as a powerful approach for brain tumor classification. However, this technology is currently not widely available. We present a machine-learning decision support system (DSS) that enables the classification of the principal molecular groups--WNT, SHH, and non-WNT/non-SHH--directly from quantitative PCR (qPCR) data. We propose a framework where the developed DSS appears as a user-friendly web-application--EpiGe-App--that enables automated interpretation of qPCR methylation data and subsequent molecular group prediction. The basis of our classification strategy is a previously validated six-cytosine signature with subgroup-specific methylation profiles. This reduced set of markers enabled us to develop a methyl-genotyping assay capable of determining the methylation status of cytosines using qPCR instruments. This study provides a comprehensive approach for rapid classification of clinically relevant medulloblastoma groups, using readily accessible equipment and an easy-to-use web-application.
+AB - The study was supported by Associations of Parents and Families of Children with Cancer and by funding of the Spanish Ministry of for Science, Innovation and University (grant PI20/00519; PI CL) and the Foundation La Marato TV3 (grant 201921-30; PI CL). We acknowledge the multidisciplinary team who helped in the molecular analyses and care of patients, and the BioBank Hospital Sant Joan de Deu of the Spanish BioBank Network for sample procurement. We also acknowledge Marta Fortuny for communication strategy advice and Eduard Puig for legal assistance and data protection regulations. Authors acknowledge the SJD Fundraising Team.
 AB - Peer Reviewed
 AB - Postprint (published version)
-AB - Article signat per 23 autors/es: Soledad G'omez-Gonz'alez, Joshua Llano, Marta Garcia, Alicia Garrido-Garcia, Mariona Su~nol, Isadora Lemos, Sara Perez-Jaume, Noelia Salvador, Nagore Gene-Olaciregui, Raquel Arnau Gal'an, Vicente Santa-Mar'ia, Marta Perez-Somarriba, Alicia Casta~neda, Jos'e Hinojosa, Ursula Winter, Francisco Barbosa Moreira, Fabiana Lubieniecki, Valeria Vazquez, Jaume Mora, Ofelia Cruz, Andr'es Morales La Madrid, Alexandre Perera, Cinzia Lavarino.
+AB - Article signat per 23 autors/es: Soledad Gomez-Gonzalez, Joshua Llano, Marta Garcia, Alicia Garrido-Garcia, Mariona Sunol, Isadora Lemos, Sara Perez-Jaume, Noelia Salvador, Nagore Gene-Olaciregui, Raquel Arnau Galan, Vicente Santa-Maria, Marta Perez-Somarriba, Alicia Castaneda, Jose Hinojosa, Ursula Winter, Francisco Barbosa Moreira, Fabiana Lubieniecki, Valeria Vazquez, Jaume Mora, Ofelia Cruz, Andres Morales La Madrid, Alexandre Perera, Cinzia Lavarino.
 Y1 - 2023
 UR - https://www.sciencedirect.com/science/article/pii/S2589004223016759
 UR - http://hdl.handle.net/2117/393599
@@ -329,17 +329,17 @@ VL - 26
 IS - 9, article 107598
 T2 - iScience
 PB - Elsevier
-AU - G'omez S.
+AU - Gomez S.
 AU - Llano, J.
-AU - Garc'ia, M.
+AU - Garcia, M.
 AU - Garrido, A.
-AU - Su~nol, M.
+AU - Sunol, M.
 AU - Lemos, I.
-AU - P'erez, S.
+AU - Perez, S.
 AU - Salvador, N.
 AU - Gene, N.
 AU - Arnau, R.
-AU - Santa Mar'ia, V.
+AU - Santa Maria, V.
 AU - Perez, M.
 AU - Perera, A.
 AU - Mora, J.
@@ -360,13 +360,13 @@ IS - Supplement_1
 EP - 1231
 SP - 1231, article 4037
 T2 - Nephrology dialysis transplantation
-AU - Fayos de Ariz'on, L.
+AU - Fayos de Arizon, L.
 AU - Viera, E.
 AU - Furlano, M.
 AU - Vallverdu, M.
 AU - Melissa, T.
 AU - Guirado, L.
-AU - Le'on Carrasco, R.
+AU - Leon Carrasco, R.
 AU - Perera, A.
 AU - Torra, R.
 
@@ -375,7 +375,7 @@ DO - 10.1016/j.eswa.2022.117446
 TI - Mapping layperson medical terminology into the Human Phenotype Ontology using neural machine translation models
 AB - In the medical domain there exists a terminological gap between patients and caregivers and the healthcare professionals. This gap may hinder the success of the communication between healthcare consumers and professionals in the field, with negative emotional and clinical consequences. In this work, we build a machine learning-based tool for the automatic translation between the terminology used by laypeople and that of the Human Phenotype Ontology (HPO). HPO is a structured vocabulary of phenotypic abnormalities found in human disease. Our method uses a vector space to represent an HPO-specific embedding as the output space for a neural network model trained on vector representations of layperson versions and other textual descriptors of medical terms. We explored different output embeddings coupled to different neural network architectures for the machine translation stage. We compute a similarity measure to evaluate the ability of the model to assign an HPO term to a layperson input. The best-performing models resulted with a similarity higher than 0.7 for more than 80% of the terms, with a median between 0.98 and 1. The translator model is made available in a web application at this link: https://hpotranslator.b2slab.upc.edu.
 AB - Supplementary material related to this article can be found online at https://doi.org/10.1016/j.eswa.2022.117446.
-AB - This work was supported by the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) TEC2014-60337-R, DPI2017-89827-R, Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigaci'on Carlos III (ISCIII), and Share4Rare project (Grant Agreement 780262). This work was partially funded by ACCI'O (Innotec ACE014/20/000018). B2SLab is certified as 2017 SGR 952. The authors thank the NVIDIA Corporation for the donation of a Titan Xp GPU used to run the models presented in this article. J. Fonollosa acknowledges the support from the Serra H'unter program.
+AB - This work was supported by the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) TEC2014-60337-R, DPI2017-89827-R, Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), initiatives of Instituto de Investigacion Carlos III (ISCIII), and Share4Rare project (Grant Agreement 780262). This work was partially funded by ACCIO (Innotec ACE014/20/000018). B2SLab is certified as 2017 SGR 952. The authors thank the NVIDIA Corporation for the donation of a Titan Xp GPU used to run the models presented in this article. J. Fonollosa acknowledges the support from the Serra Hunter program.
 AB - Peer Reviewed
 AB - Postprint (published version)
 Y1 - 2022
@@ -395,8 +395,8 @@ AU - Perera, A.
 TY - MGZN
 DO - 10.1016/j.jbi.2022.104218
 TI - Longitudinal deep learning clustering of Type 2 Diabetes Mellitus trajectories using routinely collected health records
-AB - Type 2 diabetes mellitus (T2DM) is a highly heterogeneous chronic disease with different pathophysiological and genetic characteristics affecting its progression, associated complications and response to therapies. The advances in deep learning (DL) techniques and the availability of a large amount of healthcare data allow us to investigate T2DM characteristics and evolution with a completely new approach, studying common disease trajectories rather than cross sectional values. We used an Kernelized-AutoEncoder algorithm to map 5 years of data of 11,028 subjects diagnosed with T2DM in a latent space that embedded similarities and differences between patients in terms of the evolution of the disease. Once we obtained the latent space, we used classical clustering algorithms to create longitudinal clusters representing different evolutions of the diabetic disease. Our unsupervised DL clustering algorithm suggested seven different longitudinal clusters. Different mean ages were observed among the clusters (ranging from 65.3+/-11.6 to 72.8+/-9.4). Subjects in clusters B (Hypercholesteraemic) and E (Hypertensive) had shorter diabetes duration (9.2+/-3.9 and 9.5+/-3.9 years respectively). Subjects in Cluster G (Metabolic) had the poorest glycaemic control (mean glycated hemoglobin 7.99+/-1.42%), while cluster E had the best one (mean glycated hemoglobin 7.04+/-1.11%). Obesity was observed mainly in clusters A (Neuropathic), C (Multiple Complications), F (Retinopathy) and G. A dashboard is available at dm2.b2slab.upc.edu to visualize the different trajectories corresponding to the 7 clusters.
-AB - This work was supported by the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) TEC2014-60337-R, DPI2017-89827-R, Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Spain , initiatives of Instituto de Investigaci'on Carlos III (ISCIII), and Share4Rare project (Grant Agreement 780262). This study was possible thanks to the commitment of physicians and nurses working in the Catalan Health Institute to provide optimal care to patients with diabetes. CIBER of Diabetes and Associated Metabolic Diseases (CIBERDEM) is an initiative from Instituto de Salud Carlos III, Madrid, Spain. This analysis is part of the DiaCare Project of Novo Nordisk and the Fundaci'o TicSalut (Departament de Salut, Generalitat de Catalunya), in collaboration with Grupo Pulso, for the benefit of people with type 2 diabetes.
+AB - Type 2 diabetes mellitus (T2DM) is a highly heterogeneous chronic disease with different pathophysiological and genetic characteristics affecting its progression, associated complications and response to therapies. The advances in deep learning (DL) techniques and the availability of a large amount of healthcare data allow us to investigate T2DM characteristics and evolution with a completely new approach, studying common disease trajectories rather than cross sectional values. We used an Kernelized-AutoEncoder algorithm to map 5 years of data of 11,028 subjects diagnosed with T2DM in a latent space that embedded similarities and differences between patients in terms of the evolution of the disease. Once we obtained the latent space, we used classical clustering algorithms to create longitudinal clusters representing different evolutions of the diabetic disease. Our unsupervised DL clustering algorithm suggested seven different longitudinal clusters. Different mean ages were observed among the clusters (ranging from 65.3+-11.6 to 72.8+-9.4). Subjects in clusters B (Hypercholesteraemic) and E (Hypertensive) had shorter diabetes duration (9.2+-3.9 and 9.5+-3.9 years respectively). Subjects in Cluster G (Metabolic) had the poorest glycaemic control (mean glycated hemoglobin 7.99+-1.42%), while cluster E had the best one (mean glycated hemoglobin 7.04+-1.11%). Obesity was observed mainly in clusters A (Neuropathic), C (Multiple Complications), F (Retinopathy) and G. A dashboard is available at dm2.b2slab.upc.edu to visualize the different trajectories corresponding to the 7 clusters.
+AB - This work was supported by the Spanish Ministry of Economy and Competitiveness (www.mineco.gob.es) TEC2014-60337-R, DPI2017-89827-R, Networking Biomedical Research Centre in the subject area of Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Spain , initiatives of Instituto de Investigacion Carlos III (ISCIII), and Share4Rare project (Grant Agreement 780262). This study was possible thanks to the commitment of physicians and nurses working in the Catalan Health Institute to provide optimal care to patients with diabetes. CIBER of Diabetes and Associated Metabolic Diseases (CIBERDEM) is an initiative from Instituto de Salud Carlos III, Madrid, Spain. This analysis is part of the DiaCare Project of Novo Nordisk and the Fundacio TicSalut (Departament de Salut, Generalitat de Catalunya), in collaboration with Grupo Pulso, for the benefit of people with type 2 diabetes.
 AB - Peer Reviewed
 AB - Postprint (published version)
 Y1 - 2022
@@ -411,26 +411,26 @@ AU - Manzini, E.
 AU - Vlacho, B.
 AU - Franch, J.
 AU - Escudero, J.
-AU - G'enova, A.
+AU - Genova, A.
 AU - Reixach-Espaulella, E.
-AU - Andr'es, E.
+AU - Andres, E.
 AU - Pizarro, I.
 AU - Portero, J.
-AU - Mauricio Puente, D'idac
+AU - Mauricio Puente, Didac
 AU - Perera, A.
 
 TY - MGZN
 DO - 10.1007/978-1-0716-2699-3_20
 TI - Data processing and analysis in mass spectrometry-based metabolomics
-AB - Metabolomics is the latest of the omics sciences. It attempts to measure and characterize metabolites-small chemical compounds <1500 Da-on cells, tissue, or biofluids, which are usually products of biological reactions. As metabolic reactions are closer to the phenotype, metabolomics has emerged as an attractive science for various areas of research, including personalized medicine. However, due to the complexity of data obtained and the absence of curated databases for metabolite identification, data processing is the major bottleneck in this area since most technicians lack the required bioinformatics expertise to process datasets in a reliable and fast manner. The aim of this chapter is to describe the available tools for data processing that makes an inexperienced researcher capable of obtaining reliable results without having to undergo through huge parametrization steps.
+AB - Metabolomics is the latest of the omics sciences. It attempts to measure and characterize metabolites--small chemical compounds <1500 Da--on cells, tissue, or biofluids, which are usually products of biological reactions. As metabolic reactions are closer to the phenotype, metabolomics has emerged as an attractive science for various areas of research, including personalized medicine. However, due to the complexity of data obtained and the absence of curated databases for metabolite identification, data processing is the major bottleneck in this area since most technicians lack the required bioinformatics expertise to process datasets in a reliable and fast manner. The aim of this chapter is to describe the available tools for data processing that makes an inexperienced researcher capable of obtaining reliable results without having to undergo through huge parametrization steps.
 Y1 - 2022
 UR - https://link.springer.com/protocol/10.1007/978-1-0716-2699-3_20
 VL - 2571
 EP - 207
 SP - 239
 T2 - Methods in Molecular Biology
-AU - Peralbo, 'A.
-AU - Sol`a, P.
+AU - Peralbo, A.
+AU - Sola, P.
 AU - Perera, A.
 AU - Chicano, E.
 
@@ -447,7 +447,7 @@ VL - 41
 EP - 100948:1
 SP - 100948:15
 T2 - Tourism Management Perspectives
-AU - Hern'andez-Lara, A.
+AU - Hernandez-Lara, A.
 AU - Abubakr, B.
 AU - Sanchez-Rebull, M.
 AU - Perera, A.
@@ -472,17 +472,17 @@ AU - Garrido, J.
 AU - Baro, B.
 AU - Balanza, N.
 AU - Varo, R.
-AU - Millat-Mart'inez, P.
+AU - Millat-Martinez, P.
 AU - Arias, S.
 AU - Fonollosa, J.
 AU - Perera, A.
 AU - Jordan, I.
-AU - Mu~noz-Almagro, C.
-AU - Bonet-Carn'e, E.
+AU - Munoz-Almagro, C.
+AU - Bonet-Carne, E.
 AU - Crosas-Soler, A.
 AU - Via, E.
 AU - Nafria, B.
-AU - Garc'ia-Garc'ia, J.
+AU - Garcia-Garcia, J.
 AU - Bassat, Q.
 
 TY - MGZN
@@ -500,7 +500,7 @@ EP - 10772
 SP - 10778
 T2 - Analytical chemistry
 AU - Barranco, M.
-AU - Sol`a, P.
+AU - Sola, P.
 AU - Picart, S.
 AU - Kanaan-Izquierdo, S.
 AU - Fonollosa, J.
@@ -524,7 +524,7 @@ TY - MGZN
 DO - 10.2196/22695
 TI - Global collaborative social network (Share4Rare) to promote citizen science in rare disease research: Platform development study
 AB - Background: Rare disease communities are spread around the globe and segmented by their condition. Little research has been performed on the majority of rare diseases. Most patients who are affected by a rare disease have no research on their condition because of a lack of knowledge due to absence of common groups in the research community. // Objective: We aimed to develop a safe and secure community of rare disease patients, without geographic or language barriers, to promote research. Methods: Cocreation design methodology was applied to build Share4Rare, with consultation and input through workshops from a variety of stakeholders (patients, caregivers, clinicians, and researchers). // Results: The workshops allowed us to develop a layered version of the platform based on educating patients and caregivers with publicly accessible information, a secure community for the patients and caregivers, and a research section with the purpose of collecting patient information for analysis, which was the core and final value of the platform. // Conclusions: Rare disease research requires global collaboration in which patients and caregivers have key roles. Collective intelligence methods implemented in digital platforms reduce geographic and language boundaries and involve patients in a unique and universal project. Their contributions are essential to increase the amount of scientific knowledge that experts have on rare diseases. Share4Rare has been designed as a global platform to facilitate the donation of clinical information to foster research that matters to patients with rare conditions. The codesign methods with patients have been essential to create a patient-centric design.
-AB - This work has been funded by the European Research Council under the European Union Horizon 2020 research and innovation program (grant agreement number H2020-780262-SHARE4RARE). BN acknowledges the support from Sant Joan de D'eu Barcelona Children's Hospital.
+AB - This work has been funded by the European Research Council under the European Union Horizon 2020 research and innovation program (grant agreement number H2020-780262-SHARE4RARE). BN acknowledges the support from Sant Joan de Deu Barcelona Children's Hospital.
 AB - Peer Reviewed
 AB - Postprint (published version)
 Y1 - 2021
@@ -537,12 +537,12 @@ EP - e22695:1
 SP - e22695:12
 T2 - JMIR formative research
 AU - Radu, R.
-AU - Hern'andez, S.
+AU - Hernandez, S.
 AU - Borrega, O.
 AU - Palmeri, A.
 AU - Athanasiou, D.
 AU - Brooke, N.
-AU - Chap'i, I.
+AU - Chapi, I.
 AU - Le Corvec, A.
 AU - Guglieri, M.
 AU - Perera, A.
@@ -566,7 +566,7 @@ T2 - Cancer letters
 AU - Ikemori, R.
 AU - Llorente, A.
 AU - Maqueda, M.
-AU - D'avalos, A.
+AU - Davalos, A.
 AU - Perera, A.
 AU - Reguart, N.
 AU - Quiroz, L.
@@ -586,9 +586,9 @@ IS - 9
 EP - 1288
 SP - 1308
 T2 - Education and Training
-AU - Hern'andez-Lara, A.
+AU - Hernandez-Lara, A.
 AU - Perera, A.
-AU - Serradell-L'opez, E.
+AU - Serradell-Lopez, E.
 
 TY - MGZN
 DO - 10.1021/acs.jcim.1c00086
@@ -621,12 +621,12 @@ IS - btaa1069
 EP - 1
 SP - 3
 T2 - Bioinformatics
-AU - Mar'in-Lla'o, Josep, J.
+AU - Marin-Llao, Josep, J.
 AU - Mubeen, S.
 AU - Perera, A.
 AU - Hofmann-Apitius, M.
 AU - Picart, S.
-AU - Domingo-Fern'andez, D.
+AU - Domingo-Fernandez, D.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/btaa896
@@ -688,7 +688,7 @@ UR - http://hdl.handle.net/2117/183302
 EP - 1
 SP - 9
 T2 - Journal of attention disorders
-AU - Jim'enez, E.
+AU - Jimenez, E.
 AU - Avella, C.
 AU - Kustow, S.
 AU - Cubbin, S.
@@ -716,7 +716,7 @@ SP - e1007276: 24
 T2 - PLoS computational biology
 AU - Picart, S.
 AU - Barrett, S.
-AU - Will'e, D.
+AU - Wille, D.
 AU - Perera, A.
 AU - Gutteridge, A.
 AU - Dessailly, B.
@@ -742,7 +742,7 @@ AU - Perera, A.
 TY - MGZN
 DO - 10.1161/CIRCHEARTFAILURE.118.005652
 TI - Heart failure with preserved ejection fraction infrequently evolves toward a reduced phenotype in long-term survivors: a long-term prospective longitudinal study
-AB - Long-term trajectories of left ventricular ejection fraction (LVEF) in heart failure (HF) patients with preserved EF (HFpEF) remain unclear. Our objective was to assess long-term longitudinal trajectories in consecutive HFpEF patients and the prognostic impact of LVEF dynamic changes over time.Consecutive ambulatory HFpEF patients admitted to a multidisciplinary HF Unit were prospectively evaluated by 2-dimensional echocardiography at baseline and at 1, 3, 5, 7, 9, and 11 years of follow-up. Exclusion criteria were patients having a previous known LVEF <50%, patients undergoing only 1 echocardiogram study, and those with a diagnosis of dilated, noncompaction, alcoholic, or toxic cardiomyopathy. One hundred twenty-six patients (age, 71+/-13 years; 63% women) were included. The main pathogeneses were valvular disease (36%) and hypertension (28%). Atrial fibrillation was present in 67 patients (53%). The mean number of echocardiographies performed was 3+/-1.2 per patient. Locally weighted error sum of squares curves showed a smooth decrease of LVEF during the 11-year follow-up that was statistically significant in linear mixed-effects modeling (P=0.01). Ischemic patients showed a higher decrease than nonischemics. The great majority (88.9%) of patients remained in the HFpEF category during follow-up; 9.5% evolved toward HF with midrange LVEF, and only 1.6% dropped to HF with reduced LVEF. No significant relationship was found between LVEF dynamics in the immediate preceding period and mortality.LVEF remained =50% in the majority of patients with HFpEF for =11 years. Only 1.6% of patients evolved to HF with reduced LVEF. Dynamic LVEF changes were not associated with mortality.
+AB - Long-term trajectories of left ventricular ejection fraction (LVEF) in heart failure (HF) patients with preserved EF (HFpEF) remain unclear. Our objective was to assess long-term longitudinal trajectories in consecutive HFpEF patients and the prognostic impact of LVEF dynamic changes over time.Consecutive ambulatory HFpEF patients admitted to a multidisciplinary HF Unit were prospectively evaluated by 2-dimensional echocardiography at baseline and at 1, 3, 5, 7, 9, and 11 years of follow-up. Exclusion criteria were patients having a previous known LVEF <50%, patients undergoing only 1 echocardiogram study, and those with a diagnosis of dilated, noncompaction, alcoholic, or toxic cardiomyopathy. One hundred twenty-six patients (age, 71+-13 years; 63% women) were included. The main pathogeneses were valvular disease (36%) and hypertension (28%). Atrial fibrillation was present in 67 patients (53%). The mean number of echocardiographies performed was 3+-1.2 per patient. Locally weighted error sum of squares curves showed a smooth decrease of LVEF during the 11-year follow-up that was statistically significant in linear mixed-effects modeling (P=0.01). Ischemic patients showed a higher decrease than nonischemics. The great majority (88.9%) of patients remained in the HFpEF category during follow-up; 9.5% evolved toward HF with midrange LVEF, and only 1.6% dropped to HF with reduced LVEF. No significant relationship was found between LVEF dynamics in the immediate preceding period and mortality.LVEF remained =50% in the majority of patients with HFpEF for =11 years. Only 1.6% of patients evolved to HF with reduced LVEF. Dynamic LVEF changes were not associated with mortality.
 AB - Peer Reviewed
 AB - Postprint (author's final draft)
 Y1 - 2019
@@ -757,14 +757,14 @@ AU - Lupon, J.
 AU - Gavidia, G.
 AU - de Antonio-Ferrer, M.
 AU - Perera, A.
-AU - L'opez-Ayerbe, J.
+AU - Lopez-Ayerbe, J.
 AU - Domingo-Teixidor, M.
-AU - Nu~nez, J.
+AU - Nunez, J.
 AU - Zamora, E.
 AU - Moliner, P.
 AU - santiago-vacas, E.
 AU - Santemases, J.
-AU - Bay'es-Genis, A.
+AU - Bayes-Genis, A.
 
 TY - MGZN
 DO - 10.1002/etc.4381
@@ -829,7 +829,7 @@ SP - 3
 T2 - Bioinformatics
 AU - Kanaan-Izquierdo, S.
 AU - Ziyatdinov, A.
-AU - Burgue~no, M.
+AU - Burgueno, M.
 AU - Perera, A.
 
 TY - MGZN
@@ -851,13 +851,13 @@ T2 - BMC bioinformatics
 AU - Picart, S.
 AU - Fernandez-Albert, F.
 AU - Vinaixa, M.
-AU - Yanes, 'O.
+AU - Yanes, O.
 AU - Perera, A.
 
 TY - MGZN
 DO - 10.1016/j.jacc.2018.05.042
 TI - Dynamic trajectories of left ventricular ejection fraction in heart failure
-AB - Background Long-term trajectories of left ventricular ejection fraction (LVEF) in heart failure (HF) are incompletely characterized. Objectives This study sought to examine LVEF trajectories in HF with reduced LVEF (<40%) and mid-range LVEF (40% to 49%) and the prognostic impact of LVEF dynamic changes over 15-year follow-up. Methods In this prospective, consecutive, observational registry of real-life HF outpatients, the authors performed 2-dimensional echocardiography at baseline and on a structured schedule after 1 year and then every 2 years up to 15 years. Results The mean number of LVEF measurements in the 1,160 included patients was 3.6 +/- 1.7. As a whole, Loess curves of long-term LVEF trajectories showed an inverted U shape with a marked rise in LVEF during the first year, maintained up to a decade, and a slow LVEF decline thereafter (p for trajectory <0.001). This pattern was more pronounced in HF of nonischemic origin and in women. Patients with new-onset HF (=12 months) had a higher early increase in LVEF, whereas patients with ischemic HF showed a lower LVEF increase at 1 year; both groups had a relative plateau thereafter. Patients with HF with mid-range LVEF had less of an increase (3 +/- 9%) than those with HF with reduced LVEF (9 +/- 12%) during the first year (p < 0.001), but the groups overlapped after 15 years. Patients who died had lower final LVEF and worse LVEF dynamics in the immediately preceding period than survivors. Conclusions LVEF trajectories vary in HF depending on a number of disease modifiers, but an inverted U-shaped pattern with lower LVEF at both ends of the distribution emerged. A declining LVEF in the preceding period was associated with higher mortality.
+AB - Background Long-term trajectories of left ventricular ejection fraction (LVEF) in heart failure (HF) are incompletely characterized. Objectives This study sought to examine LVEF trajectories in HF with reduced LVEF (<40%) and mid-range LVEF (40% to 49%) and the prognostic impact of LVEF dynamic changes over 15-year follow-up. Methods In this prospective, consecutive, observational registry of real-life HF outpatients, the authors performed 2-dimensional echocardiography at baseline and on a structured schedule after 1 year and then every 2 years up to 15 years. Results The mean number of LVEF measurements in the 1,160 included patients was 3.6 +- 1.7. As a whole, Loess curves of long-term LVEF trajectories showed an inverted U shape with a marked rise in LVEF during the first year, maintained up to a decade, and a slow LVEF decline thereafter (p for trajectory <0.001). This pattern was more pronounced in HF of nonischemic origin and in women. Patients with new-onset HF (=12 months) had a higher early increase in LVEF, whereas patients with ischemic HF showed a lower LVEF increase at 1 year; both groups had a relative plateau thereafter. Patients with HF with mid-range LVEF had less of an increase (3 +- 9%) than those with HF with reduced LVEF (9 +- 12%) during the first year (p < 0.001), but the groups overlapped after 15 years. Patients who died had lower final LVEF and worse LVEF dynamics in the immediately preceding period than survivors. Conclusions LVEF trajectories vary in HF depending on a number of disease modifiers, but an inverted U-shaped pattern with lower LVEF at both ends of the distribution emerged. A declining LVEF in the preceding period was associated with higher mortality.
 AB - Peer Reviewed
 AB - Postprint (author's final draft)
 Y1 - 2018
@@ -872,7 +872,7 @@ AU - Gavidia, G.
 AU - Ferrer, E.
 AU - de Antonio-Ferrer, M.
 AU - Perera, A.
-AU - D'iaz, P.
+AU - Diaz, P.
 
 TY - MGZN
 DO - 10.1016/j.chemosphere.2018.08.013
@@ -907,18 +907,18 @@ EP - 600
 SP - 612
 T2 - Computers in human behavior
 PB - Elsevier
-AU - Hern'andez-Lara, A.
+AU - Hernandez-Lara, A.
 AU - Perera, A.
-AU - Serradell-L'opez, E.
+AU - Serradell-Lopez, E.
 
 TY - MGZN
 DO - 10.1007/s00421-018-3808-0
 TI - Validity of the Polar V800 monitor for measuring heart rate variability in mountain running route conditions
 AB - Purpose
-This study was conducted to test, in mountain running route conditions, the accuracy of the Polar V800TM monitor as a suitable device for monitoring the heart rate variability (HRV) of runners.
+This study was conducted to test, in mountain running route conditions, the accuracy of the Polar V800(TM) monitor as a suitable device for monitoring the heart rate variability (HRV) of runners.
 
 Method
-Eighteen healthy subjects ran a route that included a range of running slopes such as those encountered in trail and ultra-trail races. The comparative study of a V800 and a Holter SEER 12 ECG RecorderTM included the analysis of RR time series and short-term HRV analysis. A correction algorithm was designed to obtain the corrected Polar RR intervals. Six 5-min segments related to different running slopes were considered for each subject.
+Eighteen healthy subjects ran a route that included a range of running slopes such as those encountered in trail and ultra-trail races. The comparative study of a V800 and a Holter SEER 12 ECG Recorder(TM) included the analysis of RR time series and short-term HRV analysis. A correction algorithm was designed to obtain the corrected Polar RR intervals. Six 5-min segments related to different running slopes were considered for each subject.
 
 Results
 The correlation between corrected V800 RR intervals and Holter RR intervals was very high (r?=?0.99, p?<?0.001), and the bias was less than 1 ms. The limits of agreement (LoA) obtained for SDNN and RMSSD were (-?0.25 to 0.32 ms) and (-?0.90 to 1.08 ms), respectively. The effect size (ES) obtained in the time domain HRV parameters was considered small (ES?<?0.2). Frequency domain HRV parameters did not differ (p?>?0.05) and were well correlated (r?=?0.96, p?<?0.001).
@@ -1028,16 +1028,16 @@ T2 - PloS one
 AU - Picart, S.
 AU - Fernandez, F.
 AU - Vinaixa, M.
-AU - Rodr'iguez, M.A.
+AU - Rodriguez, M.A.
 AU - Aivio, S.
 AU - Stracker, T.
-AU - Yanes Torrado, 'Oscar
+AU - Yanes Torrado, Oscar
 AU - Perera, A.
 
 TY - MGZN
 DO - 10.3390/e19120658
 TI - Assessment of heart rate variability during an endurance mountain trail race by multi-scale entropy analysis
-AB - (c) 2017 by the authors. The aim of the study was to analyze heart rate variability (HRV) response to high-intensity exercise during a 35-km mountain trail race and to ascertain whether fitness level could influence autonomic nervous system (ANS) modulation. Time-domain, frequency-domain, and multi-scale entropy (MSE) indexes were calculated for eleven mountain-trail runners who completed the race. Many changes were observed, mostly related to exercise load and fatigue. These changes were characterized by increased mean values and standard deviations of the normal-to-normal intervals associated with sympathetic activity, and by decreased differences between successive intervals related to parasympathetic activity. Normalized low frequency (LF) power suggested that ANS modulation varied greatly during the race and between individuals. Normalized high frequency (HF) power, associated with parasympathetic activity, varied considerably over the race, and tended to decrease at the final stages, whereas changes in the LF/HF ratio corresponded to intervals with varying exercise load. MSE indexes, related to system complexity, indicated the existence of many interactions between the heart and its neurological control mechanism. The time-domain, frequency-domain, and MSE indexes were also able to discriminate faster from slower runners, mainly in the more difficult and in the final stages of the race. These findings suggest the use of HRV analysis to study cardiac function mechanisms in endurance sports.
+AB - (C) 2017 by the authors. The aim of the study was to analyze heart rate variability (HRV) response to high-intensity exercise during a 35-km mountain trail race and to ascertain whether fitness level could influence autonomic nervous system (ANS) modulation. Time-domain, frequency-domain, and multi-scale entropy (MSE) indexes were calculated for eleven mountain-trail runners who completed the race. Many changes were observed, mostly related to exercise load and fatigue. These changes were characterized by increased mean values and standard deviations of the normal-to-normal intervals associated with sympathetic activity, and by decreased differences between successive intervals related to parasympathetic activity. Normalized low frequency (LF) power suggested that ANS modulation varied greatly during the race and between individuals. Normalized high frequency (HF) power, associated with parasympathetic activity, varied considerably over the race, and tended to decrease at the final stages, whereas changes in the LF/HF ratio corresponded to intervals with varying exercise load. MSE indexes, related to system complexity, indicated the existence of many interactions between the heart and its neurological control mechanism. The time-domain, frequency-domain, and MSE indexes were also able to discriminate faster from slower runners, mainly in the more difficult and in the final stages of the race. These findings suggest the use of HRV analysis to study cardiac function mechanisms in endurance sports.
 AB - Peer Reviewed
 AB - Postprint (author's final draft)
 Y1 - 2017
@@ -1052,7 +1052,7 @@ AU - Vallverdu, M.
 AU - Ruiz, A.
 AU - Roca, E.
 AU - Caminal, P.
-AU - Rodr'iguez, F.
+AU - Rodriguez, F.
 AU - Irurtia-Amigo, A.
 AU - Perera, A.
 
@@ -1093,7 +1093,7 @@ T2 - Metabolomics
 AU - Domingo, X.
 AU - Brezmes, J.
 AU - Venturini, G.
-AU - Viv'o-Truyols, G.
+AU - Vivo-Truyols, G.
 AU - Perera, A.
 AU - Vinaixa, M.
 
@@ -1173,11 +1173,11 @@ AU - Samino, S.
 AU - Ramirez, N.
 AU - Ramon, M.
 AU - Lerin, C.
-AU - D'iaz, M.
-AU - Iba~nez, L.
+AU - Diaz, M.
+AU - Ibanez, L.
 AU - Correig, X.
 AU - Perera, A.
-AU - Yanes, 'O.
+AU - Yanes, O.
 
 TY - MGZN
 DO - 10.1158/1538-7445.AM2016-2763
@@ -1234,8 +1234,8 @@ UR - http://hdl.handle.net/2117/102271
 IS - 79
 EP - 19
 SP - 32
-T2 - Revista Facultad de Ingenier'ia. Universidad de Antioqu'ia
-AU - Jaramillo-Garz'on, J.
+T2 - Revista Facultad de Ingenieria. Universidad de Antioquia
+AU - Jaramillo-Garzon, J.
 AU - Castellanos, C.
 AU - Perera, A.
 
@@ -1261,8 +1261,8 @@ AU - Soria, J.
 TY - MGZN
 DO - 10.1016/j.jnutbio.2015.10.002
 TI - Clinical phenotype clustering in cardiovascular risk patients for the identification of responsive metabotypes after red wine polyphenol intake
-AB - (c) 2015 Elsevier Inc. This study aims to evaluate the robustness of clinical and metabolic phenotyping through, for the first time, the identification of differential responsiveness to dietary strategies in the improvement of cardiometabolic risk conditions. Clinical phenotyping of 57 volunteers with cardiovascular risk factors was achieved using k-means cluster analysis based on 69 biochemical and anthropometric parameters. Cluster validation based on Dunn and Figure of Merit analysis for internal coherence and external homogeneity were employed. k-Means produced four clusters with particular clinical profiles. Differences on urine metabolomic profiles among clinical phenotypes were explored and validated by multivariate orthogonal signal correction partial least-squares discriminant analysis (OSC-PLS-DA) models. OSC-PLS-DA of 1H-NMR data revealed that model comparing "obese and diabetic cluster" (OD-c) against "healthier cluster" (H-c) showed the best predictability and robustness in terms of explaining the pairwise differences between clusters. Considering these two clusters, distinct groups of metabolites were observed following an intervention with wine polyphenol intake (WPI; 733 equivalents of gallic acid/day) per 28 days. Glucose was significantly linked to OD-metabotype (P&lt;.01), and lactate, betaine and dimethylamine showed a significant trend. Tartrate (P&lt;.001) was associated with wine polyphenol intervention (OD-c_WPI and H-c_WPI), whereas mannitol, threonine methanol, fucose and 3-hydroxyphenylacetate showed a significant trend. Interestingly, 4-hydroxyphenylacetate significantly increased in H-c_WPI compared to OD-c_WPI and to basal groups (P&lt;.05)-gut microbial-derived metabolite after polyphenol intake-thereby exhibiting a clear metabotypic intervention effect. Results revealed gut microbiota responsive phenotypes to wine polyphenols intervention. Overall, this study illustrates a novel metabolomic strategy for characterizing interindividual responsiveness to dietary intervention and identification of health benefits.
-AB - (c) 2015 Elsevier Inc. This study aims to evaluate the robustness of clinical and metabolic phenotyping through, for the first time, the identification of differential responsiveness to dietary strategies in the improvement of cardiometabolic risk conditions. Clinical phenotyping of 57 volunteers with cardiovascular risk factors was achieved using k-means cluster analysis based on 69 biochemical and anthropometric parameters. Cluster validation based on Dunn and Figure of Merit analysis for internal coherence and external homogeneity were employed. k-Means produced four clusters with particular clinical profiles. Differences on urine metabolomic profiles among clinical phenotypes were explored and validated by multivariate orthogonal signal correction partial least-squares discriminant analysis (OSC-PLS-DA) models. OSC-PLS-DA of 1H-NMR data revealed that model comparing
+AB - (C) 2015 Elsevier Inc. This study aims to evaluate the robustness of clinical and metabolic phenotyping through, for the first time, the identification of differential responsiveness to dietary strategies in the improvement of cardiometabolic risk conditions. Clinical phenotyping of 57 volunteers with cardiovascular risk factors was achieved using k-means cluster analysis based on 69 biochemical and anthropometric parameters. Cluster validation based on Dunn and Figure of Merit analysis for internal coherence and external homogeneity were employed. k-Means produced four clusters with particular clinical profiles. Differences on urine metabolomic profiles among clinical phenotypes were explored and validated by multivariate orthogonal signal correction partial least-squares discriminant analysis (OSC-PLS-DA) models. OSC-PLS-DA of 1H-NMR data revealed that model comparing "obese and diabetic cluster" (OD-c) against "healthier cluster" (H-c) showed the best predictability and robustness in terms of explaining the pairwise differences between clusters. Considering these two clusters, distinct groups of metabolites were observed following an intervention with wine polyphenol intake (WPI; 733 equivalents of gallic acid/day) per 28 days. Glucose was significantly linked to OD-metabotype (P&lt;.01), and lactate, betaine and dimethylamine showed a significant trend. Tartrate (P&lt;.001) was associated with wine polyphenol intervention (OD-c_WPI and H-c_WPI), whereas mannitol, threonine methanol, fucose and 3-hydroxyphenylacetate showed a significant trend. Interestingly, 4-hydroxyphenylacetate significantly increased in H-c_WPI compared to OD-c_WPI and to basal groups (P&lt;.05)-gut microbial-derived metabolite after polyphenol intake-thereby exhibiting a clear metabotypic intervention effect. Results revealed gut microbiota responsive phenotypes to wine polyphenols intervention. Overall, this study illustrates a novel metabolomic strategy for characterizing interindividual responsiveness to dietary intervention and identification of health benefits.
+AB - (C) 2015 Elsevier Inc. This study aims to evaluate the robustness of clinical and metabolic phenotyping through, for the first time, the identification of differential responsiveness to dietary strategies in the improvement of cardiometabolic risk conditions. Clinical phenotyping of 57 volunteers with cardiovascular risk factors was achieved using k-means cluster analysis based on 69 biochemical and anthropometric parameters. Cluster validation based on Dunn and Figure of Merit analysis for internal coherence and external homogeneity were employed. k-Means produced four clusters with particular clinical profiles. Differences on urine metabolomic profiles among clinical phenotypes were explored and validated by multivariate orthogonal signal correction partial least-squares discriminant analysis (OSC-PLS-DA) models. OSC-PLS-DA of 1H-NMR data revealed that model comparing
 AB - Postprint (published version)
 Y1 - 2016
 UR - http://hdl.handle.net/2117/85014
@@ -1295,8 +1295,8 @@ AU - Vizoso, M.
 AU - Puig, M.
 AU - Carmona, F.J.
 AU - Maqueda, M.
-AU - Vel'asquez, A.
-AU - G'omez, A.
+AU - Velasquez, A.
+AU - Gomez, A.
 AU - Labernadie, A.
 AU - Lugo, R.
 AU - Gabasa, M.
@@ -1324,7 +1324,7 @@ EP - 1
 SP - 13
 T2 - BMC bioinformatics
 AU - Maynou, J.
-AU - Pair'o, E.
+AU - Pairo, E.
 AU - Marco, S.
 AU - Perera, A.
 
@@ -1361,8 +1361,8 @@ T2 - Data in brief
 PB - Elsevier
 AU - Ziyatdinov, A.
 AU - Fonollosa, J.
-AU - Fern'andez, L.
-AU - Guti'errez G'alvez, Agust'in
+AU - Fernandez, L.
+AU - Gutierrez Galvez, Agustin
 AU - Marco, S.
 AU - Perera, A.
 
@@ -1396,7 +1396,7 @@ T2 - Sensors and actuators B. Chemical
 AU - Ziyatdinov, A.
 AU - Fonollosa, J.
 AU - Valentin-Fernandez, L.
-AU - Guti'errez G'alvez, Agust'in
+AU - Gutierrez Galvez, Agustin
 AU - Marco, S.
 AU - Perera, A.
 
@@ -1491,7 +1491,7 @@ EP - 1
 SP - 14
 T2 - Microsystem technologies
 AU - Marco, S.
-AU - Guti'errez G'alvez, Agust'in
+AU - Gutierrez Galvez, Agustin
 AU - Lansner, A.
 AU - Martinez, D.
 AU - Rospars, J.P.
@@ -1528,7 +1528,7 @@ UR - http://hdl.handle.net/2117/18023
 VL - 14
 IS - 68
 T2 - BMC bioinformatics
-AU - Jaramillo-Garz'on, J.
+AU - Jaramillo-Garzon, J.
 AU - Gallardo, J.
 AU - Castellanos, G.
 AU - Perera, A.
@@ -1561,7 +1561,7 @@ SP - 33
 T2 - Journal of Medical and Biological Engineering
 AU - Melia U.
 AU - Vallverdu, M.
-AU - Clari`a, F
+AU - Claria, F
 AU - Gallardo, J.
 AU - Perera, A.
 AU - Caminal, P.
@@ -1575,7 +1575,7 @@ IS - 10
 EP - 1328
 SP - 1335
 T2 - Bioinformatics
-AU - Pair'o, E.
+AU - Pairo, E.
 AU - Maynou, J.
 AU - Marco, S.
 AU - Perera, A.
@@ -1622,22 +1622,6 @@ AU - Caminal, P.
 AU - Perera, A.
 
 TY - MGZN
-DO - 10.1016/j.snb.2009.11.037
-TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
-Y1 - 2010
-UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
-VL - 146
-IS - 2
-EP - 477
-SP - 482
-T2 - Sensors and actuators B. Chemical
-AU - Perera, A.
-AU - Pardo, A.
-AU - Barrettino, D.
-AU - Hierlemann, A.
-AU - Marco, S.
-
-TY - MGZN
 DO - 10.1016/j.snb.2009.11.034
 TI - Drift compensation of gas sensor array data by common principal component analysis
 Y1 - 2010
@@ -1655,10 +1639,26 @@ AU - Caminal, P.
 AU - Perera, A.
 
 TY - MGZN
+DO - 10.1016/j.snb.2009.11.037
+TI - Evaluation of fish spoilage by means of a single metal oxide sensor under temperature modulation
+Y1 - 2010
+UR - http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THH-4XRYT4R-8&_user=1517299&_coverDate=04/29/2010&_rdoc=1&_fmt=high&_orig=search&_origin=search&_sort=d&_docanchor=&view=c&_searchStrId=1488689933&_rerunOrigin=google&_acct=C000053450&_version=1&_urlVersion=0&_userid=1517299&md5=a6a642c4f806c36a4c2a9e08238724ee&searchtype=a
+VL - 146
+IS - 2
+EP - 477
+SP - 482
+T2 - Sensors and actuators B. Chemical
+AU - Perera, A.
+AU - Pardo, A.
+AU - Barrettino, D.
+AU - Hierlemann, A.
+AU - Marco, S.
+
+TY - MGZN
 DO - 10.1109/TIT.2009.2037038
-TI - Computational detection of transcription factor binding sites through differential R'enyi entropy
+TI - Computational detection of transcription factor binding sites through differential Renyi entropy
 AB - Regulatory sequence detection is a critical facet for understanding the cell mechanisms in order to coordinate the response to stimuli. Protein synthesis involves the binding of a
-transcription factor to specific sequences in a process related to the gene expression initiation. A characteristic of this binding process is that the same factor binds with different sequences placed along all genome. Thus, any computational approach shows many difficulties related with this variability observed from the binding sequences. This paper proposes the detection of transcription factor binding sites based on a parametric uncertainty measurement (R'enyi entropy). This detection algorithm evaluates the variation on the total R'enyi entropy of a set of sequences when a candidate sequence is assumed to be a true binding site belonging to the set. The efficiency of the method is measured in form of Receiver Operating Characteristic curves on different transcription factors from
+transcription factor to specific sequences in a process related to the gene expression initiation. A characteristic of this binding process is that the same factor binds with different sequences placed along all genome. Thus, any computational approach shows many difficulties related with this variability observed from the binding sequences. This paper proposes the detection of transcription factor binding sites based on a parametric uncertainty measurement (Renyi entropy). This detection algorithm evaluates the variation on the total Renyi entropy of a set of sequences when a candidate sequence is assumed to be a true binding site belonging to the set. The efficiency of the method is measured in form of Receiver Operating Characteristic curves on different transcription factors from
 Saccharomyces cerevisiae organism. The results are compared with other known motif
 detection algorithms such as Motif Discovery scan (MDscan) and Multiple EM for Motif Elicitation (MEME)
 Y1 - 2010
@@ -1706,7 +1706,7 @@ EP - 1
 SP - 5
 T2 - BMC proceedings (Online)
 AU - Buil Demur, A.
-AU - Mart'inez-P'erez, A.
+AU - Martinez-Perez, A.
 AU - Perera, A.
 AU - Rib, L.
 AU - Soria, J.
@@ -1739,7 +1739,7 @@ AU - Castellanos Dominguez, G.
 
 TY - MGZN
 DO - 10.1109/TNB.2008.2000744
-TI - DNA Binding Site Characterization by Means of R'enyi Entropy Measures on Nucleotide
+TI - DNA Binding Site Characterization by Means of Renyi Entropy Measures on Nucleotide
 Y1 - 2008
 VL - 7
 IS - 2
@@ -1748,7 +1748,7 @@ SP - 141
 T2 - IEEE transactions on nanobioscience
 AU - Perera, A.
 AU - Vallverdu, M.
-AU - Clari`a, F
+AU - Claria, F
 AU - Caminal, P.
 
 TY - MGZN
@@ -1798,8 +1798,8 @@ EP - 11
 SP - 16
 T2 - Sensors and actuators B. Chemical
 AU - Pardo, A.
-AU - C'amara, L.
-AU - Cabr'e, J.
+AU - Camara, L.
+AU - Cabre, J.
 AU - Perera, A.
 AU - Cano, X.
 AU - Marco, S.
@@ -1817,7 +1817,7 @@ SP - 22
 T2 - Sensors and actuators B. Chemical
 AU - Perera, A.
 AU - Yamanaka, T.
-AU - Guti'errez-G'alvez, A.
+AU - Gutierrez-Galvez, A.
 AU - Gutierrez-Osuna, R.
 AU - Raman, B.
 

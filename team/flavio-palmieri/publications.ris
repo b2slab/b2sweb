@@ -1,0 +1,164 @@
+TY - MGZN
+DO - 10.1038/s41598-024-68269-y
+TI - Machine learning allows robust classification of visceral fat in women with obesity using common laboratory metrics
+AB - The excessive accumulation and malfunctioning of visceral adipose tissue (VAT) is a major determinant of increased risk of obesity-related comorbidities. Thus, risk stratification of people living with obesity according to their amount of VAT is of clinical interest. Currently, the most common VAT measurement methods include mathematical formulae based on anthropometric dimensions, often biased by human measurement errors, bio-impedance, and image techniques such as X-ray absorptiometry (DXA) analysis, which requires specialized equipment. However, previous studies showed the possibility of classifying people living with obesity according to their VAT through blood chemical concentrations by applying machine learning techniques. In addition, most of the efforts were spent on men living with obesity while little was done for women. Therefore, this study aims to compare the performance of the multilinear regression model (MLR) in estimating VAT and six different supervised machine learning classifiers, including logistic regression (LR), support vector machine and decision tree-based models, to categorize 149 women living with obesity. For clustering, the study population was categorized into classes 0, 1, and 2 according to their VAT and the accuracy of each MLR and classification model was evaluated using DXA-data (DXAdata), blood chemical concentrations (BLDdata), and both DXAdata and BLDdata together (ALLdata). Estimation error and were computed for MLR, while receiver operating characteristic (ROC) and precision-recall curves (PR) area under the curve (AUC) were used to assess the performance of every classification model. MLR models showed a poor ability to estimate VAT with mean absolute error and in all the datasets. The highest accuracy was found for LR with values of 0.57, 0.63, and 0.53 for ALLdata, DXAdata, and BLDdata, respectively. The ROC AUC showed a poor ability of both ALLdata and DXAdata to distinguish class 1 from classes 0 and 2 (AUC = 0.31, 0.71, and 0.85, respectively) as also confirmed by PR (AUC = 0.24, 0.57, and 0.73, respectively). However, improved performances were obtained when applying LR model to BLDdata (ROC AUC 0.61 and PR AUC 0.42), especially for class 1. These results seem to suggest that, while a direct and reliable estimation of VAT was not possible in our cohort, blood sample-derived information can robustly classify women living with obesity by machine learning-based classifiers, a fact that could benefit the clinical practice, especially in those health centres where medical imaging devices are not available. Nonetheless, these promising findings should be further validated over a larger population.
+Y1 - 2024
+UR - https://www.nature.com/articles/s41598-024-68269-y
+VL - 14
+IS - 1, article 17263
+T2 - Scientific reports
+AU - Palmieri, F.
+AU - Farooq , N.
+AU - Pane, A.
+AU - Jimenez, A.
+AU - Olbeyra, R.
+AU - Viaplana, J.
+AU - Hollanda, A. de
+AU - Gama, P.
+AU - Jimenez, J.
+AU - Garcia, P.
+
+TY - MGZN
+DO - 10.1016/j.compbiomed.2022.105304
+TI - Estimation of potassium levels in hemodialysis patients by T wave nonlinear dynamics and morphology markers
+AB - Objective: Noninvasive screening of hypo- and hyperkalemia can prevent fatal arrhythmia in end-stage renal disease (ESRD) patients, but current methods for monitoring of serum potassium ([K+]) have important limita-tions. We investigated changes in nonlinear dynamics and morphology of the T wave in the electrocardiogram (ECG) of ESRD patients during hemodialysis (HD), assessing their relationship with [K+]and designing a [K+]estimator. Methods: ECG recordings from twenty-nine ESRD patients undergoing HD were processed. T waves in 2-min windows were extracted at each hour during an HD session as well as at 48 h after HD start. T wave nonlinear dynamics were characterized by two indices related to the maximum Lyapunov exponent (?t, ?wt) and a divergence-related index (?). Morphological variability in the T wave was evaluated by three time warping- based indices (dw, reflecting morphological variability in the time domain, and da and dNLa, in the amplitude domain). [K+]was measured from blood samples extracted during and after HD. Stage-specific and patient- specific [K+]estimators were built based on the quantified indices and leave-one-out cross-validation was per-formed separately for each of the estimators. Results: The analyzed indices showed high inter-individual variability in their relationship with [K+]. Never-theless, all of them had higher values at the HD start and 48 h after it, corresponding to the highest [K+]. The indices ? and dw were the most strongly correlated with [K+](median Pearson correlation coefficient of 0.78 and 0.83, respectively) and were used in univariable and multivariable linear [K+]estimators. Agreement between actual and estimated [K+]was confirmed, with averaged errors over patients and time points being 0.000 +-0.875 mM and 0.046 +-0.690 mM for stage-specific and patient-specific multivariable [K+]estimators, respectively. Conclusion: ECG descriptors of T wave nonlinear dynamics and morphological variability allow noninvasive monitoring of [K+]in ESRD patients. Significance: ECG markers have the potential to be used for hypo- and hyperkalemia screening in ESRD patients.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2022
+UR - https://www.sciencedirect.com/science/article/pii/S0010482522000968
+UR - http://hdl.handle.net/2117/362707
+VL - 143
+EP - 105304:1
+SP - 105304:13
+T2 - Computers in biology and medicine
+PB - Elsevier
+AU - Bukhari, H.
+AU - Sanchez, C.
+AU - Srinivasan, S.
+AU - Palmieri, F.
+AU - Potse, M.
+AU - Laguna, P.
+AU - Pueyo Paules, Esther
+
+TY - MGZN
+DO - 10.1109/TBME.2022.3153791
+TI - Weighted time warping improves T-wave morphology markers clinical significance
+AB - Background: T-wave (TW) morphology indices based on time-warping (dw) have shown significant cardiovascular risk stratification value. However, errors in the location of TW boundaries may impact their prognostic power. Our aim was to test the hypothesis that a weighted time-warping function (WF) would reduce the sensitivity of dw to these errors and improve their clinical significance. Methods: The WFs were proportional to (i) the reference TW (T), and (ii) the absolute value of its derivative (D). The index dw was recalculated using these WFs, and its performance was compared to the unweighted control case (C) in four different scenarios: 1) robustness against simulated TW boundaries location errors; 2) ability to retain physiological information in an electrophysiological cardiac model; 3) ability to monitor blood potassium concentration changes ([K+]) in 29 hemodialysis (HD) patients; 4) and the sudden cardiac death (SCD) risk stratification value of the TW morphology restitution (TMR) index, derived from dw, in 651 chronic heart failure (CHF) patients. Results and Discussion: The WFs led to a reduced sensitivity (R) of dw to TW boundary location errors as compared to C (median R=0.19 and 0.22 and 0.35 for T, D and C, respectively). They also preserved the physiological relationship between dw and repolarization dispersion changes at ventricular level. No improvements in [K+] tracking were observed for the HD patients (Pearsons median correlation [r] between [K+] and dw was 0.86r0.90 for T, D and C). In CHF patients, the SCD risk stratification value of TMR was improved by applying T (hazard ratio, HAR, of 2.80), followed by D (HAR=2.32) and C (HAR=2.23). Conclusions and Significance: The proposed WFs, with T showing the best performance, increased the robustness of time-warping based markers against TW location errors preserving their physiological information content and boosting their SCD risk stratification value. Results from this work support the use of T when deriving dw for future clinical applications.
+AB - This work was funded by Products&TechnologyS.L. (Castellbisbal,Barcelona,Spain),and by AGAUR,Generalitat de Catalunya (Spain) grant DI001-2018 and CIBER-BBN ref:"DEKOALE".The work was also supported by project PID2019-104881RB-I00, and PID2019-105674 RB-I00 funded bySpanish Ministry of Science and Innovation (MICINN) and FEDER, by Gobierno de Aragon (Reference Group Biomedical Signal Interpretation and Computational Simulation (BSICoS)) T39-20 Rand projects LMP94-21,LMP14121cofunded by FEDER 2014-2020 "Building Europe from Aragon", J.R. acknowledge the "Maria Zambrano" fellowship support from the European Union-Next Generation EU and the support from the Marie Sklodowska-Curie grant No786833. The computation was performed at the High Performance computing platform of the NANBIOSISICTS.
+AB - Peer Reviewed
+AB - Preprint
+Y1 - 2022
+UR - https://ieeexplore.ieee.org/document/9720130
+UR - http://hdl.handle.net/2117/388684
+UR - https://pubmed.ncbi.nlm.nih.gov/35196223/
+VL - 69
+IS - 9
+EP - 2787
+SP - 2796
+T2 - IEEE transactions on bio-medical engineering
+PB - Institute of Electrical and Electronics Engineers (IEEE)
+AU - Palmieri, F.
+AU - Gomis, P.
+AU - Ferreira, D.
+AU - Pueyo, E.
+AU - Martinez, J.
+AU - Laguna, P.
+AU - Ramirez, J.
+
+TY - MGZN
+DO - 10.1016/j.bspc.2021.102719
+TI - ECG-based monitoring of blood potassium concentration: Periodic versus principal component as lead transformation for biomarker robustness
+AB - Objective: The aim of this study is to compare the performance of two electrocardiogram (ECG) lead-space reduction (LSR) techniques in generating a transformed ECG lead from which T-wave morphology markers can be reliably derived to non-invasively monitor blood potassium concentration ([K+]) in end-stage renal disease (ESRD) patients undergoing hemodialysis (HD). These LSR techniques are: (1) principal component analysis (PCA), learned on the T wave, and (2) periodic component analysis (pCA), either learned on the whole QRST complex (pCB) or on the T wave (pCT). We hypothesized pCA is less sensitive to non-periodic disturbances, like noise and body position changes (BPC), than PCA, thus leading to more reliable T wave morphology markers. Methods: We compared the ability of T wave morphology markers obtained from PCA, pCB and pCT in tracking [K+]in an ESRD-HD dataset, including 29 patients, during and after HD (evaluated by correlation and residual fitting error analysis). We also studied their robustness to BPC using an annotated database, including 20 healthy individuals, as well as to different levels of noise using a simulation set-up (assessed by means of Mann-Whitney U test and relative error, respectively). Results: The performance of both pCB and pCT-based markers in following [K+]-variations during HD was com-parable, and superior to that from PCA-based markers. Moreover, pCT-based markers showed superior robustness against BPC and noise. Conclusion: Both pCB and pCT outperform PCA in terms of monitoring [K+]in ESRD-HD patients, as well as of robustness against BPC and low SNR, with pCT showing the highest stability for continuous post-HD monitoring. Significance: The usage of pCA (i) increases the accuracy in monitoring dynamic [K+]variations in ESRD-HD patients and (ii) reduces the sensitivity to BPC and noise in deriving T wave morphology markers.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://www.sciencedirect.com/science/article/pii/S1746809421003165
+UR - http://hdl.handle.net/2117/351563
+VL - 68
+EP - 102719:1
+SP - 102719:11
+T2 - Biomedical signal processing and control
+AU - Palmieri, F.
+AU - Gomis, P.
+AU - Ruiz, J.
+AU - Ferreira, D.
+AU - Martin-Yebra, A.
+AU - Pueyo Paules, Esther
+AU - Martinez Cortes, Juan Pablo
+AU - Ramirez, J.
+AU - Laguna, P.
+
+TY - MGZN
+DO - 10.3390/s21082710
+TI - Nonlinear T-wave time warping-based sensing model for non-invasive personalised blood potassium monitoring in hemodialysis patients: a pilot study
+AB - Background: End-stage renal disease patients undergoing hemodialysis (ESRD-HD) therapy are highly susceptible to malignant ventricular arrhythmias caused by undetected potassium concentration ([K+]) variations (?[K+]) out of normal ranges. Therefore, a reliable method for continuous, noninvasive monitoring of [K+] is crucial. The morphology of the T-wave in the electrocardiogram (ECG) reflects ?[K+] and two time-warping-based T-wave morphological parameters, dw and its heart-rate corrected version dw,c, have been shown to reliably track ?[K+] from the ECG. The aim of this study is to derive polynomial models relating dw and dw,c with ?[K+], and to test their ability to reliably sense and quantify ?[K+] values. Methods: 48-hour Holter ECGs and [K+] values from six blood samples were collected from 29 ESRD-HD patients. For every patient, dw and dw,c were computed, and linear, quadratic, and cubic fitting models were derived from them. Then, Spearman's (?) and Pearson's (r) correlation coefficients, and the estimation error (ed) between ?[K+] and the corresponding model-estimated values (?^[K+]) were calculated. Results and Discussions: Nonlinear models were the most suitable for ?[K+] estimation, rendering higher Pearson's correlation (median 0.77 =r= 0.92) and smaller estimation error (median 0.20 =ed= 0.43) than the linear model (median 0.76 =r= 0.86 and 0.30 =ed= 0.40), even if similar Spearman's ? were found across models (median 0.77 =?= 0.83). Conclusion: Results support the use of nonlinear T-wave-based models as ?[K+] sensors in ESRD-HD patients.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://www.mdpi.com/1424-8220/21/8/2710
+UR - http://hdl.handle.net/2117/345816
+VL - 21
+IS - 8
+EP - 2710/1
+SP - 2710/13
+T2 - Sensors (Basel)
+PB - Multidisciplinary Digital Publishing Institute (MDPI)
+AU - Palmieri, F.
+AU - Gomis, P.
+AU - Ruiz, J.
+AU - Ferreira, D.
+AU - Martin-Yebra, A.
+AU - Pueyo, E.
+AU - Martinez, J.
+AU - Ramirez, J.
+AU - Laguna, P.
+
+TY - MGZN
+DO - 10.1038/s41598-021-82935-5
+TI - Monitoring blood potassium concentration in hemodialysis patients by quantifying T-wave morphology dynamics
+AB - We investigated the ability of time-warping-based ECG-derived markers of T-wave morphology changes in time (dw) and amplitude (da), as well as their non-linear components (dNLw and dNLa), and the heart rate corrected counterpart (dw,c), to monitor potassium concentration ([K+]) changes (?[K+]) in end-stage renal disease (ESRD) patients undergoing hemodialysis (HD). We compared the performance of the proposed time-warping markers, together with other previously proposed [K+] markers, such as T-wave width (Tw) and T-wave slope-to-amplitude ratio (TS/A), when computed from standard ECG leads as well as from principal component analysis (PCA)-based leads. 48-hour ECG recordings and a set of hourly-collected blood samples from 29 ESRD-HD patients were acquired. Values of dw, da, dNLw, dNLa and dw,c were calculated by comparing the morphology of the mean warped T-waves (MWTWs) derived at each hour along the HD with that from a reference MWTW, measured at the end of the HD. From the same MWTWs Tw and TS/A were also extracted. Similarly, ?[K+] was calculated as the difference between the [K+] values at each hour and the [K+] reference level at the end of the HD session. We found that dw and dw,c showed higher correlation coefficients with ?[K+] than TS/A--Spearman's (?) and Pearson's (r)--and Tw--Spearman's (?)--in both SL and PCA approaches being the intra-patient median ?=0.82 and r=0.87 in SL and ?=0.82 and r=0.89 in PCA respectively. Our findings would point at dw and dw,c as the most suitable surrogate of ?[K+], suggesting that they could be potentially useful for non-invasive monitoring of ESRD-HD patients in hospital, as well as in ambulatory settings. Therefore, the tracking of T-wave morphology variations by means of time-warping analysis could improve continuous and remote [K+] monitoring of ESRD-HD patients and flagging risk of [K+]-related cardiovascular events
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2021
+UR - https://www.nature.com/articles/s41598-021-82935-5
+UR - http://hdl.handle.net/2117/344958
+VL - 11
+IS - 1
+T2 - Scientific reports
+PB - Nature
+AU - Palmieri, F.
+AU - Gomis, P.
+AU - Ferreira, D.
+AU - Ruiz, J.
+AU - Bergasa, B.
+AU - Martin-Yebra, A.
+AU - Bukhari, H.
+AU - Pueyo Paules, Esther
+AU - Martinez, J.
+AU - Ramirez, J.
+AU - Laguna, P.
+
+TY - MGZN
+DO - 10.1109/TBME.2020.3043844
+TI - Characterization of T wave amplitude, duration and morphology changes during hemodialysis: relationship with serum electrolyte levels and heart rater
+AB - Objective: Chronic kidney disease affects more than 10% of the world population. Changes in serum ion concentrations increase the risk for ventricular arrhythmias and sudden cardiac death, particularly in end-stage renal disease (ESRD) patients. We characterized how T wave amplitude, duration and morphology descriptors change with variations in serum levels of potassium and calcium and in heart rate, both in ESRD patients and in simulated ventricular fibers. Methods: Electrocardiogram (ECG) recordings from twenty ESRD patients undergoing hemodialysis (HD) and pseudo-ECGs (pECGs) calculated from twenty-two simulated ventricular fibers at varying transmural heterogeneity levels were processed to quantify T wave width ( Tw ), T wave slope-to-amplitude ratio ( TS/A ) and four indices of T wave morphological variability based on time warping ( dw,dNLw,da and dNLa ). Serum potassium and calcium levels and heart rate were measured along HD. Results: dNLw was the marker most strongly correlated with serum potassium, dw with calcium and da with heart rate, after correction for covariates. Median values of partial correlation coefficients were 0.75, -0.74 and -0.90, respectively. For all analyzed T wave descriptors, high inter-patient variability was observed in the pattern of such relationships. This variability, accentuated during the first HD time points, was reproduced in the simulations and shown to be influenced by differences in transmural heterogeneity. Conclusion: Changes in serum potassium and calcium levels and in heart rate have markable effects on T wave descriptors, particularly those quantifying morphological variability. Significance: ECG markers have the potential to be used for monitoring serum ion concentrations in ESRD patients.
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2020
+UR - https://ieeexplore.ieee.org/document/9290405
+UR - http://hdl.handle.net/2117/373417
+VL - 68
+IS - 8
+EP - 1
+SP - 12
+T2 - IEEE transactions on biomedical engineering
+AU - Bukhari, H.
+AU - Palmieri, F.
+AU - Ramirez, J.
+AU - Laguna, P.
+AU - Ruiz, J.
+AU - Ferreira, D.
+AU - Potse, M.
+AU - Sanchez, C.
+AU - Pueyo, E.
+
