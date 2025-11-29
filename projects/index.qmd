@@ -3,4 +3,4 @@ title: "Projects"
 format: html
 ---
 
-Projects
+We are involved in a number of projects, please keep in midn that the list you see here is partial and incomplete. 

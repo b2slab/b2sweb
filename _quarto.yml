@@ -1,9 +1,17 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - "projects/app_out/*"
+    - "projects/app_out/*/*"
+    - "projects/app_out/*/*/*"
+    - "projects/app_out/*/*/*/*"
+    - "projects/app_out/*/*/*/*/*"
+    - "projects/app_out/*/*/*/*/*/*"
+    - "projects/app_out/*/*/*/*/*/*/*"
 
 website:
-  title: "b2slab"
+  title: "Bioinformatics and Biomedical Signals Laboratory"
   image: "b2slab.png"
   favicon: "favicon.png"
   google-analytics: "G-0MLZX4BR2N"
@@ -12,8 +20,8 @@ website:
     site-name: b2slab
   twitter-card: true
   site-url: "https://b2slab.upc.edu"
-  repo-url: https://github.com/b2slab/b2sweb
-  issue-url: https://github.com/b2slab/b2sweb/issues/new/choose 
+  repo-url: "https://github.com/b2slab/b2sweb"
+  issue-url: "https://github.com/b2slab/b2sweb/issues/new/choose"
   description: "Bioinformatics and Biomedical Signals Laboratory"
   repo-actions: [edit, issue]
   page-navigation: true
@@ -23,10 +31,11 @@ website:
     show-item-context: true
     type: textbox
 
+
   page-footer:
     left: |
       A proud member of 
-      [![IRIS](images/IRIS.png){fig-alt="IRIS" width=65px}](https://iris.upc.edu)
+      [![IRIS](/images/IRIS.png){fig-alt="IRIS" width=65px}](https://iris.upc.edu)
     center:
       - text: "About"
         href: about.qmd
@@ -67,6 +76,8 @@ website:
         href: publications/index.qmd
       - text: "Software"
         href: software/index.qmd
+      - text: "Projects"
+        href: projects/index.qmd
 #      - text: "Open Positions"
 #        href: open-positions/index.qmd
       - text: "Blog"
@@ -131,6 +142,16 @@ website:
           href: software/miss.qmd
         - text: "Chemosensors"
           href: software/chemosensors.qmd
+    - id: projects
+      title: "b2slab projects"
+      style: "floating"
+      collapse-level: 2
+      align: left
+      contents:
+        - projects/index.qmd
+        - text: "ClimaSalud-IA"
+          href: projects/climatehealth.qmd
+
 
 format:
   html:
@@ -141,5 +162,5 @@ format:
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 

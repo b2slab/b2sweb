@@ -420,6 +420,22 @@ AU - Mauricio Puente, Didac
 AU - Perera, A.
 
 TY - MGZN
+DO - 10.3389/fnagi.2022.936077
+TI - Effects and mechanisms of mindfulness training and physical exercise on cognition, emotional wellbeing, and brain outcomes in chronic stroke patients: study protocol of the MindFit project randomized controlled trial
+AB - Background: Post-stroke cognitive and emotional complications are frequent in the chronic stages of stroke and have important implications for the functionality and quality of life of those affected and their caregivers. Strategies such as mindfulness meditation, physical exercise (PE), or computerized cognitive training (CCT) may benefit stroke patients by impacting neuroplasticity and brain health. Materials and methods: One hundred and forty-one chronic stroke patients are randomly allocated to receive mindfulness-based stress reduction + CCT (n = 47), multicomponent PE program + CCT (n = 47), or CCT alone (n = 47). Interventions consist of 12-week home-based programs five days per week. Before and after the interventions, we collect data from cognitive, psychological, and physical tests, blood and stool samples, and structural and functional brain scans. Results: The effects of the interventions on cognitive and emotional outcomes will be described in intention-to-treat and per-protocol analyses. We will also explore potential mediators and moderators, such as genetic, molecular, brain, demographic, and clinical factors in our per-protocol sample. Discussion: The MindFit Project is a randomized clinical trial that aims to assess the impact of mindfulness and PE combined with CCT on chronic stroke patients' cognitive and emotional wellbeing. Furthermore, our design takes a multimodal biopsychosocial approach that will generate new knowledge at multiple levels of evidence, from molecular bases to behavioral changes.
+AB - The project described in these pages was funded by Fundaci'o LaMarat'o de TV3 (201717.30.31.32). It was supported by the ICREA Academia Program to MM and Mar'ia de Maeztu Unit of Excellence (Institute of Neurosciences, University of Barcelona) MDM-2017-0729, Ministry of Science and Innovation. Finally, it was rewarded with AB-G pre-doctoral fellowship (FPU18/04344).
+AB - Peer Reviewed
+AB - Postprint (published version)
+Y1 - 2022
+UR - https://www.frontiersin.org/journals/aging-neuroscience/articles/10.3389/fnagi.2022.936077/full
+UR - http://hdl.handle.net/2117/444489
+VL - 14
+IS - article 936077
+T2 - Frontiers in aging neuroscience
+PB - Frontiers Media
+AU - Perera, A.
+
+TY - MGZN
 DO - 10.1007/978-1-0716-2699-3_20
 TI - Data processing and analysis in mass spectrometry-based metabolomics
 AB - Metabolomics is the latest of the omics sciences. It attempts to measure and characterize metabolites--small chemical compounds <1500 Da--on cells, tissue, or biofluids, which are usually products of biological reactions. As metabolic reactions are closer to the phenotype, metabolomics has emerged as an attractive science for various areas of research, including personalized medicine. However, due to the complexity of data obtained and the absence of curated databases for metabolite identification, data processing is the major bottleneck in this area since most technicians lack the required bioinformatics expertise to process datasets in a reliable and fast manner. The aim of this chapter is to describe the available tools for data processing that makes an inexperienced researcher capable of obtaining reliable results without having to undergo through huge parametrization steps.
@@ -573,24 +589,7 @@ AU - Quiroz, L.
 AU - Alcaraz Casademunt, Jordi
 
 TY - MGZN
-DO - 10.1108/ET-11-2020-0334
-TI - Game learning analytics of instant messaging and online discussion forums in higher education
-AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
-AB - Peer Reviewed
-AB - Postprint (author's final draft)
-Y1 - 2021
-UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
-UR - http://hdl.handle.net/2117/356893
-VL - 63
-IS - 9
-EP - 1288
-SP - 1308
-T2 - Education and Training
-AU - Hernandez-Lara, A.
-AU - Perera, A.
-AU - Serradell-Lopez, E.
 
-TY - MGZN
 DO - 10.1021/acs.jcim.1c00086
 TI - Balancing data on deep learning-based proteochemometric activity classification
 AB - In silico analysis of biological activity data has become an essential technique in pharmaceutical development. Specifically, the so-called proteochemometric models aim to share information between targets in machine learning ligand-target activity prediction models. However, bioactivity data sets used in proteochemometric modeling are usually imbalanced, which could potentially affect the performance of the models. In this work, we explored the effect of different balancing strategies in deep learning proteochemometric target-compound activity classification models while controlling for the compound series bias through clustering. These strategies were (1) no_resampling, (2) resampling_after_clustering, (3) resampling_before_clustering, and (4) semi_resampling. These schemas were evaluated in kinases, GPCRs, nuclear receptors, and proteases from BindingDB. We observed that the predicted proportion of positives was driven by the actual data balance in the test set. Additionally, it was confirmed that data balance had an impact on the performance estimates of the proteochemometric model. We recommend a combination of data augmentation and clustering in the training set (semi_resampling) to mitigate the data imbalance effect in a realistic scenario. The code of this analysis is publicly available at https://github.com/b2slab/imbalance_pcm_benchmark.
@@ -607,6 +606,24 @@ T2 - Journal of chemical information and modeling
 AU - Lopez, A.
 AU - Picart, S.
 AU - Perera, A.
+
+TY - MGZN
+DO - 10.1108/ET-11-2020-0334
+TI - Game learning analytics of instant messaging and online discussion forums in higher education
+AB - With the growth of digital education, students increasingly interact in a variety of ways. The potential effects of these interactions on their learning process are not fully understood and the outcomes may depend on the tool used. This study explores the communication patterns and learning effectiveness developed by students using two basic synchronous and asynchronous communication tools in e-learning environments, specifically business simulation games.
+AB - Peer Reviewed
+AB - Postprint (author's final draft)
+Y1 - 2021
+UR - https://www.emerald.com/insight/content/doi/10.1108/ET-11-2020-0334/full/html
+UR - http://hdl.handle.net/2117/356893
+VL - 63
+IS - 9
+EP - 1288
+SP - 1308
+T2 - Education and Training
+AU - Hern'andez-Lara, A.
+AU - Perera, A.
+AU - Serradell-L'opez, E.
 
 TY - MGZN
 DO - 10.1093/bioinformatics/btaa1069

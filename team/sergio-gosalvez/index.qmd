@@ -1,0 +1,28 @@
+---
+title: "Sergio Gosalvez"
+format: html
+execute: 
+  warning: false
+  message: false
+  echo: false
+---
+
+
+## Bio
+
+
+::: img-float
+![](images/sergi_foto.png){style="float: left; margin: 5px; width: 200px;"}
+:::
+
+Welcome! I’m Sergio Gosálvez, just starting a PhD in Bioinformatics at [B2SLab](https://b2slab.upc.edu/) at the Universitat Politècnica de Catalunya (UPC). I’m happiest where maths, engineering and people meet.
+
+My working thesis title is: **“Foundation models in primary care: interpretable learning from longitudinal EHR data in cardiovascular and endocrine disease.”** I work on deep learning for EHRs, modelling chronic conditions and predicting clinically relevant outcomes with modern architectures aiming for results that are both accurate and interpretable.
+
+Before the PhD, I earned an MEng in Biomedical Engineering from Imperial College London and a Master’s in Biomedical Engineering from UPC. I also co-founded [Paige Braille](https://paigebraille.com), building technology that lowers barriers to learning braille for blind and visually impaired people.
+
+I’m product-minded by default: APIs, web apps, or whatever puts a useful tool in someone’s hands. If it’s user-centred, I’m in.
+
+## Contact
+
+Reach out to me at sergio.gosalvez@upc.edu.
