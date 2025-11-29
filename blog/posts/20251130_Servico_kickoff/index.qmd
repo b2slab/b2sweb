@@ -1,0 +1,23 @@
+---
+title: "SERVICO2 Kick-Off Meeting"
+description: "The first official meeting of the SERVICO2 project was held on 20–21 November in Blanes. This marked the beginning of the project to understand the role of headwater catchments in regulating greenhouse gases under global change."
+author: "Jordi Fonollosa"
+date: "11/29/2025"
+date-modified: "11/29/2025"
+---
+
+The project *Impacts of climate, N and P deposition and land use on water as a driver of the greenhouse gases regulatory ecosystem service in headwater catchments* (SERVICO2) celebrated the kick-off meeting in Blanes. The consortium brings together an interdisciplinary team of hydrologists, biogeochemists, engineers, and data scientists. The kickoff meeting marked the first time the group met in person, bringing together partners from Finland, Sweden, Italy, the Czech Republic, and Spain.
+
+### The SERVICO2 Project
+
+[SERVICO2](https://servico2.org/) is a European research project that investigates how headwater catchments regulate greenhouse gases such as CO₂, CH₄, and N₂O, and how this essential ecosystem service may shift under climate change, nutrient deposition, and land-use pressures. By combining long-term data analysis, new low-cost sensor technologies, field measurements across European sites, and socio-ecological valuation, the project aims to better quantify and predict catchment-scale carbon dynamics. The project goal is to provide robust scientific evidence and practical tools that can support more informed environmental management and climate policy.
+
+### The Kick-off meeting
+
+On the first day, members of the project consortium met internally to align on objectives, methodologies, and upcoming tasks. The UPC team presented the first prototype design to measure volatiles in the field. The second day included a field visit to gain insight into logistical, environmental, and operational constraints (terrain, access, hydrology, etc.), which will inform further refinements of the design and planning for field deployment.
+
+:::: img-float
+::: {style="display: flex; gap: 10px;"}
+<img src="pic1.jpg" style="width: 150px; margin:5px;"/> <img src="pic2.jpg" style="width: 150px; margin:5px;"/> <img src="pic3.jpg" style="width: 150px; margin:5px;"/>
+:::
+::::

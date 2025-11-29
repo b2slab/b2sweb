@@ -1,7 +1,7 @@
 ---
 title: "Improving Indoor Air Quality in rural areas of Nepal with Chimney-Stove Systems"
 description: "The research project was awarded the UPC Prize for Social Commitment 2025, granted by the Social Council of the Universitat Politècnica de Catalunya – BarcelonaTech (UPC)."
-author: "J. Fonollosa"
+author: "Jordi Fonollosa"
 date: "08/31/2025"
 date-modified: "9/01/2025"
 ---
