@@ -46,16 +46,15 @@ I teach several subjects, including:
 
 ## Ongoing PhD Thesis
 
--   [**Maria Barranco**](https://b2slab.upc.edu/team/maria-barranco-altarriba/ "Maria Barranco")[^1]
--   [Enrico Manzini](https://b2slab.upc.edu/team/enrico-manzini/)
+-   [**Maria Barranco**](https://b2slab.upc.edu/team/maria-barranco-altarriba/ "Maria Barranco")[^1] *Computational metabolomics to uncover alterations in diabetes mellitus and its complications*
+-   [**Enrico Manzini**](https://b2slab.upc.edu/team/enrico-manzini/)[^1] *Deep Learning Strategies for Longitudinal EHRs: Patient Trajectory Modelling, Survival Analysis and Semantic Representations in Chronic Diseases*
 -   [Joshua Llano](https://b2slab.upc.edu/team/joshua-llano)
--   [Joana Gelabert](https://b2slab.upc.edu/team/joana-gelabert-xirinachs)
--   [Blanca Aleajos](https://b2slab.upc.edu/team/blanca-aleajos)
--   [Helena Rodriguez Gonzalez](https://b2slab.upc.edu/team/helena-rodriguez-gonzalez/)
--   Pol Solà
--   Pol Canal
--   Pol Ezquerra
--   [Aitor Moruno](https://b2slab.upc.edu/team/aitor-moruno-cuenca)
+-   [Joana Gelabert](https://b2slab.upc.edu/team/joana-gelabert-xirinachs) *nterpretable Transformer-Based Models for Clinical Outcome Prediction in Type 2 Diabetes Using Longitudinal Electronic Health Records*
+-   [Blanca Aleajos](https://b2slab.upc.edu/team/blanca-aleajos) *Multimodal Foundation Model for Emergency Department Data: A Reusable Infrastructure for Clinical and Operational Decision Support"
+-   [Helena Rodriguez Gonzalez](https://b2slab.upc.edu/team/helena-rodriguez-gonzalez/) *Statistical characterization of laboratory results in  pediatric patients with rare neurometabolic disorders*
+-   Pol Ezquerra *Exploring tissue specific gene expression in whole blood: Profiling transcriptomics for predictive biomarker discovery*
+-   [Aitor Moruno](https://b2slab.upc.edu/team/aitor-moruno-cuenca) *Assessment of experimental preclinical models by means of in silico methods*
+- [Sergi Gosalvez](https://b2slab.upc.edu/team/sergio-gosalvez/) *Foundation models in primary care: interpretable learning from longitudinal EHR data in cardiovascular and endocrine disease*
 
 [^1]: soon to defend her thesis
 
