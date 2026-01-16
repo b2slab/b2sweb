@@ -14,3 +14,5 @@ team/jordi-fonollosa/publications.ris
 team/montserrat-vallverdu-ferrer/publications.ris
 
 **/*.quarto_ipynb
+
+/.quarto/

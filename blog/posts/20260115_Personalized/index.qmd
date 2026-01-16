@@ -1,0 +1,19 @@
+---
+title: "Personalized Air Quality Monitoring Shows New Ways to Understand Asthma"
+description: "A six-month dataset from 13 adults with asthma using wearable air quality sensors shows that personal monitoring captures individual pollution exposures more accurately than fixed stations. These findings highlight the potential of precision environmental health tools to better understand asthma triggers and support future personalized and epidemiological research."
+author: "Jordi Fonollosa"
+date: "15/01/2026"
+date-modified: "15/01/2026"
+---
+
+::: img-float
+![](diagram.png){style="float: left; margin: 5px; width: 350px;"}
+:::
+
+Personal air quality monitoring can provide relevant information on the daily pollution exposures of people living with moderate and severe asthma and how those exposures relate to symptoms and lung function. Traditionally, air quality data comes from fixed stations that can miss the true exposure individuals face throughout the day, which can be particularly critical for people with asthma and other respiratory diseases.
+
+In a study recently published in [Environment International](https://www.sciencedirect.com/science/article/pii/S0160412025007883#fig1), we followed 13 adults with moderate-to-severe asthma over six months, equipping them with wearable air quality sensors alongside digital health tracking tools. These personal monitors collected high-resolution exposure data, while participants logged symptoms and performed daily lung function tests via a smartphone app.
+
+We found out that personal exposure varied a lot from typical monitoring stations: Many pollutants were significantly underestimated by nearby fixed-site monitors, compared with what people actually experienced in their daily lives. Wearable pollution tracking is feasible and useful: The study showed it is practical to combine sensors with symptom tracking and lung testing for real-world respiratory research. Finally, no clear link was found between short-term pollutant exposure and asthma symptoms or lung function changes in this small group, but the highly personalized data highlighted meaningful variability in exposure patterns.
+
+The study shows that wearable monitoring captures more accurate, individual-level exposure patterns, which can represent a step toward better understanding environmental triggers for asthma and other respiratory conditions. The findings underscore the potential of precision environmental health tools to inform personalized management strategies and to improve future epidemiological research.
