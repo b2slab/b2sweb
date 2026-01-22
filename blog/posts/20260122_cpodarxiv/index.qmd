@@ -1,0 +1,30 @@
+---
+title: "Deep Survival Analysis Improves Prediction of Hospitalization and Death in COPD" 
+description: "A new study using longitudinal EHR data from over 150,000 COPD patients in Catalonia shows that deep learning models can jointly predict hospitalization and mortality more accurately than traditional methods. These findings highlight the potential for advanced risk stratification tools to improve the management of chronic respiratory diseases." 
+author: "Enrico Manzini" 
+date: "22/01/2026" 
+date-modified: "22/01/2026"
+---
+
+::: img-float
+![](diagram.png){style="float: left; margin: 5px; width: 350px;"}
+:::
+
+Chronic Obstructive Pulmonary Disease (COPD) remains a leading cause of mortality worldwide, with patient outcomes often marked by acute exacerbations and frequent hospitalizations. Predicting the timing of these critical events is essential for better clinical management, yet it remains a significant challenge due to the complex, longitudinal nature of patient data.
+
+In our recent study [published on arXiv](https://arxiv.org/abs/2511.05960), researchers from the B2SLab analyzed data from more than **150,000 COPD patients** in Catalonia, Spain, extracted from the SIDIAP database between 2013 and 2017. The research focused on performing joint survival analysis to predict two key outcomes: hospitalization as a first event and death as a semi-competing terminal event.
+
+The study compared several modeling approaches, including:
+
+Traditional Statistical Models:
+: Such as Cox proportional hazards.
+
+Machine Learning (ML):
+: Including SurvivalBoost.
+
+Deep Learning (DL):
+: Utilizing advanced architectures like **SurvTRACE**, **Dynamic Deep-Hit**, and **Deep Recurrent Survival Machines**.
+
+The findings revealed that Deep Learning models, particularly those using recurrent architectures, significantly outperformed both traditional and ML approaches in terms of concordance and time-dependent AUC. This was especially true for predicting hospitalizations, which the study identified as the more challenging event to forecast.
+
+By capturing complex temporal patterns within longitudinal Electronic Health Records (EHRs), these DL models offer a more robust framework for **risk stratification**. This progress represents a meaningful step toward precision medicine in respiratory care, enabling clinicians to better anticipate patient needs and implement personalized management strategies to reduce the burden of COPD.
